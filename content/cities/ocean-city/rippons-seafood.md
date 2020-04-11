@@ -1,0 +1,4 @@
+---
+title: "Rippons Seafood"
+url: /ocean-city/rippons-seafood/
+---

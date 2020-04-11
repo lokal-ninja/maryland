@@ -1,0 +1,4 @@
+---
+title: "Beauty 7"
+url: /loch-raven/beauty-7/
+---

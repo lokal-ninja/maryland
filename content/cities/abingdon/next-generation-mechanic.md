@@ -1,0 +1,4 @@
+---
+title: "Next Generation Mechanic"
+url: /abingdon/next-generation-mechanic/
+---
