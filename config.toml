@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/maryland"
+languageCode = "en-US"
+title = "Maryland"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "maryland"
