@@ -1,4 +1,4 @@
 ---
-title: "National Tire & Battery"
+title: "National Tire and Battery"
 url: /bel-air/national-tire-and-battery/
 ---

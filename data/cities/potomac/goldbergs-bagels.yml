@@ -8,5 +8,5 @@ city: Potomac
 street: "Tuckerman Lane"
 housenumber: 7731
 phone: ""
-opening_hours: "Su 07:00-15:00 Mo 07:00-15:00 Tu 07:00-15:00 We 07:00-15:00 Th 07:00-16:00 Fr 07:00-15:00 Sa closed"
+opening_hours: "Su-We,Fr 07:00-15:00; Th 07:00-16:00; Sa closed"
 website: ""

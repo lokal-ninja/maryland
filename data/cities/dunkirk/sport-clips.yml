@@ -8,5 +8,5 @@ city: Dunkirk
 street: "Southern Maryland Boulevard"
 housenumber: 10306
 phone: "+1 443 964 5708"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00"
+opening_hours: "Su,Sa 09:00-17:00; Mo-Fr 09:00-19:00"
 website: "https://haircutmendunkirkmd.com/"

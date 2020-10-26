@@ -8,5 +8,5 @@ city: Baltimore
 street: "North Charles Street"
 housenumber: 3301
 phone: "+1 410 305 7198"
-opening_hours: "Mo-Su 00:00-03:00;Mo-Fr 09:00-00:00; Sa-Su 11:00-00:00"
+opening_hours: "Mo-Su 00:00-03:00; Mo-Fr 09:00-24:00; Sa-Su 11:00-24:00"
 website: "https://insomniacookies.com/"
