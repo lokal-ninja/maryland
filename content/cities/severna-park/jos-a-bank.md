@@ -1,4 +1,4 @@
 ---
-title: "Jos. A. Bank"
+title: "JoS. A. Bank"
 url: /severna-park/jos-a-bank/
 ---
