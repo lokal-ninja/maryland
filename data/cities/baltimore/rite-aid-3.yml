@@ -1,12 +1,12 @@
-id: 200037448
-type: way
-shop: chemist
-latitude: 39.3710104
-longitude: -76.61083620000001
-postcode: "21212"
+id: 4737244917
+type: node
+shop: convenience
+latitude: 39.2913839
+longitude: -76.6197616
+postcode: "21201"
 city: Baltimore
-street: "York Road"
-housenumber: 6300
+street: "West Lexington Street"
+housenumber: 301
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/"
+website: ""

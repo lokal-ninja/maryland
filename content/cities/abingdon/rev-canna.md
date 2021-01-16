@@ -1,4 +1,4 @@
 ---
-title: "Rev.Canna"
+title: "Rev Canna"
 url: /abingdon/rev-canna/
 ---
