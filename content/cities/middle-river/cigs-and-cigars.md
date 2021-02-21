@@ -1,4 +1,5 @@
 ---
 title: "Cigs & Cigars"
 url: /middle-river/cigs-and-cigars/
+shop: tobacco
 ---

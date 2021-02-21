@@ -1,6 +1,6 @@
 ---
 title: La Plata
 url: /la-plata/
-latitude: 38.529287700000005
-longitude: -76.9752514
+latitude: 38.526031100000004
+longitude: -76.97665690000001
 ---

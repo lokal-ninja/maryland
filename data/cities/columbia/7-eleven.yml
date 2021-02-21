@@ -1,12 +1,11 @@
-id: 105185006
-type: way
-shop: convenience
-latitude: 39.2280211
-longitude: -76.81272200000001
-postcode: "21045"
+id: 7807847163
+type: node
+latitude: 39.214927100000004
+longitude: -76.87463360000001
+postcode: "21044"
 city: Columbia
-street: "Centre Park Drive"
-housenumber: 8850
+street: "Little Patuxent Parkway"
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""
