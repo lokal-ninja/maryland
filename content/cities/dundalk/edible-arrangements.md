@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /dundalk/edible-arrangements/
-shop: florist
+shop: gift
 ---
