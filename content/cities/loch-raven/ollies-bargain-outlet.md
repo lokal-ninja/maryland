@@ -1,5 +1,5 @@
 ---
-title: "Ollie’s Bargain Outlet"
+title: "Ollie's Bargain Outlet"
 url: /loch-raven/ollies-bargain-outlet/
-shop: shop
+shop: variety store
 ---
