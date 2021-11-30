@@ -7,5 +7,5 @@ city: Baltimore
 street: "Greenmount Avenue"
 housenumber: 3106-3110
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00;Fr-Sa 09:00-18:30;Su Closed"
+opening_hours: "Mo-Th 09:00-18:00; Fr,Sa 09:00-18:00; Su off"
 website: ""

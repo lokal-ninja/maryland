@@ -1,5 +1,5 @@
 ---
-title: "Ashley Homestore"
+title: "Ashley HomeStore"
 url: /columbia/ashley-homestore/
 shop: furniture
 ---
