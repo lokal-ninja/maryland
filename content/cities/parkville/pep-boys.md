@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /parkville/pep-boys/
-shop: car parts
+shop: car repair
 ---

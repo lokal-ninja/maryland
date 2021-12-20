@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /bel-air/aldi/
 shop: supermarket
 ---

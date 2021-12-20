@@ -1,6 +1,6 @@
 ---
 title: Havre de Grace
 url: /havre-de-grace/
-latitude: 39.5489964
-longitude: -76.09147180000001
+latitude: 39.549132900000004
+longitude: -76.09581700000001
 ---
