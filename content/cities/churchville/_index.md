@@ -1,6 +1,6 @@
 ---
 title: Churchville
 url: /churchville/
-latitude: 39.559597600000004
-longitude: -76.25016760000001
+latitude: 39.56
+longitude: -76.254
 ---

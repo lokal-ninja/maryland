@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /chester/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

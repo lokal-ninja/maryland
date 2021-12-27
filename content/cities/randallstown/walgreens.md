@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /randallstown/walgreens/
-shop: chemist
+shop: Drogerie
 ---

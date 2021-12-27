@@ -1,5 +1,5 @@
 ---
 title: "Tabletop DC"
 url: /takoma-park/tabletop-dc/
-shop: gift
+shop: Andenken
 ---

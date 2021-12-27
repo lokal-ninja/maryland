@@ -1,5 +1,5 @@
 ---
 title: "DeNiro's"
 url: /perry-hall/deniros/
-shop: alcohol
+shop: Spirituosen
 ---

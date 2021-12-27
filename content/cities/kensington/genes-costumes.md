@@ -1,5 +1,5 @@
 ---
 title: "Gene's Costumes"
 url: /kensington/genes-costumes/
-shop: clothes
+shop: Kleidung
 ---

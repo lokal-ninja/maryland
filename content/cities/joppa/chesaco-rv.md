@@ -1,5 +1,5 @@
 ---
 title: "Chesaco RV"
 url: /joppa/chesaco-rv/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FastSigns"
 url: /baltimore/fastsigns/
-shop: copyshop
+shop: Kopieren
 ---

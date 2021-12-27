@@ -1,6 +1,6 @@
 ---
 title: Capitol Heights
 url: /capitol-heights/
-latitude: 38.8849913
-longitude: -76.9134765
+latitude: 38.889
+longitude: -76.907
 ---

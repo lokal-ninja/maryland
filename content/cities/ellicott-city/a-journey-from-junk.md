@@ -1,5 +1,5 @@
 ---
 title: "A Journey From Junk"
 url: /ellicott-city/a-journey-from-junk/
-shop: shop
+shop: Allgemein
 ---

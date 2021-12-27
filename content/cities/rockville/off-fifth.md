@@ -1,5 +1,5 @@
 ---
 title: "Off Fifth"
 url: /rockville/off-fifth/
-shop: clothes
+shop: Kleidung
 ---

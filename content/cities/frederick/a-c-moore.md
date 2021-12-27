@@ -1,5 +1,5 @@
 ---
 title: "A.C. Moore"
 url: /frederick/a-c-moore/
-shop: craft
+shop: Basteln
 ---

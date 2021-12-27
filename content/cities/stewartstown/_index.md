@@ -1,6 +1,6 @@
 ---
 title: Stewartstown
 url: /stewartstown/
-latitude: 
-longitude: 
+latitude: 39.722
+longitude: -76.544
 ---

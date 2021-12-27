@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /rosedale/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

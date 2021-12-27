@@ -1,5 +1,5 @@
 ---
 title: "EJB's Gun Shop"
 url: /capitol-heights/ejbs-gun-shop/
-shop: sports
+shop: Sport
 ---

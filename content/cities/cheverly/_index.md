@@ -1,6 +1,6 @@
 ---
 title: Cheverly
 url: /cheverly/
-latitude: 38.928167
-longitude: -76.915807
+latitude: 38.932
+longitude: -76.9
 ---

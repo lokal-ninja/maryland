@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /white-marsh/royal-farms-2/
-shop: convenience
+shop: Lebensmittel
 ---

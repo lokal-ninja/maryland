@@ -1,5 +1,5 @@
 ---
 title: "Vision Signs"
 url: /fallston/vision-signs/
-shop: lettering
+shop: Beschriftungen
 ---

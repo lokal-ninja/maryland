@@ -1,5 +1,5 @@
 ---
 title: "BBX Liquors"
 url: /edgewood/bbx-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

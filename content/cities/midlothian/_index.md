@@ -1,6 +1,6 @@
 ---
 title: Midlothian
 url: /midlothian/
-latitude: 39.6342542
-longitude: -78.9500246
+latitude: 39.634
+longitude: -78.948
 ---

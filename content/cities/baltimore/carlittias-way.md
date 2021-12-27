@@ -1,5 +1,5 @@
 ---
 title: "Carlittia's Way"
 url: /baltimore/carlittias-way/
-shop: hairdresser
+shop: Friseur
 ---

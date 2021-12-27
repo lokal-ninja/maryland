@@ -1,6 +1,6 @@
 ---
 title: Frostburg
 url: /frostburg/
-latitude: 39.658142500000004
-longitude: -78.928357
+latitude: 39.658
+longitude: -78.929
 ---

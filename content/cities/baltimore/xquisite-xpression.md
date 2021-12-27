@@ -1,5 +1,5 @@
 ---
 title: "Xquisite Xpression"
 url: /baltimore/xquisite-xpression/
-shop: beauty
+shop: Kosmetik
 ---

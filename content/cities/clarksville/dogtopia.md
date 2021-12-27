@@ -1,5 +1,5 @@
 ---
 title: "Dogtopia"
 url: /clarksville/dogtopia/
-shop: pet
+shop: Tiere
 ---

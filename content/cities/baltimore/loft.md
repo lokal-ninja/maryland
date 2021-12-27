@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /baltimore/loft/
-shop: clothes
+shop: Kleidung
 ---

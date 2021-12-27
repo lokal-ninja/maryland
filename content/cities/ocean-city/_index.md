@@ -1,6 +1,6 @@
 ---
 title: Ocean City
 url: /ocean-city/
-latitude: 
-longitude: 
+latitude: 38.431
+longitude: -75.056
 ---

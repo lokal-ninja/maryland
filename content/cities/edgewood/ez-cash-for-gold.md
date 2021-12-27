@@ -1,5 +1,5 @@
 ---
 title: "EZ Cash for Gold"
 url: /edgewood/ez-cash-for-gold/
-shop: shop
+shop: Allgemein
 ---

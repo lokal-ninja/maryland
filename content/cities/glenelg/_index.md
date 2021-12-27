@@ -1,6 +1,6 @@
 ---
 title: Glenelg
 url: /glenelg/
-latitude: 39.2644382
-longitude: -76.9899134
+latitude: 39.266
+longitude: -76.986
 ---

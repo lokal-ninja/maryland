@@ -1,6 +1,6 @@
 ---
 title: Jessup
 url: /jessup/
-latitude: 39.149274600000005
-longitude: -76.7752493
+latitude: 39.17
+longitude: -76.787
 ---

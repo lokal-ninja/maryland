@@ -1,6 +1,6 @@
 ---
 title: Owings Mills
 url: /owings-mills/
-latitude: 39.4105423
-longitude: -76.7916963
+latitude: 39.425
+longitude: -76.779
 ---

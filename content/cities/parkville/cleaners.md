@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /parkville/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

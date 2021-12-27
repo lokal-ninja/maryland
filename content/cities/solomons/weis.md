@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /solomons/weis/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "seasons"
 url: /annapolis/seasons/
-shop: shop
+shop: Allgemein
 ---

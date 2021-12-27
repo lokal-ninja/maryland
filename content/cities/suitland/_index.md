@@ -1,6 +1,6 @@
 ---
 title: Suitland
 url: /suitland/
-latitude: 38.848724000000004
-longitude: -76.9238625
+latitude: 38.822
+longitude: -76.885
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /cheverly/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

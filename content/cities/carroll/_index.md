@@ -1,6 +1,6 @@
 ---
 title: Carroll
 url: /carroll/
-latitude: 39.568539900000005
-longitude: -77.026707
+latitude: 39.262
+longitude: -76.695
 ---

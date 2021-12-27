@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
 url: /baltimore/the-salon/
-shop: beauty
+shop: Kosmetik
 ---

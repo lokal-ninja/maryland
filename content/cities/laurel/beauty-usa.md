@@ -1,5 +1,5 @@
 ---
 title: "Beauty USA"
 url: /laurel/beauty-usa/
-shop: shop
+shop: Allgemein
 ---

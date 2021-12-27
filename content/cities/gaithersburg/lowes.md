@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /gaithersburg/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "myeyedr"
 url: /dunkirk/myeyedr/
-shop: optician
+shop: Optiker
 ---

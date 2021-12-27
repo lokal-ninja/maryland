@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /ellicott-city/gamestop/
-shop: video games
+shop: Videospiele
 ---

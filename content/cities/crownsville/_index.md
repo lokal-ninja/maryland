@@ -1,6 +1,6 @@
 ---
 title: Crownsville
 url: /crownsville/
-latitude: 39.028443800000005
-longitude: -76.60135360000001
+latitude: 39.031
+longitude: -76.604
 ---

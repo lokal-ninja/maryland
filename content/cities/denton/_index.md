@@ -1,6 +1,6 @@
 ---
 title: Denton
 url: /denton/
-latitude: 38.8845583
-longitude: -75.8271564
+latitude: 38.875
+longitude: -75.824
 ---

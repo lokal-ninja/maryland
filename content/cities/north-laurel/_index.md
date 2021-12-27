@@ -1,6 +1,6 @@
 ---
 title: North Laurel
 url: /north-laurel/
-latitude: 39.1153702
-longitude: -76.8478388
+latitude: 39.148
+longitude: -76.864
 ---

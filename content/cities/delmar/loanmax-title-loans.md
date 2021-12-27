@@ -1,5 +1,5 @@
 ---
 title: "Loanmax Title Loans"
 url: /delmar/loanmax-title-loans/
-shop: pawnbroker
+shop: Leiher
 ---

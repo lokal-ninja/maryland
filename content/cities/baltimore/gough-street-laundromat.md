@@ -1,5 +1,5 @@
 ---
 title: "Gough Street Laundromat"
 url: /baltimore/gough-street-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

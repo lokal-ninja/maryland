@@ -1,5 +1,5 @@
 ---
 title: "Unique Nails"
 url: /raspeburg/unique-nails/
-shop: beauty
+shop: Kosmetik
 ---

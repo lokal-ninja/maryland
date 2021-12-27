@@ -1,5 +1,5 @@
 ---
 title: "Mamma Mish’s Dishes"
 url: /fork/mamma-mishs-dishes/
-shop: bakery
+shop: Bäckerei
 ---

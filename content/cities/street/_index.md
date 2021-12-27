@@ -1,6 +1,6 @@
 ---
 title: Street
 url: /street/
-latitude: 39.6689941
-longitude: -76.37940520000001
+latitude: 39.632
+longitude: -76.274
 ---

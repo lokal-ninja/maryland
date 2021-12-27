@@ -1,6 +1,6 @@
 ---
 title: Pittsville
 url: /pittsville/
-latitude: 38.3954411
-longitude: -75.4130775
+latitude: 38.39
+longitude: -75.409
 ---

@@ -1,6 +1,6 @@
 ---
 title: Landover
 url: /landover/
-latitude: 38.9340002
-longitude: -76.89663970000001
+latitude: 38.943
+longitude: -76.87
 ---

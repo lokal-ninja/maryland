@@ -1,5 +1,5 @@
 ---
 title: "Lakson Mart"
 url: /linthicum/lakson-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /baltimore/bp/
-shop: convenience
+shop: Lebensmittel
 ---

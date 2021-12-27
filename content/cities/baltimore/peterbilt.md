@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /baltimore/peterbilt/
-shop: shop
+shop: Allgemein
 ---

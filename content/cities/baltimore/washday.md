@@ -1,5 +1,5 @@
 ---
 title: "Washday"
 url: /baltimore/washday/
-shop: laundry
+shop: Wäscherei
 ---

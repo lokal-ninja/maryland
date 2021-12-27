@@ -1,6 +1,6 @@
 ---
 title: Glenn Dale
 url: /glenn-dale/
-latitude: 38.9876104
-longitude: -76.8205265
+latitude: 38.985
+longitude: -76.822
 ---

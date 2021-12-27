@@ -1,6 +1,6 @@
 ---
 title: Poolesville
 url: /poolesville/
-latitude: 
-longitude: 
+latitude: 39.095
+longitude: -77.346
 ---

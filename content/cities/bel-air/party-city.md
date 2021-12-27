@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /bel-air/party-city/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FiberglassSite"
 url: /edgewood/fiberglasssite/
-shop: trade
+shop: Baustoffe
 ---

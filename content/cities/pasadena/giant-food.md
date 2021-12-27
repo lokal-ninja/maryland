@@ -1,5 +1,5 @@
 ---
 title: "Giant Food"
 url: /pasadena/giant-food/
-shop: supermarket
+shop: Supermarkt
 ---

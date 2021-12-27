@@ -1,5 +1,5 @@
 ---
 title: "Bodie's"
 url: /greensboro/bodies/
-shop: convenience
+shop: Lebensmittel
 ---

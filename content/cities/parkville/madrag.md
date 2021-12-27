@@ -1,5 +1,5 @@
 ---
 title: "Madrag"
 url: /parkville/madrag/
-shop: clothes
+shop: Kleidung
 ---

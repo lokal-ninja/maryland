@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /potomac/giant/
-shop: supermarket
+shop: Supermarkt
 ---

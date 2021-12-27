@@ -1,5 +1,5 @@
 ---
 title: "Oliver Hair Designs"
 url: /lutherville/oliver-hair-designs/
-shop: hairdresser
+shop: Friseur
 ---

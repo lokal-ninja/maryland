@@ -1,6 +1,6 @@
 ---
 title: West Friendship
 url: /west-friendship/
-latitude: 39.303451800000005
-longitude: -76.95379050000001
+latitude: 39.304
+longitude: -76.955
 ---

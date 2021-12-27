@@ -1,6 +1,6 @@
 ---
 title: Leonardtown
 url: /leonardtown/
-latitude: 38.2912431
-longitude: -76.63579460000001
+latitude: 38.291
+longitude: -76.635
 ---

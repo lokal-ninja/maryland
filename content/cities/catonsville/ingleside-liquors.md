@@ -1,5 +1,5 @@
 ---
 title: "Ingleside Liquors"
 url: /catonsville/ingleside-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

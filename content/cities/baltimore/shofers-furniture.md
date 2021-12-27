@@ -1,5 +1,5 @@
 ---
 title: "Shofer's Furniture"
 url: /baltimore/shofers-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunspecs"
 url: /berlin/sunspecs/
-shop: sports
+shop: Sport
 ---

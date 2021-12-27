@@ -1,6 +1,6 @@
 ---
 title: Riverdale Park
 url: /riverdale-park/
-latitude: 38.9615103
-longitude: -76.9296515
+latitude: 38.962
+longitude: -76.935
 ---

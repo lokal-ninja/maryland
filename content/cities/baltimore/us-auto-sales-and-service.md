@@ -1,5 +1,5 @@
 ---
 title: "US Auto Sales and Service"
 url: /baltimore/us-auto-sales-and-service/
-shop: car
+shop: Autohaus
 ---

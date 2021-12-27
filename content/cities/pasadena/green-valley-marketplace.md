@@ -1,5 +1,5 @@
 ---
 title: "Green Valley Marketplace"
 url: /pasadena/green-valley-marketplace/
-shop: supermarket
+shop: Supermarkt
 ---

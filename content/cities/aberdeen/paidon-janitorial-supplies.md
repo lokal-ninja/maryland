@@ -1,5 +1,5 @@
 ---
 title: "Paidon Janitorial Supplies"
 url: /aberdeen/paidon-janitorial-supplies/
-shop: trade
+shop: Baustoffe
 ---

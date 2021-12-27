@@ -1,5 +1,5 @@
 ---
 title: "Benedetto"
 url: /baltimore/benedetto/
-shop: clothes
+shop: Kleidung
 ---

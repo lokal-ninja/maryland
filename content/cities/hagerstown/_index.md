@@ -1,6 +1,6 @@
 ---
 title: Hagerstown
 url: /hagerstown/
-latitude: 39.6430455
-longitude: -77.7191081
+latitude: 39.636
+longitude: -77.709
 ---

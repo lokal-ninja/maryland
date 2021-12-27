@@ -1,6 +1,6 @@
 ---
 title: Chevy Chase
 url: /chevy-chase/
-latitude: 
-longitude: 
+latitude: 38.964
+longitude: -77.087
 ---

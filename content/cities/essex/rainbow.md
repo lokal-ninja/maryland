@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /essex/rainbow/
-shop: clothes
+shop: Kleidung
 ---

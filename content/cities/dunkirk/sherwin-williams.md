@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /dunkirk/sherwin-williams/
-shop: paint
+shop: Farben
 ---

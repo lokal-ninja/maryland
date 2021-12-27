@@ -1,6 +1,6 @@
 ---
 title: Morningside
 url: /morningside/
-latitude: 38.827956900000004
-longitude: -76.8878103
+latitude: 38.824
+longitude: -76.89
 ---

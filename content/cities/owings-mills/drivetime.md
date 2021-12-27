@@ -1,5 +1,5 @@
 ---
 title: "Drivetime"
 url: /owings-mills/drivetime/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /rosedale/cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lovelyarns"
 url: /baltimore/lovelyarns/
-shop: craft
+shop: Basteln
 ---

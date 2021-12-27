@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /delmar/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Littlestown
 url: /littlestown/
-latitude: 
-longitude: 
+latitude: 39.724
+longitude: -77.097
 ---

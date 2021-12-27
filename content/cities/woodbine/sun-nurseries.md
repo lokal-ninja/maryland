@@ -1,5 +1,5 @@
 ---
 title: "Sun Nurseries"
 url: /woodbine/sun-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

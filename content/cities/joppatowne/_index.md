@@ -1,6 +1,6 @@
 ---
 title: Joppatowne
 url: /joppatowne/
-latitude: 39.415623700000005
-longitude: -76.35925110000001
+latitude: 39.426
+longitude: -76.369
 ---

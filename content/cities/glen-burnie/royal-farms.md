@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /glen-burnie/royal-farms/
-shop: convenience
+shop: Lebensmittel
 ---

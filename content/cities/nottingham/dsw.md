@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /nottingham/dsw/
-shop: shoes
+shop: Schuhe
 ---

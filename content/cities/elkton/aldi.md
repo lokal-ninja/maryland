@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /elkton/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

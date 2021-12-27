@@ -1,6 +1,6 @@
 ---
 title: Ijamsville
 url: /ijamsville/
-latitude: 39.3603809
-longitude: -77.3227621
+latitude: 39.326
+longitude: -77.342
 ---

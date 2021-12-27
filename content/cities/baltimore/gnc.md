@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /baltimore/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

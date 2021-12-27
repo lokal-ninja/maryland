@@ -1,5 +1,5 @@
 ---
 title: "Rosen's Liquors"
 url: /baltimore/rosens-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

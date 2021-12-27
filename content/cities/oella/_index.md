@@ -1,6 +1,6 @@
 ---
 title: Oella
 url: /oella/
-latitude: 39.2741252
-longitude: -76.7866673
+latitude: 39.265
+longitude: -76.791
 ---

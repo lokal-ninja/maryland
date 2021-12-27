@@ -1,5 +1,5 @@
 ---
 title: "The Harbor Interiors, LLC"
 url: /national-harbor/the-harbor-interiors-llc/
-shop: furniture
+shop: Möbel
 ---

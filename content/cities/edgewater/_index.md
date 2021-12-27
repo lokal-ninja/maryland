@@ -1,6 +1,6 @@
 ---
 title: Edgewater
 url: /edgewater/
-latitude: 38.934677300000004
-longitude: -76.55320210000001
+latitude: 38.943
+longitude: -76.563
 ---

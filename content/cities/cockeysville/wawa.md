@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /cockeysville/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

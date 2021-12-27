@@ -1,6 +1,6 @@
 ---
 title: Belcamp
 url: /belcamp/
-latitude: 39.4686229
-longitude: -76.2349083
+latitude: 39.48
+longitude: -76.248
 ---

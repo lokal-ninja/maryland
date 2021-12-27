@@ -1,5 +1,5 @@
 ---
 title: "Speedy Mart"
 url: /dundalk/speedy-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /perryville/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

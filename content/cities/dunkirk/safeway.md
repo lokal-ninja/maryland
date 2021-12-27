@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /dunkirk/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

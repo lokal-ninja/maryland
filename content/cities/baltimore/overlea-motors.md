@@ -1,5 +1,5 @@
 ---
 title: "Overlea Motors"
 url: /baltimore/overlea-motors/
-shop: car
+shop: Autohaus
 ---

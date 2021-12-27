@@ -1,5 +1,5 @@
 ---
 title: "Cali Nails"
 url: /parkville/cali-nails/
-shop: beauty
+shop: Kosmetik
 ---

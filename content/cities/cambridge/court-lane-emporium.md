@@ -1,5 +1,5 @@
 ---
 title: "Court Lane Emporium"
 url: /cambridge/court-lane-emporium/
-shop: clothes
+shop: Kleidung
 ---

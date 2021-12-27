@@ -1,5 +1,5 @@
 ---
 title: "Moderneer Cosmetics and Healthfood"
 url: /ellicott-city/moderneer-cosmetics-and-healthfood/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /baltimore/royal-farms-10/
-shop: convenience
+shop: Lebensmittel
 ---

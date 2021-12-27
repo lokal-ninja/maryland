@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /dunkirk/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Deale
 url: /deale/
-latitude: 38.7765055
-longitude: -76.5552359
+latitude: 38.796
+longitude: -76.545
 ---

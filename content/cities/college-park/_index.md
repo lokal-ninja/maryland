@@ -1,6 +1,6 @@
 ---
 title: College Park
 url: /college-park/
-latitude: 38.980666
-longitude: -76.93691890000001
+latitude: 38.982
+longitude: -76.938
 ---

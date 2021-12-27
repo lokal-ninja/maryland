@@ -1,5 +1,5 @@
 ---
 title: "Same Gender Love"
 url: /baltimore/same-gender-love/
-shop: gift
+shop: Andenken
 ---

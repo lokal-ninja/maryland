@@ -1,6 +1,6 @@
 ---
 title: Dunkirk
 url: /dunkirk/
-latitude: 38.721839
-longitude: -76.66038040000001
+latitude: 38.719
+longitude: -76.662
 ---

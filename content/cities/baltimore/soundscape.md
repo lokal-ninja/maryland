@@ -1,5 +1,5 @@
 ---
 title: "Soundscape"
 url: /baltimore/soundscape/
-shop: hifi
+shop: Hifi
 ---

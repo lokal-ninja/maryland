@@ -1,5 +1,5 @@
 ---
 title: "Youni Wellness Spa"
 url: /nottingham/youni-wellness-spa/
-shop: beauty
+shop: Kosmetik
 ---

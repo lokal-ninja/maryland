@@ -1,6 +1,6 @@
 ---
 title: Windsor Mill
 url: /windsor-mill/
-latitude: 39.332834600000005
-longitude: -76.75945510000001
+latitude: 39.353
+longitude: -76.756
 ---

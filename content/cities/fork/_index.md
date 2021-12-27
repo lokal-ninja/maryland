@@ -1,6 +1,6 @@
 ---
 title: Fork
 url: /fork/
-latitude: 39.4681628
-longitude: -76.4419072
+latitude: 39.469
+longitude: -76.442
 ---

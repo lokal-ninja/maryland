@@ -1,5 +1,5 @@
 ---
 title: "Myers"
 url: /bel-air/myers/
-shop: trade
+shop: Baustoffe
 ---

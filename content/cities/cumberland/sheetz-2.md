@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /cumberland/sheetz-2/
-shop: convenience
+shop: Lebensmittel
 ---

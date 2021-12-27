@@ -1,5 +1,5 @@
 ---
 title: "Paradise Nails"
 url: /mount-airy/paradise-nails/
-shop: beauty
+shop: Kosmetik
 ---

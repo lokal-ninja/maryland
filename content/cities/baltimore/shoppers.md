@@ -1,5 +1,5 @@
 ---
 title: "Shoppers"
 url: /baltimore/shoppers/
-shop: supermarket
+shop: Supermarkt
 ---

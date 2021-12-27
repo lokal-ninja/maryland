@@ -1,6 +1,6 @@
 ---
 title: North Potomac
 url: /north-potomac/
-latitude: 39.0980055
-longitude: -77.23689040000001
+latitude: 39.116
+longitude: -77.249
 ---

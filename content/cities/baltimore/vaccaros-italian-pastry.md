@@ -1,5 +1,5 @@
 ---
 title: "Vaccaro's Italian Pastry"
 url: /baltimore/vaccaros-italian-pastry/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /capitol-heights/dsw/
-shop: shoes
+shop: Schuhe
 ---

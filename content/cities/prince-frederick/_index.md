@@ -1,6 +1,6 @@
 ---
 title: Prince Frederick
 url: /prince-frederick/
-latitude: 38.5403996
-longitude: -76.5844017
+latitude: 38.546
+longitude: -76.59
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catoctin Mountain Growers"
 url: /keymar/catoctin-mountain-growers/
-shop: garden centre
+shop: Garten-Center
 ---

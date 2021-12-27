@@ -1,6 +1,6 @@
 ---
 title: Chesapeake Beach
 url: /chesapeake-beach/
-latitude: 
-longitude: 
+latitude: 38.688
+longitude: -76.536
 ---

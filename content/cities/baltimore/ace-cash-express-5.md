@@ -1,5 +1,5 @@
 ---
 title: "ACE Cash Express"
 url: /baltimore/ace-cash-express-5/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,6 +1,6 @@
 ---
 title: White Hall
 url: /white-hall/
-latitude: 39.6219016
-longitude: -76.6291089
+latitude: 39.614
+longitude: -76.517
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /baltimore/aamco/
-shop: car repair
+shop: Autowerkstatt
 ---

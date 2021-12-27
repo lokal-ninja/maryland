@@ -1,6 +1,6 @@
 ---
 title: Raspeburg
 url: /raspeburg/
-latitude: 
-longitude: 
+latitude: 39.356
+longitude: -76.529
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mechanicsville
 url: /mechanicsville/
-latitude: 38.442902100000005
-longitude: -76.7438544
+latitude: 38.471
+longitude: -76.774
 ---

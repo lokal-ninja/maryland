@@ -1,6 +1,6 @@
 ---
 title: Boonsboro
 url: /boonsboro/
-latitude: 38.9501135
-longitude: -75.8599353
+latitude: 39.51
+longitude: -77.654
 ---

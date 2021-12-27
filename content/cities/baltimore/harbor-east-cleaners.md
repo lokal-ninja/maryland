@@ -1,5 +1,5 @@
 ---
 title: "Harbor East Cleaners"
 url: /baltimore/harbor-east-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

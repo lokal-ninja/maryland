@@ -1,5 +1,5 @@
 ---
 title: "Dollar Shop"
 url: /parkville/dollar-shop/
-shop: variety store
+shop: Kramladen
 ---

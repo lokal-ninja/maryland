@@ -1,5 +1,5 @@
 ---
 title: "Mattress Land"
 url: /college-park/mattress-land/
-shop: bed
+shop: Betten
 ---

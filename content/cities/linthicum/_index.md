@@ -1,6 +1,6 @@
 ---
 title: Linthicum
 url: /linthicum/
-latitude: 39.2039094
-longitude: -76.65970940000001
+latitude: 39.2
+longitude: -76.656
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fort Meade
 url: /fort-meade/
-latitude: 
-longitude: 
+latitude: 39.107
+longitude: -76.738
 ---

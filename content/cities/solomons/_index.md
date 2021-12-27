@@ -1,6 +1,6 @@
 ---
 title: Solomons
 url: /solomons/
-latitude: 38.318227
-longitude: -76.45553190000001
+latitude: 38.348
+longitude: -76.459
 ---

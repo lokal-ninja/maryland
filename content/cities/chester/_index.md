@@ -1,6 +1,6 @@
 ---
 title: Chester
 url: /chester/
-latitude: 38.9753903
-longitude: -76.28939910000001
+latitude: 38.973
+longitude: -76.268
 ---

@@ -1,6 +1,6 @@
 ---
 title: Delmar
 url: /delmar/
-latitude: 38.4558814
-longitude: -75.5776007
+latitude: 38.457
+longitude: -75.557
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoppers"
 url: /annapolis/shoppers/
-shop: supermarket
+shop: Supermarkt
 ---

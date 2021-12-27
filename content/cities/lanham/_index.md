@@ -1,6 +1,6 @@
 ---
 title: Lanham
 url: /lanham/
-latitude: 38.9670551
-longitude: -76.8619166
+latitude: 38.923
+longitude: -76.849
 ---

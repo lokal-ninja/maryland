@@ -1,6 +1,6 @@
 ---
 title: Bethesda
 url: /bethesda/
-latitude: 38.984826500000004
-longitude: -77.0946459
+latitude: 38.981
+longitude: -77.098
 ---
