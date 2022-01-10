@@ -1,5 +1,5 @@
 ---
 title: "Theiss Marine"
 url: /baltimore/theiss-marine/
-shop: Sport
+shop: sports
 ---

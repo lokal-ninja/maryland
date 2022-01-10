@@ -1,5 +1,5 @@
 ---
 title: "Ethos Cannabis"
 url: /baltimore/ethos-cannabis/
-shop: Hanf
+shop: cannabis
 ---

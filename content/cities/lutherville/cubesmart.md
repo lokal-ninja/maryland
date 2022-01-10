@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /lutherville/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

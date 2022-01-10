@@ -1,5 +1,5 @@
 ---
 title: "Tri State Liquors"
 url: /brunswick/tri-state-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

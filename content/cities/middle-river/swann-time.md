@@ -1,5 +1,5 @@
 ---
 title: "Swann Time"
 url: /middle-river/swann-time/
-shop: Kräuter
+shop: herbalist
 ---

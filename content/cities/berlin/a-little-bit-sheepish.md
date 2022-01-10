@@ -1,5 +1,5 @@
 ---
 title: "A Little Bit Sheepish"
 url: /berlin/a-little-bit-sheepish/
-shop: Textil
+shop: fabric
 ---

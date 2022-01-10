@@ -1,5 +1,5 @@
 ---
 title: "Bruzdzinski Funeral Home"
 url: /essex/bruzdzinski-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next Day Floors"
 url: /highlandtown/next-day-floors/
-shop: Teppiche
+shop: carpet
 ---

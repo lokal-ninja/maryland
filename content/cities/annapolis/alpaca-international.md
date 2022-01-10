@@ -1,5 +1,5 @@
 ---
 title: "Alpaca International"
 url: /annapolis/alpaca-international/
-shop: Kleidung
+shop: clothes
 ---

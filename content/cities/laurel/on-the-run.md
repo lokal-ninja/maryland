@@ -1,5 +1,5 @@
 ---
 title: "On The Run"
 url: /laurel/on-the-run/
-shop: Lebensmittel
+shop: convenience
 ---

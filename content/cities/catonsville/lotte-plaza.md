@@ -1,5 +1,5 @@
 ---
 title: "Lotte Plaza"
 url: /catonsville/lotte-plaza/
-shop: Allgemein
+shop: shop
 ---

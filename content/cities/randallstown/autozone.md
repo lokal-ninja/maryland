@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /randallstown/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EchoPark Automotive DC (Laurel)"
 url: /laurel/echopark-automotive-dc-laurel/
-shop: Autohaus
+shop: car
 ---

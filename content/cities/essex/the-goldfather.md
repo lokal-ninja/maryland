@@ -1,5 +1,5 @@
 ---
 title: "The Goldfather"
 url: /essex/the-goldfather/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vintage Stew"
 url: /deale/vintage-stew/
-shop: Allgemein
+shop: shop
 ---

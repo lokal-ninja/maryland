@@ -1,5 +1,5 @@
 ---
 title: "Beauty 4U"
 url: /catonsville/beauty-4u/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GAppliance"
 url: /essex/gappliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

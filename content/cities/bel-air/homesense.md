@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /bel-air/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

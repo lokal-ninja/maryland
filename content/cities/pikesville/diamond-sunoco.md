@@ -1,5 +1,5 @@
 ---
 title: "Diamond Sunoco"
 url: /pikesville/diamond-sunoco/
-shop: Autowerkstatt
+shop: car repair
 ---

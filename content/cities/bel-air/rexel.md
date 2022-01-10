@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /bel-air/rexel/
-shop: Elektrisch
+shop: electrical
 ---

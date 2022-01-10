@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /nottingham/massage-envy/
-shop: Massage
+shop: massage
 ---

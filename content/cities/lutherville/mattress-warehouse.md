@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /lutherville/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

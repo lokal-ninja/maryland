@@ -1,5 +1,5 @@
 ---
 title: "Perfect Lookz"
 url: /baltimore/perfect-lookz/
-shop: Autowerkstatt
+shop: car repair
 ---

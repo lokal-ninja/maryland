@@ -1,5 +1,5 @@
 ---
 title: "Work"
 url: /baltimore/work/
-shop: Modehaus
+shop: boutique
 ---

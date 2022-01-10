@@ -1,5 +1,5 @@
 ---
 title: "Pink Door Intimates"
 url: /baltimore/pink-door-intimates/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /columbia/apple-store/
-shop: Elektronik
+shop: electronics
 ---

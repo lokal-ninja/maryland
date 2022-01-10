@@ -1,5 +1,5 @@
 ---
 title: "Ice House Liquors"
 url: /aberdeen/ice-house-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

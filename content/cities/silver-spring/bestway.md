@@ -1,5 +1,5 @@
 ---
 title: "Bestway"
 url: /silver-spring/bestway/
-shop: Supermarkt
+shop: supermarket
 ---

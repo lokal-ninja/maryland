@@ -1,5 +1,5 @@
 ---
 title: "Jim Jennings Transmissions"
 url: /essex/jim-jennings-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

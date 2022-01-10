@@ -1,5 +1,5 @@
 ---
 title: "Low Pro Graphics"
 url: /parkville/low-pro-graphics/
-shop: Kleidung
+shop: clothes
 ---

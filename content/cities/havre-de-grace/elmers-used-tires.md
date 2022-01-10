@@ -1,5 +1,5 @@
 ---
 title: "Elmer's Used Tires"
 url: /havre-de-grace/elmers-used-tires/
-shop: Reifen
+shop: tyres
 ---

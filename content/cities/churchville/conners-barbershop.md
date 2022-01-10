@@ -1,5 +1,5 @@
 ---
 title: "Conner's Barbershop"
 url: /churchville/conners-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

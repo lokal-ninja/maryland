@@ -1,5 +1,5 @@
 ---
 title: "Dunkirk Vision"
 url: /dunkirk/dunkirk-vision/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /glen-burnie/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

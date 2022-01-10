@@ -1,5 +1,5 @@
 ---
 title: "Professional AutoGlass"
 url: /riverdale/professional-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

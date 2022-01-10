@@ -1,5 +1,5 @@
 ---
 title: "Lee Funeral Home"
 url: /owings/lee-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

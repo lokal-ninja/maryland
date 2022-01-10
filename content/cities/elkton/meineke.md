@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /elkton/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

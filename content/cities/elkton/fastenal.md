@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /elkton/fastenal/
-shop: Baustoffe
+shop: trade
 ---

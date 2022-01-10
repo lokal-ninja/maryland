@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /randallstown/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

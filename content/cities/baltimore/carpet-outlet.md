@@ -1,5 +1,5 @@
 ---
 title: "Carpet Outlet"
 url: /baltimore/carpet-outlet/
-shop: Teppiche
+shop: carpet
 ---

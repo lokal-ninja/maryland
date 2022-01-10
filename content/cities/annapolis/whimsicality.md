@@ -1,5 +1,5 @@
 ---
 title: "Whimsicality"
 url: /annapolis/whimsicality/
-shop: Andenken
+shop: gift
 ---

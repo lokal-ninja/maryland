@@ -1,5 +1,5 @@
 ---
 title: "Café Dear Leon"
 url: /baltimore/cafe-dear-leon/
-shop: Bäckerei
+shop: bakery
 ---

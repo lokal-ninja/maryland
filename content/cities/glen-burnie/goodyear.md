@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /glen-burnie/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

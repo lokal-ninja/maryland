@@ -1,5 +1,5 @@
 ---
 title: "Sanders Market"
 url: /cascade/sanders-market/
-shop: Supermarkt
+shop: supermarket
 ---

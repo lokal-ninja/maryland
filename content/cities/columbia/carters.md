@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /columbia/carters/
-shop: Kleidung
+shop: clothes
 ---

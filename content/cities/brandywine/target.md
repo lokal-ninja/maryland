@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brandywine/target/
-shop: Warenhaus
+shop: department store
 ---

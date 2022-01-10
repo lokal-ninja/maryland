@@ -1,5 +1,5 @@
 ---
 title: "Teavolve"
 url: /baltimore/teavolve/
-shop: Tee
+shop: tea
 ---

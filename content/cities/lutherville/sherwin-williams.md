@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /lutherville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

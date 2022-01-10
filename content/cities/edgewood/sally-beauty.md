@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /edgewood/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

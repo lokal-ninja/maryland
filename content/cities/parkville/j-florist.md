@@ -1,5 +1,5 @@
 ---
 title: "J Florist"
 url: /parkville/j-florist/
-shop: Blumen
+shop: florist
 ---

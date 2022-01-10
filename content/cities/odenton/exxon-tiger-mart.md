@@ -1,5 +1,5 @@
 ---
 title: "Exxon Tiger Mart"
 url: /odenton/exxon-tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

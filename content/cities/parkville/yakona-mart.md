@@ -1,5 +1,5 @@
 ---
 title: "Yakona Mart"
 url: /parkville/yakona-mart/
-shop: Lebensmittel
+shop: convenience
 ---

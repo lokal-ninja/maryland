@@ -1,5 +1,5 @@
 ---
 title: "Parson Automotive"
 url: /essex/parson-automotive/
-shop: Autohaus
+shop: car
 ---

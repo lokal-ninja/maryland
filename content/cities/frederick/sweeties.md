@@ -1,5 +1,5 @@
 ---
 title: "Sweeties"
 url: /frederick/sweeties/
-shop: Süßwaren
+shop: confectionery
 ---

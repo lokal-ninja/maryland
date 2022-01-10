@@ -1,5 +1,5 @@
 ---
 title: "Flower Expressions"
 url: /nottingham/flower-expressions/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grand Cru"
 url: /baltimore/grand-cru/
-shop: Wein
+shop: wine
 ---

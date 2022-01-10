@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /bel-air/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

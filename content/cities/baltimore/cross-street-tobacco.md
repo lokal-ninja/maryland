@@ -1,5 +1,5 @@
 ---
 title: "Cross Street Tobacco"
 url: /baltimore/cross-street-tobacco/
-shop: Tabak
+shop: tobacco
 ---

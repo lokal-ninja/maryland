@@ -1,5 +1,5 @@
 ---
 title: "Snug Books LLC"
 url: /baltimore/snug-books-llc/
-shop: Bücher
+shop: books
 ---

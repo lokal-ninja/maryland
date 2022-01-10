@@ -1,5 +1,5 @@
 ---
 title: "Nail Concepts"
 url: /parkville/nail-concepts/
-shop: Kosmetik
+shop: beauty
 ---

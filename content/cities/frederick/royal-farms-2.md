@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /frederick/royal-farms-2/
-shop: Lebensmittel
+shop: convenience
 ---

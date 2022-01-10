@@ -1,5 +1,5 @@
 ---
 title: "Reeds Jewelers"
 url: /frederick/reeds-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

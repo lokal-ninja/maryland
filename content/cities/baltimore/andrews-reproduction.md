@@ -1,5 +1,5 @@
 ---
 title: "Andrews Reproduction"
 url: /baltimore/andrews-reproduction/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Child's Play"
 url: /rockville/childs-play/
-shop: Spielzeug
+shop: toys
 ---

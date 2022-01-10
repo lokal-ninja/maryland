@@ -1,5 +1,5 @@
 ---
 title: "RPM MotoSports"
 url: /bel-air/rpm-motosports/
-shop: Autowerkstatt
+shop: car repair
 ---

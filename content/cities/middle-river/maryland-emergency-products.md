@@ -1,5 +1,5 @@
 ---
 title: "Maryland Emergency Products"
 url: /middle-river/maryland-emergency-products/
-shop: Autoteile
+shop: car parts
 ---

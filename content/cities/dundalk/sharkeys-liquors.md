@@ -1,5 +1,5 @@
 ---
 title: "Sharkey's Liquors"
 url: /dundalk/sharkeys-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

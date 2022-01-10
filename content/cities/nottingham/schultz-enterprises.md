@@ -1,5 +1,5 @@
 ---
 title: "Schultz Enterprises"
 url: /nottingham/schultz-enterprises/
-shop: Autowerkstatt
+shop: car repair
 ---

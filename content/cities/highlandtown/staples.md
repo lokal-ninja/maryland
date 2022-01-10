@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /highlandtown/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

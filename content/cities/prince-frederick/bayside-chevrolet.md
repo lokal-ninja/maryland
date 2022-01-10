@@ -1,5 +1,5 @@
 ---
 title: "Bayside Chevrolet"
 url: /prince-frederick/bayside-chevrolet/
-shop: Autohaus
+shop: car
 ---

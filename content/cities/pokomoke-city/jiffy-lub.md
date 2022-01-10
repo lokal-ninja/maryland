@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lub"
 url: /pokomoke-city/jiffy-lub/
-shop: Reifen
+shop: tyres
 ---

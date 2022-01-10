@@ -1,5 +1,5 @@
 ---
 title: "Shoppers"
 url: /essex/shoppers/
-shop: Supermarkt
+shop: supermarket
 ---

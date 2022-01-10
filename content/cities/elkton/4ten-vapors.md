@@ -1,5 +1,5 @@
 ---
 title: "4Ten Vapors"
 url: /elkton/4ten-vapors/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

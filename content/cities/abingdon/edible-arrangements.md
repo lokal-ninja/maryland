@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /abingdon/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

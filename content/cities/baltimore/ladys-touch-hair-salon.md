@@ -1,5 +1,5 @@
 ---
 title: "Lady’s Touch Hair Salon"
 url: /baltimore/ladys-touch-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

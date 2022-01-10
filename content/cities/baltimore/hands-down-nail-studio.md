@@ -1,5 +1,5 @@
 ---
 title: "Hands Down Nail Studio"
 url: /baltimore/hands-down-nail-studio/
-shop: Kosmetik
+shop: beauty
 ---

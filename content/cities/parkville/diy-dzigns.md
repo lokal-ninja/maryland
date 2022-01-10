@@ -1,5 +1,5 @@
 ---
 title: "DIY D'Zigns"
 url: /parkville/diy-dzigns/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobo"
 url: /annapolis/hobo/
-shop: Allgemein
+shop: shop
 ---

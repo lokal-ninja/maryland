@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hagerstown/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

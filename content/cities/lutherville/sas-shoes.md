@@ -1,5 +1,5 @@
 ---
 title: "SAS Shoes"
 url: /lutherville/sas-shoes/
-shop: Schuhe
+shop: shoes
 ---

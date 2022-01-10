@@ -1,5 +1,5 @@
 ---
 title: "Cooley's Grocery"
 url: /baltimore/cooleys-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

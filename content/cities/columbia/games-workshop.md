@@ -1,5 +1,5 @@
 ---
 title: "Games Workshop"
 url: /columbia/games-workshop/
-shop: Spiele
+shop: games
 ---

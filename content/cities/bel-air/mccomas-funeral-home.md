@@ -1,5 +1,5 @@
 ---
 title: "McComas Funeral Home"
 url: /bel-air/mccomas-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

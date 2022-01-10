@@ -1,5 +1,5 @@
 ---
 title: "Next Day Blinds"
 url: /lutherville/next-day-blinds/
-shop: Jalousien
+shop: window blind
 ---

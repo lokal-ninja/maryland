@@ -1,5 +1,5 @@
 ---
 title: "Gibbon's Auto"
 url: /pocomoke-city/gibbons-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

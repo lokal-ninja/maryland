@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /oxon-hill/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

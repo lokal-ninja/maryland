@@ -1,5 +1,5 @@
 ---
 title: "N-Nails"
 url: /edgewood/n-nails/
-shop: Kosmetik
+shop: beauty
 ---

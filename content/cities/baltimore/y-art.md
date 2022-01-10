@@ -1,5 +1,5 @@
 ---
 title: "Y:ART"
 url: /baltimore/y-art/
-shop: Kunst
+shop: art
 ---

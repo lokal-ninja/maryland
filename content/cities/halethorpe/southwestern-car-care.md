@@ -1,5 +1,5 @@
 ---
 title: "Southwestern Car Care"
 url: /halethorpe/southwestern-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

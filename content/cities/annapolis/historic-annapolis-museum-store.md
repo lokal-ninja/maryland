@@ -1,5 +1,5 @@
 ---
 title: "Historic Annapolis Museum Store"
 url: /annapolis/historic-annapolis-museum-store/
-shop: Allgemein
+shop: shop
 ---

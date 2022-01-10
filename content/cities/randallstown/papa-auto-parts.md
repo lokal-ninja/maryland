@@ -1,5 +1,5 @@
 ---
 title: "PAPA Auto Parts"
 url: /randallstown/papa-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E-Z Parcel"
 url: /dundalk/e-z-parcel/
-shop: Allgemein
+shop: shop
 ---

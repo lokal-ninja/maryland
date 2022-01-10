@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /dundalk/sprint/
-shop: Handy
+shop: mobile phone
 ---

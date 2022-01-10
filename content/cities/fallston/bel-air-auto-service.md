@@ -1,5 +1,5 @@
 ---
 title: "Bel Air Auto Service"
 url: /fallston/bel-air-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

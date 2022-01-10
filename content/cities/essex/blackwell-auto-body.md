@@ -1,5 +1,5 @@
 ---
 title: "Blackwell Auto Body"
 url: /essex/blackwell-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

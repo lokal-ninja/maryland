@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /la-plata/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

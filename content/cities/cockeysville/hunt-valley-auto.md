@@ -1,5 +1,5 @@
 ---
 title: "Hunt Valley Auto"
 url: /cockeysville/hunt-valley-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

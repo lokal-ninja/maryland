@@ -1,5 +1,5 @@
 ---
 title: "Maryland Collsion Center"
 url: /frederick/maryland-collsion-center/
-shop: Allgemein
+shop: shop
 ---

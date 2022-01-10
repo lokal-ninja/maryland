@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /halethorpe/weis/
-shop: Supermarkt
+shop: supermarket
 ---

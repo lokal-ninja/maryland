@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /huntingtown/nails/
-shop: Kosmetik
+shop: beauty
 ---

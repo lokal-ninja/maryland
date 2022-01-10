@@ -1,5 +1,5 @@
 ---
 title: "Flavor Cupcakery"
 url: /bel-air/flavor-cupcakery/
-shop: Bäckerei
+shop: bakery
 ---

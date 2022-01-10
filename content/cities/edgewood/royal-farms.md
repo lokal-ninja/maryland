@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /edgewood/royal-farms/
-shop: Lebensmittel
+shop: convenience
 ---

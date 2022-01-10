@@ -1,5 +1,5 @@
 ---
 title: "Blue Vanda Designs"
 url: /bowie/blue-vanda-designs/
-shop: Blumen
+shop: florist
 ---

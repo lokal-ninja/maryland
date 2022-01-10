@@ -1,5 +1,5 @@
 ---
 title: "Docs"
 url: /baltimore/docs/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autobahn of Towson"
 url: /govans/autobahn-of-towson/
-shop: Autowerkstatt
+shop: car repair
 ---

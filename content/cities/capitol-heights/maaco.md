@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /capitol-heights/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

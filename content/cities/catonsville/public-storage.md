@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /catonsville/public-storage/
-shop: Mieten
+shop: storage rental
 ---

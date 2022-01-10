@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /perry-hall/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Howl"
 url: /baltimore/howl/
-shop: Tiere
+shop: pet
 ---

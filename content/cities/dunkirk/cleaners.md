@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /dunkirk/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

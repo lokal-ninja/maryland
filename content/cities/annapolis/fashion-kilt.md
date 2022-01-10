@@ -1,5 +1,5 @@
 ---
 title: "Fashion Kilt"
 url: /annapolis/fashion-kilt/
-shop: Allgemein
+shop: shop
 ---

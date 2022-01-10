@@ -1,5 +1,5 @@
 ---
 title: "Beauty Island"
 url: /loch-raven/beauty-island/
-shop: Kosmetik
+shop: beauty
 ---

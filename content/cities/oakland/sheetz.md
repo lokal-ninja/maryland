@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /oakland/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

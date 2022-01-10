@@ -1,5 +1,5 @@
 ---
 title: "Savco"
 url: /parkville/savco/
-shop: Autowerkstatt
+shop: car repair
 ---

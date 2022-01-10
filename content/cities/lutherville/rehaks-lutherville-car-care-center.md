@@ -1,5 +1,5 @@
 ---
 title: "Rehak's Lutherville Car Care Center"
 url: /lutherville/rehaks-lutherville-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

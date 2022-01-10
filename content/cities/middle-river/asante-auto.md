@@ -1,5 +1,5 @@
 ---
 title: "Asante Auto"
 url: /middle-river/asante-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

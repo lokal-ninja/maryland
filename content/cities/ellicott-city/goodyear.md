@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /ellicott-city/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

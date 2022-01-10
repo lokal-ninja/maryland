@@ -1,5 +1,5 @@
 ---
 title: "Hoppin Bobbin"
 url: /aberdeen/hoppin-bobbin/
-shop: Nähzubehör
+shop: sewing
 ---

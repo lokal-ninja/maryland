@@ -1,5 +1,5 @@
 ---
 title: "Dullaney Nails"
 url: /towson/dullaney-nails/
-shop: Kosmetik
+shop: beauty
 ---

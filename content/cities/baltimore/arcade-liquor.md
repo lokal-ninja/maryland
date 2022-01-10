@@ -1,5 +1,5 @@
 ---
 title: "Arcade Liquor"
 url: /baltimore/arcade-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

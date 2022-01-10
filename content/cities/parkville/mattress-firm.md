@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /parkville/mattress-firm/
-shop: Betten
+shop: bed
 ---

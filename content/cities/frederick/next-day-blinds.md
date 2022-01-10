@@ -1,5 +1,5 @@
 ---
 title: "Next Day Blinds"
 url: /frederick/next-day-blinds/
-shop: Jalousien
+shop: window blind
 ---

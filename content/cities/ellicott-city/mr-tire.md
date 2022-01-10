@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /ellicott-city/mr-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freddie's Fine Wines"
 url: /joppa/freddies-fine-wines/
-shop: Wein
+shop: wine
 ---

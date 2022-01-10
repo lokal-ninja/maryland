@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /severna-park/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

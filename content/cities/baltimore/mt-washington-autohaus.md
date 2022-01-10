@@ -1,5 +1,5 @@
 ---
 title: "Mt. Washington Autohaus"
 url: /baltimore/mt-washington-autohaus/
-shop: Autowerkstatt
+shop: car repair
 ---

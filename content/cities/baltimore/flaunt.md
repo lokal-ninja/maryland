@@ -1,5 +1,5 @@
 ---
 title: "Flaunt"
 url: /baltimore/flaunt/
-shop: Friseur
+shop: hairdresser
 ---

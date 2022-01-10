@@ -1,5 +1,5 @@
 ---
 title: "Royal Motors"
 url: /parkville/royal-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

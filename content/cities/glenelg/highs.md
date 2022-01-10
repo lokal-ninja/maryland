@@ -1,5 +1,5 @@
 ---
 title: "High's"
 url: /glenelg/highs/
-shop: Lebensmittel
+shop: convenience
 ---

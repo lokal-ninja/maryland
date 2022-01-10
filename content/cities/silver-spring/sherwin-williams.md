@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /silver-spring/sherwin-williams/
-shop: Farben
+shop: paint
 ---

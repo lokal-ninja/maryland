@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /hyattsville/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

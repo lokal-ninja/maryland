@@ -1,5 +1,5 @@
 ---
 title: "Gibbons Auto Parts"
 url: /pokomoke-city/gibbons-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /suitland/shell/
-shop: Autowerkstatt
+shop: car repair
 ---

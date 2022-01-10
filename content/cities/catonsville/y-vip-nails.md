@@ -1,5 +1,5 @@
 ---
 title: "Y. VIP Nails"
 url: /catonsville/y-vip-nails/
-shop: Kosmetik
+shop: beauty
 ---

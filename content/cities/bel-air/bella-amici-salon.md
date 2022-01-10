@@ -1,5 +1,5 @@
 ---
 title: "Bella Amici Salon"
 url: /bel-air/bella-amici-salon/
-shop: Friseur
+shop: hairdresser
 ---

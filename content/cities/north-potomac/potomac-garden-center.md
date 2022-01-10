@@ -1,5 +1,5 @@
 ---
 title: "Potomac Garden Center"
 url: /north-potomac/potomac-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "North Plaza Liquors"
 url: /parkville/north-plaza-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

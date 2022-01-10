@@ -1,5 +1,5 @@
 ---
 title: "The Rustic Peddler"
 url: /whiteford/the-rustic-peddler/
-shop: Andenken
+shop: gift
 ---

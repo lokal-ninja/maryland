@@ -1,5 +1,5 @@
 ---
 title: "Lains Auto Services"
 url: /college-park/lains-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

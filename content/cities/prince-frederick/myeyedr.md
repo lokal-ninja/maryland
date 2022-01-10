@@ -1,5 +1,5 @@
 ---
 title: "myeyedr"
 url: /prince-frederick/myeyedr/
-shop: Optiker
+shop: optician
 ---

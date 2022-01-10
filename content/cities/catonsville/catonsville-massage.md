@@ -1,5 +1,5 @@
 ---
 title: "Catonsville Massage"
 url: /catonsville/catonsville-massage/
-shop: Massage
+shop: massage
 ---

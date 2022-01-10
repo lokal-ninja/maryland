@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /prince-frederick/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

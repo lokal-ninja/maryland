@@ -1,5 +1,5 @@
 ---
 title: "ShoppersWorld"
 url: /baltimore/shoppersworld/
-shop: Warenhaus
+shop: department store
 ---

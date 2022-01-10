@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
 url: /silver-spring/unleashed/
-shop: Tiere
+shop: pet
 ---

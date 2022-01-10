@@ -1,5 +1,5 @@
 ---
 title: "Sabita's Eyebrow Threading"
 url: /baltimore/sabitas-eyebrow-threading/
-shop: Kosmetik
+shop: beauty
 ---

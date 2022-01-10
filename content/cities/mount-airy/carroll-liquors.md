@@ -1,5 +1,5 @@
 ---
 title: "Carroll Liquors"
 url: /mount-airy/carroll-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

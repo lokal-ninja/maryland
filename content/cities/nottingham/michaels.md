@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /nottingham/michaels/
-shop: Basteln
+shop: craft
 ---

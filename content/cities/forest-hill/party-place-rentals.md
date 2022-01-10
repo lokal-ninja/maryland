@@ -1,5 +1,5 @@
 ---
 title: "Party Place Rentals"
 url: /forest-hill/party-place-rentals/
-shop: Allgemein
+shop: shop
 ---

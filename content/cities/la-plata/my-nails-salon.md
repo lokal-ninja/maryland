@@ -1,5 +1,5 @@
 ---
 title: "My Nails Salon"
 url: /la-plata/my-nails-salon/
-shop: Kosmetik
+shop: beauty
 ---

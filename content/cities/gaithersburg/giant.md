@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /gaithersburg/giant/
-shop: Supermarkt
+shop: supermarket
 ---

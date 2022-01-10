@@ -1,5 +1,5 @@
 ---
 title: "Maragiya"
 url: /hyattsville/maragiya/
-shop: Kramladen
+shop: variety store
 ---

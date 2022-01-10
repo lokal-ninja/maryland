@@ -1,5 +1,5 @@
 ---
 title: "Salon Xpress"
 url: /baltimore/salon-xpress/
-shop: Kosmetik
+shop: beauty
 ---

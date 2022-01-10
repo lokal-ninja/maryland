@@ -1,5 +1,5 @@
 ---
 title: "No Limit"
 url: /baltimore/no-limit/
-shop: Autoteile
+shop: car parts
 ---

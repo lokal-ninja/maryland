@@ -1,5 +1,5 @@
 ---
 title: "CarFirst"
 url: /aberdeen/carfirst/
-shop: Autohaus
+shop: car
 ---

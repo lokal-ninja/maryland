@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /beltsville/sprint/
-shop: Handy
+shop: mobile phone
 ---

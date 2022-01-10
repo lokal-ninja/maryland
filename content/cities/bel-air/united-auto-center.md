@@ -1,5 +1,5 @@
 ---
 title: "United Auto Center"
 url: /bel-air/united-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /baltimore/autozone/
-shop: Autoteile
+shop: car parts
 ---

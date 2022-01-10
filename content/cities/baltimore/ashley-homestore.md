@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /baltimore/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

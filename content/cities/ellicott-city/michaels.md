@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /ellicott-city/michaels/
-shop: Basteln
+shop: craft
 ---

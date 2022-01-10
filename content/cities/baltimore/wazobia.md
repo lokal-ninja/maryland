@@ -1,5 +1,5 @@
 ---
 title: "Wazobia"
 url: /baltimore/wazobia/
-shop: Modehaus
+shop: boutique
 ---

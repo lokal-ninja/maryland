@@ -1,5 +1,5 @@
 ---
 title: "Umberto's"
 url: /baltimore/umbertos/
-shop: Friseur
+shop: hairdresser
 ---

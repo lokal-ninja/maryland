@@ -1,5 +1,5 @@
 ---
 title: "Nail Expert"
 url: /middle-river/nail-expert/
-shop: Kosmetik
+shop: beauty
 ---

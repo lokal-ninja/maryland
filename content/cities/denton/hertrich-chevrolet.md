@@ -1,5 +1,5 @@
 ---
 title: "Hertrich Chevrolet"
 url: /denton/hertrich-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fred’s Auto Service"
 url: /essex/freds-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joe's Bike Shop"
 url: /baltimore/joes-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

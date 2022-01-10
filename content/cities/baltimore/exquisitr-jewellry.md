@@ -1,5 +1,5 @@
 ---
 title: "Exquisitr Jewellry"
 url: /baltimore/exquisitr-jewellry/
-shop: Schmuck
+shop: jewelry
 ---

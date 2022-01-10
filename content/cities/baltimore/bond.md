@@ -1,5 +1,5 @@
 ---
 title: "Bond"
 url: /baltimore/bond/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquors"
 url: /dundalk/liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /elkton/valero/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hyattsville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

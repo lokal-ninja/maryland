@@ -1,5 +1,5 @@
 ---
 title: "Parkville Crabs"
 url: /parkville/parkville-crabs/
-shop: Fisch
+shop: seafood
 ---

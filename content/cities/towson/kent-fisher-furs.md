@@ -1,5 +1,5 @@
 ---
 title: "Kent Fisher Furs"
 url: /towson/kent-fisher-furs/
-shop: Allgemein
+shop: shop
 ---

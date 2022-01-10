@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /la-plata/walmart/
-shop: Warenhaus
+shop: department store
 ---

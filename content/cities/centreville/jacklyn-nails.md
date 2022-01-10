@@ -1,5 +1,5 @@
 ---
 title: "Jacklyn Nails"
 url: /centreville/jacklyn-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /rosedale/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

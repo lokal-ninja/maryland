@@ -1,5 +1,5 @@
 ---
 title: "Hawk's Marine"
 url: /stevensville/hawks-marine/
-shop: Boot
+shop: boat
 ---

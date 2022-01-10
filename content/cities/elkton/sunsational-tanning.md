@@ -1,5 +1,5 @@
 ---
 title: "Sunsational Tanning"
 url: /elkton/sunsational-tanning/
-shop: Kosmetik
+shop: beauty
 ---

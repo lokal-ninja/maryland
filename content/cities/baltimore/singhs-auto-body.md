@@ -1,5 +1,5 @@
 ---
 title: "Singhs Auto Body"
 url: /baltimore/singhs-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

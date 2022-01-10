@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /silver-spring/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cloudy Donut Co."
 url: /baltimore/cloudy-donut-co/
-shop: Süßwaren
+shop: confectionery
 ---

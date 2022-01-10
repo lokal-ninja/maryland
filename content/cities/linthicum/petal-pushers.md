@@ -1,5 +1,5 @@
 ---
 title: "Petal Pushers"
 url: /linthicum/petal-pushers/
-shop: Blumen
+shop: florist
 ---

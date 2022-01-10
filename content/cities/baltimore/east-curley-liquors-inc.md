@@ -1,5 +1,5 @@
 ---
 title: "East Curley Liquors Inc"
 url: /baltimore/east-curley-liquors-inc/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haverhill Market"
 url: /baltimore/haverhill-market/
-shop: Lebensmittel
+shop: convenience
 ---

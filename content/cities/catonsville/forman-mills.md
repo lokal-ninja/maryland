@@ -1,5 +1,5 @@
 ---
 title: "Forman Mills"
 url: /catonsville/forman-mills/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /towson/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

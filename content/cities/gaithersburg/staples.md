@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /gaithersburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

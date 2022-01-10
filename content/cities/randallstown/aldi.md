@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /randallstown/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

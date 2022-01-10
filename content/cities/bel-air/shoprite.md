@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /bel-air/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

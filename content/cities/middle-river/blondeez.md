@@ -1,5 +1,5 @@
 ---
 title: "Blondeez"
 url: /middle-river/blondeez/
-shop: Friseur
+shop: hairdresser
 ---

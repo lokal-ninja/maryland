@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /catonsville/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

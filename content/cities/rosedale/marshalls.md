@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /rosedale/marshalls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manokeek Wine and Spirits"
 url: /accokeek/manokeek-wine-and-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

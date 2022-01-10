@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /lutherville/sprint/
-shop: Handy
+shop: mobile phone
 ---

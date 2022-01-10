@@ -1,5 +1,5 @@
 ---
 title: "Hallmark Creations"
 url: /ellicott-city/hallmark-creations/
-shop: Andenken
+shop: gift
 ---

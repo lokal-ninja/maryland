@@ -1,5 +1,5 @@
 ---
 title: "Canton Games"
 url: /baltimore/canton-games/
-shop: Spielzeug
+shop: toys
 ---

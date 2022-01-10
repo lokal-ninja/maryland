@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /catonsville/walmart/
-shop: Warenhaus
+shop: department store
 ---

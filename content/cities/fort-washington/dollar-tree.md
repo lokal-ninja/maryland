@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /fort-washington/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

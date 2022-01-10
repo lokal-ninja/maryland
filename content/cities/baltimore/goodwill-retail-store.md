@@ -1,5 +1,5 @@
 ---
 title: "Goodwill Retail Store"
 url: /baltimore/goodwill-retail-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poolesville Nail Spa"
 url: /poolesville/poolesville-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

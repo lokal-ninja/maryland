@@ -1,5 +1,5 @@
 ---
 title: "Dependable Auto"
 url: /elkridge/dependable-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

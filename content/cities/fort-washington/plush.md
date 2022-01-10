@@ -1,5 +1,5 @@
 ---
 title: "Plush"
 url: /fort-washington/plush/
-shop: Kosmetik
+shop: beauty
 ---

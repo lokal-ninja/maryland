@@ -1,5 +1,5 @@
 ---
 title: "Hinder Ford"
 url: /aberdeen/hinder-ford/
-shop: Autohaus
+shop: car
 ---

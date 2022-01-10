@@ -1,5 +1,5 @@
 ---
 title: "Avon’s Studio"
 url: /baltimore/avons-studio/
-shop: Friseur
+shop: hairdresser
 ---

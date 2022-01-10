@@ -1,5 +1,5 @@
 ---
 title: "Starfire Designs"
 url: /eldersburg/starfire-designs/
-shop: Schmuck
+shop: jewelry
 ---

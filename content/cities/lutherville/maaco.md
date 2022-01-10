@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /lutherville/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

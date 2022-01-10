@@ -1,5 +1,5 @@
 ---
 title: "Fenwick Choice Meats"
 url: /baltimore/fenwick-choice-meats/
-shop: Feinkost
+shop: deli
 ---

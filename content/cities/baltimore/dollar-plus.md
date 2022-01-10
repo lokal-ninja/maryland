@@ -1,5 +1,5 @@
 ---
 title: "Dollar Plus"
 url: /baltimore/dollar-plus/
-shop: Lebensmittel
+shop: convenience
 ---

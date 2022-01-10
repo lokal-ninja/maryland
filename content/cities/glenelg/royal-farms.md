@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /glenelg/royal-farms/
-shop: Lebensmittel
+shop: convenience
 ---

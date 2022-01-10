@@ -1,5 +1,5 @@
 ---
 title: "Leckner Nissan"
 url: /ellicott-city/leckner-nissan/
-shop: Autohaus
+shop: car
 ---

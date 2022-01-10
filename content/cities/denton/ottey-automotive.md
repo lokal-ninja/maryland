@@ -1,5 +1,5 @@
 ---
 title: "Ottey Automotive"
 url: /denton/ottey-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

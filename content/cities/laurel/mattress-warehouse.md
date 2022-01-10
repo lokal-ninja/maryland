@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /laurel/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A Plus"
 url: /bowie/a-plus/
-shop: Lebensmittel
+shop: convenience
 ---

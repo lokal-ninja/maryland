@@ -1,5 +1,5 @@
 ---
 title: "Superior Sharpening Works"
 url: /baltimore/superior-sharpening-works/
-shop: Allgemein
+shop: shop
 ---

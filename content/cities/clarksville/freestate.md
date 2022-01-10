@@ -1,5 +1,5 @@
 ---
 title: "Freestate"
 url: /clarksville/freestate/
-shop: Lebensmittel
+shop: convenience
 ---

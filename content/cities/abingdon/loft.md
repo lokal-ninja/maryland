@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /abingdon/loft/
-shop: Kleidung
+shop: clothes
 ---

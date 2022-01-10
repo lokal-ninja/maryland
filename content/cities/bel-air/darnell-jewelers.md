@@ -1,5 +1,5 @@
 ---
 title: "Darnell Jewelers"
 url: /bel-air/darnell-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

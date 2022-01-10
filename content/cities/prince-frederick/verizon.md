@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /prince-frederick/verizon/
-shop: Handy
+shop: mobile phone
 ---

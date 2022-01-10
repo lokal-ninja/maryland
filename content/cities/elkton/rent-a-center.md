@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /elkton/rent-a-center/
-shop: Möbel
+shop: furniture
 ---

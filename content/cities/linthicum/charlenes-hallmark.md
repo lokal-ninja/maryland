@@ -1,5 +1,5 @@
 ---
 title: "Charlene's Hallmark"
 url: /linthicum/charlenes-hallmark/
-shop: Andenken
+shop: gift
 ---

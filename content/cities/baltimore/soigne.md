@@ -1,5 +1,5 @@
 ---
 title: "Soignè"
 url: /baltimore/soigne/
-shop: Allgemein
+shop: shop
 ---

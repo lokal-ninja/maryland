@@ -1,5 +1,5 @@
 ---
 title: "Lavish Nails"
 url: /bel-air/lavish-nails/
-shop: Kosmetik
+shop: beauty
 ---

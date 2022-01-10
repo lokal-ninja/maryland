@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bel-air/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tessi's Thrift"
 url: /rising-sun/tessis-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

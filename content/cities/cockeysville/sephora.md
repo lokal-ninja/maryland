@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /cockeysville/sephora/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brooks-Huff"
 url: /cockeysville/brooks-huff/
-shop: Autowerkstatt
+shop: car repair
 ---

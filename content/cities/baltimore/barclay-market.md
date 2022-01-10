@@ -1,5 +1,5 @@
 ---
 title: "Barclay Market"
 url: /baltimore/barclay-market/
-shop: Lebensmittel
+shop: convenience
 ---

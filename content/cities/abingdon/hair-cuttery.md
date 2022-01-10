@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /abingdon/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

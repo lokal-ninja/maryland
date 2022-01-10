@@ -1,5 +1,5 @@
 ---
 title: "The Crystal Fox"
 url: /laurel/the-crystal-fox/
-shop: Andenken
+shop: gift
 ---

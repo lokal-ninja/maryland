@@ -1,5 +1,5 @@
 ---
 title: "Snowden River Shell"
 url: /columbia/snowden-river-shell/
-shop: Lebensmittel
+shop: convenience
 ---

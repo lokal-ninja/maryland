@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /derwood/giant/
-shop: Supermarkt
+shop: supermarket
 ---

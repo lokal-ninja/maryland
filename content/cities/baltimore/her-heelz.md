@@ -1,5 +1,5 @@
 ---
 title: "Her Heelz"
 url: /baltimore/her-heelz/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eline Funeral Home"
 url: /hampstead/eline-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

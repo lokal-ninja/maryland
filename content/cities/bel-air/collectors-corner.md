@@ -1,5 +1,5 @@
 ---
 title: "Collectors Corner"
 url: /bel-air/collectors-corner/
-shop: Sammler
+shop: collector
 ---

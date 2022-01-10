@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /ellicott-city/pet-valu/
-shop: Tiere
+shop: pet
 ---

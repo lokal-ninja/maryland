@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /brandywine/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

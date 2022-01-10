@@ -1,5 +1,5 @@
 ---
 title: "Walmart Automotive"
 url: /severn/walmart-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone"
 url: /lutherville/cornerstone/
-shop: Antiquitäten
+shop: antiques
 ---

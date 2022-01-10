@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /fallston/mr-tire/
-shop: Reifen
+shop: tyres
 ---

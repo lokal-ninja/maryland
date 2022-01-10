@@ -1,5 +1,5 @@
 ---
 title: "Geddes"
 url: /baltimore/geddes/
-shop: Schreibwaren
+shop: office supplies
 ---

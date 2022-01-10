@@ -1,5 +1,5 @@
 ---
 title: "BWI Automotive"
 url: /linthicum/bwi-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

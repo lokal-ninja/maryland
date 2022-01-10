@@ -1,5 +1,5 @@
 ---
 title: "Shear Blessings"
 url: /parkville/shear-blessings/
-shop: Friseur
+shop: hairdresser
 ---

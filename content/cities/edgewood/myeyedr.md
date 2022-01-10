@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr"
 url: /edgewood/myeyedr/
-shop: Optiker
+shop: optician
 ---

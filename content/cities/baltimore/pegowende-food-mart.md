@@ -1,5 +1,5 @@
 ---
 title: "Pegowende Food Mart"
 url: /baltimore/pegowende-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

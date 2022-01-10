@@ -1,5 +1,5 @@
 ---
 title: "Bernal"
 url: /baltimore/bernal/
-shop: Lebensmittel
+shop: convenience
 ---

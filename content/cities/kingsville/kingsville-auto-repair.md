@@ -1,5 +1,5 @@
 ---
 title: "Kingsville Auto Repair"
 url: /kingsville/kingsville-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

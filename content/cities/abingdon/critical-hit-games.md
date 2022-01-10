@@ -1,5 +1,5 @@
 ---
 title: "Critical Hit Games"
 url: /abingdon/critical-hit-games/
-shop: Spielzeug
+shop: toys
 ---

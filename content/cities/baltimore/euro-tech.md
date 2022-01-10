@@ -1,5 +1,5 @@
 ---
 title: "Euro-Tech"
 url: /baltimore/euro-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

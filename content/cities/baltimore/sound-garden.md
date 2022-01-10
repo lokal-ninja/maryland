@@ -1,5 +1,5 @@
 ---
 title: "Sound Garden"
 url: /baltimore/sound-garden/
-shop: Musik
+shop: music
 ---

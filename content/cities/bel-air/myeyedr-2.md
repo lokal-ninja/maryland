@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr"
 url: /bel-air/myeyedr-2/
-shop: Optiker
+shop: optician
 ---

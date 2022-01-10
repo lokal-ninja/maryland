@@ -1,5 +1,5 @@
 ---
 title: "Rutland Beard Florist"
 url: /towson/rutland-beard-florist/
-shop: Blumen
+shop: florist
 ---

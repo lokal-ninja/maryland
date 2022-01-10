@@ -1,5 +1,5 @@
 ---
 title: "Gavigan's Furniture"
 url: /forest-hill/gavigans-furniture/
-shop: Möbel
+shop: furniture
 ---

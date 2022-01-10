@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /elkridge/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

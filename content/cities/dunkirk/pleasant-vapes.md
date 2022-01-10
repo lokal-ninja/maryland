@@ -1,5 +1,5 @@
 ---
 title: "Pleasant Vapes"
 url: /dunkirk/pleasant-vapes/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aberdeen Chevrolet"
 url: /aberdeen/aberdeen-chevrolet/
-shop: Autohaus
+shop: car
 ---

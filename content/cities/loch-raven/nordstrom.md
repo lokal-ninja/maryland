@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /loch-raven/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

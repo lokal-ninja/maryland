@@ -1,5 +1,5 @@
 ---
 title: "Watson's Fireplace and Patio"
 url: /lutherville/watsons-fireplace-and-patio/
-shop: Möbel
+shop: furniture
 ---

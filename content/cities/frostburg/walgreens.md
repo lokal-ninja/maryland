@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /frostburg/walgreens/
-shop: Drogerie
+shop: chemist
 ---

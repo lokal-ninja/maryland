@@ -1,5 +1,5 @@
 ---
 title: "ZIPS 123"
 url: /baltimore/zips-123/
-shop: Wäscherei
+shop: laundry
 ---

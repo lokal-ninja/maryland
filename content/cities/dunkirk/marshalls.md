@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /dunkirk/marshalls/
-shop: Warenhaus
+shop: department store
 ---

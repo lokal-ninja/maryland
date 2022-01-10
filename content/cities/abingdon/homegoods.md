@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /abingdon/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

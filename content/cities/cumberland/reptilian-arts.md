@@ -1,5 +1,5 @@
 ---
 title: "Reptilian Arts"
 url: /cumberland/reptilian-arts/
-shop: Tiere
+shop: pet
 ---

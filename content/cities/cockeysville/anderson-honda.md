@@ -1,5 +1,5 @@
 ---
 title: "Anderson Honda"
 url: /cockeysville/anderson-honda/
-shop: Autohaus
+shop: car
 ---

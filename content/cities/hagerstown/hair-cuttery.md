@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /hagerstown/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

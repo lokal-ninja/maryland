@@ -1,5 +1,5 @@
 ---
 title: "Speed Unlimited"
 url: /suitland/speed-unlimited/
-shop: Autoteile
+shop: car parts
 ---

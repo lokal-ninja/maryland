@@ -1,5 +1,5 @@
 ---
 title: "Greenmount Market"
 url: /baltimore/greenmount-market/
-shop: Lebensmittel
+shop: convenience
 ---

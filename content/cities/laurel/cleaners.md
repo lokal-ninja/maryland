@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /laurel/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

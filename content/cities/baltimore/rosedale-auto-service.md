@@ -1,5 +1,5 @@
 ---
 title: "Rosedale Auto Service"
 url: /baltimore/rosedale-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

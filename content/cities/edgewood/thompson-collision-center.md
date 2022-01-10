@@ -1,5 +1,5 @@
 ---
 title: "Thompson Collision Center"
 url: /edgewood/thompson-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pillion Tea"
 url: /baltimore/pillion-tea/
-shop: Tee
+shop: tea
 ---

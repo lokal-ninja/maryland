@@ -1,5 +1,5 @@
 ---
 title: "Chapterhouse"
 url: /baltimore/chapterhouse/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fully Cocked"
 url: /essex/fully-cocked/
-shop: Waffen
+shop: weapons
 ---

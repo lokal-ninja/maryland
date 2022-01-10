@@ -1,5 +1,5 @@
 ---
 title: "Gallant's Automotive"
 url: /bel-air/gallants-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

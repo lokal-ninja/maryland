@@ -1,5 +1,5 @@
 ---
 title: "Shamrock Liquors"
 url: /baltimore/shamrock-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

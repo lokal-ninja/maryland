@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /towson/chicos/
-shop: Kleidung
+shop: clothes
 ---

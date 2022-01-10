@@ -1,5 +1,5 @@
 ---
 title: "Maxway"
 url: /middle-river/maxway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lusby/walgreens/
-shop: Drogerie
+shop: chemist
 ---
