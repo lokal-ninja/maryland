@@ -1,5 +1,5 @@
 ---
-title: "Gabe’s"
+title: "Gabe's"
 url: /highlandtown/gabes/
-shop: department store
+shop: clothes
 ---

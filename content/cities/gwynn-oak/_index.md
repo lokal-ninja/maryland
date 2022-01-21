@@ -1,6 +1,6 @@
 ---
 title: Gwynn Oak
 url: /gwynn-oak/
-latitude: 39.293
-longitude: -76.731
+latitude: 39.31
+longitude: -76.748
 ---
