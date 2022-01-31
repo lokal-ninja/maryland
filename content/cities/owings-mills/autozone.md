@@ -1,5 +1,5 @@
 ---
-title: "Autozone"
+title: "AutoZone"
 url: /owings-mills/autozone/
-shop: car repair
+shop: car parts
 ---
