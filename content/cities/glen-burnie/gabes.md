@@ -1,5 +1,5 @@
 ---
-title: "Gabe’s"
+title: "Gabe's"
 url: /glen-burnie/gabes/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /ellicott-city/edible-arrangements/
-shop: shop
+shop: gift
 ---
