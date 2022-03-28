@@ -1,4 +1,4 @@
-id: 315788814
+id: 315788811
 type: way
 latitude: 39.36869
 longitude: -76.65011
@@ -7,5 +7,5 @@ city: Baltimore
 street: "Smith Avenue"
 housenumber: 1330
 phone: ""
-opening_hours: ""
+opening_hours: "PH,Mo-Su 07:00-21:00"
 website: "https://www.wholefoodsmarket.com/"

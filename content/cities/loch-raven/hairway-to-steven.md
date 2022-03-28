@@ -1,5 +1,5 @@
 ---
 title: "Hairway to Steven"
-url: /towson/hairway-to-steven/
+url: /loch-raven/hairway-to-steven/
 shop: hairdresser
 ---
