@@ -1,5 +1,5 @@
 ---
 title: "The Harbor Interiors, LLC"
-url: /national-harbor/the-harbor-interiors-llc/
+url: /oxon-hill/the-harbor-interiors-llc/
 shop: furniture
 ---

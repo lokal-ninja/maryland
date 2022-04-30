@@ -1,5 +1,5 @@
 ---
 title: "Package Deals Plus"
-url: /baltimore/package-deals-plus/
+url: /brooklyn/package-deals-plus/
 shop: butcher
 ---
