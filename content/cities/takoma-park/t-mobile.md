@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /washington/t-mobile/
+url: /takoma-park/t-mobile/
 shop: mobile phone
 ---
