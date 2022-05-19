@@ -1,6 +1,6 @@
 ---
 title: Accokeek
 url: /accokeek/
-latitude: 38.65
-longitude: -77.041
+latitude: 38.66
+longitude: -77.017
 ---

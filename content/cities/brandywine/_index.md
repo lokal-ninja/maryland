@@ -1,6 +1,6 @@
 ---
 title: Brandywine
 url: /brandywine/
-latitude: 38.665
-longitude: -76.876
+latitude: 38.673
+longitude: -76.873
 ---

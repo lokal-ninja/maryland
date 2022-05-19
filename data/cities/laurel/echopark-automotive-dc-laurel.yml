@@ -7,5 +7,5 @@ city: Laurel
 street: "Freestate Drive"
 housenumber: 8751
 phone: "+1 410-213-5286"
-opening_hours: "Mon-Thu: 9AM-9PM; Fri: 9AM-8PM; Sat: 9AM-9PM; Sun: Closed"
+opening_hours: "Mo-Th,Sa 09:00-21:00; Fr 09:00-20:00; Su off"
 website: "https://www.echopark.com/dealerships/laurel.htm"
