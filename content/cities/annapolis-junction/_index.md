@@ -1,6 +1,6 @@
 ---
 title: Annapolis Junction
 url: /annapolis-junction/
-latitude: 39.129
-longitude: -76.793
+latitude: 39.13
+longitude: -76.792
 ---

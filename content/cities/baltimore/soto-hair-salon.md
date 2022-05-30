@@ -1,5 +1,5 @@
 ---
-title: "Soto Hair Salon"
+title: "SoTo Hair Salon"
 url: /baltimore/soto-hair-salon/
 shop: hairdresser
 ---

@@ -1,6 +1,6 @@
 ---
 title: Germantown
 url: /germantown/
-latitude: 39.181
-longitude: -77.268
+latitude: 39.203
+longitude: -77.247
 ---
