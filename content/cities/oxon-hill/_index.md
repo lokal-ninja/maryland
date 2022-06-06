@@ -1,6 +1,6 @@
 ---
 title: Oxon Hill
 url: /oxon-hill/
-latitude: 38.79
-longitude: -77.014
+latitude: 38.805
+longitude: -76.986
 ---
