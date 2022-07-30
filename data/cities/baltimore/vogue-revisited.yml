@@ -1,11 +1,11 @@
-id: 336412143
-type: way
-latitude: 39.33738
-longitude: -76.63335
+id: 9908120903
+type: node
+latitude: 39.33744
+longitude: -76.63326
 postcode: "21211"
 city: Baltimore
 street: "Roland Avenue"
 housenumber: 4002
-phone: "410-235-4140"
-opening_hours: ""
-website: "http://voguerevisited.com/"
+phone: "+1 410-235-4140"
+opening_hours: "Mo,Su off; Tu-Sa 11:00-16:30"
+website: "https://www.voguerevisited.com/"
