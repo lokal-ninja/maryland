@@ -1,6 +1,6 @@
 ---
 title: Mount Rainier
 url: /mount-rainier/
-latitude: 38.938
-longitude: -76.961
+latitude: 38.943
+longitude: -76.973
 ---
