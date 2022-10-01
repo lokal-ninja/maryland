@@ -1,6 +1,6 @@
 ---
 title: Glen Arm
 url: /glen-arm/
-latitude: 39.472
-longitude: -76.508
+latitude: 39.436
+longitude: -76.486
 ---
