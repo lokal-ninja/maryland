@@ -1,11 +1,11 @@
-id: 336291568
-type: way
-latitude: 39.28443
-longitude: -76.5915
-postcode: "21231"
+id: 4709807702
+type: node
+latitude: 39.37143
+longitude: -76.61045
+postcode: "21212"
 city: Baltimore
-street: "Fleet Street"
-housenumber: 1747
+street: "York Road"
+housenumber: 6306
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-17:00"
+opening_hours: ""
 website: ""
