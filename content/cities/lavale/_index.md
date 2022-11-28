@@ -1,6 +1,6 @@
 ---
-title: Lavale
+title: LaVale
 url: /lavale/
-latitude: 39.626
-longitude: -78.835
+latitude: 39.645
+longitude: -78.822
 ---
