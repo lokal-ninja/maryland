@@ -1,6 +1,6 @@
 ---
 title: Port Deposit
 url: /port-deposit/
-latitude: 39.622
-longitude: -76.078
+latitude: 39.637
+longitude: -76.072
 ---

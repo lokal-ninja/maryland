@@ -1,5 +1,5 @@
 ---
 title: "Sunsations"
-url: /ocean-city/sunsations-3/
+url: /ocean-city/sunsations/
 shop: clothes
 ---
