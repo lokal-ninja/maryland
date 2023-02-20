@@ -1,5 +1,5 @@
 ---
-title: "Baldino's Lock and Key"
+title: "Baldino’s Lock & Key"
 url: /lutherville/baldinos-lock-and-key/
 shop: locksmith
 ---
