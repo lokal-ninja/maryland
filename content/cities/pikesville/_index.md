@@ -1,6 +1,6 @@
 ---
 title: Pikesville
 url: /pikesville/
-latitude: 39.376
-longitude: -76.725
+latitude: 39.373
+longitude: -76.721
 ---
