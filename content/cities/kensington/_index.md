@@ -1,6 +1,6 @@
 ---
 title: Kensington
 url: /kensington/
-latitude: 39.028
-longitude: -77.078
+latitude: 39.029
+longitude: -77.077
 ---

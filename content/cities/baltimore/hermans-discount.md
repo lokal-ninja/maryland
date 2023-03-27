@@ -1,5 +1,5 @@
 ---
 title: "Hermans Discount"
 url: /baltimore/hermans-discount/
-shop: charity
+shop: variety store
 ---
