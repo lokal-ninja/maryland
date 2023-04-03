@@ -1,6 +1,6 @@
 ---
 title: Taneytown
 url: /taneytown/
-latitude: 39.66
+latitude: 39.659
 longitude: -77.176
 ---

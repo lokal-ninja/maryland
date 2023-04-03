@@ -1,6 +1,6 @@
 ---
 title: Rosedale
 url: /rosedale/
-latitude: 39.317
-longitude: -76.514
+latitude: 39.33
+longitude: -76.518
 ---
