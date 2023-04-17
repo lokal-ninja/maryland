@@ -1,6 +1,6 @@
 ---
 title: Westminster
 url: /westminster/
-latitude: 39.575
+latitude: 39.574
 longitude: -76.995
 ---
