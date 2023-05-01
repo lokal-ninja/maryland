@@ -1,6 +1,6 @@
 ---
 title: Randallstown
 url: /randallstown/
-latitude: 39.383
-longitude: -76.824
+latitude: 39.382
+longitude: -76.822
 ---
