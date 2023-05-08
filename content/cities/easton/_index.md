@@ -2,5 +2,5 @@
 title: Easton
 url: /easton/
 latitude: 38.784
-longitude: -76.086
+longitude: -76.087
 ---
