@@ -1,6 +1,6 @@
 ---
 title: Essex
 url: /essex/
-latitude: 39.315
-longitude: -76.453
+latitude: 39.299
+longitude: -76.438
 ---
