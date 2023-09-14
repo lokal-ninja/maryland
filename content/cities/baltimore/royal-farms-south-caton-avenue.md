@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /baltimore/royal-farms/
+url: /baltimore/royal-farms-south-caton-avenue/
 shop: convenience
 ---

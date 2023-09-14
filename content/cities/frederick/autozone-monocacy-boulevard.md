@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /frederick/autozone/
+url: /frederick/autozone-monocacy-boulevard/
 shop: car parts
 ---

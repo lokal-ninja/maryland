@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /baltimore/royal-farms/
+url: /baltimore/royal-farms-odonnell-street/
 shop: convenience
 ---

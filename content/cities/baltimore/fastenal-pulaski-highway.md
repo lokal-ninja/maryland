@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
-url: /baltimore/fastenal/
+url: /baltimore/fastenal-pulaski-highway/
 shop: trade
 ---

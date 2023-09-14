@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /laurel/aldi/
+url: /laurel/aldi-corridor-marketplace/
 shop: supermarket
 ---

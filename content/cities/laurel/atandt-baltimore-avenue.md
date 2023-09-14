@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /laurel/atandt/
+url: /laurel/atandt-baltimore-avenue/
 shop: mobile phone
 ---

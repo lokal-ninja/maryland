@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /middle-river/royal-farms/
+url: /middle-river/royal-farms-eastern-avenue/
 shop: convenience
 ---

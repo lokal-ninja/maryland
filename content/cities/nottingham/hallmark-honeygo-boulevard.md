@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
-url: /nottingham/hallmark/
+url: /nottingham/hallmark-honeygo-boulevard/
 shop: gift
 ---

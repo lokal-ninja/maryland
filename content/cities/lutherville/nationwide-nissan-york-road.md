@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Nissan"
-url: /lutherville/nationwide-nissan/
+url: /lutherville/nationwide-nissan-york-road/
 shop: car
 ---

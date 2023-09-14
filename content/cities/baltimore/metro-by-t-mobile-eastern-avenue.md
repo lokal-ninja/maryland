@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /baltimore/metro-by-t-mobile/
+url: /baltimore/metro-by-t-mobile-eastern-avenue/
 shop: mobile phone
 ---

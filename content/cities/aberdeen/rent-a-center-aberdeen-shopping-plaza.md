@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
-url: /aberdeen/rent-a-center/
+url: /aberdeen/rent-a-center-aberdeen-shopping-plaza/
 shop: furniture
 ---

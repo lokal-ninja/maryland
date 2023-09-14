@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /baltimore/giant/
+url: /baltimore/giant-sinclair-lane/
 shop: supermarket
 ---

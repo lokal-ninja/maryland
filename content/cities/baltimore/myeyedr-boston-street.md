@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
-url: /baltimore/myeyedr/
+url: /baltimore/myeyedr-boston-street/
 shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /gaithersburg/safeway/
+url: /gaithersburg/safeway-darnestown-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /bowie/giant/
+url: /bowie/giant-nw-crane-highway/
 shop: supermarket
 ---

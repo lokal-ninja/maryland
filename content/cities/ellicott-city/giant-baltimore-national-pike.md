@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /ellicott-city/giant/
+url: /ellicott-city/giant-baltimore-national-pike/
 shop: supermarket
 ---

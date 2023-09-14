@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /frederick/hair-cuttery/
+url: /frederick/hair-cuttery-sugarloaf-parkway/
 shop: hairdresser
 ---

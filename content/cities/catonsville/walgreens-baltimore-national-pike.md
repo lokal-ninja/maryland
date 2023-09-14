@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /catonsville/walgreens/
+url: /catonsville/walgreens-baltimore-national-pike/
 shop: chemist
 ---

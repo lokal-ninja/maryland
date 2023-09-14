@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /baltimore/aldi/
+url: /baltimore/aldi-west-cold-spring-lane/
 shop: supermarket
 ---

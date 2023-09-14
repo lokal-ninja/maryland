@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /hagerstown/sheetz/
+url: /hagerstown/sheetz-south-potomac-street/
 shop: convenience
 ---

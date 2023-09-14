@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /bel-air/gamestop/
+url: /bel-air/gamestop-bel-air-south-parkway/
 shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /hyattsville/giant/
+url: /hyattsville/giant-east-west-highway/
 shop: supermarket
 ---

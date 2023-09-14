@@ -1,5 +1,5 @@
 ---
 title: "Streets Market"
-url: /baltimore/streets-market/
+url: /baltimore/streets-market-fleet-street/
 shop: supermarket
 ---

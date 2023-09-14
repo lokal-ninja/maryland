@@ -1,5 +1,5 @@
 ---
 title: "Weis"
-url: /frederick/weis/
+url: /frederick/weis-prospect-boulevard/
 shop: supermarket
 ---

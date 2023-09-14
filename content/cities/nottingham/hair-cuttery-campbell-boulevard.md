@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /nottingham/hair-cuttery/
+url: /nottingham/hair-cuttery-campbell-boulevard/
 shop: hairdresser
 ---

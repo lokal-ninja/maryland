@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /frederick/mattress-firm/
+url: /frederick/mattress-firm-osprey-way/
 shop: bed
 ---

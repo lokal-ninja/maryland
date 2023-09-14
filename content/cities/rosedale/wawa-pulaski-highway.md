@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /rosedale/wawa/
+url: /rosedale/wawa-pulaski-highway/
 shop: convenience
 ---

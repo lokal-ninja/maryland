@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /baltimore/family-dollar/
+url: /baltimore/family-dollar-harford-road-2/
 shop: variety store
 ---

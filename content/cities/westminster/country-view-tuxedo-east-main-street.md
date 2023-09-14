@@ -1,5 +1,5 @@
 ---
 title: "Country View Tuxedo"
-url: /westminster/country-view-tuxedo/
+url: /westminster/country-view-tuxedo-east-main-street/
 shop: gift
 ---

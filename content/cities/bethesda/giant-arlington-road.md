@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /bethesda/giant/
+url: /bethesda/giant-arlington-road/
 shop: supermarket
 ---

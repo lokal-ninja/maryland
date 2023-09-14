@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /catonsville/royal-farms/
+url: /catonsville/royal-farms-baltimore-national-pike/
 shop: convenience
 ---

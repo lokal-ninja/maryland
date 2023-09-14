@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /rockville/safeway/
+url: /rockville/safeway-norbeck-road/
 shop: supermarket
 ---

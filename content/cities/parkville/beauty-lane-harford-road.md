@@ -1,5 +1,5 @@
 ---
 title: "Beauty Lane"
-url: /parkville/beauty-lane/
+url: /parkville/beauty-lane-harford-road/
 shop: beauty
 ---

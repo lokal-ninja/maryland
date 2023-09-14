@@ -1,5 +1,5 @@
 ---
 title: "Dash In"
-url: /waldorf/dash-in/
+url: /waldorf/dash-in-mattawoman-beantown-road/
 shop: convenience
 ---

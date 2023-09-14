@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /owings-mills/royal-farms/
+url: /owings-mills/royal-farms-reisterstown-road/
 shop: convenience
 ---

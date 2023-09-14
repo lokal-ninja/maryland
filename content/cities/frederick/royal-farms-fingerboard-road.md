@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /frederick/royal-farms/
+url: /frederick/royal-farms-fingerboard-road/
 shop: convenience
 ---

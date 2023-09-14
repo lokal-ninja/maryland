@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
-url: /rosedale/cleaners/
+url: /rosedale/cleaners-philadelphia-road/
 shop: laundry
 ---

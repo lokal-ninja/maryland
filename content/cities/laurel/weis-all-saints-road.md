@@ -1,5 +1,5 @@
 ---
 title: "Weis"
-url: /laurel/weis/
+url: /laurel/weis-all-saints-road/
 shop: supermarket
 ---

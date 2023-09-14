@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /glen-burnie/royal-farms/
+url: /glen-burnie/royal-farms-ritchie-highway/
 shop: convenience
 ---
