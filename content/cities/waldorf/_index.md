@@ -1,6 +1,6 @@
 ---
 title: Waldorf
 url: /waldorf/
-latitude: 38.622
-longitude: -76.918
+latitude: 38.623
+longitude: -76.917
 ---
