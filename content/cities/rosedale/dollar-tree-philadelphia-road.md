@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /rosedale/dollar-tree-chesaco-avenue/
+url: /rosedale/dollar-tree-philadelphia-road/
 shop: variety store
 ---
