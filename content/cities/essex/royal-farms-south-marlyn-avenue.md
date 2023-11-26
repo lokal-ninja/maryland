@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /essex/royal-farms-old-eastern-avenue/
+url: /essex/royal-farms-south-marlyn-avenue/
 shop: convenience
 ---
