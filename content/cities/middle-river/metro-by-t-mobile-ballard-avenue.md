@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /edgewood/metro-by-t-mobile-hanson-road/
+url: /middle-river/metro-by-t-mobile-ballard-avenue/
 shop: mobile phone
 ---
