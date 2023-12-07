@@ -1,6 +1,6 @@
 ---
 title: Potomac
 url: /potomac/
-latitude: 39.041
-longitude: -77.157
+latitude: 39.017
+longitude: -77.208
 ---

@@ -1,6 +1,6 @@
 ---
 title: Annapolis
 url: /annapolis/
-latitude: 38.989
-longitude: -76.54
+latitude: 38.97
+longitude: -76.523
 ---
