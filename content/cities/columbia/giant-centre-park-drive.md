@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /frederick/giant-kingfisher-drive/
+url: /columbia/giant-centre-park-drive/
 shop: supermarket
 ---

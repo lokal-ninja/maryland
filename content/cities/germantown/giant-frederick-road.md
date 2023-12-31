@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /columbia/giant-cradlerock-way/
+url: /germantown/giant-frederick-road/
 shop: supermarket
 ---
