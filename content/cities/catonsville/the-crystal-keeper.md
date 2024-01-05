@@ -1,5 +1,5 @@
 ---
 title: "The Crystal Keeper"
 url: /catonsville/the-crystal-keeper/
-shop: shop
+shop: esoteric
 ---
