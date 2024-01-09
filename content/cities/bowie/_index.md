@@ -1,6 +1,6 @@
 ---
 title: Bowie
 url: /bowie/
-latitude: 38.954
-longitude: -76.824
+latitude: 38.955
+longitude: -76.828
 ---
