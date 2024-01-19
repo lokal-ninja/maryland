@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /dundalk/dollar-general-dundalk-avenue/
+url: /dundalk/dollar-general-merritt-boulevard/
 shop: variety store
 ---

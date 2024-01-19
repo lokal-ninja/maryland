@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /fruitland/metro-by-t-mobile/
+url: /middle-river/metro-by-t-mobile-kingston-road/
 shop: mobile phone
 ---
