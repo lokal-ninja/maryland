@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /bel-air/7-eleven-south-main-street/
+url: /catonsville/7-eleven-frederick-road/
 shop: convenience
 ---
