@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /gaithersburg/public-storage-goshen-road/
+url: /owings-mills/public-storage/
 shop: storage rental
 ---
