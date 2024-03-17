@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /rosedale/royal-farms-pulaski-highway/
+url: /rosedale/royal-farms-philadelphia-road/
 shop: convenience
 ---

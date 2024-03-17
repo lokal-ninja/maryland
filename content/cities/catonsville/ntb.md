@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /catonsville/ntb/
-shop: tyres
+shop: car repair
 ---
