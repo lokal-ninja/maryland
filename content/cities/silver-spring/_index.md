@@ -1,6 +1,6 @@
 ---
 title: Silver Spring
 url: /silver-spring/
-latitude: 39.021
-longitude: -76.976
+latitude: 38.997
+longitude: -77.024
 ---
