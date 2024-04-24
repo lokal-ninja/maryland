@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /dundalk/7-eleven-north-point-road/
+url: /catonsville/7-eleven-frederick-road/
 shop: convenience
 ---
