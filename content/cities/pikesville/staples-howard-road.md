@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /pikesville/staples-mchenry-avenue/
+url: /pikesville/staples-howard-road/
 shop: office supplies
 ---
