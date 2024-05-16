@@ -1,6 +1,6 @@
 ---
 title: Catonsville
 url: /catonsville/
-latitude: 39.285
-longitude: -76.76
+latitude: 39.274
+longitude: -76.779
 ---
