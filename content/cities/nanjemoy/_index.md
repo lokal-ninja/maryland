@@ -1,6 +1,6 @@
 ---
 title: Nanjemoy
 url: /nanjemoy/
-latitude: 38.466
-longitude: -77.252
+latitude: 38.458
+longitude: -77.245
 ---

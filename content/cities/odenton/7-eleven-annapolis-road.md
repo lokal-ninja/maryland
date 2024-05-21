@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /essex/7-eleven-eastern-boulevard/
+url: /odenton/7-eleven-annapolis-road/
 shop: convenience
 ---
