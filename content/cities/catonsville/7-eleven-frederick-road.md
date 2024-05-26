@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /odenton/7-eleven-annapolis-road/
+url: /catonsville/7-eleven-frederick-road/
 shop: convenience
 ---
