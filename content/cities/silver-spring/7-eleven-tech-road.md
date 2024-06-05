@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /bel-air/7-eleven-south-main-street/
+url: /silver-spring/7-eleven-tech-road/
 shop: convenience
 ---
