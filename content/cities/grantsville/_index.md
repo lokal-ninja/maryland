@@ -1,6 +1,6 @@
 ---
 title: Grantsville
 url: /grantsville/
-latitude: 39.695
-longitude: -79.101
+latitude: 39.696
+longitude: -79.1
 ---
