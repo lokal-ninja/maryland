@@ -1,6 +1,6 @@
 ---
 title: Wheaton
 url: /wheaton/
-latitude: 39.053
-longitude: -77.05
+latitude: 39.035
+longitude: -77.055
 ---

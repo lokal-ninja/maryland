@@ -1,6 +1,6 @@
 ---
 title: Eldersburg
 url: /eldersburg/
-latitude: 39.405
-longitude: -76.949
+latitude: 39.398
+longitude: -76.924
 ---
