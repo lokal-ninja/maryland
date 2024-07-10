@@ -1,6 +1,6 @@
 ---
 title: California
 url: /california/
-latitude: 38.309
-longitude: -76.534
+latitude: 38.297
+longitude: -76.51
 ---

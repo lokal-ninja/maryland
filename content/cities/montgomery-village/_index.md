@@ -1,6 +1,6 @@
 ---
 title: Montgomery Village
 url: /montgomery-village/
-latitude: 39.155
-longitude: -77.199
+latitude: 39.171
+longitude: -77.205
 ---
