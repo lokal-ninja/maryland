@@ -1,6 +1,6 @@
 ---
 title: Ocean Pines
 url: /ocean-pines/
-latitude: 38.376
-longitude: -75.159
+latitude: 38.374
+longitude: -75.162
 ---

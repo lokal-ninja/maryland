@@ -1,6 +1,6 @@
 ---
 title: Hunt Valley
 url: /hunt-valley/
-latitude: 39.49
-longitude: -76.656
+latitude: 39.497
+longitude: -76.655
 ---
