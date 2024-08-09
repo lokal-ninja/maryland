@@ -1,6 +1,6 @@
 ---
 title: Lutherville
 url: /lutherville/
-latitude: 39.43
-longitude: -76.625
+latitude: 39.42
+longitude: -76.615
 ---

@@ -1,6 +1,6 @@
 ---
 title: Princess Anne
 url: /princess-anne/
-latitude: 38.216
+latitude: 38.205
 longitude: -75.695
 ---

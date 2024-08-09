@@ -1,6 +1,6 @@
 ---
 title: Bel Air
 url: /bel-air/
-latitude: 39.523
-longitude: -76.353
+latitude: 39.524
+longitude: -76.361
 ---
