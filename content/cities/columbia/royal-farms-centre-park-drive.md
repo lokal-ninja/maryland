@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /essex/royal-farms-old-eastern-avenue/
+url: /columbia/royal-farms-centre-park-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /columbia/royal-farms-minstrel-way/
+url: /essex/royal-farms-mace-avenue/
 shop: convenience
 ---
