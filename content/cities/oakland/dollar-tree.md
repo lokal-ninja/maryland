@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /dundalk/dollar-tree-merritt-boulevard/
+url: /oakland/dollar-tree/
 shop: variety store
 ---

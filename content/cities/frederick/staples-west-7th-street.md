@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /frederick/staples-urbana-pike/
+url: /frederick/staples-west-7th-street/
 shop: office supplies
 ---
