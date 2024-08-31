@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /essex/royal-farms-mace-avenue/
+url: /essex/royal-farms-old-eastern-avenue/
 shop: convenience
 ---

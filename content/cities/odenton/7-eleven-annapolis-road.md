@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /baltimore/7-eleven-francis-avenue/
+url: /odenton/7-eleven-annapolis-road/
 shop: convenience
 ---
