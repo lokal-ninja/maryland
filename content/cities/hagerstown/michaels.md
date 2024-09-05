@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /hagerstown/michaels/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /nottingham/saloncentric/
-shop: beauty
+shop: Kosmetik
 ---

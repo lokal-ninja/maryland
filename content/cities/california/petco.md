@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /california/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /greenbelt/giant/
-shop: supermarket
+shop: Supermarkt
 ---

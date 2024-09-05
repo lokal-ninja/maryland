@@ -1,5 +1,5 @@
 ---
 title: "Artists’ Gallery"
 url: /ellicott-city/artists-gallery/
-shop: art
+shop: Kunst
 ---

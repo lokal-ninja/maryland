@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /silver-spring/giant-new-hampshire-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

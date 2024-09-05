@@ -1,5 +1,5 @@
 ---
 title: "Nails Tech"
 url: /pasadena/nails-tech/
-shop: beauty
+shop: Kosmetik
 ---

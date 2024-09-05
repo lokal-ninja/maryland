@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /olney/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bowie/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

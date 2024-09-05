@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /nottingham/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supreme Auto Works"
 url: /edgewood/supreme-auto-works/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /annapolis/giant/
-shop: supermarket
+shop: Supermarkt
 ---

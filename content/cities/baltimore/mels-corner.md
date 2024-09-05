@@ -1,5 +1,5 @@
 ---
 title: "Mel's Corner"
 url: /baltimore/mels-corner/
-shop: pawnbroker
+shop: Leiher
 ---

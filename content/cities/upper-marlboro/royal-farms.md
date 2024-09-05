@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /upper-marlboro/royal-farms/
-shop: convenience
+shop: Lebensmittel
 ---

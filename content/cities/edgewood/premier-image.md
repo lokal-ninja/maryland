@@ -1,5 +1,5 @@
 ---
 title: "Premier Image"
 url: /edgewood/premier-image/
-shop: hairdresser
+shop: Friseur
 ---

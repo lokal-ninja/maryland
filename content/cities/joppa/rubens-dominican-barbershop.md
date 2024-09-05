@@ -1,5 +1,5 @@
 ---
 title: "Rubens Dominican Barbershop"
 url: /joppa/rubens-dominican-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

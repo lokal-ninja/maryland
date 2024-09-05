@@ -1,5 +1,5 @@
 ---
 title: "Fancy Nails"
 url: /glen-burnie/fancy-nails/
-shop: beauty
+shop: Kosmetik
 ---

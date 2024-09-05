@@ -1,5 +1,5 @@
 ---
 title: "Adventure Nursery"
 url: /cooksville/adventure-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

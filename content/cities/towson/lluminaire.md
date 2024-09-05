@@ -1,5 +1,5 @@
 ---
 title: "Lluminaire"
 url: /towson/lluminaire/
-shop: hairdresser
+shop: Friseur
 ---

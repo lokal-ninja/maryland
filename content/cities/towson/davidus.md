@@ -1,5 +1,5 @@
 ---
 title: "Davidus"
 url: /towson/davidus/
-shop: tobacco
+shop: Tabak
 ---

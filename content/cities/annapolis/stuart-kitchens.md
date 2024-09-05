@@ -1,5 +1,5 @@
 ---
 title: "Stuart Kitchens"
 url: /annapolis/stuart-kitchens/
-shop: kitchen
+shop: Küchen
 ---

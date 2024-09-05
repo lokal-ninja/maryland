@@ -1,5 +1,5 @@
 ---
 title: "Floyd's Barbershop"
 url: /lutherville/floyds-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

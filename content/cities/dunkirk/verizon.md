@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /dunkirk/verizon/
-shop: mobile phone
+shop: Handy
 ---

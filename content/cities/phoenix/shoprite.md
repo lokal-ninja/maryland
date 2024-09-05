@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /phoenix/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

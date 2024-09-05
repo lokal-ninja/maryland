@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /myersville/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

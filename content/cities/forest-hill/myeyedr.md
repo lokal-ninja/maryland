@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /forest-hill/myeyedr/
-shop: optician
+shop: Optiker
 ---

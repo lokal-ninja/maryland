@@ -1,5 +1,5 @@
 ---
 title: "Ovme"
 url: /bethesda/ovme/
-shop: beauty
+shop: Kosmetik
 ---

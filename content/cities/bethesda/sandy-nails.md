@@ -1,5 +1,5 @@
 ---
 title: "Sandy Nails"
 url: /bethesda/sandy-nails/
-shop: beauty
+shop: Kosmetik
 ---

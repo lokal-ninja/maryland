@@ -1,5 +1,5 @@
 ---
 title: "Phenix Salon Suites"
 url: /parkville/phenix-salon-suites/
-shop: beauty
+shop: Kosmetik
 ---

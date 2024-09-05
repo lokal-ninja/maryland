@@ -1,5 +1,5 @@
 ---
 title: "Zips Dry Cleaning"
 url: /bel-air/zips-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /baltimore/advance-auto-parts-frederick-avenue/
-shop: car parts
+shop: Autoteile
 ---

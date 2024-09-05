@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /essex/grainger/
-shop: trade
+shop: Baustoffe
 ---

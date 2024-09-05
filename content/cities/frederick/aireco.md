@@ -1,5 +1,5 @@
 ---
 title: "Aireco"
 url: /frederick/aireco/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tony's Furniture"
 url: /laurel/tonys-furniture/
-shop: furniture
+shop: Möbel
 ---

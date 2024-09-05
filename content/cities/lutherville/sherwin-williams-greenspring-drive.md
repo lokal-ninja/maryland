@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /lutherville/sherwin-williams-greenspring-drive/
-shop: paint
+shop: Farben
 ---

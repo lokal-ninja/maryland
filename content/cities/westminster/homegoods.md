@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /westminster/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /baltimore/expressions/
-shop: clothes
+shop: Kleidung
 ---

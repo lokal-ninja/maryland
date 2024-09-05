@@ -1,5 +1,5 @@
 ---
 title: "Bei Capelli"
 url: /bel-air/bei-capelli/
-shop: hairdresser
+shop: Friseur
 ---

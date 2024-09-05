@@ -1,5 +1,5 @@
 ---
 title: "Sam's Sweets"
 url: /westernport/sams-sweets/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bel Air Games"
 url: /bel-air/bel-air-games/
-shop: games
+shop: Spiele
 ---

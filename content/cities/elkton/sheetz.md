@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /elkton/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

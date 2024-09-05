@@ -1,5 +1,5 @@
 ---
 title: "Paris West Optical"
 url: /baltimore/paris-west-optical/
-shop: optician
+shop: Optiker
 ---

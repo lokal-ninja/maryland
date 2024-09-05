@@ -1,5 +1,5 @@
 ---
 title: "PlazaArt"
 url: /baltimore/plazaart/
-shop: craft
+shop: Basteln
 ---

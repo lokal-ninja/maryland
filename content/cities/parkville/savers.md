@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /parkville/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

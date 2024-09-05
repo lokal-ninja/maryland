@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /nottingham/mr-tire/
-shop: car repair
+shop: Autowerkstatt
 ---

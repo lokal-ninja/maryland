@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /silver-spring/giant-international-drive/
-shop: supermarket
+shop: Supermarkt
 ---

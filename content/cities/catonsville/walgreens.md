@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /catonsville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

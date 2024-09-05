@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /bethesda/tesla/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harford Hair Co."
 url: /parkville/harford-hair-co/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ukazoo Books"
 url: /parkville/ukazoo-books/
-shop: books
+shop: Bücher
 ---

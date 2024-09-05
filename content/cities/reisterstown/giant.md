@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /reisterstown/giant/
-shop: supermarket
+shop: Supermarkt
 ---

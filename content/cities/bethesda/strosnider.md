@@ -1,5 +1,5 @@
 ---
 title: "Strosnider"
 url: /bethesda/strosnider/
-shop: hardware
+shop: Eisenwaren
 ---

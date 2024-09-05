@@ -1,5 +1,5 @@
 ---
 title: "L Vondredi Boutique"
 url: /salisbury/l-vondredi-boutique/
-shop: clothes
+shop: Kleidung
 ---

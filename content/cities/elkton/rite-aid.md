@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /elkton/rite-aid/
-shop: chemist
+shop: Drogerie
 ---

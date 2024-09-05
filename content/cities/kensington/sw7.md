@@ -1,5 +1,5 @@
 ---
 title: "SW7"
 url: /kensington/sw7/
-shop: antiques
+shop: Antiquitäten
 ---

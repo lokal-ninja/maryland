@@ -1,5 +1,5 @@
 ---
 title: "Liberty Cannabis"
 url: /baltimore/liberty-cannabis/
-shop: cannabis
+shop: Hanf
 ---

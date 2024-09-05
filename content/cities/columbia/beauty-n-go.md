@@ -1,5 +1,5 @@
 ---
 title: "Beauty N Go"
 url: /columbia/beauty-n-go/
-shop: beauty
+shop: Kosmetik
 ---

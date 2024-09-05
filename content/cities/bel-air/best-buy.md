@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /bel-air/best-buy/
-shop: electronics
+shop: Elektronik
 ---

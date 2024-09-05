@@ -1,5 +1,5 @@
 ---
 title: "The Dena Barbershop"
 url: /pasadena/the-dena-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

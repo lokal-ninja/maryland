@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /marlow-heights/giant/
-shop: supermarket
+shop: Supermarkt
 ---

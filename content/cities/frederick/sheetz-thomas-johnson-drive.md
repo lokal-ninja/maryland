@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /frederick/sheetz-thomas-johnson-drive/
-shop: convenience
+shop: Lebensmittel
 ---

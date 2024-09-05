@@ -1,5 +1,5 @@
 ---
 title: "Audi Hunt Valley"
 url: /cockeysville/audi-hunt-valley/
-shop: car
+shop: Autohaus
 ---

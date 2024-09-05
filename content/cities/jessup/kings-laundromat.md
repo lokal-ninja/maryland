@@ -1,5 +1,5 @@
 ---
 title: "King's Laundromat"
 url: /jessup/kings-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

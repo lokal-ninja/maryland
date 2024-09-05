@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /gambrills/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

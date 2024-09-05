@@ -1,5 +1,5 @@
 ---
 title: "Nail Palace"
 url: /owings-mills/nail-palace/
-shop: beauty
+shop: Kosmetik
 ---

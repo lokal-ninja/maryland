@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /laurel/carmax/
-shop: car
+shop: Autohaus
 ---

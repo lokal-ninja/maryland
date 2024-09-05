@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /lavale/cosmoprof/
-shop: beauty
+shop: Kosmetik
 ---

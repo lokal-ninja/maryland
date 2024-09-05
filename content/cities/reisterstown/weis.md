@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /reisterstown/weis/
-shop: supermarket
+shop: Supermarkt
 ---

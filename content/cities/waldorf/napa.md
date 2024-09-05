@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /waldorf/napa/
-shop: car parts
+shop: Autoteile
 ---

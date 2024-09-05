@@ -1,5 +1,5 @@
 ---
 title: "Psychic Readings"
 url: /ellicott-city/psychic-readings/
-shop: shop
+shop: Allgemein
 ---

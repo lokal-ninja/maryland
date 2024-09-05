@@ -1,5 +1,5 @@
 ---
 title: "Gold Corner II"
 url: /gaithersburg/gold-corner-ii/
-shop: convenience
+shop: Lebensmittel
 ---

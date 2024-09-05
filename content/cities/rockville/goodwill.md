@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /rockville/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

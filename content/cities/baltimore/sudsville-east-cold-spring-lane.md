@@ -1,5 +1,5 @@
 ---
 title: "Sudsville"
 url: /baltimore/sudsville-east-cold-spring-lane/
-shop: laundry
+shop: Wäscherei
 ---

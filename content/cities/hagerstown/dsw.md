@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /hagerstown/dsw/
-shop: shoes
+shop: Schuhe
 ---

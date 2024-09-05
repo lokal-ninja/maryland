@@ -1,5 +1,5 @@
 ---
 title: "JBA Infiniti"
 url: /ellicott-city/jba-infiniti/
-shop: car
+shop: Autohaus
 ---

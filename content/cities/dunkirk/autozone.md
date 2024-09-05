@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dunkirk/autozone/
-shop: car parts
+shop: Autoteile
 ---

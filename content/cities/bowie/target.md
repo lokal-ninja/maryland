@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bowie/target/
-shop: department store
+shop: Warenhaus
 ---

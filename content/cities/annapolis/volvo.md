@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /annapolis/volvo/
-shop: car
+shop: Autohaus
 ---

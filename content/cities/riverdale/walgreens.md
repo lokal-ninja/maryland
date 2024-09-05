@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /riverdale/walgreens/
-shop: chemist
+shop: Drogerie
 ---

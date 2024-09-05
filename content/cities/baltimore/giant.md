@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /baltimore/giant/
-shop: supermarket
+shop: Supermarkt
 ---

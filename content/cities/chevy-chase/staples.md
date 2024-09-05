@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chevy-chase/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

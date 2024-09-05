@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /adelphi/rainbow/
-shop: clothes
+shop: Kleidung
 ---

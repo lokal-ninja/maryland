@@ -1,5 +1,5 @@
 ---
 title: "Gamberdella's"
 url: /towson/gamberdellas/
-shop: clothes
+shop: Kleidung
 ---

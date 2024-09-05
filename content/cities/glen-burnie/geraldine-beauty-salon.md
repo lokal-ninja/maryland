@@ -1,5 +1,5 @@
 ---
 title: "Geraldine Beauty Salon"
 url: /glen-burnie/geraldine-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

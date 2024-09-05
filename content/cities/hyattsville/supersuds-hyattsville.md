@@ -1,5 +1,5 @@
 ---
 title: "SuperSuds Hyattsville"
 url: /hyattsville/supersuds-hyattsville/
-shop: laundry
+shop: Wäscherei
 ---

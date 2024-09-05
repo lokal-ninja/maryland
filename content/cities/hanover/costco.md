@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /hanover/costco/
-shop: wholesale
+shop: Großhandel
 ---

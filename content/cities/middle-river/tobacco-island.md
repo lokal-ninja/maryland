@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Island"
 url: /middle-river/tobacco-island/
-shop: tobacco
+shop: Tabak
 ---

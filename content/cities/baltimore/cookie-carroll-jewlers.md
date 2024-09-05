@@ -1,5 +1,5 @@
 ---
 title: "Cookie Carroll Jewlers"
 url: /baltimore/cookie-carroll-jewlers/
-shop: jewelry
+shop: Schmuck
 ---

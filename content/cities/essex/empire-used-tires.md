@@ -1,5 +1,5 @@
 ---
 title: "Empire Used Tires"
 url: /essex/empire-used-tires/
-shop: tyres
+shop: Reifen
 ---

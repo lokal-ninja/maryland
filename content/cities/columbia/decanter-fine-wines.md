@@ -1,5 +1,5 @@
 ---
 title: "Decanter Fine Wines"
 url: /columbia/decanter-fine-wines/
-shop: wine
+shop: Wein
 ---

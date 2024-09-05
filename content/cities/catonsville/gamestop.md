@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /catonsville/gamestop/
-shop: video games
+shop: Videospiele
 ---

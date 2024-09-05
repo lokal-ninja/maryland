@@ -1,5 +1,5 @@
 ---
 title: "Roots Market"
 url: /olney/roots-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elite Beauty Boutique"
 url: /baltimore/elite-beauty-boutique/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Smith's Barber Studio"
 url: /laurel/mr-smiths-barber-studio/
-shop: hairdresser
+shop: Friseur
 ---

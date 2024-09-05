@@ -1,5 +1,5 @@
 ---
 title: "QuickStop"
 url: /ellicott-city/quickstop/
-shop: convenience
+shop: Lebensmittel
 ---

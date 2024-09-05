@@ -1,5 +1,5 @@
 ---
 title: "Elements Massage"
 url: /lutherville/elements-massage/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /taneytown/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

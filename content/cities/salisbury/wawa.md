@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /salisbury/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Psychic"
 url: /baltimore/psychic/
-shop: shop
+shop: Allgemein
 ---

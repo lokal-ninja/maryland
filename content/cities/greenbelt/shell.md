@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /greenbelt/shell/
-shop: convenience
+shop: Lebensmittel
 ---

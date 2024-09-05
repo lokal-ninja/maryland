@@ -1,5 +1,5 @@
 ---
 title: "Arcade"
 url: /berlin/arcade/
-shop: gift
+shop: Andenken
 ---

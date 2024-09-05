@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /gambrills/giant/
-shop: supermarket
+shop: Supermarkt
 ---

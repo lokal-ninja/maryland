@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /odenton/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

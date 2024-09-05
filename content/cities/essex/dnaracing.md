@@ -1,5 +1,5 @@
 ---
 title: "DNAracing"
 url: /essex/dnaracing/
-shop: motorcycle
+shop: Motorrad
 ---

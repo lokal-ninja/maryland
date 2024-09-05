@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /bel-air/petsmart/
-shop: pet
+shop: Tiere
 ---

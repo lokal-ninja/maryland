@@ -1,5 +1,5 @@
 ---
 title: "Shingar"
 url: /catonsville/shingar/
-shop: clothes
+shop: Kleidung
 ---

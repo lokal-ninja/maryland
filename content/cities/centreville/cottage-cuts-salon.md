@@ -1,5 +1,5 @@
 ---
 title: "Cottage Cuts Salon"
 url: /centreville/cottage-cuts-salon/
-shop: hairdresser
+shop: Friseur
 ---

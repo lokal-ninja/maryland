@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /boonsboro/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

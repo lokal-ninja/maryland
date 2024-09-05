@@ -1,5 +1,5 @@
 ---
 title: "Abingdon Locksmith"
 url: /edgewood/abingdon-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

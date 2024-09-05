@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /timonium/rei/
-shop: outdoor
+shop: Outdoor
 ---

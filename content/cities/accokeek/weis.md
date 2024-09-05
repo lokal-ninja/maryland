@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /accokeek/weis/
-shop: supermarket
+shop: Supermarkt
 ---

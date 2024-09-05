@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /annapolis/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

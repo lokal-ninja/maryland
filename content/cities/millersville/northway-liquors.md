@@ -1,5 +1,5 @@
 ---
 title: "Northway Liquors"
 url: /millersville/northway-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

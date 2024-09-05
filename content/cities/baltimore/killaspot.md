@@ -1,5 +1,5 @@
 ---
 title: "KillaSpot"
 url: /baltimore/killaspot/
-shop: hairdresser
+shop: Friseur
 ---

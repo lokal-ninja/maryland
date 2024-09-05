@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /aberdeen/ntb/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /lanham/massage-envy/
-shop: massage
+shop: Massage
 ---

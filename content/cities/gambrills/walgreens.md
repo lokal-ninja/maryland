@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gambrills/walgreens/
-shop: chemist
+shop: Drogerie
 ---

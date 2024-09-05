@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /dundalk/giant/
-shop: supermarket
+shop: Supermarkt
 ---

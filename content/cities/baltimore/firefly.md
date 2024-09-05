@@ -1,5 +1,5 @@
 ---
 title: "Firefly"
 url: /baltimore/firefly/
-shop: erotic
+shop: Erotik
 ---

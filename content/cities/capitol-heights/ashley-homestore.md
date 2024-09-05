@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /capitol-heights/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

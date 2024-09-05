@@ -1,5 +1,5 @@
 ---
 title: "Local By Design"
 url: /annapolis/local-by-design/
-shop: gift
+shop: Andenken
 ---

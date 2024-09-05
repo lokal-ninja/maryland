@@ -1,5 +1,5 @@
 ---
 title: "Shopaholics"
 url: /ellicott-city/shopaholics/
-shop: charity
+shop: Gebrauchtwaren
 ---

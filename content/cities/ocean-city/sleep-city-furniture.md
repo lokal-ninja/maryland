@@ -1,5 +1,5 @@
 ---
 title: "Sleep City Furniture"
 url: /ocean-city/sleep-city-furniture/
-shop: furniture
+shop: Möbel
 ---

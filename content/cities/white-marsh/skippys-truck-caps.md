@@ -1,5 +1,5 @@
 ---
 title: "Skippy's Truck Caps"
 url: /white-marsh/skippys-truck-caps/
-shop: car parts
+shop: Autoteile
 ---

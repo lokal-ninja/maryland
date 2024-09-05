@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
 url: /bethesda/warby-parker/
-shop: optician
+shop: Optiker
 ---

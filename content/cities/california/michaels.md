@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /california/michaels/
-shop: craft
+shop: Basteln
 ---

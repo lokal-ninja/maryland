@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /waldorf/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

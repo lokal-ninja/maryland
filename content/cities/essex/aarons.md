@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /essex/aarons/
-shop: furniture
+shop: Möbel
 ---

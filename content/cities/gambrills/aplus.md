@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /gambrills/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /glen-burnie/food-lion/
-shop: supermarket
+shop: Supermarkt
 ---

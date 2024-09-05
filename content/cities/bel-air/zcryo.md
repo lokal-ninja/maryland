@@ -1,5 +1,5 @@
 ---
 title: "ZCryo"
 url: /bel-air/zcryo/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /ocean-city/roses/
-shop: variety store
+shop: Kramladen
 ---

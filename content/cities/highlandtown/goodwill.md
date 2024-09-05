@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /highlandtown/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jones Used Cars"
 url: /bel-air/jones-used-cars/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /ellicott-city/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

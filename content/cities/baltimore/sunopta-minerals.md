@@ -1,5 +1,5 @@
 ---
 title: "SunOpta Minerals"
 url: /baltimore/sunopta-minerals/
-shop: wholesale
+shop: Großhandel
 ---

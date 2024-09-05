@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /glenarden/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

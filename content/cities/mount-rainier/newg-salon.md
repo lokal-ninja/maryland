@@ -1,5 +1,5 @@
 ---
 title: "Newg Salon"
 url: /mount-rainier/newg-salon/
-shop: hairdresser
+shop: Friseur
 ---

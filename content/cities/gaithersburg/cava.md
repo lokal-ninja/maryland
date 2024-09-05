@@ -1,5 +1,5 @@
 ---
 title: "CAVA"
 url: /gaithersburg/cava/
-shop: gift
+shop: Andenken
 ---

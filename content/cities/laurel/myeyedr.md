@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /laurel/myeyedr/
-shop: optician
+shop: Optiker
 ---

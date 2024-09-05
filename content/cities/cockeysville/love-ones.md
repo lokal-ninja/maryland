@@ -1,5 +1,5 @@
 ---
 title: "Love Ones"
 url: /cockeysville/love-ones/
-shop: erotic
+shop: Erotik
 ---

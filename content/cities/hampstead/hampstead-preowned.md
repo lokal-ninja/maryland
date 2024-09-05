@@ -1,5 +1,5 @@
 ---
 title: "Hampstead Preowned"
 url: /hampstead/hampstead-preowned/
-shop: car
+shop: Autohaus
 ---

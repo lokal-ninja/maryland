@@ -1,5 +1,5 @@
 ---
 title: "Sweet Hairafter"
 url: /kensington/sweet-hairafter/
-shop: hairdresser
+shop: Friseur
 ---

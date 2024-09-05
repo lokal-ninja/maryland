@@ -1,5 +1,5 @@
 ---
 title: "Drybar"
 url: /north-bethesda/drybar/
-shop: hairdresser
+shop: Friseur
 ---

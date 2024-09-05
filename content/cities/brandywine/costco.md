@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /brandywine/costco/
-shop: wholesale
+shop: Großhandel
 ---

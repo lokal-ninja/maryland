@@ -1,5 +1,5 @@
 ---
 title: "Belevedere Cannabis Doctors"
 url: /baltimore/belevedere-cannabis-doctors/
-shop: cannabis
+shop: Hanf
 ---

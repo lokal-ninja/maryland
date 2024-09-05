@@ -1,5 +1,5 @@
 ---
 title: "Pet Supplies Plus"
 url: /annapolis/pet-supplies-plus/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /frederick/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

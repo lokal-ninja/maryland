@@ -1,5 +1,5 @@
 ---
 title: "Culta"
 url: /baltimore/culta/
-shop: cannabis
+shop: Hanf
 ---

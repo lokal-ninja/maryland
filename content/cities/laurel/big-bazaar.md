@@ -1,5 +1,5 @@
 ---
 title: "Big Bazaar"
 url: /laurel/big-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Socalize"
 url: /baltimore/socalize/
-shop: alcohol
+shop: Spirituosen
 ---

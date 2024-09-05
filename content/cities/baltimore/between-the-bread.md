@@ -1,5 +1,5 @@
 ---
 title: "Between the Bread"
 url: /baltimore/between-the-bread/
-shop: bakery
+shop: Bäckerei
 ---

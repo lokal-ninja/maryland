@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /bethesda/nike/
-shop: clothes
+shop: Kleidung
 ---

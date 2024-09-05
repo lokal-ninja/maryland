@@ -1,5 +1,5 @@
 ---
 title: "Enancements Day Spa"
 url: /baltimore/enancements-day-spa/
-shop: beauty
+shop: Kosmetik
 ---

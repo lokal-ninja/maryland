@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /north-east/dollar-general-north-east-road/
-shop: variety store
+shop: Kramladen
 ---

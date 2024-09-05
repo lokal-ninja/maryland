@@ -1,5 +1,5 @@
 ---
 title: "Posh Beauty Supply"
 url: /cockeysville/posh-beauty-supply/
-shop: beauty
+shop: Kosmetik
 ---

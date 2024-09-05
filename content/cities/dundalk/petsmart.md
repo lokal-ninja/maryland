@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /dundalk/petsmart/
-shop: pet
+shop: Tiere
 ---

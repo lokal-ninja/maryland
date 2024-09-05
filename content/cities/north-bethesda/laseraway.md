@@ -1,5 +1,5 @@
 ---
 title: "LaserAway"
 url: /north-bethesda/laseraway/
-shop: beauty
+shop: Kosmetik
 ---

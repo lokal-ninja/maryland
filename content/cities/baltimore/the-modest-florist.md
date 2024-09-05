@@ -1,5 +1,5 @@
 ---
 title: "The Modest Florist"
 url: /baltimore/the-modest-florist/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Get Gnarly"
 url: /ocean-city/get-gnarly/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salontra Select Suites"
 url: /baltimore/salontra-select-suites/
-shop: hairdresser
+shop: Friseur
 ---

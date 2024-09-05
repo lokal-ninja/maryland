@@ -1,5 +1,5 @@
 ---
 title: "Ahh Nails"
 url: /catonsville/ahh-nails/
-shop: beauty
+shop: Kosmetik
 ---

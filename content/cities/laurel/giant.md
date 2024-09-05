@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /laurel/giant/
-shop: supermarket
+shop: Supermarkt
 ---

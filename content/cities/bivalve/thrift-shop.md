@@ -1,5 +1,5 @@
 ---
 title: "Thrift Shop"
 url: /bivalve/thrift-shop/
-shop: collector
+shop: Sammler
 ---

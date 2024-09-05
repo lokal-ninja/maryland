@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /annapolis/anthropologie/
-shop: clothes
+shop: Kleidung
 ---

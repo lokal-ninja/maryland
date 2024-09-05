@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /gambrills/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

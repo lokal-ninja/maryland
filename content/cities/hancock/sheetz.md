@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /hancock/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

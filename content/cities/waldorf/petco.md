@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /waldorf/petco/
-shop: pet
+shop: Tiere
 ---

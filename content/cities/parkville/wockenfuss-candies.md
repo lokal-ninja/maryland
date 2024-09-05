@@ -1,5 +1,5 @@
 ---
 title: "Wockenfuss Candies"
 url: /parkville/wockenfuss-candies/
-shop: confectionery
+shop: Süßwaren
 ---

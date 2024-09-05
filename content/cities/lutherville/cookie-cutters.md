@@ -1,5 +1,5 @@
 ---
 title: "Cookie Cutters"
 url: /lutherville/cookie-cutters/
-shop: hairdresser
+shop: Friseur
 ---

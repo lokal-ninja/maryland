@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /waldorf/giant/
-shop: supermarket
+shop: Supermarkt
 ---

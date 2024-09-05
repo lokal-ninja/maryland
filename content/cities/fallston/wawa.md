@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /fallston/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /gambrills/dsw/
-shop: shoes
+shop: Schuhe
 ---

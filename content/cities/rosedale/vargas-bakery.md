@@ -1,5 +1,5 @@
 ---
 title: "Vargas Bakery"
 url: /rosedale/vargas-bakery/
-shop: bakery
+shop: Bäckerei
 ---

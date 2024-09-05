@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /parkville/mitsubishi/
-shop: car
+shop: Autohaus
 ---

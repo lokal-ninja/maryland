@@ -1,5 +1,5 @@
 ---
 title: "Kaywood Liquors"
 url: /mount-rainier/kaywood-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

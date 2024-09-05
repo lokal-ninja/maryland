@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lutherville/michaels/
-shop: craft
+shop: Basteln
 ---

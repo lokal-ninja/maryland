@@ -1,5 +1,5 @@
 ---
 title: "Hertrich Ford"
 url: /pokomoke-city/hertrich-ford/
-shop: car
+shop: Autohaus
 ---

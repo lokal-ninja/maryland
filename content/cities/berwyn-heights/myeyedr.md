@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr."
 url: /berwyn-heights/myeyedr/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Montgomery County Liquor"
 url: /bethesda/montgomery-county-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

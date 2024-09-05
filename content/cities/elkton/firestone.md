@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /elkton/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---
