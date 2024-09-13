@@ -1,5 +1,5 @@
 ---
 title: "PEP Boys"
 url: /randallstown/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

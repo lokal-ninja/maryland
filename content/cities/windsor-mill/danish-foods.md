@@ -1,5 +1,5 @@
 ---
 title: "Danish Foods"
 url: /windsor-mill/danish-foods/
-shop: Supermarkt
+shop: supermarket
 ---

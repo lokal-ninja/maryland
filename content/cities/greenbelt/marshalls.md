@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /greenbelt/marshalls/
-shop: Warenhaus
+shop: department store
 ---

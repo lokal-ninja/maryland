@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /annapolis/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

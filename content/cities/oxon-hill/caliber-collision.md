@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /oxon-hill/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

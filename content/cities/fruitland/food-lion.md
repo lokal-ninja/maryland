@@ -1,5 +1,5 @@
 ---
 title: "Food Lion"
 url: /fruitland/food-lion/
-shop: Supermarkt
+shop: supermarket
 ---

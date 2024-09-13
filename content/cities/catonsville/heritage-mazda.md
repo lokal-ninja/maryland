@@ -1,5 +1,5 @@
 ---
 title: "Heritage Mazda"
 url: /catonsville/heritage-mazda/
-shop: Autohaus
+shop: car
 ---

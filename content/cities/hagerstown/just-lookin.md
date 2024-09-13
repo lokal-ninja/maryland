@@ -1,5 +1,5 @@
 ---
 title: "Just Lookin'"
 url: /hagerstown/just-lookin/
-shop: Kunst
+shop: art
 ---

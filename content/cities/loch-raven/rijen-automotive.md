@@ -1,5 +1,5 @@
 ---
 title: "Rijen Automotive"
 url: /loch-raven/rijen-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

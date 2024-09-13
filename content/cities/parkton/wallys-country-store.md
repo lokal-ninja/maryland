@@ -1,5 +1,5 @@
 ---
 title: "Wally's Country Store"
 url: /parkton/wallys-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /owings-mills/ross/
-shop: Warenhaus
+shop: department store
 ---

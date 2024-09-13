@@ -1,5 +1,5 @@
 ---
 title: "Aldo Discount Furniture"
 url: /glen-burnie/aldo-discount-furniture/
-shop: Möbel
+shop: furniture
 ---

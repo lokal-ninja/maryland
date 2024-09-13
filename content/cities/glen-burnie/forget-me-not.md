@@ -1,5 +1,5 @@
 ---
 title: "Forget-Me-Not"
 url: /glen-burnie/forget-me-not/
-shop: Andenken
+shop: gift
 ---

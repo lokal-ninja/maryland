@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /frederick/giant-new-design-road/
-shop: Supermarkt
+shop: supermarket
 ---

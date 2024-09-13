@@ -1,5 +1,5 @@
 ---
 title: "TJ's Barber Shop"
 url: /baltimore/tjs-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Destiny Beauty Salon"
 url: /essex/destiny-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

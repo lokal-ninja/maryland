@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /laurel/massage-envy/
-shop: Massage
+shop: massage
 ---

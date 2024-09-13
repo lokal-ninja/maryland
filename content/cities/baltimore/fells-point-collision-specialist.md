@@ -1,5 +1,5 @@
 ---
 title: "Fells Point Collision Specialist"
 url: /baltimore/fells-point-collision-specialist/
-shop: Autowerkstatt
+shop: car repair
 ---

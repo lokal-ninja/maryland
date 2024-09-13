@@ -1,5 +1,5 @@
 ---
 title: "Marzullo Funeral Chapel"
 url: /baltimore/marzullo-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

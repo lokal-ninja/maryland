@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /rosedale/giant/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hair Marqui"
 url: /beltsville/the-hair-marqui/
-shop: Friseur
+shop: hairdresser
 ---

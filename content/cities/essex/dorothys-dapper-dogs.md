@@ -1,5 +1,5 @@
 ---
 title: "Dorothy’s Dapper Dogs"
 url: /essex/dorothys-dapper-dogs/
-shop: Tiersalon
+shop: pet grooming
 ---

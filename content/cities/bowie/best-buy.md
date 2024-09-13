@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /bowie/best-buy/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /waldorf/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

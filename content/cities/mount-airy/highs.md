@@ -1,5 +1,5 @@
 ---
 title: "High's"
 url: /mount-airy/highs/
-shop: Lebensmittel
+shop: convenience
 ---

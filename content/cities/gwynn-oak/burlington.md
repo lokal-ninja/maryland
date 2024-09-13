@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /gwynn-oak/burlington/
-shop: Warenhaus
+shop: department store
 ---

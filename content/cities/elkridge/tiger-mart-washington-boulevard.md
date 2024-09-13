@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /elkridge/tiger-mart-washington-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

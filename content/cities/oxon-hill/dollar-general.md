@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /oxon-hill/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

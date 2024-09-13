@@ -1,5 +1,5 @@
 ---
 title: "Continental Cycles Inc."
 url: /ocean-pines/continental-cycles-inc/
-shop: Fahrrad
+shop: bicycle
 ---

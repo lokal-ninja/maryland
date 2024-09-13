@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /burtonsville/giant/
-shop: Supermarkt
+shop: supermarket
 ---

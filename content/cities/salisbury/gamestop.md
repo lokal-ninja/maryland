@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /salisbury/gamestop/
-shop: Videospiele
+shop: video games
 ---

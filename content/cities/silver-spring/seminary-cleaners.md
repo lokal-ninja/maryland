@@ -1,5 +1,5 @@
 ---
 title: "Seminary Cleaners"
 url: /silver-spring/seminary-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

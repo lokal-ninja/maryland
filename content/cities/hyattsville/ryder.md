@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /hyattsville/ryder/
-shop: Mieten
+shop: storage rental
 ---

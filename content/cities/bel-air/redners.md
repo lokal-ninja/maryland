@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
 url: /bel-air/redners/
-shop: Supermarkt
+shop: supermarket
 ---

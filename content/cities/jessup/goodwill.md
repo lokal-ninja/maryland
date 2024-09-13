@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /jessup/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

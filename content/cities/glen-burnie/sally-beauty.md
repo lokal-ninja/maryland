@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /glen-burnie/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

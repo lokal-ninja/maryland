@@ -1,5 +1,5 @@
 ---
 title: "Apna-Desh Indian Groceries"
 url: /rosedale/apna-desh-indian-groceries/
-shop: Supermarkt
+shop: supermarket
 ---

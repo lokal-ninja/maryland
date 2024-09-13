@@ -1,5 +1,5 @@
 ---
 title: "Sunny Dry Cleaners"
 url: /abingdon/sunny-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

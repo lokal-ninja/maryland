@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /laurel/mattress-warehouse-baltimore-avenue/
-shop: Betten
+shop: bed
 ---

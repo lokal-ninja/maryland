@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /glen-burnie/costco/
-shop: Großhandel
+shop: wholesale
 ---

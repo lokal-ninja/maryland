@@ -1,5 +1,5 @@
 ---
 title: "Bombshell Hair Garage"
 url: /pasadena/bombshell-hair-garage/
-shop: Friseur
+shop: hairdresser
 ---

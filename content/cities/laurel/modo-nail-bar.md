@@ -1,5 +1,5 @@
 ---
 title: "Modo Nail Bar"
 url: /laurel/modo-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geno's Garage"
 url: /aberdeen/genos-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

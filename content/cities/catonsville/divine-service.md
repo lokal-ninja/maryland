@@ -1,5 +1,5 @@
 ---
 title: "Divine Service"
 url: /catonsville/divine-service/
-shop: Kosmetik
+shop: beauty
 ---

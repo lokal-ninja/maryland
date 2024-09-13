@@ -1,5 +1,5 @@
 ---
 title: "Palm Beach Tan"
 url: /dundalk/palm-beach-tan/
-shop: Kosmetik
+shop: beauty
 ---

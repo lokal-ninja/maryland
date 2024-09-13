@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /frederick/giant/
-shop: Supermarkt
+shop: supermarket
 ---

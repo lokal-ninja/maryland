@@ -1,5 +1,5 @@
 ---
 title: "Phenix Salon Suites"
 url: /rosedale/phenix-salon-suites/
-shop: Friseur
+shop: hairdresser
 ---

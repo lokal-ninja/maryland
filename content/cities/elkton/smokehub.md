@@ -1,5 +1,5 @@
 ---
 title: "Smokehub"
 url: /elkton/smokehub/
-shop: Tabak
+shop: tobacco
 ---

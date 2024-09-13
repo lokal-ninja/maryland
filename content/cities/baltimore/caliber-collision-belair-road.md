@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /baltimore/caliber-collision-belair-road/
-shop: Autowerkstatt
+shop: car repair
 ---

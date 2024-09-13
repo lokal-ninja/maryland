@@ -1,5 +1,5 @@
 ---
 title: "Locally Crafted"
 url: /gaithersburg/locally-crafted/
-shop: Allgemein
+shop: shop
 ---

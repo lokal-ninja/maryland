@@ -1,5 +1,5 @@
 ---
 title: "North side deli"
 url: /elkton/north-side-deli/
-shop: Feinkost
+shop: deli
 ---

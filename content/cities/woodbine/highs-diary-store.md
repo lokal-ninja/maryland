@@ -1,5 +1,5 @@
 ---
 title: "High's Diary Store"
 url: /woodbine/highs-diary-store/
-shop: Lebensmittel
+shop: convenience
 ---

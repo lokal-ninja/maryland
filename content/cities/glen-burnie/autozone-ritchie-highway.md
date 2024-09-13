@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /glen-burnie/autozone-ritchie-highway/
-shop: Autoteile
+shop: car parts
 ---

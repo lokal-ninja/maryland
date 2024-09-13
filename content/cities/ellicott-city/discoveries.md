@@ -1,5 +1,5 @@
 ---
 title: "Discoveries"
 url: /ellicott-city/discoveries/
-shop: Andenken
+shop: gift
 ---

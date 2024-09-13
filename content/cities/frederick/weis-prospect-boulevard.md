@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /frederick/weis-prospect-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

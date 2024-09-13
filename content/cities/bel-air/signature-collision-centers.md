@@ -1,5 +1,5 @@
 ---
 title: "Signature Collision Centers"
 url: /bel-air/signature-collision-centers/
-shop: Autowerkstatt
+shop: car repair
 ---

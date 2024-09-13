@@ -1,5 +1,5 @@
 ---
 title: "Ahn's Auto Repair"
 url: /catonsville/ahns-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

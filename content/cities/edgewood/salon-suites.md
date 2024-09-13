@@ -1,5 +1,5 @@
 ---
 title: "Salon Suites"
 url: /edgewood/salon-suites/
-shop: Kosmetik
+shop: beauty
 ---

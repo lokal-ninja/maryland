@@ -1,5 +1,5 @@
 ---
 title: "Acura"
 url: /cockeysville/acura/
-shop: Autohaus
+shop: car
 ---

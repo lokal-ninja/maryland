@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /hyattsville/old-navy/
-shop: Kleidung
+shop: clothes
 ---

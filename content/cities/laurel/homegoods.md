@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /laurel/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

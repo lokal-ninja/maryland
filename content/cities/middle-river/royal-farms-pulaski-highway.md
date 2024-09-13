@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /middle-river/royal-farms-pulaski-highway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /waldorf/target/
-shop: Warenhaus
+shop: department store
 ---

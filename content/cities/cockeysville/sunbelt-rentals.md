@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /cockeysville/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

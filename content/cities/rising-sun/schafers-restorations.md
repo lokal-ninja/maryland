@@ -1,5 +1,5 @@
 ---
 title: "Schafer's Restorations"
 url: /rising-sun/schafers-restorations/
-shop: Autowerkstatt
+shop: car repair
 ---

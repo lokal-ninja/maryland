@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /mount-airy/tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

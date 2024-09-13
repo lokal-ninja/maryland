@@ -1,5 +1,5 @@
 ---
 title: "Saffron Creek"
 url: /north-east/saffron-creek/
-shop: Allgemein
+shop: shop
 ---

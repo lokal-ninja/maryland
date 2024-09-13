@@ -1,5 +1,5 @@
 ---
 title: "Rutland Beard"
 url: /catonsville/rutland-beard/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Lofts"
 url: /columbia/salon-lofts/
-shop: Friseur
+shop: hairdresser
 ---

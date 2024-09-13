@@ -1,5 +1,5 @@
 ---
 title: "Kensington Oriental Rugs"
 url: /kensington/kensington-oriental-rugs/
-shop: Teppiche
+shop: carpet
 ---

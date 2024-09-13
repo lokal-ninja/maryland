@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /mount-airy/carquest/
-shop: Autoteile
+shop: car parts
 ---

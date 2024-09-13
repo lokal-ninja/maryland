@@ -1,5 +1,5 @@
 ---
 title: "Eastpoint Gold Jewelty"
 url: /highlandtown/eastpoint-gold-jewelty/
-shop: Leiher
+shop: pawnbroker
 ---

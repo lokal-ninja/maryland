@@ -1,5 +1,5 @@
 ---
 title: "Car Point"
 url: /joppa/car-point/
-shop: Autohaus
+shop: car
 ---

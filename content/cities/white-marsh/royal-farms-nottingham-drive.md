@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /white-marsh/royal-farms-nottingham-drive/
-shop: Lebensmittel
+shop: convenience
 ---

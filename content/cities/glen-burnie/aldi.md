@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /glen-burnie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

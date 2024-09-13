@@ -1,5 +1,5 @@
 ---
 title: "RnJ Sports"
 url: /bethesda/rnj-sports/
-shop: Sport
+shop: sports
 ---

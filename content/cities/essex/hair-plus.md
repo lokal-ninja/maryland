@@ -1,5 +1,5 @@
 ---
 title: "Hair Plus"
 url: /essex/hair-plus/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /elkton/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Century 21"
 url: /prince-frederick/century-21/
-shop: Immobilien
+shop: estate agent
 ---

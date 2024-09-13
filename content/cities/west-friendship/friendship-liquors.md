@@ -1,5 +1,5 @@
 ---
 title: "Friendship Liquors"
 url: /west-friendship/friendship-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bethesda/target/
-shop: Warenhaus
+shop: department store
 ---

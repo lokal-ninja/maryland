@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /baltimore/dollar-general-frederick-avenue/
-shop: Kramladen
+shop: variety store
 ---

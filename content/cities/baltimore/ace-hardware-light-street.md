@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /baltimore/ace-hardware-light-street/
-shop: Baumarkt
+shop: doityourself
 ---

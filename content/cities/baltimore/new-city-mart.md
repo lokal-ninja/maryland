@@ -1,5 +1,5 @@
 ---
 title: "New City Mart"
 url: /baltimore/new-city-mart/
-shop: Lebensmittel
+shop: convenience
 ---

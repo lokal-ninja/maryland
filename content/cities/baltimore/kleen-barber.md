@@ -1,5 +1,5 @@
 ---
 title: "Kleen Barber"
 url: /baltimore/kleen-barber/
-shop: Friseur
+shop: hairdresser
 ---

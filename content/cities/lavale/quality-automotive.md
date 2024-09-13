@@ -1,5 +1,5 @@
 ---
 title: "Quality Automotive"
 url: /lavale/quality-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

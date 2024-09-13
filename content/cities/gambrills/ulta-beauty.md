@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /gambrills/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /govans/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

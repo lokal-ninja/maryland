@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /mount-airy/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

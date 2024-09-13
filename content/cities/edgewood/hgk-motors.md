@@ -1,5 +1,5 @@
 ---
 title: "HGK Motors"
 url: /edgewood/hgk-motors/
-shop: Autohaus
+shop: car
 ---

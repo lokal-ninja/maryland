@@ -1,5 +1,5 @@
 ---
 title: "Carney Tire"
 url: /parkville/carney-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

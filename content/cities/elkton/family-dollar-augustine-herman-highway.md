@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /elkton/family-dollar-augustine-herman-highway/
-shop: Kramladen
+shop: variety store
 ---

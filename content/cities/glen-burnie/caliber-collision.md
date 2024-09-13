@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /glen-burnie/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

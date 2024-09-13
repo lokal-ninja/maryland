@@ -1,5 +1,5 @@
 ---
 title: "Baltimore Furniture Direct"
 url: /windsor-mill/baltimore-furniture-direct/
-shop: Möbel
+shop: furniture
 ---

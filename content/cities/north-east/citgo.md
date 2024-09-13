@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /north-east/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

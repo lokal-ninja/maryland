@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /laurel/toyota/
-shop: Autohaus
+shop: car
 ---

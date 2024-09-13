@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /bel-air/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

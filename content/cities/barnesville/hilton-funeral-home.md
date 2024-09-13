@@ -1,5 +1,5 @@
 ---
 title: "Hilton Funeral Home"
 url: /barnesville/hilton-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

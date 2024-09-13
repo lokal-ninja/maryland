@@ -1,5 +1,5 @@
 ---
 title: "Strosnider's"
 url: /potomac/strosniders/
-shop: Eisenwaren
+shop: hardware
 ---

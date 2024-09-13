@@ -1,5 +1,5 @@
 ---
 title: "Add Beauty"
 url: /baltimore/add-beauty/
-shop: Kosmetik
+shop: beauty
 ---

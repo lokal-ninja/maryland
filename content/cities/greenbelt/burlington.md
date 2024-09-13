@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /greenbelt/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waters Auto Service"
 url: /edgewood/waters-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

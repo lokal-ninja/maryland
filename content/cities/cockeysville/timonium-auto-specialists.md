@@ -1,5 +1,5 @@
 ---
 title: "Timonium Auto Specialists"
 url: /cockeysville/timonium-auto-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

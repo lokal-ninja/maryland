@@ -1,5 +1,5 @@
 ---
 title: "Luxe Hair + Skin"
 url: /annapolis/luxe-hair-skin/
-shop: Friseur
+shop: hairdresser
 ---

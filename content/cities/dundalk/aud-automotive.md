@@ -1,5 +1,5 @@
 ---
 title: "Aud Automotive"
 url: /dundalk/aud-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

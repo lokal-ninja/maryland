@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /bowie/petsmart/
-shop: Tiere
+shop: pet
 ---

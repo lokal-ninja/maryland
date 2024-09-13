@@ -1,5 +1,5 @@
 ---
 title: "Fred's Outdoors"
 url: /waldorf/freds-outdoors/
-shop: Jagd
+shop: hunting
 ---

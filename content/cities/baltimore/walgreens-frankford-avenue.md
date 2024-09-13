@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /baltimore/walgreens-frankford-avenue/
-shop: Drogerie
+shop: chemist
 ---

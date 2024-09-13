@@ -1,5 +1,5 @@
 ---
 title: "Tickets"
 url: /baltimore/tickets/
-shop: Tickets
+shop: ticket
 ---

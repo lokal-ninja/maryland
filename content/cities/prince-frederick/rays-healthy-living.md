@@ -1,5 +1,5 @@
 ---
 title: "Ray's Healthy Living"
 url: /prince-frederick/rays-healthy-living/
-shop: Bioladen
+shop: health food
 ---

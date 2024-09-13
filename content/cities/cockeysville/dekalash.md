@@ -1,5 +1,5 @@
 ---
 title: "Dekalash"
 url: /cockeysville/dekalash/
-shop: Kosmetik
+shop: beauty
 ---

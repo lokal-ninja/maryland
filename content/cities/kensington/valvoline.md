@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /kensington/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

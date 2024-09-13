@@ -1,5 +1,5 @@
 ---
 title: "Complete Auto Services"
 url: /parkville/complete-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

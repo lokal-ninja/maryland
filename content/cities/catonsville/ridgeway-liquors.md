@@ -1,5 +1,5 @@
 ---
 title: "Ridgeway Liquors"
 url: /catonsville/ridgeway-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

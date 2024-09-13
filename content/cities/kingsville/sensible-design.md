@@ -1,5 +1,5 @@
 ---
 title: "Sensible Design"
 url: /kingsville/sensible-design/
-shop: Badezimmer
+shop: bathroom
 ---

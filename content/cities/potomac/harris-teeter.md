@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /potomac/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

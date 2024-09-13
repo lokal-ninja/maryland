@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Rye Warehouse"
 url: /cockeysville/sherwood-rye-warehouse/
-shop: Mieten
+shop: storage rental
 ---

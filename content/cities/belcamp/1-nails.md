@@ -1,5 +1,5 @@
 ---
 title: "#1 Nails"
 url: /belcamp/1-nails/
-shop: Kosmetik
+shop: beauty
 ---

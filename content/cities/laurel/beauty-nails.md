@@ -1,5 +1,5 @@
 ---
 title: "Beauty Nails"
 url: /laurel/beauty-nails/
-shop: Kosmetik
+shop: beauty
 ---

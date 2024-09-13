@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /owings-mills/tesla/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /colesville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express Auto Clinic"
 url: /riverdale/express-auto-clinic/
-shop: Autowerkstatt
+shop: car repair
 ---

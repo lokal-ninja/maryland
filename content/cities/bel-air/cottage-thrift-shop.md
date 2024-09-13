@@ -1,5 +1,5 @@
 ---
 title: "Cottage Thrift Shop"
 url: /bel-air/cottage-thrift-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

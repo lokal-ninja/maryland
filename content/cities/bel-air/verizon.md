@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /bel-air/verizon/
-shop: Handy
+shop: mobile phone
 ---

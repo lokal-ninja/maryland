@@ -1,5 +1,5 @@
 ---
 title: "Morningstar Self Storage"
 url: /baltimore/morningstar-self-storage/
-shop: Mieten
+shop: storage rental
 ---

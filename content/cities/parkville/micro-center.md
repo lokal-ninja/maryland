@@ -1,5 +1,5 @@
 ---
 title: "Micro Center"
 url: /parkville/micro-center/
-shop: Computer
+shop: computer
 ---

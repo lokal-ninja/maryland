@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /lutherville/mattress-firm/
-shop: Betten
+shop: bed
 ---

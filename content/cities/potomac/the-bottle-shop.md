@@ -1,5 +1,5 @@
 ---
 title: "The Bottle Shop"
 url: /potomac/the-bottle-shop/
-shop: Supermarkt
+shop: supermarket
 ---

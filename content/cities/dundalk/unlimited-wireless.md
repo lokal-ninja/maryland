@@ -1,5 +1,5 @@
 ---
 title: "Unlimited Wireless"
 url: /dundalk/unlimited-wireless/
-shop: Handy
+shop: mobile phone
 ---

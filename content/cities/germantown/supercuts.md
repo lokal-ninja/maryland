@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /germantown/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

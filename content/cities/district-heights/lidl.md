@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /district-heights/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

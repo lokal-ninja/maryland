@@ -1,5 +1,5 @@
 ---
 title: "Trulieve"
 url: /lutherville/trulieve/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /baltimore/autozone-belair-road/
-shop: Autoteile
+shop: car parts
 ---

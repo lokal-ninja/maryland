@@ -1,5 +1,5 @@
 ---
-title: "CORT Furniture Outlet"
+title: "Cort Furniture Outlet"
 url: /catonsville/cort-furniture-outlet/
-shop: Möbel
+shop: furniture
 ---

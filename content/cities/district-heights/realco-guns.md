@@ -1,5 +1,5 @@
 ---
 title: "Realco Guns"
 url: /district-heights/realco-guns/
-shop: Sport
+shop: sports
 ---

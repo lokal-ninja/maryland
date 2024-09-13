@@ -1,5 +1,5 @@
 ---
 title: "Sparkle Pools Inc."
 url: /denton/sparkle-pools-inc/
-shop: Pool
+shop: swimming pool
 ---

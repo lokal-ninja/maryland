@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hyattsville/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

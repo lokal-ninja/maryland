@@ -1,5 +1,5 @@
 ---
 title: "Andy Nails"
 url: /dunkirk/andy-nails/
-shop: Kosmetik
+shop: beauty
 ---

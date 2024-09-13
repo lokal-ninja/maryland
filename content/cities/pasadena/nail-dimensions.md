@@ -1,5 +1,5 @@
 ---
 title: "Nail Dimensions"
 url: /pasadena/nail-dimensions/
-shop: Kosmetik
+shop: beauty
 ---

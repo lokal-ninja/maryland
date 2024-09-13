@@ -1,5 +1,5 @@
 ---
 title: "AMG"
 url: /cockeysville/amg/
-shop: Autowerkstatt
+shop: car repair
 ---

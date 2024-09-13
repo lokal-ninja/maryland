@@ -1,5 +1,5 @@
 ---
 title: "Guitar Exchange"
 url: /catonsville/guitar-exchange/
-shop: Instrumente
+shop: musical instrument
 ---

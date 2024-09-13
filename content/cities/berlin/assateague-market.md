@@ -1,5 +1,5 @@
 ---
 title: "Assateague Market"
 url: /berlin/assateague-market/
-shop: Outdoor
+shop: outdoor
 ---

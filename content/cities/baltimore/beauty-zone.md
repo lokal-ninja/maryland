@@ -1,5 +1,5 @@
 ---
 title: "Beauty Zone"
 url: /baltimore/beauty-zone/
-shop: Kosmetik
+shop: beauty
 ---

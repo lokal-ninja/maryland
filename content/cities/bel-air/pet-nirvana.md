@@ -1,5 +1,5 @@
 ---
 title: "Pet Nirvana"
 url: /bel-air/pet-nirvana/
-shop: Tiersalon
+shop: pet grooming
 ---

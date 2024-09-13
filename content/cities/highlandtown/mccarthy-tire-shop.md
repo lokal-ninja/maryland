@@ -1,5 +1,5 @@
 ---
 title: "McCarthy Tire Shop"
 url: /highlandtown/mccarthy-tire-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

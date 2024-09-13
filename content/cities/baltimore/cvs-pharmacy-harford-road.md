@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /baltimore/cvs-pharmacy-harford-road/
-shop: Drogerie
+shop: chemist
 ---

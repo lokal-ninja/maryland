@@ -1,5 +1,5 @@
 ---
 title: "Cook Mazda"
 url: /aberdeen/cook-mazda/
-shop: Autohaus
+shop: car
 ---

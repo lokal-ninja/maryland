@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /bethesda/giant-westbard-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

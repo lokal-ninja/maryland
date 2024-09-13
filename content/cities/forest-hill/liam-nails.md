@@ -1,5 +1,5 @@
 ---
 title: "Liam Nails"
 url: /forest-hill/liam-nails/
-shop: Kosmetik
+shop: beauty
 ---

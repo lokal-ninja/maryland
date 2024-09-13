@@ -1,5 +1,5 @@
 ---
 title: "Arbutus Automotive"
 url: /baltimore/arbutus-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

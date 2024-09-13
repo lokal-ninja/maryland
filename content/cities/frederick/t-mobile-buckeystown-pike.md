@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /frederick/t-mobile-buckeystown-pike/
-shop: Handy
+shop: mobile phone
 ---

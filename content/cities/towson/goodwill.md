@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /towson/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

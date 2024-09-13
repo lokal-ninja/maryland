@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Town"
 url: /edgewood/tobacco-town/
-shop: Tabak
+shop: tobacco
 ---

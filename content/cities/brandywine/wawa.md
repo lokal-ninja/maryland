@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /brandywine/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

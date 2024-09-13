@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cockeysville/autozone/
-shop: Autoteile
+shop: car parts
 ---

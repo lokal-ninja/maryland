@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /rockville/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JM Jewelers"
 url: /bel-air/jm-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

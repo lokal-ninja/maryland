@@ -1,5 +1,5 @@
 ---
 title: "Sun Barber Shop"
 url: /rising-sun/sun-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

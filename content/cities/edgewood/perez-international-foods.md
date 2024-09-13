@@ -1,5 +1,5 @@
 ---
 title: "Perez International Foods"
 url: /edgewood/perez-international-foods/
-shop: Lebensmittel
+shop: convenience
 ---

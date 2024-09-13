@@ -1,5 +1,5 @@
 ---
 title: "Organic Nail Spa"
 url: /lutherville/organic-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

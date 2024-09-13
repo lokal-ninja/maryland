@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /germantown/mattress-firm/
-shop: Betten
+shop: bed
 ---

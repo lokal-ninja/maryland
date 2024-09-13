@@ -1,5 +1,5 @@
 ---
 title: "The Horoscope Shop"
 url: /rising-sun/the-horoscope-shop/
-shop: Allgemein
+shop: shop
 ---

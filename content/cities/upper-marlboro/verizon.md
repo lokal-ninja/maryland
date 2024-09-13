@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /upper-marlboro/verizon/
-shop: Handy
+shop: mobile phone
 ---

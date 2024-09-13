@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /pasadena/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

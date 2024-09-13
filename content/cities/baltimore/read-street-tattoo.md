@@ -1,5 +1,5 @@
 ---
 title: "Read Street Tattoo"
 url: /baltimore/read-street-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

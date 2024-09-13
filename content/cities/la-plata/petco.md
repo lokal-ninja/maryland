@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /la-plata/petco/
-shop: Tiere
+shop: pet
 ---

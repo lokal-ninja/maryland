@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /westminster/verizon-englar-road/
-shop: Handy
+shop: mobile phone
 ---

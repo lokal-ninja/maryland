@@ -1,5 +1,5 @@
 ---
 title: "Zenibel Deli Grocery Market"
 url: /baltimore/zenibel-deli-grocery-market/
-shop: Lebensmittel
+shop: convenience
 ---

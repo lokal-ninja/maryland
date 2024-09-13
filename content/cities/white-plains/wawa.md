@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /white-plains/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

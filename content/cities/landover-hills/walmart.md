@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /landover-hills/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

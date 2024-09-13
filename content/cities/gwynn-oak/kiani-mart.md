@@ -1,5 +1,5 @@
 ---
 title: "Kiani Mart"
 url: /gwynn-oak/kiani-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /middle-river/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

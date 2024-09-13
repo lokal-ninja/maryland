@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /silver-spring/safeway-georgia-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

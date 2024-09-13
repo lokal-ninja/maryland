@@ -1,5 +1,5 @@
 ---
 title: "My Mechanic"
 url: /randallstown/my-mechanic/
-shop: Autowerkstatt
+shop: car repair
 ---

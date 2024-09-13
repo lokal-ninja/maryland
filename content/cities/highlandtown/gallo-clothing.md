@@ -1,5 +1,5 @@
 ---
 title: "Gallo Clothing"
 url: /highlandtown/gallo-clothing/
-shop: Kleidung
+shop: clothes
 ---

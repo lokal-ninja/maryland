@@ -1,5 +1,5 @@
 ---
 title: "Salons by JC"
 url: /columbia/salons-by-jc/
-shop: Friseur
+shop: hairdresser
 ---

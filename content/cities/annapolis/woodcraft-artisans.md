@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft Artisans"
 url: /annapolis/woodcraft-artisans/
-shop: Andenken
+shop: gift
 ---

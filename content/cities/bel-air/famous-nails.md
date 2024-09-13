@@ -1,5 +1,5 @@
 ---
 title: "Famous Nails"
 url: /bel-air/famous-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /perryville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

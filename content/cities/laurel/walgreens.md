@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /laurel/walgreens/
-shop: Drogerie
+shop: chemist
 ---

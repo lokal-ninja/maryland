@@ -1,5 +1,5 @@
 ---
 title: "New York Food Mart"
 url: /baltimore/new-york-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

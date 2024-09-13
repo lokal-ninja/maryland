@@ -1,5 +1,5 @@
 ---
 title: "Campus Store"
 url: /roland-park/campus-store/
-shop: Bücher
+shop: books
 ---

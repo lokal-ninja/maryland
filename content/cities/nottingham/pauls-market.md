@@ -1,5 +1,5 @@
 ---
 title: "Paul’s Market"
 url: /nottingham/pauls-market/
-shop: Lebensmittel
+shop: convenience
 ---

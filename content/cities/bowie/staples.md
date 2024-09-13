@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bowie/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Breathe Interiors"
 url: /salisbury/breathe-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

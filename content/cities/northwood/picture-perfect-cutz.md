@@ -1,5 +1,5 @@
 ---
 title: "Picture Perfect Cutz"
 url: /northwood/picture-perfect-cutz/
-shop: Friseur
+shop: hairdresser
 ---

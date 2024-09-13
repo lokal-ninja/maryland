@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /glenn-dale/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

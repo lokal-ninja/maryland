@@ -1,5 +1,5 @@
 ---
 title: "Pigtown Main Street"
 url: /baltimore/pigtown-main-street/
-shop: Kleidung
+shop: clothes
 ---

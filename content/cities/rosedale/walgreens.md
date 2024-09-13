@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /rosedale/walgreens/
-shop: Drogerie
+shop: chemist
 ---

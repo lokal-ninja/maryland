@@ -1,5 +1,5 @@
 ---
 title: "Pasadena Pre-owned"
 url: /pasadena/pasadena-pre-owned/
-shop: Autohaus
+shop: car
 ---

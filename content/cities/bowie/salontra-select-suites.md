@@ -1,5 +1,5 @@
 ---
 title: "Salontra Select Suites"
 url: /bowie/salontra-select-suites/
-shop: Friseur
+shop: hairdresser
 ---

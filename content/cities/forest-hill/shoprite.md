@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /forest-hill/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

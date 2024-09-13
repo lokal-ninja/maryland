@@ -1,5 +1,5 @@
 ---
 title: "Wantz Chevrolet"
 url: /taneytown/wantz-chevrolet/
-shop: Autohaus
+shop: car
 ---

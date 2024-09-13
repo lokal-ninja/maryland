@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /california/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /perry-hall/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

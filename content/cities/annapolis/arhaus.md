@@ -1,5 +1,5 @@
 ---
 title: "Arhaus"
 url: /annapolis/arhaus/
-shop: Möbel
+shop: furniture
 ---

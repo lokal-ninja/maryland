@@ -1,5 +1,5 @@
 ---
 title: "FasTop"
 url: /north-beach/fastop/
-shop: Lebensmittel
+shop: convenience
 ---

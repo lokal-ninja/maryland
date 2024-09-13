@@ -1,5 +1,5 @@
 ---
 title: "Tire World"
 url: /frederick/tire-world/
-shop: Reifen
+shop: tyres
 ---

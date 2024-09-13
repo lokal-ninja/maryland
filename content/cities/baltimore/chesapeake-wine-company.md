@@ -1,5 +1,5 @@
 ---
 title: "Chesapeake Wine Company"
 url: /baltimore/chesapeake-wine-company/
-shop: Spirituosen
+shop: alcohol
 ---

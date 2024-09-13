@@ -1,5 +1,5 @@
 ---
 title: "Blick Art Materials"
 url: /baltimore/blick-art-materials/
-shop: Basteln
+shop: craft
 ---

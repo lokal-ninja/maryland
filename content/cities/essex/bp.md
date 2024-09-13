@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /essex/bp/
-shop: Autowerkstatt
+shop: car repair
 ---

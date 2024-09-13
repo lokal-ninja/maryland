@@ -1,5 +1,5 @@
 ---
 title: "Protech Auto Repair"
 url: /salisbury/protech-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

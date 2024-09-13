@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /ellicott-city/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

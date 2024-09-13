@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /catonsville/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

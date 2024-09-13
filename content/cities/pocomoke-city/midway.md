@@ -1,5 +1,5 @@
 ---
 title: "Midway"
 url: /pocomoke-city/midway/
-shop: Autowerkstatt
+shop: car repair
 ---

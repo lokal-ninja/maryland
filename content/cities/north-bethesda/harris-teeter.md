@@ -1,5 +1,5 @@
 ---
 title: "Harris Teeter"
 url: /north-bethesda/harris-teeter/
-shop: Supermarkt
+shop: supermarket
 ---

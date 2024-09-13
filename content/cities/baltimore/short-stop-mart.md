@@ -1,5 +1,5 @@
 ---
 title: "Short Stop Mart"
 url: /baltimore/short-stop-mart/
-shop: Lebensmittel
+shop: convenience
 ---

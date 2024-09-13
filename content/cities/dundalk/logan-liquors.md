@@ -1,5 +1,5 @@
 ---
 title: "Logan Liquors"
 url: /dundalk/logan-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

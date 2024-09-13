@@ -1,5 +1,5 @@
 ---
 title: "Town Hair Salon"
 url: /bel-air/town-hair-salon/
-shop: Kosmetik
+shop: beauty
 ---

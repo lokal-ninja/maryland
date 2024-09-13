@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /edgewood/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

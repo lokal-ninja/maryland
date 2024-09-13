@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /elkton/acme/
-shop: Supermarkt
+shop: supermarket
 ---

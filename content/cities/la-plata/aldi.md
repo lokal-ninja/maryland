@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /la-plata/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

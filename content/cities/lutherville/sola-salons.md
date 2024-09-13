@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /lutherville/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

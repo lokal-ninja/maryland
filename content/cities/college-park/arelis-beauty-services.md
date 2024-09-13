@@ -1,5 +1,5 @@
 ---
 title: "Arelis Beauty Services"
 url: /college-park/arelis-beauty-services/
-shop: Kosmetik
+shop: beauty
 ---

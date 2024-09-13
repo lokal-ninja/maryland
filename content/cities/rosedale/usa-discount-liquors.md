@@ -1,5 +1,5 @@
 ---
 title: "USA Discount Liquors"
 url: /rosedale/usa-discount-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

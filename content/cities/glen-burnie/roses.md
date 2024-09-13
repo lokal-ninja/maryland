@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /glen-burnie/roses/
-shop: Kramladen
+shop: variety store
 ---

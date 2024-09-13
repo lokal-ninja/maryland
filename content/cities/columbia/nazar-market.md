@@ -1,5 +1,5 @@
 ---
 title: "Nazar Market"
 url: /columbia/nazar-market/
-shop: Lebensmittel
+shop: convenience
 ---

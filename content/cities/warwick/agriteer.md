@@ -1,5 +1,5 @@
 ---
 title: "Agriteer"
 url: /warwick/agriteer/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Master Barber"
 url: /glenelg/master-barber/
-shop: Friseur
+shop: hairdresser
 ---

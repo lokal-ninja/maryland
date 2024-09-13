@@ -1,5 +1,5 @@
 ---
 title: "TCC"
 url: /columbia/tcc/
-shop: Handy
+shop: mobile phone
 ---

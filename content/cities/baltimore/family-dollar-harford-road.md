@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /baltimore/family-dollar-harford-road/
-shop: Kramladen
+shop: variety store
 ---

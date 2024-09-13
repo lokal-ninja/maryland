@@ -1,5 +1,5 @@
 ---
 title: "Live Rite"
 url: /nottingham/live-rite/
-shop: Hanf
+shop: cannabis
 ---

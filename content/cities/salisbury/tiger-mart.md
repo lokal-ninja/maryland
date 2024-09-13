@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /salisbury/tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

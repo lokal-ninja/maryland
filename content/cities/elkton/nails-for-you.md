@@ -1,5 +1,5 @@
 ---
 title: "Nails For You"
 url: /elkton/nails-for-you/
-shop: Kosmetik
+shop: beauty
 ---

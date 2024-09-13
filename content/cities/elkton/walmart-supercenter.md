@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /elkton/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

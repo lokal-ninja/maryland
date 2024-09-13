@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /silver-spring/dsw/
-shop: Schuhe
+shop: shoes
 ---

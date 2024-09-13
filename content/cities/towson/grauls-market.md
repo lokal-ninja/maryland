@@ -1,5 +1,5 @@
 ---
 title: "Graul's Market"
 url: /towson/grauls-market/
-shop: Supermarkt
+shop: supermarket
 ---

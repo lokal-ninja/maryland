@@ -1,5 +1,5 @@
 ---
 title: "Quattro Auto Body"
 url: /bethesda/quattro-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

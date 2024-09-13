@@ -1,5 +1,5 @@
 ---
 title: "Highs"
 url: /fulton/highs/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Major Motors"
 url: /baltimore/major-motors/
-shop: Autohaus
+shop: car
 ---

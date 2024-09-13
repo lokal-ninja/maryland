@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /halethorpe/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /hagerstown/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

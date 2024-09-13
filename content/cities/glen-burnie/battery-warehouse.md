@@ -1,5 +1,5 @@
 ---
 title: "Battery Warehouse"
 url: /glen-burnie/battery-warehouse/
-shop: Allgemein
+shop: shop
 ---

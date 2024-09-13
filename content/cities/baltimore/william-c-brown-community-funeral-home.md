@@ -1,5 +1,5 @@
 ---
 title: "William C. Brown Community Funeral Home"
 url: /baltimore/william-c-brown-community-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

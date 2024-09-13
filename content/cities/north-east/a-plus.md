@@ -1,5 +1,5 @@
 ---
 title: "A-Plus"
 url: /north-east/a-plus/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bayside Aito Body"
 url: /essex/bayside-aito-body/
-shop: Autowerkstatt
+shop: car repair
 ---

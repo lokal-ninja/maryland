@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cumberland/autozone/
-shop: Autoteile
+shop: car parts
 ---

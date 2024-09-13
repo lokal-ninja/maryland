@@ -1,5 +1,5 @@
 ---
 title: "NuWave Liquors"
 url: /fort-washington/nuwave-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

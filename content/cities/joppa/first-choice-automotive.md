@@ -1,5 +1,5 @@
 ---
 title: "First Choice Automotive"
 url: /joppa/first-choice-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

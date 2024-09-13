@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /glen-burnie/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D-Man's Detailing"
 url: /parkville/d-mans-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freestate"
 url: /burtonsville/freestate/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /catonsville/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

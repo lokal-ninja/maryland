@@ -1,5 +1,5 @@
 ---
 title: "Team Spirits"
 url: /cockeysville/team-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

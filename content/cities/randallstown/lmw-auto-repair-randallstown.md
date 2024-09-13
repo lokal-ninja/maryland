@@ -1,5 +1,5 @@
 ---
 title: "LMW Auto Repair - Randallstown"
 url: /randallstown/lmw-auto-repair-randallstown/
-shop: Autowerkstatt
+shop: car repair
 ---

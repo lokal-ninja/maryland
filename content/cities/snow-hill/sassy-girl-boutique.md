@@ -1,5 +1,5 @@
 ---
 title: "Sassy Girl Boutique"
 url: /snow-hill/sassy-girl-boutique/
-shop: Kleidung
+shop: clothes
 ---

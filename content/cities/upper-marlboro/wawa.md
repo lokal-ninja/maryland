@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /upper-marlboro/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

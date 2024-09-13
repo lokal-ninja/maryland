@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /elkridge/giant/
-shop: Supermarkt
+shop: supermarket
 ---

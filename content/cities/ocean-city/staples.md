@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ocean-city/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

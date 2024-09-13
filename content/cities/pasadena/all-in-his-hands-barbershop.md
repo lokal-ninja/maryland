@@ -1,5 +1,5 @@
 ---
 title: "All in His Hands Barbershop"
 url: /pasadena/all-in-his-hands-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "High’s"
 url: /cockeysville/highs/
-shop: Lebensmittel
+shop: convenience
 ---

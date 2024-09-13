@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /greenbelt/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Natural Market and Juice Bar"
 url: /lutherville/the-natural-market-and-juice-bar/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

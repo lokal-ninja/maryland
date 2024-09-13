@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /windsor-mill/tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

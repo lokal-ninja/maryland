@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /towson/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

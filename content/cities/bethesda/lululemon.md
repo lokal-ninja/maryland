@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /bethesda/lululemon/
-shop: Kleidung
+shop: clothes
 ---

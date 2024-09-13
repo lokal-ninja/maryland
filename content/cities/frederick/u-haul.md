@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /frederick/u-haul/
-shop: Mieten
+shop: storage rental
 ---

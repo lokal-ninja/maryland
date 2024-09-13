@@ -1,5 +1,5 @@
 ---
 title: "Tiny Corner Bike Shop"
 url: /oakland/tiny-corner-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

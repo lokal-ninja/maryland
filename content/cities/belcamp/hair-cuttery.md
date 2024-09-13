@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /belcamp/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

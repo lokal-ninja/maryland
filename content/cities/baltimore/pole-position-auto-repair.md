@@ -1,5 +1,5 @@
 ---
 title: "Pole Position Auto Repair"
 url: /baltimore/pole-position-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

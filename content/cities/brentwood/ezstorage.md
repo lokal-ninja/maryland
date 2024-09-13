@@ -1,5 +1,5 @@
 ---
 title: "ezStorage"
 url: /brentwood/ezstorage/
-shop: Mieten
+shop: storage rental
 ---

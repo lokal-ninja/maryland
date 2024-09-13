@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /chevy-chase/giant/
-shop: Supermarkt
+shop: supermarket
 ---

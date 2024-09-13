@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /middle-river/metro-by-t-mobile-ballard-avenue/
-shop: Handy
+shop: mobile phone
 ---

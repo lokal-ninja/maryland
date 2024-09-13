@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /riverdale/7-eleven-baltimore-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joseph N. Zannino Funeral Home"
 url: /baltimore/joseph-n-zannino-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

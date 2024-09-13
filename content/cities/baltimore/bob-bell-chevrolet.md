@@ -1,5 +1,5 @@
 ---
 title: "Bob Bell Chevrolet"
 url: /baltimore/bob-bell-chevrolet/
-shop: Autohaus
+shop: car
 ---

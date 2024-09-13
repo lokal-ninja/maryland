@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /elkton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

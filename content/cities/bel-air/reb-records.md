@@ -1,5 +1,5 @@
 ---
 title: "REB Records"
 url: /bel-air/reb-records/
-shop: Musik
+shop: music
 ---

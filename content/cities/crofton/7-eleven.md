@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /crofton/7-eleven/
-shop: Lebensmittel
+shop: convenience
 ---

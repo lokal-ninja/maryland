@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /bel-air/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

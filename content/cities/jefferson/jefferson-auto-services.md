@@ -1,5 +1,5 @@
 ---
 title: "Jefferson Auto Services"
 url: /jefferson/jefferson-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

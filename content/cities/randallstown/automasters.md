@@ -1,5 +1,5 @@
 ---
 title: "Automasters"
 url: /randallstown/automasters/
-shop: Autowerkstatt
+shop: car repair
 ---

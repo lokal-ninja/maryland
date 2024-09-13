@@ -1,5 +1,5 @@
 ---
 title: "Vapor Villa"
 url: /catonsville/vapor-villa/
-shop: Kramladen
+shop: variety store
 ---

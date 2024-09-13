@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /catonsville/firestone-baltimore-national-pike/
-shop: Autowerkstatt
+shop: car repair
 ---

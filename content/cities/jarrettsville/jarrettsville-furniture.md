@@ -1,5 +1,5 @@
 ---
 title: "Jarrettsville Furniture"
 url: /jarrettsville/jarrettsville-furniture/
-shop: Möbel
+shop: furniture
 ---

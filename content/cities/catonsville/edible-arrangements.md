@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /catonsville/edible-arrangements/
-shop: Blumen
+shop: florist
 ---

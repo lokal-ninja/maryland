@@ -1,5 +1,5 @@
 ---
 title: "Lou Lou Boutiques"
 url: /annapolis/lou-lou-boutiques/
-shop: Allgemein
+shop: shop
 ---

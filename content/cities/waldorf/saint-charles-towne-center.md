@@ -1,5 +1,5 @@
 ---
 title: "Saint Charles Towne Center"
 url: /waldorf/saint-charles-towne-center/
-shop: Einkaufszentrum
+shop: mall
 ---

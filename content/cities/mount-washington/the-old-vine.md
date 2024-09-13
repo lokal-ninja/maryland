@@ -1,5 +1,5 @@
 ---
 title: "The Old Vine"
 url: /mount-washington/the-old-vine/
-shop: Spirituosen
+shop: alcohol
 ---

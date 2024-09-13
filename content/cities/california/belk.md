@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /california/belk/
-shop: Warenhaus
+shop: department store
 ---

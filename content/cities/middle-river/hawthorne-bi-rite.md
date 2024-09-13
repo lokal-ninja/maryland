@@ -1,5 +1,5 @@
 ---
 title: "Hawthorne Bi-Rite"
 url: /middle-river/hawthorne-bi-rite/
-shop: Autowerkstatt
+shop: car repair
 ---

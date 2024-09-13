@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /baltimore/marathon-harford-road/
-shop: Lebensmittel
+shop: convenience
 ---

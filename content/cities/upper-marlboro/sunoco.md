@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /upper-marlboro/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Backyard"
 url: /ocean-pines/my-backyard/
-shop: Allgemein
+shop: shop
 ---

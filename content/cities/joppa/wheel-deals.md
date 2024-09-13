@@ -1,5 +1,5 @@
 ---
 title: "Wheel Deals"
 url: /joppa/wheel-deals/
-shop: Reifen
+shop: tyres
 ---

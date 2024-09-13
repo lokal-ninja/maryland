@@ -1,5 +1,5 @@
 ---
 title: "Teamzila"
 url: /taneytown/teamzila/
-shop: Kleidung
+shop: clothes
 ---

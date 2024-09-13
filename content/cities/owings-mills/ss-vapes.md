@@ -1,5 +1,5 @@
 ---
 title: "SS Vapes"
 url: /owings-mills/ss-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

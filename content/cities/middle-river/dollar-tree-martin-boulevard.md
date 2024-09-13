@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /middle-river/dollar-tree-martin-boulevard/
-shop: Kramladen
+shop: variety store
 ---

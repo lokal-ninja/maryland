@@ -1,5 +1,5 @@
 ---
 title: "Uptown Press"
 url: /baltimore/uptown-press/
-shop: Kopieren
+shop: copyshop
 ---

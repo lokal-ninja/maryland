@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /rosedale/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

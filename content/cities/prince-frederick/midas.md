@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /prince-frederick/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

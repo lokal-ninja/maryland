@@ -1,5 +1,5 @@
 ---
 title: "BMW of Towson"
 url: /towson/bmw-of-towson/
-shop: Autohaus
+shop: car
 ---

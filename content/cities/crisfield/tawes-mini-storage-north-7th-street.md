@@ -1,5 +1,5 @@
 ---
 title: "Tawes Mini Storage"
 url: /crisfield/tawes-mini-storage-north-7th-street/
-shop: Mieten
+shop: storage rental
 ---

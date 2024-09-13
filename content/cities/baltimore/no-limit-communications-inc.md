@@ -1,5 +1,5 @@
 ---
 title: "No Limit Communications Inc."
 url: /baltimore/no-limit-communications-inc/
-shop: Handy
+shop: mobile phone
 ---

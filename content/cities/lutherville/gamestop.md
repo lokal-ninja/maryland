@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /lutherville/gamestop/
-shop: Videospiele
+shop: video games
 ---

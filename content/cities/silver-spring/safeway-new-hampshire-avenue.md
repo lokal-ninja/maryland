@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /silver-spring/safeway-new-hampshire-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

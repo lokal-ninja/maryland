@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /parkville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

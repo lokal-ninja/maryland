@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /towson/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

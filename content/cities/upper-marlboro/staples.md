@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /upper-marlboro/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

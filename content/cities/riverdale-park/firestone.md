@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /riverdale-park/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

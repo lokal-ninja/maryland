@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /frederick/royal-farms-fingerboard-road/
-shop: Lebensmittel
+shop: convenience
 ---

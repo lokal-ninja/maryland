@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /oxon-hill/giant/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /brunswick/weis/
-shop: Supermarkt
+shop: supermarket
 ---

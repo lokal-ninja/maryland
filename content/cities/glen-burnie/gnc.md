@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /glen-burnie/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

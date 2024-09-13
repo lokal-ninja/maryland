@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /owings-mills/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

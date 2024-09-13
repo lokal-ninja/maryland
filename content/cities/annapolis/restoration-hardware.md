@@ -1,5 +1,5 @@
 ---
 title: "Restoration Hardware"
 url: /annapolis/restoration-hardware/
-shop: Möbel
+shop: furniture
 ---

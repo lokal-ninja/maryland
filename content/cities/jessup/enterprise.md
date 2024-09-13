@@ -1,5 +1,5 @@
 ---
 title: "Enterprise"
 url: /jessup/enterprise/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /gaithersburg/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

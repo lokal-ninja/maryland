@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /catonsville/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

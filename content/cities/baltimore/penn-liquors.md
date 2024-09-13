@@ -1,5 +1,5 @@
 ---
 title: "Penn Liquors"
 url: /baltimore/penn-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

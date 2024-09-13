@@ -1,5 +1,5 @@
 ---
 title: "JPS Granite"
 url: /forest-hill/jps-granite/
-shop: Baustoffe
+shop: trade
 ---

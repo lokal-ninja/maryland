@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /waldorf/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

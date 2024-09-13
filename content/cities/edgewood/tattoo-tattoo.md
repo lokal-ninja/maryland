@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Tattoo"
 url: /edgewood/tattoo-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

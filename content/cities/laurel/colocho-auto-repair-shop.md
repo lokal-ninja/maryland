@@ -1,5 +1,5 @@
 ---
 title: "Colocho Auto Repair Shop"
 url: /laurel/colocho-auto-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

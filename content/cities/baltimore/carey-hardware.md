@@ -1,5 +1,5 @@
 ---
 title: "Carey Hardware"
 url: /baltimore/carey-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

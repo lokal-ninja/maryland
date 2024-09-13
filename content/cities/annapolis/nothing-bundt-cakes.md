@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /annapolis/nothing-bundt-cakes/
-shop: Konditorei
+shop: pastry
 ---

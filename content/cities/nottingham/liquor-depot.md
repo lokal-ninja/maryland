@@ -1,5 +1,5 @@
 ---
 title: "Liquor Depot"
 url: /nottingham/liquor-depot/
-shop: Spirituosen
+shop: alcohol
 ---

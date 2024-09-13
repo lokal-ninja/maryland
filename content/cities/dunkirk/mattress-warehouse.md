@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /dunkirk/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

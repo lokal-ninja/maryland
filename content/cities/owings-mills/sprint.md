@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /owings-mills/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /glen-burnie/gamestop/
-shop: Videospiele
+shop: video games
 ---

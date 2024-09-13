@@ -1,5 +1,5 @@
 ---
 title: "Famous PawnBrokers"
 url: /hyattsville/famous-pawnbrokers/
-shop: Leiher
+shop: pawnbroker
 ---

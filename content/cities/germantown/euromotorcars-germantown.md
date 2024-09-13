@@ -1,5 +1,5 @@
 ---
 title: "EuroMotorcars Germantown"
 url: /germantown/euromotorcars-germantown/
-shop: Autohaus
+shop: car
 ---

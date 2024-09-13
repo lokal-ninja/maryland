@@ -1,5 +1,5 @@
 ---
 title: "Always Best Crabs"
 url: /pasadena/always-best-crabs/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ellicott-city/sunoco/
-shop: Autowerkstatt
+shop: car repair
 ---

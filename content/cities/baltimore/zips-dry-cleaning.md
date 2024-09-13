@@ -1,5 +1,5 @@
 ---
 title: "Zips Dry Cleaning"
 url: /baltimore/zips-dry-cleaning/
-shop: Wäscherei
+shop: laundry
 ---

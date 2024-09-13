@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /laurel/dollar-tree-laurel-ft-meade-road/
-shop: Kramladen
+shop: variety store
 ---

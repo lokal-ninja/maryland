@@ -1,5 +1,5 @@
 ---
 title: "Crown"
 url: /aberdeen/crown/
-shop: Lebensmittel
+shop: convenience
 ---

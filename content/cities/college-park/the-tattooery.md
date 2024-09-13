@@ -1,5 +1,5 @@
 ---
 title: "The Tattooery"
 url: /college-park/the-tattooery/
-shop: Tattoo
+shop: tattoo
 ---

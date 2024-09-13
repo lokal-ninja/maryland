@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /glen-burnie/giant/
-shop: Supermarkt
+shop: supermarket
 ---

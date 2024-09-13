@@ -1,5 +1,5 @@
 ---
 title: "Kirkley-Ruddick Funeral Home"
 url: /glen-burnie/kirkley-ruddick-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

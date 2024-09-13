@@ -1,5 +1,5 @@
 ---
 title: "Angie's Auto Spa"
 url: /elkton/angies-auto-spa/
-shop: Autowerkstatt
+shop: car repair
 ---

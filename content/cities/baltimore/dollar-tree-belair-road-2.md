@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /baltimore/dollar-tree-belair-road-2/
-shop: Kramladen
+shop: variety store
 ---

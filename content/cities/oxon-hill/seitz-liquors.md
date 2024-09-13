@@ -1,5 +1,5 @@
 ---
 title: "Seitz Liquors"
 url: /oxon-hill/seitz-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

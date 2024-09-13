@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bel-air/autozone/
-shop: Autoteile
+shop: car parts
 ---

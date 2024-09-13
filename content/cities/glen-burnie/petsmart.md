@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /glen-burnie/petsmart/
-shop: Tiere
+shop: pet
 ---

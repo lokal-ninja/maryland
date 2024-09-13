@@ -1,5 +1,5 @@
 ---
 title: "Sweet Elizabeth Jane"
 url: /ellicott-city/sweet-elizabeth-jane/
-shop: Kleidung
+shop: clothes
 ---

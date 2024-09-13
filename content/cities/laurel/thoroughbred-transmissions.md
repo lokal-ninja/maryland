@@ -1,5 +1,5 @@
 ---
 title: "Thoroughbred Transmissions"
 url: /laurel/thoroughbred-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

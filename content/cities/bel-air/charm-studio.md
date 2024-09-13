@@ -1,5 +1,5 @@
 ---
 title: "Charm Studio"
 url: /bel-air/charm-studio/
-shop: Friseur
+shop: hairdresser
 ---

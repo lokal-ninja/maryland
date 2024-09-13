@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /bel-air/jos-a-bank/
-shop: Kleidung
+shop: clothes
 ---

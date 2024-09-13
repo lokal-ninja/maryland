@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /capitol-heights/big-lots/
-shop: Warenhaus
+shop: department store
 ---

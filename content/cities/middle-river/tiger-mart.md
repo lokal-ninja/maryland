@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /middle-river/tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

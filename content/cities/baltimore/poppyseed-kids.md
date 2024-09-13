@@ -1,5 +1,5 @@
 ---
 title: "Poppyseed Kids"
 url: /baltimore/poppyseed-kids/
-shop: Kleidung
+shop: clothes
 ---

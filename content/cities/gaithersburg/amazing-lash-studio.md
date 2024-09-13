@@ -1,5 +1,5 @@
 ---
 title: "Amazing Lash Studio"
 url: /gaithersburg/amazing-lash-studio/
-shop: Kosmetik
+shop: beauty
 ---

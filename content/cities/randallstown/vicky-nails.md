@@ -1,5 +1,5 @@
 ---
 title: "Vicky Nails"
 url: /randallstown/vicky-nails/
-shop: Kosmetik
+shop: beauty
 ---

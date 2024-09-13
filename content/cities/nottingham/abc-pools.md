@@ -1,5 +1,5 @@
 ---
 title: "ABC Pools"
 url: /nottingham/abc-pools/
-shop: Pool
+shop: swimming pool
 ---

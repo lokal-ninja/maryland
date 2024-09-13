@@ -1,5 +1,5 @@
 ---
 title: "Orems Laundry"
 url: /middle-river/orems-laundry/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Desires"
 url: /parkville/desires/
-shop: Tabak
+shop: tobacco
 ---

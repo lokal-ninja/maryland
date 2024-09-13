@@ -1,5 +1,5 @@
 ---
 title: "Arrow Bicycle"
 url: /hyattsville/arrow-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

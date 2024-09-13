@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /wheaton/dsw/
-shop: Schuhe
+shop: shoes
 ---

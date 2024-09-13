@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /annapolis/walgreens/
-shop: Drogerie
+shop: chemist
 ---

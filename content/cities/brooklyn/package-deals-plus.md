@@ -1,5 +1,5 @@
 ---
 title: "Package Deals Plus"
 url: /brooklyn/package-deals-plus/
-shop: Metzgerei
+shop: butcher
 ---

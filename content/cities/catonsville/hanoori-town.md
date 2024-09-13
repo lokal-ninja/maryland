@@ -1,5 +1,5 @@
 ---
 title: "Hanoori Town"
 url: /catonsville/hanoori-town/
-shop: Baumarkt
+shop: doityourself
 ---

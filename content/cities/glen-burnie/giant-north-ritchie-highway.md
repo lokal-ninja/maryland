@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /glen-burnie/giant-north-ritchie-highway/
-shop: Supermarkt
+shop: supermarket
 ---

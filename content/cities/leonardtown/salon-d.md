@@ -1,5 +1,5 @@
 ---
 title: "Salon D"
 url: /leonardtown/salon-d/
-shop: Friseur
+shop: hairdresser
 ---

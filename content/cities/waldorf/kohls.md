@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /waldorf/kohls/
-shop: Warenhaus
+shop: department store
 ---

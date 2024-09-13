@@ -1,5 +1,5 @@
 ---
 title: "Linemark"
 url: /upper-marlboro/linemark/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enterprise Car Sales"
 url: /rockville/enterprise-car-sales/
-shop: Autohaus
+shop: car
 ---

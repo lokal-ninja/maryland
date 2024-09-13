@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /abingdon/target/
-shop: Warenhaus
+shop: department store
 ---

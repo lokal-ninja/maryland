@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /rockville/safeway-shady-grove-road/
-shop: Supermarkt
+shop: supermarket
 ---

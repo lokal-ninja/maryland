@@ -1,5 +1,5 @@
 ---
 title: "K-Coast Girl"
 url: /ocean-city/k-coast-girl/
-shop: Kleidung
+shop: clothes
 ---

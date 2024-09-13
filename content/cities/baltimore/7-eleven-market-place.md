@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /baltimore/7-eleven-market-place/
-shop: Lebensmittel
+shop: convenience
 ---

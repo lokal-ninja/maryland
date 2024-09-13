@@ -1,5 +1,5 @@
 ---
 title: "Psychic Readings"
 url: /rosedale/psychic-readings/
-shop: Allgemein
+shop: shop
 ---

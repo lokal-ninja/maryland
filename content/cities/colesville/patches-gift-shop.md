@@ -1,5 +1,5 @@
 ---
 title: "Patches Gift Shop"
 url: /colesville/patches-gift-shop/
-shop: Andenken
+shop: gift
 ---

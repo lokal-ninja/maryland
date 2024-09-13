@@ -1,5 +1,5 @@
 ---
 title: "Coco Buns Tanning"
 url: /middle-river/coco-buns-tanning/
-shop: Kosmetik
+shop: beauty
 ---

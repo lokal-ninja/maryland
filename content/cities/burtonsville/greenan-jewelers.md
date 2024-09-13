@@ -1,5 +1,5 @@
 ---
 title: "Greenan Jewelers"
 url: /burtonsville/greenan-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

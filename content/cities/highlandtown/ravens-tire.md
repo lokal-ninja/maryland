@@ -1,5 +1,5 @@
 ---
 title: "Raven’s Tire"
 url: /highlandtown/ravens-tire/
-shop: Reifen
+shop: tyres
 ---

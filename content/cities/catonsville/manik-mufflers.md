@@ -1,5 +1,5 @@
 ---
 title: "Manik Mufflers"
 url: /catonsville/manik-mufflers/
-shop: Autowerkstatt
+shop: car repair
 ---

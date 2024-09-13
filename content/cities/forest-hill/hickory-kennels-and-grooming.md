@@ -1,5 +1,5 @@
 ---
 title: "Hickory Kennels and Grooming"
 url: /forest-hill/hickory-kennels-and-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /bel-air/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

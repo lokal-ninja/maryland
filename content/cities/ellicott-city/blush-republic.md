@@ -1,5 +1,5 @@
 ---
 title: "Blush Republic"
 url: /ellicott-city/blush-republic/
-shop: Blumen
+shop: florist
 ---

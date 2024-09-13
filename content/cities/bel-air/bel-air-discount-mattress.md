@@ -1,5 +1,5 @@
 ---
 title: "Bel Air Discount Mattress"
 url: /bel-air/bel-air-discount-mattress/
-shop: Betten
+shop: bed
 ---

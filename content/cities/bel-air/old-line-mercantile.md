@@ -1,5 +1,5 @@
 ---
 title: "Old Line Mercantile"
 url: /bel-air/old-line-mercantile/
-shop: Andenken
+shop: gift
 ---

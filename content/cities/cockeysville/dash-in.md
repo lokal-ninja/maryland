@@ -1,5 +1,5 @@
 ---
 title: "Dash In"
 url: /cockeysville/dash-in/
-shop: Lebensmittel
+shop: convenience
 ---

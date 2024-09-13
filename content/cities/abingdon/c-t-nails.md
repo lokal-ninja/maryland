@@ -1,5 +1,5 @@
 ---
 title: "C.T. Nails"
 url: /abingdon/c-t-nails/
-shop: Kosmetik
+shop: beauty
 ---

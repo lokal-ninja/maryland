@@ -1,5 +1,5 @@
 ---
 title: "Blue Spark Barbershop"
 url: /baltimore/blue-spark-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

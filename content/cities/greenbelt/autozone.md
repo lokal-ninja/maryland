@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /greenbelt/autozone/
-shop: Autoteile
+shop: car parts
 ---

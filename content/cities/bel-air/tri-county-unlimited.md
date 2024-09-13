@@ -1,5 +1,5 @@
 ---
 title: "Tri-County Unlimited"
 url: /bel-air/tri-county-unlimited/
-shop: Pool
+shop: swimming pool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /pasadena/dollar-tree-ritchie-highway/
-shop: Kramladen
+shop: variety store
 ---

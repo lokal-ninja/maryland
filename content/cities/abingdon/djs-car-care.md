@@ -1,5 +1,5 @@
 ---
 title: "DJ's Car Care"
 url: /abingdon/djs-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

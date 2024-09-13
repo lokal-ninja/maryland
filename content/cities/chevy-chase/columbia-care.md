@@ -1,5 +1,5 @@
 ---
 title: "Columbia Care"
 url: /chevy-chase/columbia-care/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /edgewood/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

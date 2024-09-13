@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /parkville/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

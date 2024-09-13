@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /gaithersburg/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /capitol-heights/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

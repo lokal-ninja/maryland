@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /havre-de-grace/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

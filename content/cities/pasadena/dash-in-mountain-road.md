@@ -1,5 +1,5 @@
 ---
 title: "Dash In"
 url: /pasadena/dash-in-mountain-road/
-shop: Lebensmittel
+shop: convenience
 ---

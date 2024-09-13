@@ -1,5 +1,5 @@
 ---
 title: "Hard Rock Hair Studio"
 url: /hyattsville/hard-rock-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

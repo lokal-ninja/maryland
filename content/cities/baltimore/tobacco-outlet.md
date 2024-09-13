@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Outlet"
 url: /baltimore/tobacco-outlet/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MOM's Organic Market"
 url: /rockville/moms-organic-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /hyattsville/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

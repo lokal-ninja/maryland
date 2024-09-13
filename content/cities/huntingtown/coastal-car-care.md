@@ -1,5 +1,5 @@
 ---
 title: "Coastal Car Care"
 url: /huntingtown/coastal-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

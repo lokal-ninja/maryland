@@ -1,5 +1,5 @@
 ---
 title: "Classy Chassis Automotive Repair Service"
 url: /upper-marlboro/classy-chassis-automotive-repair-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /la-plata/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /hunt-valley/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

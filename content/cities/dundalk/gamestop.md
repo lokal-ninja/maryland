@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /dundalk/gamestop/
-shop: Videospiele
+shop: video games
 ---

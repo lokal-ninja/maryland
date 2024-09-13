@@ -1,5 +1,5 @@
 ---
 title: "Best Cleaners"
 url: /bel-air/best-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

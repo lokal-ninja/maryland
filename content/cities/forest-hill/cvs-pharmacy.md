@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /forest-hill/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

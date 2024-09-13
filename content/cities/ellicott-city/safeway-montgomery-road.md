@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /ellicott-city/safeway-montgomery-road/
-shop: Supermarkt
+shop: supermarket
 ---

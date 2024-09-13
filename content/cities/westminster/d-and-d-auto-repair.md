@@ -1,5 +1,5 @@
 ---
 title: "D and D Auto repair"
 url: /westminster/d-and-d-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

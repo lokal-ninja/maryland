@@ -1,5 +1,5 @@
 ---
 title: "Forest Hill Automotive"
 url: /forest-hill/forest-hill-automotive-colgate-drive/
-shop: Autowerkstatt
+shop: car repair
 ---

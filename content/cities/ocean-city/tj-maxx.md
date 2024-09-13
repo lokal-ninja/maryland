@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /ocean-city/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

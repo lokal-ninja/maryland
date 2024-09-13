@@ -1,5 +1,5 @@
 ---
 title: "Lotte Bazaar"
 url: /catonsville/lotte-bazaar/
-shop: Allgemein
+shop: shop
 ---

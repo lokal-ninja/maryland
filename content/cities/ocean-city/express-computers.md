@@ -1,5 +1,5 @@
 ---
 title: "Express Computers"
 url: /ocean-city/express-computers/
-shop: Computer
+shop: computer
 ---

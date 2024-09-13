@@ -1,5 +1,5 @@
 ---
 title: "The Ivy Bookshop"
 url: /baltimore/the-ivy-bookshop/
-shop: Bücher
+shop: books
 ---

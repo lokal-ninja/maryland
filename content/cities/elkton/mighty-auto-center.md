@@ -1,5 +1,5 @@
 ---
 title: "Mighty Auto Center"
 url: /elkton/mighty-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

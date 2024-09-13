@@ -1,5 +1,5 @@
 ---
 title: "Pro Flooring"
 url: /north-east/pro-flooring-flint-drive/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tint Inc."
 url: /glen-burnie/tint-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

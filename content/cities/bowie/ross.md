@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bowie/ross/
-shop: Warenhaus
+shop: department store
 ---

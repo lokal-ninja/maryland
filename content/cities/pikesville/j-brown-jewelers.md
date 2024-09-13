@@ -1,5 +1,5 @@
 ---
 title: "J. Brown Jewelers"
 url: /pikesville/j-brown-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

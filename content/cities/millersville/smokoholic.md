@@ -1,5 +1,5 @@
 ---
 title: "Smokoholic"
 url: /millersville/smokoholic/
-shop: Tabak
+shop: tobacco
 ---

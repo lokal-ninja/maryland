@@ -1,5 +1,5 @@
 ---
 title: "Monkey's Trunk"
 url: /ocean-city/monkeys-trunk/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /rockville/rei/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vanity Salon"
 url: /pasadena/the-vanity-salon/
-shop: Kosmetik
+shop: beauty
 ---

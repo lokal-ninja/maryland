@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /north-bethesda/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

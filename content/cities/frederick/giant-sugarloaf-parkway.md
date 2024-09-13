@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /frederick/giant-sugarloaf-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

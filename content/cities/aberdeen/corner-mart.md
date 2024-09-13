@@ -1,5 +1,5 @@
 ---
 title: "Corner Mart"
 url: /aberdeen/corner-mart/
-shop: Lebensmittel
+shop: convenience
 ---

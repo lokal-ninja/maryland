@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /north-bethesda/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

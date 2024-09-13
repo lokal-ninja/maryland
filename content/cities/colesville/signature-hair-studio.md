@@ -1,5 +1,5 @@
 ---
 title: "Signature Hair Studio"
 url: /colesville/signature-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

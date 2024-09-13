@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /crofton/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /highlandtown/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

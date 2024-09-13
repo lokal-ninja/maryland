@@ -1,5 +1,5 @@
 ---
 title: "Indigo Salon Studio"
 url: /catonsville/indigo-salon-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /rosedale/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /frederick/bubbles/
-shop: Friseur
+shop: hairdresser
 ---

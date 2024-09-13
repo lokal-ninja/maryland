@@ -1,5 +1,5 @@
 ---
 title: "Vox Nail Spa"
 url: /glen-burnie/vox-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

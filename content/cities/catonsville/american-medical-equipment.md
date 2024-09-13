@@ -1,5 +1,5 @@
 ---
 title: "American Medical Equipment"
 url: /catonsville/american-medical-equipment/
-shop: Sanitätshaus
+shop: medical supply
 ---

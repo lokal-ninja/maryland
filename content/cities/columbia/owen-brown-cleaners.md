@@ -1,5 +1,5 @@
 ---
 title: "Owen Brown Cleaners"
 url: /columbia/owen-brown-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

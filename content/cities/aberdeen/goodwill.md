@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /aberdeen/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

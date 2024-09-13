@@ -1,5 +1,5 @@
 ---
 title: "Kent Island Crab Co."
 url: /pasadena/kent-island-crab-co/
-shop: Fisch
+shop: seafood
 ---

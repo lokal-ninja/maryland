@@ -1,5 +1,5 @@
 ---
 title: "Exquisite Jewelry"
 url: /baltimore/exquisite-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

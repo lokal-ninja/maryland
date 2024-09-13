@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /ellicott-city/giant/
-shop: Supermarkt
+shop: supermarket
 ---

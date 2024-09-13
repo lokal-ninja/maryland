@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /waldorf/michaels/
-shop: Basteln
+shop: craft
 ---

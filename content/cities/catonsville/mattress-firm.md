@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /catonsville/mattress-firm/
-shop: Betten
+shop: bed
 ---

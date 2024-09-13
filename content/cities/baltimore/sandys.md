@@ -1,5 +1,5 @@
 ---
 title: "Sandy's"
 url: /baltimore/sandys/
-shop: Andenken
+shop: gift
 ---

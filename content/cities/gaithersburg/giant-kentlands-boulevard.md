@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /gaithersburg/giant-kentlands-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

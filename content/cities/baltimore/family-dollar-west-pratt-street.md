@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /baltimore/family-dollar-west-pratt-street/
-shop: Kramladen
+shop: variety store
 ---

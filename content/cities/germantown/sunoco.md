@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /germantown/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

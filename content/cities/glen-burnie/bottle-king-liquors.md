@@ -1,5 +1,5 @@
 ---
 title: "Bottle King Liquors"
 url: /glen-burnie/bottle-king-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

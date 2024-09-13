@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pikesville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

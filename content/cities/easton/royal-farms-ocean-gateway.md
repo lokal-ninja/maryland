@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /easton/royal-farms-ocean-gateway/
-shop: Lebensmittel
+shop: convenience
 ---

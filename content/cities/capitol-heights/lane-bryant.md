@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /capitol-heights/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

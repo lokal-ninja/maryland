@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /colesville/giant/
-shop: Supermarkt
+shop: supermarket
 ---

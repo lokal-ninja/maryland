@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bowie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

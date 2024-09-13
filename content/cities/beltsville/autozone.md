@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /beltsville/autozone/
-shop: Autoteile
+shop: car parts
 ---

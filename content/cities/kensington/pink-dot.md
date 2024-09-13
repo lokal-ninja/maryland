@@ -1,5 +1,5 @@
 ---
 title: "Pink Dot"
 url: /kensington/pink-dot/
-shop: Modehaus
+shop: boutique
 ---

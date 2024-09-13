@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /new-carrollton/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

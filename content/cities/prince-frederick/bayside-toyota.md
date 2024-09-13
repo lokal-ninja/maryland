@@ -1,5 +1,5 @@
 ---
 title: "Bayside Toyota"
 url: /prince-frederick/bayside-toyota/
-shop: Autohaus
+shop: car
 ---

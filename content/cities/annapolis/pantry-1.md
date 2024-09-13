@@ -1,5 +1,5 @@
 ---
 title: "Pantry 1"
 url: /annapolis/pantry-1/
-shop: Lebensmittel
+shop: convenience
 ---

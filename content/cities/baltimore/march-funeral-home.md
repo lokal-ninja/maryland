@@ -1,5 +1,5 @@
 ---
 title: "March Funeral Home"
 url: /baltimore/march-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /prince-frederick/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Detailing Supplies"
 url: /middle-river/auto-detailing-supplies/
-shop: Autoteile
+shop: car parts
 ---

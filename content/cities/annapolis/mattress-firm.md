@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /annapolis/mattress-firm/
-shop: Betten
+shop: bed
 ---

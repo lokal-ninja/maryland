@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /hagerstown/gamestop/
-shop: Videospiele
+shop: video games
 ---

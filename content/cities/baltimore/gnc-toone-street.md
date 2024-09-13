@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /baltimore/gnc-toone-street/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

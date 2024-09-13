@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /baltimore/caliber-collision-north-howard-street/
-shop: Autowerkstatt
+shop: car repair
 ---

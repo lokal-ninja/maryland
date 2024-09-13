@@ -1,5 +1,5 @@
 ---
 title: "Amano"
 url: /takoma-park/amano/
-shop: Kleidung
+shop: clothes
 ---

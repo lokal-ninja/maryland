@@ -1,5 +1,5 @@
 ---
 title: "Annapolis Maritime Antiques"
 url: /annapolis/annapolis-maritime-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

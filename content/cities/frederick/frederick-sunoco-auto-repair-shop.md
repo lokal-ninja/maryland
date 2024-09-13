@@ -1,5 +1,5 @@
 ---
 title: "Frederick Sunoco Auto Repair Shop"
 url: /frederick/frederick-sunoco-auto-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---
