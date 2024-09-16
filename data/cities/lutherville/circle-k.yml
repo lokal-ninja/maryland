@@ -1,11 +1,11 @@
 id: 129388932
-type: way
+type: node
 latitude: 39.41912
 longitude: -76.66928
 postcode: "21093"
 city: Lutherville
-street: "West Joppa Road"
-housenumber: 2343
+street: West Joppa Road
+housenumber: "2343"
 phone: ""
 opening_hours: ""
 website: ""

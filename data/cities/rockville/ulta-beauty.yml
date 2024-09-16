@@ -4,8 +4,8 @@ latitude: 39.06246
 longitude: -77.12754
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 1631
-phone: "+1 301-231-5386"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/rockville-md-167"
+street: Rockville Pike
+housenumber: "1631"
+phone: +1 301-231-5386
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/rockville-md-167

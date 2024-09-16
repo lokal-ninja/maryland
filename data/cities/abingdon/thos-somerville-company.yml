@@ -1,11 +1,11 @@
 id: 556161943
-type: way
+type: node
 latitude: 39.44664
 longitude: -76.29328
 postcode: "21009"
 city: Abingdon
-street: "Continental Drive"
-housenumber: 1300
+street: Continental Drive
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.tsomerville.com/"
+website: https://www.tsomerville.com/

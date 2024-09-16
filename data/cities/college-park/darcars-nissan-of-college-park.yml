@@ -1,11 +1,11 @@
 id: 302355408
-type: way
+type: node
 latitude: 39.00816
 longitude: -76.92986
 postcode: "20740"
 city: College Park
-street: "Baltimore Avenue"
-housenumber: 9330
-phone: "+1-301-441-8000"
+street: Baltimore Avenue
+housenumber: "9330"
+phone: +1-301-441-8000
 opening_hours: ""
-website: "https://www.darcarsnissanofcollegepark.com/"
+website: https://www.darcarsnissanofcollegepark.com/

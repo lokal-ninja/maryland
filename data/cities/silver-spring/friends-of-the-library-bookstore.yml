@@ -1,11 +1,11 @@
 id: 246550854
-type: way
+type: node
 latitude: 39.00032
 longitude: -77.02524
 postcode: "20910"
 city: Silver Spring
-street: "Colesville Road"
-housenumber: 8901
+street: Colesville Road
+housenumber: "8901"
 phone: ""
 opening_hours: ""
 website: ""

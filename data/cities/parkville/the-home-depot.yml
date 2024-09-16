@@ -1,11 +1,11 @@
 id: 54308931
-type: way
+type: node
 latitude: 39.39596
 longitude: -76.54462
 postcode: "21234"
 city: Parkville
-street: "East Joppa Road"
-housenumber: 1971
-phone: "+1 410-882-1900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-19:00"
-website: "https://www.homedepot.com/l/towson/md/parkville/21234/2504"
+street: East Joppa Road
+housenumber: "1971"
+phone: +1 410-882-1900
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-19:00
+website: https://www.homedepot.com/l/towson/md/parkville/21234/2504

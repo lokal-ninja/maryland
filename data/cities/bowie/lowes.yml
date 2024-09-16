@@ -1,11 +1,11 @@
 id: 227371904
-type: way
+type: node
 latitude: 38.94513
 longitude: -76.72081
 postcode: "20716"
 city: Bowie
-street: "Heritage Boulevard"
-housenumber: 1601
-phone: "+1 301-805-8000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0452"
+street: Heritage Boulevard
+housenumber: "1601"
+phone: +1 301-805-8000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0452

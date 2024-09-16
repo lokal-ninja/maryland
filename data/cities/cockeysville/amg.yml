@@ -1,11 +1,11 @@
 id: 83705544
-type: way
+type: node
 latitude: 39.47909
 longitude: -76.64668
 postcode: "21030"
 city: Cockeysville
-street: "Stenerson Lane"
-housenumber: 21
+street: Stenerson Lane
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

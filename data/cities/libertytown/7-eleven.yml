@@ -1,11 +1,11 @@
 id: 591475856
-type: way
+type: node
 latitude: 39.48512
 longitude: -77.24962
 postcode: "21701"
 city: Libertytown
-street: "Main Street"
-housenumber: 11922
-phone: "+1 301-898-5999"
+street: Main Street
+housenumber: "11922"
+phone: +1 301-898-5999
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 277338912
-type: way
+type: node
 latitude: 38.96285
 longitude: -76.51235
-postcode: "21403-1454"
+postcode: 21403-1454
 city: Annapolis
-street: "Forest Drive"
-housenumber: 1527
-phone: "+1 410-269-6840"
+street: Forest Drive
+housenumber: "1527"
+phone: +1 410-269-6840
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/annapolis/1527-forest-dr.-23705"
+website: https://www.7-eleven.com/locations/md/annapolis/1527-forest-dr.-23705

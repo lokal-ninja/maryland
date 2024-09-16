@@ -1,11 +1,11 @@
 id: 1172873610
-type: way
+type: node
 latitude: 39.41847
 longitude: -76.45577
 postcode: "21128"
 city: Perry Hall
-street: "Belair Road"
-housenumber: 9809
+street: Belair Road
+housenumber: "9809"
 phone: ""
 opening_hours: ""
 website: ""

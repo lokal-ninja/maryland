@@ -1,11 +1,11 @@
 id: 336399291
-type: way
+type: node
 latitude: 39.32691
 longitude: -76.62941
 postcode: "21211"
 city: Baltimore
-street: "West 33rd Street"
-housenumber: 801
+street: West 33rd Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 194091688
-type: way
+type: node
 latitude: 38.55308
 longitude: -76.05372
 postcode: "21613"
 city: Cambridge
-street: "Dorchester Square"
-housenumber: 2775
-phone: "+1 410-221-0292"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2272/cambridge-md/whats-new"
+street: Dorchester Square
+housenumber: "2775"
+phone: +1 410-221-0292
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2272/cambridge-md/whats-new

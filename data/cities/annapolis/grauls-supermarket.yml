@@ -1,11 +1,11 @@
 id: 220377078
-type: way
+type: node
 latitude: 38.98793
 longitude: -76.50301
 postcode: "21401"
 city: Annapolis
-street: "Taylor Avenue"
+street: Taylor Avenue
 housenumber: 609C
-phone: "+1 410-269-5103"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-17:00"
-website: "https://graulsmarket.com"
+phone: +1 410-269-5103
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-17:00
+website: https://graulsmarket.com

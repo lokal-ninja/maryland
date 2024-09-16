@@ -1,11 +1,11 @@
 id: 678976181
-type: way
+type: node
 latitude: 39.54137
 longitude: -76.10422
 postcode: "21078"
 city: Havre de Grace
-street: "Revolution Street"
-housenumber: 1123
-phone: "+1-410-939-0990"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-20:00"
-website: "http://postroadliquors.com/"
+street: Revolution Street
+housenumber: "1123"
+phone: +1-410-939-0990
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 10:00-20:00
+website: http://postroadliquors.com/

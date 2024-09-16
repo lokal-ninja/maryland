@@ -1,11 +1,11 @@
 id: 398700989
-type: way
+type: node
 latitude: 39.39746
 longitude: -76.58414
 postcode: "21286"
 city: Loch Raven
-street: "Goucher Boulevard"
-housenumber: 803
-phone: "+1 410-828-3903"
-opening_hours: "09:00-22:00"
+street: Goucher Boulevard
+housenumber: "803"
+phone: +1 410-828-3903
+opening_hours: 09:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 534672618
-type: way
+type: node
 latitude: 37.99235
 longitude: -75.84463
 postcode: "21817"
 city: Crisfield
-street: "Jacksonville Road"
-housenumber: 1
+street: Jacksonville Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

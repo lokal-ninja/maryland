@@ -1,11 +1,11 @@
 id: 1181464301
-type: way
+type: node
 latitude: 39.21118
 longitude: -76.06471
 postcode: "21620"
 city: Chestertown
-street: "Philosophers Terrace"
-housenumber: 100
+street: Philosophers Terrace
+housenumber: "100"
 phone: "+14107789496"
 opening_hours: ""
 website: ""

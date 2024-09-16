@@ -1,11 +1,11 @@
 id: 62343698
-type: way
+type: node
 latitude: 39.0307
 longitude: -77.07609
 postcode: "20895"
 city: Kensington
-street: "Connecticut Avenue"
-housenumber: 10644
+street: Connecticut Avenue
+housenumber: "10644"
 phone: ""
 opening_hours: ""
 website: ""

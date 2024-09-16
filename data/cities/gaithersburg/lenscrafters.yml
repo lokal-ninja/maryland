@@ -1,11 +1,11 @@
 id: 1236007821
-type: way
+type: node
 latitude: 39.1186
 longitude: -77.20253
 postcode: "20878"
 city: Gaithersburg
-street: "Grand Corner Avenue"
-housenumber: 26
+street: Grand Corner Avenue
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://local.lenscrafters.com/md/gaithersburg/26-b-grand-corner-avenue.html"
+website: https://local.lenscrafters.com/md/gaithersburg/26-b-grand-corner-avenue.html

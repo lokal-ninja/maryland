@@ -1,11 +1,11 @@
 id: 228127940
-type: way
+type: node
 latitude: 39.14728
 longitude: -76.65083
 postcode: "21144"
 city: Severn
-street: "George Clauss Boulevard"
-housenumber: 418
-phone: "+1 410-590-6420"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/md/severn-171.shtml"
+street: George Clauss Boulevard
+housenumber: "418"
+phone: +1 410-590-6420
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/md/severn-171.shtml

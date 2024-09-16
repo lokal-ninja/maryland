@@ -4,8 +4,8 @@ latitude: 38.99949
 longitude: -76.91113
 postcode: "20770"
 city: Greenbelt
-street: "Greenbelt Road"
-housenumber: 6000
-phone: "+1 301-982-5482"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/greenbelt/6000-greenbelt-rd"
+street: Greenbelt Road
+housenumber: "6000"
+phone: +1 301-982-5482
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/greenbelt/6000-greenbelt-rd

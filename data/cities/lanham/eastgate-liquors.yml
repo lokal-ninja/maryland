@@ -1,11 +1,11 @@
 id: 613033736
-type: way
+type: node
 latitude: 38.98927
 longitude: -76.82373
 postcode: "20706"
 city: Lanham
-street: "Greenbelt Road"
-housenumber: 10505
+street: Greenbelt Road
+housenumber: "10505"
 phone: ""
 opening_hours: ""
 website: ""

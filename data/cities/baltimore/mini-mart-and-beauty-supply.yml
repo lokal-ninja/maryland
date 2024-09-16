@@ -1,11 +1,11 @@
 id: 327708905
-type: way
+type: node
 latitude: 39.31263
 longitude: -76.61789
 postcode: "21218"
 city: Baltimore
-street: "Maryland Avenue"
-housenumber: 2011
+street: Maryland Avenue
+housenumber: "2011"
 phone: ""
 opening_hours: ""
 website: ""

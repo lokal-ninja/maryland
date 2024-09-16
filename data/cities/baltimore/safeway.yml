@@ -4,8 +4,8 @@ latitude: 39.33939
 longitude: -76.57131
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 4401
-phone: "+1 410-319-8591"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/baltimore/4401-harford-rd.html"
+street: Harford Road
+housenumber: "4401"
+phone: +1 410-319-8591
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/baltimore/4401-harford-rd.html

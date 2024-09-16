@@ -1,11 +1,11 @@
 id: 144312993
-type: way
+type: node
 latitude: 39.42909
 longitude: -76.62335
 postcode: "21093"
 city: Lutherville
-street: "West Ridgely Road"
-housenumber: 19
-phone: "+1-410-823-3970"
+street: West Ridgely Road
+housenumber: "19"
+phone: +1-410-823-3970
 opening_hours: ""
-website: "https://www.ridgelyautocare.net/"
+website: https://www.ridgelyautocare.net/

@@ -4,8 +4,8 @@ latitude: 39.32621
 longitude: -76.61571
 postcode: "21218"
 city: Baltimore
-street: "Saint Paul Street"
-housenumber: 3109
+street: Saint Paul Street
+housenumber: "3109"
 phone: ""
-opening_hours: "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; PH,Su off"
+opening_hours: Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; PH,Su off
 website: ""

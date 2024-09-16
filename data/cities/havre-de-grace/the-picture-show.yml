@@ -1,11 +1,11 @@
 id: 175513915
-type: way
+type: node
 latitude: 39.54997
 longitude: -76.08961
 postcode: "21078"
 city: Havre de Grace
-street: "Saint John Street"
-housenumber: 301
+street: Saint John Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

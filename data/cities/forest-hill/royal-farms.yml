@@ -1,11 +1,11 @@
 id: 691870082
-type: way
+type: node
 latitude: 39.56071
 longitude: -76.37307
 postcode: "21050"
 city: Forest Hill
-street: "Rock Spring Road"
-housenumber: 1526
-phone: "+1 410-399-3093"
-opening_hours: "24/7"
-website: "https://www.royalfarms.com/"
+street: Rock Spring Road
+housenumber: "1526"
+phone: +1 410-399-3093
+opening_hours: 24/7
+website: https://www.royalfarms.com/

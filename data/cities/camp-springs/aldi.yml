@@ -1,11 +1,11 @@
 id: 224192760
-type: way
+type: node
 latitude: 38.80109
 longitude: -76.90828
-postcode: "20748-2611"
+postcode: 20748-2611
 city: Camp Springs
-street: "Allentown Road"
-housenumber: 6400
-phone: "+1 833-471-7036"
-opening_hours: "09:00-20:30"
-website: "https://stores.aldi.us/md/camp-springs/6400-allentown-road"
+street: Allentown Road
+housenumber: "6400"
+phone: +1 833-471-7036
+opening_hours: 09:00-20:30
+website: https://stores.aldi.us/md/camp-springs/6400-allentown-road

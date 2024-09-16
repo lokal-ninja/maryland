@@ -1,11 +1,11 @@
 id: 160423035
-type: way
+type: node
 latitude: 39.44582
 longitude: -77.38775
 postcode: "21701"
 city: Frederick
-street: "Monocacy Boulevard"
-housenumber: 1811
+street: Monocacy Boulevard
+housenumber: "1811"
 phone: ""
 opening_hours: ""
-website: "https://www.athome.com"
+website: https://www.athome.com

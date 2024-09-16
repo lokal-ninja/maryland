@@ -1,11 +1,11 @@
 id: 298926922
-type: way
+type: node
 latitude: 39.26555
 longitude: -76.46618
 postcode: "21222"
 city: Dundalk
-street: "North Point Boulevard"
-housenumber: 4112
+street: North Point Boulevard
+housenumber: "4112"
 phone: ""
 opening_hours: ""
 website: ""

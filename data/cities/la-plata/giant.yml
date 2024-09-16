@@ -1,11 +1,11 @@
 id: 299870696
-type: way
+type: node
 latitude: 38.55779
 longitude: -76.98583
 postcode: "20646"
 city: La Plata
-street: "Rosewick Road"
-housenumber: 200
-phone: "+1 301-392-5429"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/la-plata/200-rosewick-road"
+street: Rosewick Road
+housenumber: "200"
+phone: +1 301-392-5429
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/la-plata/200-rosewick-road

@@ -1,11 +1,11 @@
 id: 113580106
-type: way
+type: node
 latitude: 39.26881
 longitude: -76.80032
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8390
-phone: "+1 410 465 7802"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-17:00"
-website: "https://winebinec.com"
+street: Main Street
+housenumber: "8390"
+phone: +1 410 465 7802
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-17:00
+website: https://winebinec.com

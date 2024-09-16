@@ -1,11 +1,11 @@
 id: 131618204
-type: way
+type: node
 latitude: 39.31194
 longitude: -76.96308
 postcode: "21784"
 city: Sykesville
-street: "Livestock Road"
-housenumber: 12975
+street: Livestock Road
+housenumber: "12975"
 phone: ""
 opening_hours: ""
-website: "https://www.carcorpmd.com/"
+website: https://www.carcorpmd.com/

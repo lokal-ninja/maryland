@@ -1,11 +1,11 @@
 id: 207129415
-type: way
+type: node
 latitude: 39.03067
 longitude: -76.50413
 postcode: "21012"
 city: Arnold
-street: "Ritchie Highway"
-housenumber: 1451
-phone: "+1 410-919-1000"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://local.safeway.com/safeway/md/arnold/1451-s-ritchie-hwy.html"
+street: Ritchie Highway
+housenumber: "1451"
+phone: +1 410-919-1000
+opening_hours: Mo-Su 05:00-23:00
+website: https://local.safeway.com/safeway/md/arnold/1451-s-ritchie-hwy.html

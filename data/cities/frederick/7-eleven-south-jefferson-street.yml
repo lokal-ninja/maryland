@@ -1,11 +1,11 @@
 id: 1054526369
-type: way
+type: node
 latitude: 39.40893
 longitude: -77.42716
-postcode: "21701-6207"
+postcode: 21701-6207
 city: Frederick
-street: "South Jefferson Street"
-housenumber: 313
-phone: "+1 301-662-0880"
+street: South Jefferson Street
+housenumber: "313"
+phone: +1 301-662-0880
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/frederick/313-south-jefferson-st-22002"
+website: https://www.7-eleven.com/locations/md/frederick/313-south-jefferson-st-22002

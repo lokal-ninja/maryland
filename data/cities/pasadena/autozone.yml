@@ -1,11 +1,11 @@
 id: 1183745579
-type: way
+type: node
 latitude: 39.12742
 longitude: -76.54167
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 2707
-phone: "+1-410-360-7951"
+street: Mountain Road
+housenumber: "2707"
+phone: +1-410-360-7951
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/pasadena/2707-mountain-rd.html"
+website: https://www.autozone.com/locations/md/pasadena/2707-mountain-rd.html

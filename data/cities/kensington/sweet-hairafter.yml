@@ -1,11 +1,11 @@
 id: 118361223
-type: way
+type: node
 latitude: 39.02722
 longitude: -77.07379
 postcode: "20895"
 city: Kensington
-street: "Fawcett Street"
-housenumber: 10426
+street: Fawcett Street
+housenumber: "10426"
 phone: ""
-opening_hours: "by appointment, 7 days a week"
+opening_hours: '"by appointment, 7 days a week"'
 website: ""

@@ -1,11 +1,11 @@
 id: 511373875
-type: way
+type: node
 latitude: 39.0585
 longitude: -77.11346
 postcode: "20852"
 city: Rockville
-street: "Wilkins Avenue"
-housenumber: 12316
+street: Wilkins Avenue
+housenumber: "12316"
 phone: ""
 opening_hours: ""
 website: ""

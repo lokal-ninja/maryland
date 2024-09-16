@@ -1,11 +1,11 @@
 id: 241400552
-type: way
+type: node
 latitude: 39.27461
 longitude: -76.64232
 postcode: "21230"
 city: Baltimore
-street: "Washington Boulevard"
-housenumber: 1801
+street: Washington Boulevard
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://www.royalfarms.com"
+website: https://www.royalfarms.com

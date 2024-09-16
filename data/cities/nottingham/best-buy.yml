@@ -1,11 +1,11 @@
 id: 51186377
-type: way
+type: node
 latitude: 39.37304
 longitude: -76.45449
 postcode: "21236"
 city: Nottingham
-street: "Campbell Boulevard"
-housenumber: 5200
-phone: "+1 410-931-3107"
+street: Campbell Boulevard
+housenumber: "5200"
+phone: +1 410-931-3107
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/nottingham/5200-campbell-blvd-159.html"
+website: https://stores.bestbuy.com/md/nottingham/5200-campbell-blvd-159.html

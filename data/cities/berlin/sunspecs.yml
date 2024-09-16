@@ -1,11 +1,11 @@
 id: 589466932
-type: way
+type: node
 latitude: 38.32486
 longitude: -75.12107
 postcode: "21811"
 city: Berlin
-street: "Stephen Decatur Highway"
-housenumber: 9529
+street: Stephen Decatur Highway
+housenumber: "9529"
 phone: ""
 opening_hours: ""
-website: "sunspecsoc.com"
+website: sunspecsoc.com

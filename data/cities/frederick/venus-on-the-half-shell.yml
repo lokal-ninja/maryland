@@ -1,11 +1,11 @@
 id: 368228610
-type: way
+type: node
 latitude: 39.41436
 longitude: -77.40901
 postcode: "21701"
 city: Frederick
-street: "East Patrick Street"
-housenumber: 101
+street: East Patrick Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

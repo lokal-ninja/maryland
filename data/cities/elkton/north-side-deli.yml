@@ -1,11 +1,11 @@
 id: 935130547
-type: way
+type: node
 latitude: 39.61696
 longitude: -75.83913
 postcode: "21921"
 city: Elkton
-street: "Northside Plaza"
-housenumber: 100
+street: Northside Plaza
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

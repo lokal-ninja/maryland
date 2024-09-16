@@ -1,11 +1,11 @@
 id: 115869522
-type: way
+type: node
 latitude: 39.09587
 longitude: -76.80881
 postcode: "20724"
 city: Laurel
-street: "Corridor Marketplace"
-housenumber: 3335
-phone: "+1 301-617-8507"
-opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-21:00"
-website: "https://www.totalwine.com/store-info/maryland-laurel-corridor/402"
+street: Corridor Marketplace
+housenumber: "3335"
+phone: +1 301-617-8507
+opening_hours: Mo-Sa 08:00-23:00; Su 08:00-21:00
+website: https://www.totalwine.com/store-info/maryland-laurel-corridor/402

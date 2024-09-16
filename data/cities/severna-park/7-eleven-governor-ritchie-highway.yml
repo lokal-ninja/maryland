@@ -1,11 +1,11 @@
 id: 1210993896
-type: way
+type: node
 latitude: 39.05785
 longitude: -76.52709
 postcode: "21146"
 city: Severna Park
-street: "Governor Ritchie Highway"
-housenumber: 945
-phone: "410-795-1035"
-opening_hours: "24/7"
+street: Governor Ritchie Highway
+housenumber: "945"
+phone: 410-795-1035
+opening_hours: 24/7
 website: ""

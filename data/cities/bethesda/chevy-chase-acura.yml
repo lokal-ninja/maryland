@@ -1,11 +1,11 @@
 id: 117595355
-type: way
+type: node
 latitude: 38.98686
 longitude: -77.0942
 postcode: "20814"
 city: Bethesda
-street: "Wisconsin Avenue"
-housenumber: 7725
-phone: "+1 (301) 656-9200"
+street: Wisconsin Avenue
+housenumber: "7725"
+phone: +1 (301) 656-9200
 opening_hours: ""
-website: "https://www.chevychaseacura.com/"
+website: https://www.chevychaseacura.com/

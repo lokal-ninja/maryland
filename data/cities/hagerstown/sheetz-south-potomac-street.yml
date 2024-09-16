@@ -1,11 +1,11 @@
 id: 374042832
-type: way
+type: node
 latitude: 39.61304
 longitude: -77.73022
 postcode: "21740"
 city: Hagerstown
-street: "South Potomac Street"
-housenumber: 1396
-phone: "+1 301-791-7839"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/262"
+street: South Potomac Street
+housenumber: "1396"
+phone: +1 301-791-7839
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/262

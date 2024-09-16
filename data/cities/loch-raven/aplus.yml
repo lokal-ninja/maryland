@@ -1,11 +1,11 @@
 id: 111759083
-type: way
+type: node
 latitude: 39.40168
 longitude: -76.59701
 postcode: "21286"
 city: Loch Raven
-street: "East Joppa Road"
-housenumber: 313
+street: East Joppa Road
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

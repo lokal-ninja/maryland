@@ -1,11 +1,11 @@
 id: 336416673
-type: way
+type: node
 latitude: 39.30039
 longitude: -76.63495
 postcode: "21217"
 city: Baltimore
-street: "Mosher Street"
-housenumber: 714
+street: Mosher Street
+housenumber: "714"
 phone: ""
 opening_hours: ""
 website: ""

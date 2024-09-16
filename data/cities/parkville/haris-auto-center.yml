@@ -1,11 +1,11 @@
 id: 298712728
-type: way
+type: node
 latitude: 39.37211
 longitude: -76.54456
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 7600
-phone: "+1-410-663-0074"
+street: Harford Road
+housenumber: "7600"
+phone: +1-410-663-0074
 opening_hours: ""
 website: ""

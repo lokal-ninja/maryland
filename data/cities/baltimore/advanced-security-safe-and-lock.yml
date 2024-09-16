@@ -1,11 +1,11 @@
 id: 191346159
-type: way
+type: node
 latitude: 39.35508
 longitude: -76.701
 postcode: "21215"
 city: Baltimore
-street: "Reisterstown Road"
-housenumber: 6318
-phone: "410-764-2001"
-opening_hours: "Su-Th 00:00-24:00; Fr 12:00-19:00; Sa 19:00-23:59"
-website: "https://www.ampmlock.com/"
+street: Reisterstown Road
+housenumber: "6318"
+phone: 410-764-2001
+opening_hours: Su-Th 00:00-24:00; Fr 12:00-19:00; Sa 19:00-23:59
+website: https://www.ampmlock.com/

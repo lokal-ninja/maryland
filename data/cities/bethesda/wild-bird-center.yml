@@ -1,11 +1,11 @@
 id: 1123142498
-type: way
+type: node
 latitude: 38.94938
 longitude: -77.11834
 postcode: "20816"
 city: Bethesda
-street: "Sangamore Road"
-housenumber: 4611
+street: Sangamore Road
+housenumber: "4611"
 phone: ""
 opening_hours: ""
 website: ""

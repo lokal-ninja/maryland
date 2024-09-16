@@ -1,11 +1,11 @@
 id: 717449208
-type: way
+type: node
 latitude: 39.637
 longitude: -76.26712
 postcode: "21154"
 city: Street
-street: "Priestford Road"
-housenumber: 1205
-phone: "+1-410-838-8100"
-opening_hours: "Mo-Fr 08:00-17:30; Sa-Su off"
-website: "https://www.harfordtire.com"
+street: Priestford Road
+housenumber: "1205"
+phone: +1-410-838-8100
+opening_hours: Mo-Fr 08:00-17:30; Sa-Su off
+website: https://www.harfordtire.com

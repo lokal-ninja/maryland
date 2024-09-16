@@ -1,11 +1,11 @@
 id: 184499882
-type: way
+type: node
 latitude: 38.96677
 longitude: -76.96579
 postcode: "20782"
 city: Hyattsville
-street: "East West Highway"
-housenumber: 3301
-phone: "+1 301-891-1106"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Hyattsville/MD/Hyattsville/20782/2564"
+street: East West Highway
+housenumber: "3301"
+phone: +1 301-891-1106
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Hyattsville/MD/Hyattsville/20782/2564

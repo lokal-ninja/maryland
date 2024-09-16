@@ -1,11 +1,11 @@
 id: 58021663
-type: way
+type: node
 latitude: 39.20047
 longitude: -77.25196
 postcode: "20876"
 city: Germantown
-street: "Frederick Road"
-housenumber: 20914
-phone: "+1 240-686-1221"
+street: Frederick Road
+housenumber: "20914"
+phone: +1 240-686-1221
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/germantown/20914-frederick-rd-819.html"
+website: https://stores.bestbuy.com/md/germantown/20914-frederick-rd-819.html

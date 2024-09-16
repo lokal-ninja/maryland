@@ -1,11 +1,11 @@
 id: 1236007818
-type: way
+type: node
 latitude: 39.11859
 longitude: -77.20205
 postcode: "20878"
 city: Gaithersburg
-street: "Grand Corner Avenue"
-housenumber: 20
+street: Grand Corner Avenue
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

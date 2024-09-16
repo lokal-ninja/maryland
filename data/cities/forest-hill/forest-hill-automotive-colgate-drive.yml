@@ -1,11 +1,11 @@
 id: 702943379
-type: way
+type: node
 latitude: 39.57226
 longitude: -76.38033
 postcode: "21050"
 city: Forest Hill
-street: "Colgate Drive"
-housenumber: 6
-phone: "+1 410-836-8199"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su off"
-website: "https://www.fhautomotive.com/"
+street: Colgate Drive
+housenumber: "6"
+phone: +1 410-836-8199
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su off
+website: https://www.fhautomotive.com/

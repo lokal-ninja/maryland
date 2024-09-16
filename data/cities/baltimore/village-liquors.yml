@@ -1,11 +1,11 @@
 id: 336566554
-type: way
+type: node
 latitude: 39.29381
 longitude: -76.68681
 postcode: "21229"
 city: Baltimore
-street: "Edmondson Avenue"
-housenumber: 4220
+street: Edmondson Avenue
+housenumber: "4220"
 phone: ""
 opening_hours: ""
 website: ""

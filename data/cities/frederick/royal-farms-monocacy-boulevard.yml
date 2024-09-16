@@ -1,11 +1,11 @@
 id: 1295106156
-type: way
+type: node
 latitude: 39.40624
 longitude: -77.39151
 postcode: "21701"
 city: Frederick
-street: "Monocacy Boulevard"
-housenumber: 75
-phone: "+1 240 608 4360"
+street: Monocacy Boulevard
+housenumber: "75"
+phone: +1 240 608 4360
 opening_hours: ""
 website: ""

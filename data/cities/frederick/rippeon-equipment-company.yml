@@ -1,11 +1,11 @@
 id: 750621118
-type: way
+type: node
 latitude: 39.45458
 longitude: -77.32765
 postcode: "21701"
 city: Frederick
-street: "Liberty Road"
-housenumber: 9640
+street: Liberty Road
+housenumber: "9640"
 phone: ""
 opening_hours: ""
-website: "https://www.rippeonequipment.com/"
+website: https://www.rippeonequipment.com/

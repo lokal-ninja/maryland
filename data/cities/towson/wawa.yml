@@ -1,11 +1,11 @@
 id: 581732055
-type: way
+type: node
 latitude: 39.39661
 longitude: -76.57502
 postcode: "21284"
 city: Towson
-street: "East Joppa Road"
-housenumber: 1260
+street: East Joppa Road
+housenumber: "1260"
 phone: ""
 opening_hours: ""
 website: ""

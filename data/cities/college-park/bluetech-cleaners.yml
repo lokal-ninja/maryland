@@ -1,11 +1,11 @@
 id: 224922193
-type: way
+type: node
 latitude: 39.01637
 longitude: -76.9212
 postcode: "20740"
 city: College Park
-street: "Rhode Island Avenue"
-housenumber: 9900
+street: Rhode Island Avenue
+housenumber: "9900"
 phone: ""
 opening_hours: ""
 website: ""

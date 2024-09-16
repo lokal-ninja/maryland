@@ -1,11 +1,11 @@
 id: 105185006
-type: way
+type: node
 latitude: 39.22802
 longitude: -76.81272
 postcode: "21045"
 city: Columbia
-street: "Centre Park Drive"
-housenumber: 8850
-phone: "+1 410-884-0950"
+street: Centre Park Drive
+housenumber: "8850"
+phone: +1 410-884-0950
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/columbia/8850-centre-park-dr-39563"
+website: https://www.7-eleven.com/locations/md/columbia/8850-centre-park-dr-39563

@@ -1,11 +1,11 @@
 id: 352369510
-type: way
+type: node
 latitude: 38.95539
 longitude: -76.07669
 postcode: "21658"
 city: Queenstown
-street: "Grange Hall Road"
-housenumber: 212
-phone: "+1 410-827-7060"
+street: Grange Hall Road
+housenumber: "212"
+phone: +1 410-827-7060
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/queenstown/212-grange-hall-rd-34278"
+website: https://www.7-eleven.com/locations/md/queenstown/212-grange-hall-rd-34278

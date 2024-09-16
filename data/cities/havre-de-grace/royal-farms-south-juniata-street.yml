@@ -1,11 +1,11 @@
 id: 571368087
-type: way
+type: node
 latitude: 39.54392
 longitude: -76.09664
 postcode: "21078"
 city: Havre de Grace
-street: "South Juniata Street"
-housenumber: 405
-phone: "+1 410-942-2012"
-opening_hours: "24/7"
-website: "https://www.royalfarms.com"
+street: South Juniata Street
+housenumber: "405"
+phone: +1 410-942-2012
+opening_hours: 24/7
+website: https://www.royalfarms.com

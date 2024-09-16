@@ -1,11 +1,11 @@
 id: 630112142
-type: way
+type: node
 latitude: 39.53547
 longitude: -76.34842
 postcode: "21014"
 city: Bel Air
-street: "South Main Street"
-housenumber: 110
-phone: "410-838-5300"
+street: South Main Street
+housenumber: "110"
+phone: 410-838-5300
 opening_hours: ""
-website: "https://www.thenestonmainbelair.com/"
+website: https://www.thenestonmainbelair.com/

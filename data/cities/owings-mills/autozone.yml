@@ -1,11 +1,11 @@
 id: 131484382
-type: way
+type: node
 latitude: 39.41451
 longitude: -76.77229
 postcode: "21117"
 city: Owings Mills
-street: "Reisterstown Road"
-housenumber: 10109
+street: Reisterstown Road
+housenumber: "10109"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/owings-mills/10109-reisterstown-rd.html"
+website: https://www.autozone.com/locations/md/owings-mills/10109-reisterstown-rd.html

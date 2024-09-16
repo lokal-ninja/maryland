@@ -1,11 +1,11 @@
 id: 45976595
-type: way
+type: node
 latitude: 38.29765
 longitude: -76.51522
 postcode: ""
 city: California
-street: "First Colony Way"
-housenumber: 45101
-phone: "+1 240-725-5198"
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/california/45101-first-colony-way"
+street: First Colony Way
+housenumber: "45101"
+phone: +1 240-725-5198
+opening_hours: Mo-Sa 06:00-23:00; Su 06:00-22:00
+website: https://stores.giantfood.com/md/california/45101-first-colony-way

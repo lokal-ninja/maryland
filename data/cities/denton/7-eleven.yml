@@ -1,11 +1,11 @@
 id: 729228403
-type: way
+type: node
 latitude: 38.89456
 longitude: -75.82072
 postcode: "21629"
 city: Denton
-street: "North 6th Street"
-housenumber: 609
-phone: "+1 410-479-0706"
+street: North 6th Street
+housenumber: "609"
+phone: +1 410-479-0706
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/denton/609-n-6th-st-36092"
+website: https://www.7-eleven.com/locations/md/denton/609-n-6th-st-36092

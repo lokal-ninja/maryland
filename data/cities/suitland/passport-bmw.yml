@@ -1,11 +1,11 @@
 id: 615321207
-type: way
+type: node
 latitude: 38.825
 longitude: -76.91882
 postcode: "20746"
 city: Suitland
-street: "Auth Place"
-housenumber: 4730
+street: Auth Place
+housenumber: "4730"
 phone: ""
 opening_hours: ""
-website: "https://www.passportbmw.com"
+website: https://www.passportbmw.com

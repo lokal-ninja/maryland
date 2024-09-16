@@ -1,11 +1,11 @@
 id: 174830210
-type: way
+type: node
 latitude: 39.1495
 longitude: -76.9118
 postcode: "20759"
 city: Fulton
-street: "Westside Boulevard"
-housenumber: 8184
-phone: "+1 301-362-5761"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harristeeter.com/stores/grocery/md/fulton/maple-lawn-market-place/097/00323"
+street: Westside Boulevard
+housenumber: "8184"
+phone: +1 301-362-5761
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harristeeter.com/stores/grocery/md/fulton/maple-lawn-market-place/097/00323

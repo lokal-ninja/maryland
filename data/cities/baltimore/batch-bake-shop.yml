@@ -1,11 +1,11 @@
 id: 336204596
-type: way
+type: node
 latitude: 39.35176
 longitude: -76.56244
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 5414
+street: Harford Road
+housenumber: "5414"
 phone: ""
 opening_hours: ""
-website: "http://batchbakeshopbaltimore.com/contact-us/"
+website: http://batchbakeshopbaltimore.com/contact-us/

@@ -1,11 +1,11 @@
 id: 153236826
-type: way
+type: node
 latitude: 39.60605
 longitude: -75.79046
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 1199
-phone: "+1 410-441-2042"
-opening_hours: "24/7"
+street: East Pulaski Highway
+housenumber: "1199"
+phone: +1 410-441-2042
+opening_hours: 24/7
 website: ""

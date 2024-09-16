@@ -1,11 +1,11 @@
 id: 202630585
-type: way
+type: node
 latitude: 39.28958
 longitude: -76.61187
 postcode: "21202"
 city: Baltimore
-street: "East Baltimore Street"
-housenumber: 209
+street: East Baltimore Street
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

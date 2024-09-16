@@ -1,11 +1,11 @@
 id: 230621419
-type: way
+type: node
 latitude: 38.42427
 longitude: -75.05806
 postcode: "21842"
 city: Ocean City
-street: "Coastal Highway"
-housenumber: 11801
+street: Coastal Highway
+housenumber: "11801"
 phone: ""
 opening_hours: ""
-website: "https://www.foodlion.com/"
+website: https://www.foodlion.com/

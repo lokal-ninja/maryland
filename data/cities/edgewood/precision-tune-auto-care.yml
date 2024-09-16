@@ -1,11 +1,11 @@
 id: 317135350
-type: way
+type: node
 latitude: 39.43561
 longitude: -76.31818
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 1812
-phone: "+1-410-679-9340"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.precisiontune.com/locations/edgewood-md"
+street: Pulaski Highway
+housenumber: "1812"
+phone: +1-410-679-9340
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.precisiontune.com/locations/edgewood-md

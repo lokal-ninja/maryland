@@ -1,11 +1,11 @@
 id: 289488143
-type: way
+type: node
 latitude: 39.32132
 longitude: -76.62093
 postcode: "21211"
 city: Baltimore
-street: "West 28th Street"
-housenumber: 211
-phone: "+1 443-835-1877"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/baltimore/211-west-28-street-25450"
+street: West 28th Street
+housenumber: "211"
+phone: +1 443-835-1877
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/baltimore/211-west-28-street-25450

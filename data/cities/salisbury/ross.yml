@@ -1,11 +1,11 @@
 id: 380074084
-type: way
+type: node
 latitude: 38.41408
 longitude: -75.56457
 postcode: "21801"
 city: Salisbury
-street: "North Salisbury Boulevard"
-housenumber: 2649
-phone: "+1 410-543-9217"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00"
+street: North Salisbury Boulevard
+housenumber: "2649"
+phone: +1 410-543-9217
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00
 website: ""

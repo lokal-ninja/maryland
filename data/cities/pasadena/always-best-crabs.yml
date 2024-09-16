@@ -4,8 +4,8 @@ latitude: 39.13341
 longitude: -76.58204
 postcode: "21222"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 111
-phone: "+1-410-768-1153"
+street: Mountain Road
+housenumber: "111"
+phone: +1-410-768-1153
 opening_hours: ""
-website: "http://www.alwaysbestcrabs.com/"
+website: http://www.alwaysbestcrabs.com/

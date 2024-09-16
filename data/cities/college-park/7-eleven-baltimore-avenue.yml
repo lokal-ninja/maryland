@@ -1,11 +1,11 @@
 id: 612768053
-type: way
+type: node
 latitude: 38.99582
 longitude: -76.93233
 postcode: "20740"
 city: College Park
-street: "Baltimore Avenue"
-housenumber: 8600
-phone: "+1 301-474-7612"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/college-park/8600-baltimore-ave-24841"
+street: Baltimore Avenue
+housenumber: "8600"
+phone: +1 301-474-7612
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/college-park/8600-baltimore-ave-24841

@@ -1,11 +1,11 @@
 id: 738063930
-type: way
+type: node
 latitude: 39.37264
 longitude: -76.56451
 postcode: "21234"
 city: Parkville
-street: "Cleanleigh Drive"
-housenumber: 2401
-phone: "+1 410-668-1170"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/567"
+street: Cleanleigh Drive
+housenumber: "2401"
+phone: +1 410-668-1170
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/567

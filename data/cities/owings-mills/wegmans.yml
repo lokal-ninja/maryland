@@ -1,11 +1,11 @@
 id: 312600279
-type: way
+type: node
 latitude: 39.41291
 longitude: -76.77382
 postcode: "21117"
 city: Owings Mills
-street: "Reisterstown Road"
-housenumber: 10100
-phone: "+1 443-471-2300"
+street: Reisterstown Road
+housenumber: "10100"
+phone: +1 443-471-2300
 opening_hours: ""
-website: "https://www.wegmans.com/stores/owings-mills-md"
+website: https://www.wegmans.com/stores/owings-mills-md

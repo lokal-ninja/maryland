@@ -1,11 +1,11 @@
 id: 629134438
-type: way
+type: node
 latitude: 39.53842
 longitude: -76.35675
 postcode: "21014"
 city: Bel Air
-street: "West Broadway"
-housenumber: 50
-phone: "410-838-4040"
+street: West Broadway
+housenumber: "50"
+phone: 410-838-4040
 opening_hours: ""
-website: "https://www.mccomasfuneralhome.com/"
+website: https://www.mccomasfuneralhome.com/

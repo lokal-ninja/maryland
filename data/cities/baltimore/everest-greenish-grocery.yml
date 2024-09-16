@@ -1,11 +1,11 @@
 id: 336350522
-type: way
+type: node
 latitude: 39.31778
 longitude: -76.60965
 postcode: "21218"
 city: Baltimore
-street: "East 25th Street"
-housenumber: 449
+street: East 25th Street
+housenumber: "449"
 phone: ""
 opening_hours: ""
 website: ""

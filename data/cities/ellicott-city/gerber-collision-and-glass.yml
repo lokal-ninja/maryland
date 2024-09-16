@@ -1,11 +1,11 @@
 id: 150722814
-type: way
+type: node
 latitude: 39.27772
 longitude: -76.81461
 postcode: "21043"
 city: Ellicott City
-street: "Ellicott Center Drive"
-housenumber: 3420
+street: Ellicott Center Drive
+housenumber: "3420"
 phone: ""
 opening_hours: ""
 website: ""

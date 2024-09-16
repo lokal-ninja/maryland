@@ -1,11 +1,11 @@
 id: 973596291
-type: way
+type: node
 latitude: 39.69323
 longitude: -78.79139
 postcode: "21524"
 city: Corriganville
-street: "Mount Savage Road, Northwest"
-housenumber: 10805
-phone: "+1 301-759-4880"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/167"
+street: Mount Savage Road, Northwest
+housenumber: "10805"
+phone: +1 301-759-4880
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/167

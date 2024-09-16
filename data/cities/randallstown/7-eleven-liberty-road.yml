@@ -1,11 +1,11 @@
 id: 190671303
-type: way
+type: node
 latitude: 39.36966
 longitude: -76.79962
 postcode: "21133"
 city: Randallstown
-street: "Liberty Road"
-housenumber: 9100
-phone: "+1 410-701-8073"
+street: Liberty Road
+housenumber: "9100"
+phone: +1 410-701-8073
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/randallstown/9100-liberty-rd-23702"
+website: https://www.7-eleven.com/locations/md/randallstown/9100-liberty-rd-23702

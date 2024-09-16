@@ -4,8 +4,8 @@ latitude: 39.32767
 longitude: -76.62767
 postcode: "21211"
 city: Baltimore
-street: "Keswick Road"
-housenumber: 3317
-phone: "+1 443 873 6974"
-opening_hours: "11:00-20:00"
-website: "http://mpsbaltimore.com"
+street: Keswick Road
+housenumber: "3317"
+phone: +1 443 873 6974
+opening_hours: 11:00-20:00
+website: http://mpsbaltimore.com

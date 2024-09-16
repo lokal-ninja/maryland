@@ -1,11 +1,11 @@
 id: 336349176
-type: way
+type: node
 latitude: 39.32878
 longitude: -76.60881
 postcode: "21218"
 city: Baltimore
-street: "East 33rd Street"
-housenumber: 500
+street: East 33rd Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

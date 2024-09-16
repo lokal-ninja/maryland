@@ -1,11 +1,11 @@
 id: 778731617
-type: way
+type: node
 latitude: 39.48517
 longitude: -76.40118
 postcode: "21047"
 city: Fallston
-street: "Belair Road"
-housenumber: 2800
-phone: "+1-410-877-7120"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su off; PH off"
-website: "https://www.topgunfirearmsmd.com/"
+street: Belair Road
+housenumber: "2800"
+phone: +1-410-877-7120
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su off; PH off
+website: https://www.topgunfirearmsmd.com/

@@ -1,11 +1,11 @@
 id: 117424673
-type: way
+type: node
 latitude: 38.98092
 longitude: -77.09867
 postcode: "20814"
 city: Bethesda
-street: "Arlington Road"
-housenumber: 7142
-phone: "+1 301-492-5160"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/bethesda/7142-arlington-road"
+street: Arlington Road
+housenumber: "7142"
+phone: +1 301-492-5160
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/bethesda/7142-arlington-road

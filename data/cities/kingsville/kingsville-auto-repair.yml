@@ -1,11 +1,11 @@
 id: 298502040
-type: way
+type: node
 latitude: 39.45634
 longitude: -76.41533
 postcode: "21087"
 city: Kingsville
-street: "Belair Road"
-housenumber: 12116
-phone: "+1-410-592-7172"
-opening_hours: "Mo-Fr 07:30-17:00; Sa-Su off; PH off"
-website: "https://www.kingsvilleautorepair.com/"
+street: Belair Road
+housenumber: "12116"
+phone: +1-410-592-7172
+opening_hours: Mo-Fr 07:30-17:00; Sa-Su off; PH off
+website: https://www.kingsvilleautorepair.com/

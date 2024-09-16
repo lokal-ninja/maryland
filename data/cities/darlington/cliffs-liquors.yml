@@ -1,11 +1,11 @@
 id: 773601194
-type: way
+type: node
 latitude: 39.64916
 longitude: -76.19926
 postcode: "21034"
 city: Darlington
-street: "Conowingo Road"
-housenumber: 4725
-phone: "+1-410-457-5254"
-opening_hours: "Mo-Th,Su 08:00-20:00; Fr-Sa 08:00-22:00"
-website: "https://cliffsliquors.net"
+street: Conowingo Road
+housenumber: "4725"
+phone: +1-410-457-5254
+opening_hours: Mo-Th,Su 08:00-20:00; Fr-Sa 08:00-22:00
+website: https://cliffsliquors.net

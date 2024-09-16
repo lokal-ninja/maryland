@@ -1,11 +1,11 @@
 id: 47001990
-type: way
+type: node
 latitude: 38.96483
 longitude: -77.08747
 postcode: "20815"
 city: Chevy Chase
-street: "Wisconsin Avenue"
-housenumber: 5555
+street: Wisconsin Avenue
+housenumber: "5555"
 phone: ""
 opening_hours: ""
 website: ""

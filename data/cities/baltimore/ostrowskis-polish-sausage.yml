@@ -1,11 +1,11 @@
 id: 337503816
-type: way
+type: node
 latitude: 39.285
 longitude: -76.58908
 postcode: "21231"
 city: Baltimore
-street: "Washington Street"
-housenumber: 524
+street: Washington Street
+housenumber: "524"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 924832406
-type: way
+type: node
 latitude: 39.69512
 longitude: -79.10128
 postcode: "21536"
 city: Grantsville
-street: "National Pike"
-housenumber: 12579
+street: National Pike
+housenumber: "12579"
 phone: ""
 opening_hours: ""
-website: "https://homeofcandyland.com/"
+website: https://homeofcandyland.com/

@@ -1,11 +1,11 @@
 id: 336397110
-type: way
+type: node
 latitude: 39.29952
 longitude: -76.62874
 postcode: "21201"
 city: Baltimore
-street: "Pennsylvania Avenue"
-housenumber: 1101
+street: Pennsylvania Avenue
+housenumber: "1101"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/baltimore-21201-61276/"
+website: https://savealot.com/grocery-stores/baltimore-21201-61276/

@@ -1,11 +1,11 @@
 id: 483763470
-type: way
+type: node
 latitude: 39.49679
 longitude: -76.32827
 postcode: "21015"
 city: Bel Air
-street: "Bel Air South Parkway"
-housenumber: 5
+street: Bel Air South Parkway
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.xfinity.com/local/md/bel-air/5-bel-air-s-pkwy.html"
+website: https://www.xfinity.com/local/md/bel-air/5-bel-air-s-pkwy.html

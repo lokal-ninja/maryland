@@ -1,11 +1,11 @@
 id: 658306156
-type: way
+type: node
 latitude: 39.50526
 longitude: -76.38294
 postcode: "21014"
 city: Bel Air
-street: "Belair Road"
-housenumber: 1508
+street: Belair Road
+housenumber: "1508"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 09:00-20:00; Su off"
-website: "https://www.jonesjunction-toyota.com/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 09:00-20:00; Su off
+website: https://www.jonesjunction-toyota.com/

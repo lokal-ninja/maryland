@@ -1,11 +1,11 @@
 id: 412108548
-type: way
+type: node
 latitude: 38.5014
 longitude: -76.77377
-postcode: "20622-3189"
+postcode: 20622-3189
 city: Charlotte Hall
-street: "Three Notch Road"
-housenumber: 30320
-phone: "+1 301-290-5971"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/588"
+street: Three Notch Road
+housenumber: "30320"
+phone: +1 301-290-5971
+opening_hours: 24/7
+website: https://www.wawa.com/locations/588

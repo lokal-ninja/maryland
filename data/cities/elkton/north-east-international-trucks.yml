@@ -1,11 +1,11 @@
 id: 773666284
-type: way
+type: node
 latitude: 39.60967
 longitude: -75.90291
 postcode: "21921"
 city: Elkton
-street: "West Pulaski Highway"
-housenumber: 1300
+street: West Pulaski Highway
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://beltway-companies-md.hub.biz/"
+website: https://beltway-companies-md.hub.biz/

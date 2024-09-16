@@ -1,11 +1,11 @@
 id: 336204587
-type: way
+type: node
 latitude: 39.35142
 longitude: -76.56241
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 5400
-phone: "1 (410) 426-6600"
+street: Harford Road
+housenumber: "5400"
+phone: 1 (410) 426-6600
 opening_hours: ""
-website: "http://lakeinshamilton.jewelershowcase.com/"
+website: http://lakeinshamilton.jewelershowcase.com/

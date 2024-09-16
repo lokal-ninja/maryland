@@ -1,11 +1,11 @@
 id: 298712447
-type: way
+type: node
 latitude: 39.37231
 longitude: -76.56827
 postcode: "21234"
 city: Parkville
-street: "McClean Boulevard"
-housenumber: 7304
+street: McClean Boulevard
+housenumber: "7304"
 phone: ""
 opening_hours: ""
-website: "www.ezStorage.com"
+website: www.ezStorage.com

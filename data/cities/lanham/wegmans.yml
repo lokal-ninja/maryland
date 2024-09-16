@@ -1,11 +1,11 @@
 id: 224607346
-type: way
+type: node
 latitude: 38.92213
 longitude: -76.85096
 postcode: "20706"
 city: Lanham
-street: "McHugh Drive"
-housenumber: 9001
-phone: "+1 240-487-5400"
+street: McHugh Drive
+housenumber: "9001"
+phone: +1 240-487-5400
 opening_hours: ""
-website: "https://www.wegmans.com/stores/woodmore-md"
+website: https://www.wegmans.com/stores/woodmore-md

@@ -1,11 +1,11 @@
 id: 164660106
-type: way
+type: node
 latitude: 39.43282
 longitude: -77.41653
 postcode: "21702"
 city: Frederick
-street: "West 7th Street"
-housenumber: 1305
-phone: "+1 301-662-3342"
+street: West 7th Street
+housenumber: "1305"
+phone: +1 301-662-3342
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/maryland/frederick/7710000202/"
+website: https://stores.ashleyfurniture.com/store/us/maryland/frederick/7710000202/

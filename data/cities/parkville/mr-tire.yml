@@ -4,8 +4,8 @@ latitude: 39.37281
 longitude: -76.54415
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 7700
-phone: "+1-410-665-3600"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00; PH off"
-website: "https://locations.mrtire.com/md/baltimore/7700-harford-rd"
+street: Harford Road
+housenumber: "7700"
+phone: +1-410-665-3600
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00; PH off
+website: https://locations.mrtire.com/md/baltimore/7700-harford-rd

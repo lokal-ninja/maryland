@@ -1,11 +1,11 @@
 id: 631695287
-type: way
+type: node
 latitude: 39.53711
 longitude: -76.35039
 postcode: "21014"
 city: Bel Air
-street: "North Main Street"
-housenumber: 36
-phone: "410-838-6740"
+street: North Main Street
+housenumber: "36"
+phone: 410-838-6740
 opening_hours: ""
-website: "https://www.alphagraphics.com/centers/bel-air-maryland-us775.html"
+website: https://www.alphagraphics.com/centers/bel-air-maryland-us775.html

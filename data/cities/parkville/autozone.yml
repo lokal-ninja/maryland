@@ -1,11 +1,11 @@
 id: 299104523
-type: way
+type: node
 latitude: 39.37917
 longitude: -76.53745
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 8309
+street: Harford Road
+housenumber: "8309"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/parkville/8319-harford-rd.html"
+website: https://www.autozone.com/locations/md/parkville/8319-harford-rd.html

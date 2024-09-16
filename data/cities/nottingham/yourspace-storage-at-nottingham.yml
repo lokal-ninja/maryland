@@ -1,11 +1,11 @@
 id: 778996887
-type: way
+type: node
 latitude: 39.3781
 longitude: -76.50401
 postcode: "21236"
 city: Nottingham
-street: "Belair Road"
-housenumber: 8121
-phone: "+1-410-248-5200"
+street: Belair Road
+housenumber: "8121"
+phone: +1-410-248-5200
 opening_hours: ""
-website: "https://www.whatwillyoustore.com/locations/nottingham/"
+website: https://www.whatwillyoustore.com/locations/nottingham/

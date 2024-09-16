@@ -1,11 +1,11 @@
 id: 336380808
-type: way
+type: node
 latitude: 39.32062
 longitude: -76.62053
 postcode: "21211"
 city: Baltimore
-street: "West 27th Street"
-housenumber: 220
+street: West 27th Street
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 367359151
-type: way
+type: node
 latitude: 38.97742
 longitude: -76.4885
 postcode: "21401"
 city: Annapolis
-street: "Main Street"
-housenumber: 121
+street: Main Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://vitola121.com/"
+website: https://vitola121.com/

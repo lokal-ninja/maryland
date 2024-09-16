@@ -1,11 +1,11 @@
 id: 979913655
-type: way
+type: node
 latitude: 39.43318
 longitude: -76.33747
 postcode: "21085"
 city: Joppa
-street: "South Maintain Road"
-housenumber: 1105
-phone: "+1-410-670-5291"
+street: South Maintain Road
+housenumber: "1105"
+phone: +1-410-670-5291
 opening_hours: ""
-website: "https://royalfarms.com/"
+website: https://royalfarms.com/

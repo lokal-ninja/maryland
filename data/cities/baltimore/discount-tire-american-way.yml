@@ -4,8 +4,8 @@ latitude: 39.26698
 longitude: -76.65256
 postcode: "21230"
 city: Baltimore
-street: "Washington Boulevard"
-housenumber: 2500
-phone: "+1 443-682-9625"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.discounttireamericanway.com/"
+street: Washington Boulevard
+housenumber: "2500"
+phone: +1 443-682-9625
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.discounttireamericanway.com/

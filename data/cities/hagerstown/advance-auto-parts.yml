@@ -1,11 +1,11 @@
 id: 294583852
-type: way
+type: node
 latitude: 39.63895
 longitude: -77.71377
 postcode: "21740"
 city: Hagerstown
-street: "East Washington Street"
-housenumber: 325
-phone: "+1-301-665-1306"
+street: East Washington Street
+housenumber: "325"
+phone: +1-301-665-1306
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/md/hagerstown/325-e-washington-st"
+website: https://stores.advanceautoparts.com/md/hagerstown/325-e-washington-st

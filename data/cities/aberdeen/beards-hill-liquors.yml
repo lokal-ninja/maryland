@@ -4,8 +4,8 @@ latitude: 39.52511
 longitude: -76.18077
 postcode: "21001"
 city: Aberdeen
-street: "Beards Hill Road"
-housenumber: 951
-phone: "+1 410-272-7525"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 09:00-21:00; Su 09:00-17:00"
-website: "https://bhliquors.com/"
+street: Beards Hill Road
+housenumber: "951"
+phone: +1 410-272-7525
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 09:00-21:00; Su 09:00-17:00
+website: https://bhliquors.com/

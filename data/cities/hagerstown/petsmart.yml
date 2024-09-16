@@ -1,11 +1,11 @@
 id: 142402132
-type: way
+type: node
 latitude: 39.65544
 longitude: -77.75325
 postcode: "21740"
 city: Hagerstown
-street: "Garland Groh Boulevard"
-housenumber: 17740
-phone: "+1 301-665-2820"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/md/hagerstown-store0457.html"
+street: Garland Groh Boulevard
+housenumber: "17740"
+phone: +1 301-665-2820
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/md/hagerstown-store0457.html

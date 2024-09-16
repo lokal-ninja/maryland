@@ -4,8 +4,8 @@ latitude: 39.36323
 longitude: -76.60979
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 5851
+street: York Road
+housenumber: "5851"
 phone: ""
-opening_hours: "Mo 12:00-17:00; Tu,Su off; We-Sa 12:00-19:00"
+opening_hours: Mo 12:00-17:00; Tu,Su off; We-Sa 12:00-19:00
 website: ""

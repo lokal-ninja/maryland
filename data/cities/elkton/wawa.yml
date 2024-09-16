@@ -1,11 +1,11 @@
 id: 795656350
-type: way
+type: node
 latitude: 39.65344
 longitude: -75.79098
 postcode: "21921"
 city: Elkton
-street: "Elkton Road"
-housenumber: 1657
-phone: "+1 410-996-8621"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/547/ma/md-elkton-1657-elkton-road"
+street: Elkton Road
+housenumber: "1657"
+phone: +1 410-996-8621
+opening_hours: 24/7
+website: https://www.wawa.com/store/547/ma/md-elkton-1657-elkton-road

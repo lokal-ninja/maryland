@@ -1,11 +1,11 @@
 id: 680944591
-type: way
+type: node
 latitude: 38.96572
 longitude: -76.22071
 postcode: "21638"
 city: Grasonville
-street: "Jackson Creek Road"
-housenumber: 108
-phone: "+1 410-827-7124"
+street: Jackson Creek Road
+housenumber: "108"
+phone: +1 410-827-7124
 opening_hours: ""
-website: "https://www.royalfarms.com"
+website: https://www.royalfarms.com

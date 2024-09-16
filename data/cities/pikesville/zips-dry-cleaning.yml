@@ -1,11 +1,11 @@
 id: 105776194
-type: way
+type: node
 latitude: 39.37507
 longitude: -76.72388
 postcode: "21208"
 city: Pikesville
-street: "Reisterstown Road"
-housenumber: 1220
-phone: "+1 410 653 0057"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su off"
-website: "https://www.321zips.com/pikesville/"
+street: Reisterstown Road
+housenumber: "1220"
+phone: +1 410 653 0057
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su off
+website: https://www.321zips.com/pikesville/

@@ -4,8 +4,8 @@ latitude: 39.37494
 longitude: -76.5415
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 7909
-phone: "+1-410-882-0737"
-opening_hours: "Mo,Tu,Th,Fr 09:00-16:00; We 09:00-18:00"
+street: Harford Road
+housenumber: "7909"
+phone: +1-410-882-0737
+opening_hours: Mo,Tu,Th,Fr 09:00-16:00; We 09:00-18:00
 website: ""

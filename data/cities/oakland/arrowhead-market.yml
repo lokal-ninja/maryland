@@ -1,11 +1,11 @@
 id: 351701392
-type: way
+type: node
 latitude: 39.5038
 longitude: -79.32539
 postcode: "21550"
 city: Oakland
-street: "Garrett Highway"
-housenumber: 19746
-phone: "+1 301 387 4020"
+street: Garrett Highway
+housenumber: "19746"
+phone: +1 301 387 4020
 opening_hours: ""
-website: "https://arrowheadmarket.com/"
+website: https://arrowheadmarket.com/

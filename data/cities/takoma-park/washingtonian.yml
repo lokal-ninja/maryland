@@ -1,11 +1,11 @@
 id: 521543620
-type: way
+type: node
 latitude: 38.96729
 longitude: -77.00202
 postcode: "20912"
 city: Takoma Park
-street: "New Hampshire Avenue"
-housenumber: 6400
+street: New Hampshire Avenue
+housenumber: "6400"
 phone: ""
 opening_hours: ""
 website: ""

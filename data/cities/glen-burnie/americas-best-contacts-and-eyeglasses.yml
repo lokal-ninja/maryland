@@ -1,11 +1,11 @@
 id: 868542533
-type: way
+type: node
 latitude: 39.19416
 longitude: -76.61038
 postcode: "21061"
 city: Glen Burnie
-street: "Ritchie Highway"
-housenumber: 6635
-phone: "+1-410-766-3070"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.americasbest.com/store-list/glen-burnie-md-21061"
+street: Ritchie Highway
+housenumber: "6635"
+phone: +1-410-766-3070
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.americasbest.com/store-list/glen-burnie-md-21061

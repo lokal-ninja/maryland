@@ -1,11 +1,11 @@
 id: 319959332
-type: way
+type: node
 latitude: 39.15193
 longitude: -76.72802
 postcode: "21076"
 city: Hanover
-street: "Arundel Mills Boulevard"
-housenumber: 7659
+street: Arundel Mills Boulevard
+housenumber: "7659"
 phone: ""
 opening_hours: ""
-website: "https://sleephappens.com/"
+website: https://sleephappens.com/

@@ -1,11 +1,11 @@
 id: 412197229
-type: way
+type: node
 latitude: 39.28576
 longitude: -76.61244
 postcode: "21202"
 city: Baltimore
-street: "Light Street"
-housenumber: 301
+street: Light Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

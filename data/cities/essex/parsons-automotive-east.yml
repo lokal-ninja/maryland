@@ -1,11 +1,11 @@
 id: 298922684
-type: way
+type: node
 latitude: 39.30716
 longitude: -76.47971
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 316
-phone: "+1 410 686 7700"
+street: Eastern Boulevard
+housenumber: "316"
+phone: +1 410 686 7700
 opening_hours: ""
-website: "https://www.parsonsautoeast.com/"
+website: https://www.parsonsautoeast.com/

@@ -1,11 +1,11 @@
 id: 46973828
-type: way
+type: node
 latitude: 39.13112
 longitude: -77.16859
 postcode: "20855"
 city: Derwood
-street: "Crabbs Branch Way"
-housenumber: 16837
-phone: "+1 301-216-0912"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/derwood/16837-crabbs-branch-way"
+street: Crabbs Branch Way
+housenumber: "16837"
+phone: +1 301-216-0912
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/derwood/16837-crabbs-branch-way

@@ -1,11 +1,11 @@
 id: 349290023
-type: way
+type: node
 latitude: 39.28528
 longitude: -76.74574
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6026
-phone: "+1 844-747-5435"
+street: Baltimore National Pike
+housenumber: "6026"
+phone: +1 844-747-5435
 opening_hours: ""
-website: "https://www.lidl.com"
+website: https://www.lidl.com

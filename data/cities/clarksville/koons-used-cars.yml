@@ -1,11 +1,11 @@
 id: 130101828
-type: way
+type: node
 latitude: 39.21151
 longitude: -76.94217
 postcode: "21029"
 city: Clarksville
-street: "Auto Drive"
-housenumber: 12431
+street: Auto Drive
+housenumber: "12431"
 phone: ""
 opening_hours: ""
 website: ""

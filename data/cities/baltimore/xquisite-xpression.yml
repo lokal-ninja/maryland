@@ -4,8 +4,9 @@ latitude: 39.36301
 longitude: -76.55246
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 6618
-phone: "+1-443-908-4114"
-opening_hours: "Mo off; Tu-Th 09:00-17:00; Fr 08:00-17:00; Sa 09:00-16:00; Su by appointment; PH off"
-website: "https://www.xebeautysalon.com/"
+street: Harford Road
+housenumber: "6618"
+phone: +1-443-908-4114
+opening_hours: Mo off; Tu-Th 09:00-17:00; Fr 08:00-17:00; Sa 09:00-16:00; Su "by appointment";
+    PH off
+website: https://www.xebeautysalon.com/

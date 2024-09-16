@@ -1,11 +1,11 @@
 id: 336375921
-type: way
+type: node
 latitude: 39.31691
 longitude: -76.61737
 postcode: "21218"
 city: Baltimore
-street: "North Charles Street"
-housenumber: 2422
+street: North Charles Street
+housenumber: "2422"
 phone: ""
 opening_hours: ""
 website: ""

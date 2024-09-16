@@ -1,11 +1,11 @@
 id: 311519074
-type: way
+type: node
 latitude: 38.33699
 longitude: -75.14479
 postcode: ""
 city: Ocean City
-street: "Ocean Gateway"
-housenumber: 11906
-phone: "+1-410-213-1790"
-opening_hours: "Mo-Fr 8:00-17:00; Sa 8:00-14:00"
-website: "https://uhaul.com/Locations/Truck-Rentals-near-Ocean-City-MD-21842/019301/"
+street: Ocean Gateway
+housenumber: "11906"
+phone: +1-410-213-1790
+opening_hours: Mo-Fr 8:00-17:00; Sa 8:00-14:00
+website: https://uhaul.com/Locations/Truck-Rentals-near-Ocean-City-MD-21842/019301/

@@ -1,11 +1,11 @@
 id: 262801179
-type: way
+type: node
 latitude: 39.60627
 longitude: -76.85011
 postcode: "21074"
 city: Hampstead
-street: "Main Street"
-housenumber: 1155
+street: Main Street
+housenumber: "1155"
 phone: ""
 opening_hours: ""
 website: ""

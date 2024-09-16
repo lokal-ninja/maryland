@@ -1,11 +1,11 @@
 id: 336356820
-type: way
+type: node
 latitude: 39.35802
 longitude: -76.61151
 postcode: "21212"
 city: Baltimore
-street: "Benninghaus Road"
-housenumber: 400
+street: Benninghaus Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

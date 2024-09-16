@@ -1,11 +1,11 @@
 id: 298705439
-type: way
+type: node
 latitude: 39.40733
 longitude: -76.53562
 postcode: "21234"
 city: Parkville
-street: "Proctor Lane"
-housenumber: 2526
-phone: "410 668 4488."
-opening_hours: "09:00-19:00 Seasonally"
-website: "https://www.weberscidermillfarm.com/"
+street: Proctor Lane
+housenumber: "2526"
+phone: 410 668 4488.
+opening_hours: 09:00-19:00 "Seasonally"
+website: https://www.weberscidermillfarm.com/

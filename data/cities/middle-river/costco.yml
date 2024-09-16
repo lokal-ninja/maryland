@@ -1,11 +1,11 @@
 id: 380901527
-type: way
+type: node
 latitude: 39.35816
 longitude: -76.44456
 postcode: "21220"
 city: Middle River
-street: "Pulaski Highway"
-housenumber: 9919
-phone: "+1 410-574-7563"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/white-marsh-baltimore-md-208.html"
+street: Pulaski Highway
+housenumber: "9919"
+phone: +1 410-574-7563
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/white-marsh-baltimore-md-208.html

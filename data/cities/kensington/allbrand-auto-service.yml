@@ -1,11 +1,11 @@
 id: 1049655824
-type: way
+type: node
 latitude: 39.02903
 longitude: -77.07442
 postcode: "20895"
 city: Kensington
-street: "Metropolitan Avenue"
-housenumber: 10566
-phone: "+1 301 231 1833"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.allbrandautoservice.com/"
+street: Metropolitan Avenue
+housenumber: "10566"
+phone: +1 301 231 1833
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.allbrandautoservice.com/

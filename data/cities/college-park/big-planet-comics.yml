@@ -4,8 +4,8 @@ latitude: 38.98023
 longitude: -76.93771
 postcode: "20740"
 city: College Park
-street: "Baltimore Avenue"
-housenumber: 7315
-phone: "+1 301-699-0498"
-opening_hours: "Mo,Tu,Sa 11:00-18:00; We,Fr 11:00-19:30; Th 11:00-18:30; Su 12:00-18:30"
-website: "https://www.bigplanetcomics.com/"
+street: Baltimore Avenue
+housenumber: "7315"
+phone: +1 301-699-0498
+opening_hours: Mo,Tu,Sa 11:00-18:00; We,Fr 11:00-19:30; Th 11:00-18:30; Su 12:00-18:30
+website: https://www.bigplanetcomics.com/

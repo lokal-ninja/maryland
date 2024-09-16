@@ -1,11 +1,11 @@
 id: 659952331
-type: way
+type: node
 latitude: 38.59988
 longitude: -76.61525
 postcode: "20639"
 city: Huntingtown
-street: "North Solomons Island Road"
-housenumber: 3150
-phone: "+1 410-414-5111"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Solomons Island Road
+housenumber: "3150"
+phone: +1 410-414-5111
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

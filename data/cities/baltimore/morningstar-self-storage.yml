@@ -1,11 +1,11 @@
 id: 1014633394
-type: way
+type: node
 latitude: 39.3342
 longitude: -76.64554
 postcode: "21211"
 city: Baltimore
-street: "Union Avenue"
-housenumber: 1760
+street: Union Avenue
+housenumber: "1760"
 phone: ""
 opening_hours: ""
-website: "https://kleinenterprises.com/property-item/1760-union-avenue/"
+website: https://kleinenterprises.com/property-item/1760-union-avenue/

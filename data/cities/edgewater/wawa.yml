@@ -1,11 +1,11 @@
 id: 420351780
-type: way
+type: node
 latitude: 38.93596
 longitude: -76.56787
 postcode: "21037"
 city: Edgewater
-street: "Solomons Island Road"
-housenumber: 3166
-phone: "+1 410-956-7003"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/577"
+street: Solomons Island Road
+housenumber: "3166"
+phone: +1 410-956-7003
+opening_hours: 24/7
+website: https://www.wawa.com/locations/577

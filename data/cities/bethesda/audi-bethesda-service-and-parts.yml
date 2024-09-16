@@ -1,11 +1,11 @@
 id: 1067146364
-type: way
+type: node
 latitude: 38.96362
 longitude: -77.10401
 postcode: "20816"
 city: Bethesda
-street: "River Road"
-housenumber: 5206
+street: River Road
+housenumber: "5206"
 phone: ""
 opening_hours: ""
 website: ""

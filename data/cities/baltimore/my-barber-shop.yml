@@ -1,11 +1,11 @@
 id: 336377746
-type: way
+type: node
 latitude: 39.29257
 longitude: -76.61883
 postcode: "21201"
 city: Baltimore
-street: "West Saratoga Street"
-housenumber: 223
+street: West Saratoga Street
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

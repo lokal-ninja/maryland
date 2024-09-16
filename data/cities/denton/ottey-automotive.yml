@@ -1,11 +1,11 @@
 id: 730422428
-type: way
+type: node
 latitude: 38.89211
 longitude: -75.84017
 postcode: "21629"
 city: Denton
-street: "River Rd"
-housenumber: 10369
+street: River Rd
+housenumber: "10369"
 phone: ""
 opening_hours: ""
 website: ""

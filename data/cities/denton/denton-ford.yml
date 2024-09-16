@@ -1,11 +1,11 @@
 id: 361696119
-type: way
+type: node
 latitude: 38.86572
 longitude: -75.82328
 postcode: "21629"
 city: Denton
-street: "Double Hills Road"
-housenumber: 1207
+street: Double Hills Road
+housenumber: "1207"
 phone: ""
 opening_hours: ""
-website: "https://www.dentonford.com/"
+website: https://www.dentonford.com/

@@ -1,11 +1,11 @@
 id: 336292165
-type: way
+type: node
 latitude: 39.30958
 longitude: -76.59195
 postcode: "21213"
 city: Baltimore
-street: "North Wolfe Street"
-housenumber: 1644
+street: North Wolfe Street
+housenumber: "1644"
 phone: ""
 opening_hours: ""
 website: ""

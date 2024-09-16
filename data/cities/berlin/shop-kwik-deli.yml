@@ -1,11 +1,11 @@
 id: 311362988
-type: way
+type: node
 latitude: 38.33409
 longitude: -75.21211
 postcode: ""
 city: Berlin
-street: "Old Ocean City Boulevard"
-housenumber: 10140
-phone: "+1-410-641-4450"
-opening_hours: "Mo-Sa 06:00-24:00; Su 07:00-23:00"
-website: "shopkwikdeli.com"
+street: Old Ocean City Boulevard
+housenumber: "10140"
+phone: +1-410-641-4450
+opening_hours: Mo-Sa 06:00-24:00; Su 07:00-23:00
+website: shopkwikdeli.com

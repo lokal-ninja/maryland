@@ -1,11 +1,11 @@
 id: 224179526
-type: way
+type: node
 latitude: 38.80597
 longitude: -76.97435
 postcode: "20745"
 city: Oxon Hill
-street: "Oxon Hill Road"
-housenumber: 6003
-phone: "+1 301-839-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Oxon-Hill/MD/Oxon-Hill/20745/2554"
+street: Oxon Hill Road
+housenumber: "6003"
+phone: +1 301-839-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Oxon-Hill/MD/Oxon-Hill/20745/2554

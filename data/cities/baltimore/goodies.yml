@@ -1,11 +1,11 @@
 id: 336189601
-type: way
+type: node
 latitude: 39.36047
 longitude: -76.55387
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 6317
-phone: "+1-410-254-9894"
+street: Harford Road
+housenumber: "6317"
+phone: +1-410-254-9894
 opening_hours: ""
-website: "https://www.mcnmcpit.com/"
+website: https://www.mcnmcpit.com/

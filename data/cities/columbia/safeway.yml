@@ -1,11 +1,11 @@
 id: 147027181
-type: way
+type: node
 latitude: 39.2238
 longitude: -76.88944
 postcode: "21044"
 city: Columbia
-street: "Harpers Farm Road"
-housenumber: 5485
-phone: "+1 410-740-4501"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/columbia/5485-harpers-farm-rd.html"
+street: Harpers Farm Road
+housenumber: "5485"
+phone: +1 410-740-4501
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/columbia/5485-harpers-farm-rd.html

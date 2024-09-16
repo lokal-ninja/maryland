@@ -4,8 +4,8 @@ latitude: 38.94888
 longitude: -76.49238
 postcode: "21403"
 city: Annapolis
-street: "Hillsmere Drive"
-housenumber: 113
-phone: "+1 410-268-0129"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.westmarine.com/stores?showMap=true&storeId=41"
+street: Hillsmere Drive
+housenumber: "113"
+phone: +1 410-268-0129
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.westmarine.com/stores?showMap=true&storeId=41

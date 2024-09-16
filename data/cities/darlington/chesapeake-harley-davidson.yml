@@ -1,11 +1,11 @@
 id: 257372164
-type: way
+type: node
 latitude: 39.64802
 longitude: -76.20556
 postcode: "21034"
 city: Darlington
-street: "Thunder Court"
-housenumber: 4600
-phone: "+1 410-893-2493"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-15:00"
-website: "https://www.chesapeakehd.com"
+street: Thunder Court
+housenumber: "4600"
+phone: +1 410-893-2493
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-15:00
+website: https://www.chesapeakehd.com

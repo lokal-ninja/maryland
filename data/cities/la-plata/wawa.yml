@@ -1,11 +1,11 @@
 id: 310669488
-type: way
+type: node
 latitude: 38.54889
 longitude: -76.98651
 postcode: "20646"
 city: La Plata
-street: "Crain Highway"
-housenumber: 5955
+street: Crain Highway
+housenumber: "5955"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/584"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/584

@@ -1,11 +1,11 @@
 id: 1163885812
-type: way
+type: node
 latitude: 39.39813
 longitude: -76.54275
 postcode: "21234"
 city: Baltimore
-street: "East Joppa Road"
-housenumber: 2023
+street: East Joppa Road
+housenumber: "2023"
 phone: ""
 opening_hours: ""
 website: ""

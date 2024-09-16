@@ -1,11 +1,11 @@
 id: 367037067
-type: way
+type: node
 latitude: 38.98049
 longitude: -76.52686
 postcode: ""
 city: Annapolis
-street: "West Street"
-housenumber: 1927
+street: West Street
+housenumber: "1927"
 phone: ""
 opening_hours: ""
 website: ""

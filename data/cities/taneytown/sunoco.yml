@@ -1,11 +1,11 @@
 id: 201182682
-type: way
+type: node
 latitude: 39.6559
 longitude: -77.17044
 postcode: "21787"
 city: Taneytown
-street: "East Baltimore Street"
-housenumber: 251
+street: East Baltimore Street
+housenumber: "251"
 phone: ""
 opening_hours: ""
 website: ""

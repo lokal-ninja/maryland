@@ -1,11 +1,11 @@
 id: 965286457
-type: way
+type: node
 latitude: 39.11743
 longitude: -76.6187
 postcode: "21108"
 city: Millersville
-street: "Old Mill Road"
-housenumber: 495
-phone: "+1 410-987-5075"
+street: Old Mill Road
+housenumber: "495"
+phone: +1 410-987-5075
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/millersville/495-old-mill-road-18110"
+website: https://www.7-eleven.com/locations/md/millersville/495-old-mill-road-18110

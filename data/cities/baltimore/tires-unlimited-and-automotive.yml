@@ -1,11 +1,11 @@
 id: 336345797
-type: way
+type: node
 latitude: 39.32316
 longitude: -76.60779
 postcode: "21218"
 city: Baltimore
-street: "Mathews Street"
-housenumber: 2900
+street: Mathews Street
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

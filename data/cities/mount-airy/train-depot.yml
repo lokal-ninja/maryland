@@ -1,11 +1,11 @@
 id: 456136467
-type: way
+type: node
 latitude: 39.37667
 longitude: -77.15448
 postcode: "21771"
 city: Mount Airy
-street: "South Main Street"
-housenumber: 1
+street: South Main Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 215143516
-type: way
+type: node
 latitude: 38.99715
 longitude: -76.90828
 postcode: "20770"
 city: Greenbelt
-street: "62nd Avenue"
-housenumber: 8904
+street: 62nd Avenue
+housenumber: "8904"
 phone: ""
 opening_hours: ""
 website: ""

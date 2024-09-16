@@ -1,11 +1,11 @@
 id: 120609398
-type: way
+type: node
 latitude: 39.02672
 longitude: -77.07016
 postcode: "20895"
 city: Kensington
-street: "Metropolitan Avenue"
-housenumber: 10431
+street: Metropolitan Avenue
+housenumber: "10431"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.tricktrucks.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.tricktrucks.com/

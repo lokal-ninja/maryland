@@ -1,11 +1,11 @@
 id: 497744510
-type: way
+type: node
 latitude: 39.60495
 longitude: -76.4757
 postcode: "21084"
 city: Jarrettsville
-street: "West Jarrettsville Road"
-housenumber: 1745
+street: West Jarrettsville Road
+housenumber: "1745"
 phone: ""
 opening_hours: ""
 website: ""

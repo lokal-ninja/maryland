@@ -1,11 +1,11 @@
 id: 47281227
-type: way
+type: node
 latitude: 39.03035
 longitude: -77.07746
 postcode: "20895"
 city: Kensington
-street: "Plyers Mill Road"
-housenumber: 3921
-phone: "+1 301 573 5614"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://preciseautomotiveservice.com"
+street: Plyers Mill Road
+housenumber: "3921"
+phone: +1 301 573 5614
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://preciseautomotiveservice.com

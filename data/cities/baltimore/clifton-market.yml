@@ -1,11 +1,11 @@
 id: 336285494
-type: way
+type: node
 latitude: 39.31412
 longitude: -76.59037
 postcode: "21213"
 city: Baltimore
-street: "North Washington Street"
-housenumber: 2037
+street: North Washington Street
+housenumber: "2037"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 455273005
-type: way
+type: node
 latitude: 39.57671
 longitude: -76.34628
 postcode: "21014"
 city: Bel Air
-street: "North Fountain Green Road"
-housenumber: 2126
-phone: "410-838-7656"
+street: North Fountain Green Road
+housenumber: "2126"
+phone: 410-838-7656
 opening_hours: ""
-website: "https://www.rednersmarkets.com/store-locations/bel-air.html"
+website: https://www.rednersmarkets.com/store-locations/bel-air.html

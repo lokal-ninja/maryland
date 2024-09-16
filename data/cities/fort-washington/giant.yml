@@ -1,11 +1,11 @@
 id: 338240314
-type: way
+type: node
 latitude: 38.75796
 longitude: -76.99517
 postcode: "20744"
 city: Fort Washington
-street: "Livingston Road"
-housenumber: 9580
-phone: "+1 301-248-0167"
-opening_hours: "Mo-Sa 06:00-24:00; Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/fort-washington/9580-livingston-rd"
+street: Livingston Road
+housenumber: "9580"
+phone: +1 301-248-0167
+opening_hours: Mo-Sa 06:00-24:00; Su 06:00-23:00
+website: https://stores.giantfood.com/md/fort-washington/9580-livingston-rd

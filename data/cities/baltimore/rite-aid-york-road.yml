@@ -1,11 +1,11 @@
 id: 200037448
-type: way
+type: node
 latitude: 39.37101
 longitude: -76.61084
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 6300
+street: York Road
+housenumber: "6300"
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/locations/md/baltimore/6300-york-road.html"
+website: https://www.riteaid.com/locations/md/baltimore/6300-york-road.html

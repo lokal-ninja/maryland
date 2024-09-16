@@ -1,11 +1,11 @@
 id: 687016063
-type: way
+type: node
 latitude: 39.48687
 longitude: -76.20289
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 1316
-phone: "+1-410-272-1170"
+street: South Philadelphia Boulevard
+housenumber: "1316"
+phone: +1-410-272-1170
 opening_hours: ""
-website: "https://www.rebuliautoservice.com/"
+website: https://www.rebuliautoservice.com/

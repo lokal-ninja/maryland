@@ -1,11 +1,11 @@
 id: 669634559
-type: way
+type: node
 latitude: 39.43329
 longitude: -76.34044
 postcode: "21085"
 city: Joppatowne
-street: "Mountain Road"
-housenumber: 1116
+street: Mountain Road
+housenumber: "1116"
 phone: ""
 opening_hours: ""
-website: "https://www.autoauctionbaltimore.com/"
+website: https://www.autoauctionbaltimore.com/

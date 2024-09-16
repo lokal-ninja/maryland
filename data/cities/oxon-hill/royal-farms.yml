@@ -1,11 +1,11 @@
 id: 249021962
-type: way
+type: node
 latitude: 38.79959
 longitude: -77.00303
 postcode: "20745"
 city: Oxon Hill
-street: "Monument Avenue"
-housenumber: 100
+street: Monument Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

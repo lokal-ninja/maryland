@@ -1,11 +1,11 @@
 id: 113572424
-type: way
+type: node
 latitude: 39.26721
 longitude: -76.79816
 postcode: "21043"
 city: Ellicott City
-street: "Old Columbia Pike"
-housenumber: 3709
+street: Old Columbia Pike
+housenumber: "3709"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://ecpops.com"
+opening_hours: Mo-Su 10:00-19:00
+website: https://ecpops.com

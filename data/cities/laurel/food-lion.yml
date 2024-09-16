@@ -1,11 +1,11 @@
 id: 51464662
-type: way
+type: node
 latitude: 39.14442
 longitude: -76.89996
 postcode: "20723"
 city: Laurel
-street: "Ice Crystal Drive"
-housenumber: 8300
+street: Ice Crystal Drive
+housenumber: "8300"
 phone: ""
 opening_hours: ""
-website: "https://www.foodlion.com/"
+website: https://www.foodlion.com/

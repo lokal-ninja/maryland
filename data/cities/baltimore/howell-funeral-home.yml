@@ -1,11 +1,11 @@
 id: 358572566
-type: way
+type: node
 latitude: 39.33136
 longitude: -76.69436
 postcode: "21207"
 city: Baltimore
-street: "Liberty Heights Avenue"
-housenumber: 4600
+street: Liberty Heights Avenue
+housenumber: "4600"
 phone: ""
 opening_hours: ""
 website: ""

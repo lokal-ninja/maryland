@@ -1,11 +1,11 @@
 id: 661062148
-type: way
+type: node
 latitude: 39.533
 longitude: -76.3462
 postcode: "21014"
 city: Bel Air
-street: "South Main Street"
-housenumber: 328
+street: South Main Street
+housenumber: "328"
 phone: ""
 opening_hours: ""
-website: "https://pariswestoptical.blogspot.com/"
+website: https://pariswestoptical.blogspot.com/

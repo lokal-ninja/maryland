@@ -4,8 +4,8 @@ latitude: 39.34653
 longitude: -76.53967
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 5937
-phone: "+1-410-325-6600"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00; Su off; PH off"
-website: "https://www.veurotech.com/"
+street: Belair Road
+housenumber: "5937"
+phone: +1-410-325-6600
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00; Su off; PH off
+website: https://www.veurotech.com/

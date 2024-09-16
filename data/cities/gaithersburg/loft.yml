@@ -1,11 +1,11 @@
 id: 1236007824
-type: way
+type: node
 latitude: 39.11875
 longitude: -77.20351
 postcode: "20878"
 city: Gaithersburg
-street: "Grand Corner Avenue"
-housenumber: 29
+street: Grand Corner Avenue
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://stores.loft.com/md/gaithersburg/29-grand-corner-avenue.html"
+website: https://stores.loft.com/md/gaithersburg/29-grand-corner-avenue.html

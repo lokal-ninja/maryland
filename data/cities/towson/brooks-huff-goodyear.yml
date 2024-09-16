@@ -1,11 +1,11 @@
 id: 172861625
-type: way
+type: node
 latitude: 39.40834
 longitude: -76.60759
 postcode: "21204"
 city: Towson
-street: "York Road"
-housenumber: 909
+street: York Road
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

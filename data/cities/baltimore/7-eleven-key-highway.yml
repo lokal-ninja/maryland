@@ -1,11 +1,11 @@
 id: 150577059
-type: way
+type: node
 latitude: 39.27241
 longitude: -76.59923
 postcode: "21231"
 city: Baltimore
-street: "Key Highway"
-housenumber: 1465
-phone: "+1 410-528-5901"
+street: Key Highway
+housenumber: "1465"
+phone: +1 410-528-5901
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/baltimore/1465-key-hwy-34280"
+website: https://www.7-eleven.com/locations/md/baltimore/1465-key-hwy-34280

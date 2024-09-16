@@ -1,11 +1,11 @@
 id: 249488697
-type: way
+type: node
 latitude: 39.49881
 longitude: -76.17365
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 700
-phone: "+1-410-273-2434"
-opening_hours: "Mo-Sa 09:00-17:00; Su off"
-website: "https://clarkloanandjewelry.net/"
+street: South Philadelphia Boulevard
+housenumber: "700"
+phone: +1-410-273-2434
+opening_hours: Mo-Sa 09:00-17:00; Su off
+website: https://clarkloanandjewelry.net/

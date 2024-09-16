@@ -1,11 +1,11 @@
 id: 689776652
-type: way
+type: node
 latitude: 39.49293
 longitude: -76.39561
 postcode: "21047"
 city: Fallston
-street: "Mountain Road"
-housenumber: 212
+street: Mountain Road
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/md/fallston/212-mountain-road"
+website: https://stores.advanceautoparts.com/md/fallston/212-mountain-road

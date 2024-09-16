@@ -1,11 +1,11 @@
 id: 336189229
-type: way
+type: node
 latitude: 39.36115
 longitude: -76.55345
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 6425
+street: Harford Road
+housenumber: "6425"
 phone: ""
 opening_hours: ""
-website: "https://www.blackluxtattoo.com/"
+website: https://www.blackluxtattoo.com/

@@ -1,11 +1,11 @@
 id: 848852851
-type: way
+type: node
 latitude: 39.3345
 longitude: -77.6399
 postcode: "21716"
 city: Brunswick
-street: "Dutchmans Creek Drive"
-housenumber: 1201
+street: Dutchmans Creek Drive
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://weismarkets.com"
+website: https://weismarkets.com

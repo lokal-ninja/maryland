@@ -1,11 +1,11 @@
 id: 171582484
-type: way
+type: node
 latitude: 39.28395
 longitude: -76.75148
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6212
-phone: "+1 410-807-8686"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/6212-baltimore-national-pike-catonsville-21228?number=880"
+street: Baltimore National Pike
+housenumber: "6212"
+phone: +1 410-807-8686
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/6212-baltimore-national-pike-catonsville-21228?number=880

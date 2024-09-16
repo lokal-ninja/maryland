@@ -1,11 +1,11 @@
 id: 338084808
-type: way
+type: node
 latitude: 39.2725
 longitude: -76.60069
 postcode: "21230"
 city: Baltimore
-street: "Key Highway"
-housenumber: 1440
+street: Key Highway
+housenumber: "1440"
 phone: ""
 opening_hours: ""
 website: ""

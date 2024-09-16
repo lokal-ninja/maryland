@@ -1,11 +1,11 @@
 id: 615283329
-type: way
+type: node
 latitude: 38.951
 longitude: -76.93847
 postcode: "20781"
 city: Hyattsville
-street: "Decatur Street"
-housenumber: 4606
-phone: "+1 240-667-2149"
+street: Decatur Street
+housenumber: "4606"
+phone: +1 240-667-2149
 opening_hours: ""
 website: ""

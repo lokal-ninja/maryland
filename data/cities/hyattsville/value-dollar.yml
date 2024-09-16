@@ -1,11 +1,11 @@
 id: 246408174
-type: way
+type: node
 latitude: 38.98353
 longitude: -76.97099
 postcode: "20783"
 city: Hyattsville
-street: "23rd Avenue"
-housenumber: 7705
+street: 23rd Avenue
+housenumber: "7705"
 phone: ""
 opening_hours: ""
 website: ""

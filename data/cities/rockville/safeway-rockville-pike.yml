@@ -4,8 +4,8 @@ latitude: 39.06043
 longitude: -77.12198
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 1800
-phone: "+1 301-945-3608"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/rockville/1800-rockville-pike.html"
+street: Rockville Pike
+housenumber: "1800"
+phone: +1 301-945-3608
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/rockville/1800-rockville-pike.html

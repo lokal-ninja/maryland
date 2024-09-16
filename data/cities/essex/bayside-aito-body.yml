@@ -1,11 +1,11 @@
 id: 298922384
-type: way
+type: node
 latitude: 39.30695
 longitude: -76.47992
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 310
-phone: "+1 410 391 9414"
+street: Eastern Boulevard
+housenumber: "310"
+phone: +1 410 391 9414
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 868542532
-type: way
+type: node
 latitude: 39.1943
 longitude: -76.61032
 postcode: "21061"
 city: Glen Burnie
-street: "Ritchie Highway"
-housenumber: 6633
-phone: "+1 410-768-9372"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/md/glen-burnie/694/"
+street: Ritchie Highway
+housenumber: "6633"
+phone: +1 410-768-9372
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/md/glen-burnie/694/

@@ -1,11 +1,11 @@
 id: 336418711
-type: way
+type: node
 latitude: 39.33754
 longitude: -76.63559
 postcode: "21211"
 city: Baltimore
-street: "West 41st Street"
-housenumber: 1045
+street: West 41st Street
+housenumber: "1045"
 phone: ""
 opening_hours: ""
 website: ""

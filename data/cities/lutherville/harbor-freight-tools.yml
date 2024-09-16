@@ -1,11 +1,11 @@
 id: 133667639
-type: way
+type: node
 latitude: 39.43461
 longitude: -76.62417
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1910
-phone: "+1 410-429-7576"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1910-york-rd-timonium-21093?number=3340"
+street: York Road
+housenumber: "1910"
+phone: +1 410-429-7576
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1910-york-rd-timonium-21093?number=3340

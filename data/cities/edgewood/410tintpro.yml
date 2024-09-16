@@ -1,11 +1,11 @@
 id: 317135332
-type: way
+type: node
 latitude: 39.43586
 longitude: -76.30848
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 2105
-phone: "410-846-8776"
+street: Pulaski Highway
+housenumber: "2105"
+phone: 410-846-8776
 opening_hours: ""
-website: "https://www.410tintpro.com/"
+website: https://www.410tintpro.com/

@@ -1,11 +1,11 @@
 id: 1236554223
-type: way
+type: node
 latitude: 39.1477
 longitude: -77.20853
 postcode: "20877"
 city: Gaithersburg
-street: "North Frederick Avenue"
-housenumber: 480
-phone: "+1 240-631-0881"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
+street: North Frederick Avenue
+housenumber: "480"
+phone: +1 240-631-0881
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
 website: ""

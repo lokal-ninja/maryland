@@ -4,8 +4,8 @@ latitude: 39.57468
 longitude: -76.99524
 postcode: "21157"
 city: Westminster
-street: "East Main Street"
-housenumber: 25
-phone: "+1-410-857-4999"
+street: East Main Street
+housenumber: "25"
+phone: +1-410-857-4999
 opening_hours: ""
-website: "https://meltdowninmd.com/"
+website: https://meltdowninmd.com/

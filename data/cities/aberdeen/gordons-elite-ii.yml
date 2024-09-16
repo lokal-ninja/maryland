@@ -1,11 +1,11 @@
 id: 687016059
-type: way
+type: node
 latitude: 39.48758
 longitude: -76.19863
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 1219
-phone: "+1-410-272-5800"
+street: South Philadelphia Boulevard
+housenumber: "1219"
+phone: +1-410-272-5800
 opening_hours: ""
-website: "https://www.gordonselite2.com/"
+website: https://www.gordonselite2.com/

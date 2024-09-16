@@ -1,11 +1,11 @@
 id: 113572392
-type: way
+type: node
 latitude: 39.26744
 longitude: -76.79784
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8197
-phone: "+1-443-325-5936"
+street: Main Street
+housenumber: "8197"
+phone: +1-443-325-5936
 opening_hours: ""
-website: "https://www.artistsgalleryec.com"
+website: https://www.artistsgalleryec.com

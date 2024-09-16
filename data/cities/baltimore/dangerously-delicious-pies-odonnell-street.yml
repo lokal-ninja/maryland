@@ -1,11 +1,11 @@
 id: 336246140
-type: way
+type: node
 latitude: 39.27976
 longitude: -76.5756
 postcode: "21224"
 city: Baltimore
-street: "O'Donnell Street"
-housenumber: 2839
+street: O'Donnell Street
+housenumber: "2839"
 phone: ""
 opening_hours: ""
-website: "https://dangerouspies.com/"
+website: https://dangerouspies.com/

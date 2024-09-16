@@ -1,11 +1,11 @@
 id: 1097783576
-type: way
+type: node
 latitude: 39.36904
 longitude: -76.50372
 postcode: "21236"
 city: Nottingham
-street: "Fitch Avenue"
-housenumber: 4501
+street: Fitch Avenue
+housenumber: "4501"
 phone: ""
 opening_hours: ""
 website: ""

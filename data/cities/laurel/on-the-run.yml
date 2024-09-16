@@ -1,11 +1,11 @@
 id: 120580913
-type: way
+type: node
 latitude: 39.16005
 longitude: -76.89269
 postcode: "20723"
 city: Laurel
-street: "Montpelier Road"
-housenumber: 7570
+street: Montpelier Road
+housenumber: "7570"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165189424
-type: way
+type: node
 latitude: 39.39806
 longitude: -77.41391
 postcode: "21704"
 city: Frederick
-street: "Guilford Drive"
-housenumber: 7350
-phone: "+1 301-620-7666"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/md/frederick-350.shtml"
+street: Guilford Drive
+housenumber: "7350"
+phone: +1 301-620-7666
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/md/frederick-350.shtml

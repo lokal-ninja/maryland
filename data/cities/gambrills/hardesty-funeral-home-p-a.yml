@@ -1,11 +1,11 @@
 id: 825472965
-type: way
+type: node
 latitude: 39.06605
 longitude: -76.667
 postcode: "21054"
 city: Gambrills
-street: "Annapolis Road"
-housenumber: 851
+street: Annapolis Road
+housenumber: "851"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

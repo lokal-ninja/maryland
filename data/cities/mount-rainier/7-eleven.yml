@@ -1,11 +1,11 @@
 id: 615540750
-type: way
+type: node
 latitude: 38.94476
 longitude: -76.97241
 postcode: "20712"
 city: Mount Rainier
-street: "Varnum Street"
-housenumber: 2310
-phone: "+1 301-779-2508"
+street: Varnum Street
+housenumber: "2310"
+phone: +1 301-779-2508
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/mount-rainier/2310-varnum-street-11663"
+website: https://www.7-eleven.com/locations/md/mount-rainier/2310-varnum-street-11663

@@ -1,11 +1,11 @@
 id: 638548489
-type: way
+type: node
 latitude: 39.62584
 longitude: -78.83541
 postcode: "21502"
 city: Lavale
-street: "Country Club Mall Road"
-housenumber: 12500
-phone: "+1 301-729-5081"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2027/lavale-md/whats-new"
+street: Country Club Mall Road
+housenumber: "12500"
+phone: +1 301-729-5081
+opening_hours: 24/7
+website: https://www.walmart.com/store/2027/lavale-md/whats-new

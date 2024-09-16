@@ -1,11 +1,11 @@
 id: 186985997
-type: way
+type: node
 latitude: 39.26278
 longitude: -76.78673
 postcode: "21043"
 city: Ellicott City
-street: "Frederick Road"
-housenumber: 169
-phone: "+1 410 465 5500"
+street: Frederick Road
+housenumber: "169"
+phone: +1 410 465 5500
 opening_hours: ""
-website: "https://www.cyclemillofmd.com/"
+website: https://www.cyclemillofmd.com/

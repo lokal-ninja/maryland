@@ -1,11 +1,11 @@
 id: 727887375
-type: way
+type: node
 latitude: 38.89901
 longitude: -75.86333
 postcode: "21629"
 city: Denton
-street: "Shore Highway"
-housenumber: 24251
+street: Shore Highway
+housenumber: "24251"
 phone: ""
 opening_hours: ""
 website: ""

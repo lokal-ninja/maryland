@@ -1,11 +1,11 @@
 id: 336223822
-type: way
+type: node
 latitude: 39.28867
 longitude: -76.5693
 postcode: "21224"
 city: Baltimore
-street: "South Highland Avenue"
-housenumber: 274
+street: South Highland Avenue
+housenumber: "274"
 phone: "+14107321070"
 opening_hours: ""
 website: ""

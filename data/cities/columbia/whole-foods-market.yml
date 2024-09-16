@@ -1,11 +1,11 @@
 id: 107551729
-type: way
+type: node
 latitude: 39.21428
 longitude: -76.85547
 postcode: "21044"
 city: Columbia
-street: "Little Patuxent Parkway"
-housenumber: 10275
-phone: "+1 240-865-1827"
-opening_hours: "Su-Sa 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/columbia-md"
+street: Little Patuxent Parkway
+housenumber: "10275"
+phone: +1 240-865-1827
+opening_hours: Su-Sa 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/columbia-md

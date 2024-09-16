@@ -4,8 +4,8 @@ latitude: 39.32525
 longitude: -76.61021
 postcode: "21218"
 city: Baltimore
-street: "Vineyard Lane"
-housenumber: 3001
+street: Vineyard Lane
+housenumber: "3001"
 phone: "+14106625631"
 opening_hours: ""
-website: "https://bookthing.org/"
+website: https://bookthing.org/

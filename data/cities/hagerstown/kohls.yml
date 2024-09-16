@@ -1,11 +1,11 @@
 id: 151504647
-type: way
+type: node
 latitude: 39.62198
 longitude: -77.77649
 postcode: "21740"
 city: Hagerstown
-street: "Cole Road"
-housenumber: 17145
-phone: "+1 301-582-4120"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/md/hagerstown-987.shtml"
+street: Cole Road
+housenumber: "17145"
+phone: +1 301-582-4120
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/md/hagerstown-987.shtml

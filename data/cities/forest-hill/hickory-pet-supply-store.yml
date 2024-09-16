@@ -1,11 +1,11 @@
 id: 717709823
-type: way
+type: node
 latitude: 39.57447
 longitude: -76.35415
 postcode: "21050"
 city: Forest Hill
-street: "East Jarrettsville Road"
-housenumber: 534
+street: East Jarrettsville Road
+housenumber: "534"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su 10:00-15:00; PH off"
-website: "https://hickorypetsupply.net/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su 10:00-15:00; PH off
+website: https://hickorypetsupply.net/

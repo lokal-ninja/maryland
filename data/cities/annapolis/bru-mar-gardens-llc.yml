@@ -1,11 +1,11 @@
 id: 298460565
-type: way
+type: node
 latitude: 38.94479
 longitude: -76.48524
 postcode: "21403"
 city: Annapolis
-street: "Bay Ridge Road"
-housenumber: 1009
-phone: "+1 410-990-9898"
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://brumargardens.com"
+street: Bay Ridge Road
+housenumber: "1009"
+phone: +1 410-990-9898
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-17:00
+website: https://brumargardens.com

@@ -1,11 +1,11 @@
 id: 717794789
-type: way
+type: node
 latitude: 39.40597
 longitude: -76.79134
 postcode: "21117"
 city: Owings Mills Circle
-street: "Mill Run Circle"
-housenumber: 10210
+street: Mill Run Circle
+housenumber: "10210"
 phone: ""
 opening_hours: ""
-website: "https://stores.giantfood.com/md/owings-mills/10210-mill-run-circle"
+website: https://stores.giantfood.com/md/owings-mills/10210-mill-run-circle

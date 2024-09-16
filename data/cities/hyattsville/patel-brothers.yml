@@ -1,11 +1,11 @@
 id: 234511101
-type: way
+type: node
 latitude: 38.98383
 longitude: -76.97735
 postcode: "20783"
 city: Hyattsville
-street: "University Boulevard East"
-housenumber: 2074
-phone: "+1 301-422-1555"
-opening_hours: "Mo-Su 11:00-17:00"
-website: "https://www.patelbros.com"
+street: University Boulevard East
+housenumber: "2074"
+phone: +1 301-422-1555
+opening_hours: Mo-Su 11:00-17:00
+website: https://www.patelbros.com

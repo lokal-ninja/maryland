@@ -1,11 +1,11 @@
 id: 629134451
-type: way
+type: node
 latitude: 39.54082
 longitude: -76.35716
 postcode: "21014"
 city: Bel Air
-street: "North Main Street"
-housenumber: 501
-phone: "410-879-0670"
+street: North Main Street
+housenumber: "501"
+phone: 410-879-0670
 opening_hours: ""
-website: "https://www.tirevillageinc.com"
+website: https://www.tirevillageinc.com

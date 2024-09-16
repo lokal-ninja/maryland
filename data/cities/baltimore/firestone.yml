@@ -1,11 +1,11 @@
 id: 300829808
-type: way
+type: node
 latitude: 39.27862
 longitude: -76.61554
 postcode: "21230"
 city: Baltimore
-street: "West Henrietta Street"
-housenumber: 21
+street: West Henrietta Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

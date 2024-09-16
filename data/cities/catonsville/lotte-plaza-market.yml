@@ -1,11 +1,11 @@
 id: 142517936
-type: way
+type: node
 latitude: 39.28796
 longitude: -76.76459
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6600
+street: Baltimore National Pike
+housenumber: "6600"
 phone: ""
 opening_hours: ""
-website: "https://www.lotteplaza.com/locations/catonsville-md/"
+website: https://www.lotteplaza.com/locations/catonsville-md/

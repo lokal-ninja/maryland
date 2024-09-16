@@ -1,11 +1,11 @@
 id: 336190055
-type: way
+type: node
 latitude: 39.36118
 longitude: -76.55452
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 6402
-phone: "+1-410-254-4578"
+street: Harford Road
+housenumber: "6402"
+phone: +1-410-254-4578
 opening_hours: ""
 website: ""

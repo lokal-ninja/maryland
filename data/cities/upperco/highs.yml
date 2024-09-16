@@ -1,11 +1,11 @@
 id: 262871699
-type: way
+type: node
 latitude: 39.54458
 longitude: -76.83723
 postcode: "21155"
 city: Upperco
-street: "Hanover Pike"
-housenumber: 15303
+street: Hanover Pike
+housenumber: "15303"
 phone: ""
 opening_hours: ""
 website: ""

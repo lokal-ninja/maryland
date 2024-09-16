@@ -1,11 +1,11 @@
 id: 65162501
-type: way
+type: node
 latitude: 39.33754
 longitude: -76.48897
 postcode: "21237"
 city: Baltimore
-street: "Petrie Way"
-housenumber: 6420
-phone: "+1 410-687-4858"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3489/baltimore-md/whats-new"
+street: Petrie Way
+housenumber: "6420"
+phone: +1 410-687-4858
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3489/baltimore-md/whats-new

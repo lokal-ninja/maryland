@@ -2,10 +2,10 @@ id: 3003895776
 type: node
 latitude: 38.2974
 longitude: -76.51128
-postcode: "20619-2422"
+postcode: 20619-2422
 city: California
-street: "Worth Lane"
-housenumber: 45205
-phone: "+1 301-862-9630"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/california/pet-supplies-california-md-2701.html"
+street: Worth Lane
+housenumber: "45205"
+phone: +1 301-862-9630
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/md/california/pet-supplies-california-md-2701.html

@@ -1,11 +1,11 @@
 id: 185198937
-type: way
+type: node
 latitude: 39.27778
 longitude: -76.73279
 postcode: "21228"
 city: Catonsville
-street: "Edmondson Avenue"
+street: Edmondson Avenue
 housenumber: 618A
-phone: "+1-410-455-9752"
-opening_hours: "Mo-Fr 08:30-17:00; Sa by appointment; Su off; PH off"
+phone: +1-410-455-9752
+opening_hours: Mo-Fr 08:30-17:00; Sa "by appointment"; Su off; PH off
 website: ""

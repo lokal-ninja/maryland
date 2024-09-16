@@ -1,11 +1,11 @@
 id: 240897348
-type: way
+type: node
 latitude: 38.62972
 longitude: -76.91905
 postcode: "20603"
 city: Waldorf
-street: "Berry Road"
-housenumber: 11505
-phone: "+1 301-363-7010"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/565"
+street: Berry Road
+housenumber: "11505"
+phone: +1 301-363-7010
+opening_hours: 24/7
+website: https://www.wawa.com/locations/565

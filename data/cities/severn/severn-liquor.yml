@@ -1,11 +1,11 @@
 id: 1008216597
-type: way
+type: node
 latitude: 39.11715
 longitude: -76.68136
 postcode: "21144"
 city: Severn
-street: "WB&A Road"
-housenumber: 8265
+street: WB&A Road
+housenumber: "8265"
 phone: ""
-opening_hours: "10:00-21:00"
+opening_hours: 10:00-21:00
 website: ""

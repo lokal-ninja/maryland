@@ -1,11 +1,11 @@
 id: 133667631
-type: way
+type: node
 latitude: 39.43328
 longitude: -76.6245
 postcode: "21093"
 city: Lutherville
-street: "West Aylesbury Road"
-housenumber: 4
+street: West Aylesbury Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.gramophone.com/"
+website: https://www.gramophone.com/

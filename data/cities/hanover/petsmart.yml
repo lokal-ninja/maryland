@@ -1,11 +1,11 @@
 id: 319959334
-type: way
+type: node
 latitude: 39.15154
 longitude: -76.72855
 postcode: "21076"
 city: Hanover
-street: "Arundel Mills Boulevard"
-housenumber: 7663
-phone: "+1 443-755-9936"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/md/hanover-store1076.html"
+street: Arundel Mills Boulevard
+housenumber: "7663"
+phone: +1 443-755-9936
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/md/hanover-store1076.html

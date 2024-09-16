@@ -1,11 +1,11 @@
 id: 668789374
-type: way
+type: node
 latitude: 39.41994
 longitude: -77.44972
 postcode: "21702"
 city: Frederick
-street: "West Patrick Street"
-housenumber: 1275
-phone: "+1 301-631-9010"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/frederick/pet-supplies-frederick-md-2815.html"
+street: West Patrick Street
+housenumber: "1275"
+phone: +1 301-631-9010
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/md/frederick/pet-supplies-frederick-md-2815.html

@@ -1,11 +1,11 @@
 id: 228756970
-type: way
+type: node
 latitude: 39.2859
 longitude: -76.76513
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6555
-phone: "+1-443-860-0827"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su off; PH off"
-website: "https://www.midas.com/baltimore/store.aspx?shopnum=4127&dmanum=72"
+street: Baltimore National Pike
+housenumber: "6555"
+phone: +1-443-860-0827
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su off; PH off
+website: https://www.midas.com/baltimore/store.aspx?shopnum=4127&dmanum=72

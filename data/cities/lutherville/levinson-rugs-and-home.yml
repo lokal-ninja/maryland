@@ -1,11 +1,11 @@
 id: 176683820
-type: way
+type: node
 latitude: 39.44276
 longitude: -76.62594
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 2133
+street: York Road
+housenumber: "2133"
 phone: ""
 opening_hours: ""
-website: "https://levinsonrugs.com"
+website: https://levinsonrugs.com

@@ -1,11 +1,11 @@
 id: 687016055
-type: way
+type: node
 latitude: 39.48815
 longitude: -76.19702
 postcode: "21001"
 city: Aberdeen
-street: "Old Philadelphia Road"
-housenumber: 1201
-phone: "+1-410-441-6114"
+street: Old Philadelphia Road
+housenumber: "1201"
+phone: +1-410-441-6114
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 298934168
-type: way
+type: node
 latitude: 39.2368
 longitude: -76.44066
 postcode: "21219"
 city: Sparrows Point
-street: "North Point Road"
-housenumber: 7514
+street: North Point Road
+housenumber: "7514"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 136028671
-type: way
+type: node
 latitude: 39.18417
 longitude: -76.79225
 postcode: "21075"
 city: Elkridge
-street: "Gateway Overlook Drive"
-housenumber: 8281
-phone: "+1 443-896-0970"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/md-elkridge/2244"
+street: Gateway Overlook Drive
+housenumber: "8281"
+phone: +1 443-896-0970
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/md-elkridge/2244

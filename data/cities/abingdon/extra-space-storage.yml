@@ -1,11 +1,11 @@
 id: 257715843
-type: way
+type: node
 latitude: 39.45956
 longitude: -76.31851
 postcode: "21009"
 city: Abingdon
-street: "Constant Friendship Boulevard"
-housenumber: 410
-phone: "+1 443-862-0049"
-opening_hours: "06:00-22:00"
-website: "https://www.extraspace.com/storage/facilities/us/maryland/abingdon/501490/"
+street: Constant Friendship Boulevard
+housenumber: "410"
+phone: +1 443-862-0049
+opening_hours: 06:00-22:00
+website: https://www.extraspace.com/storage/facilities/us/maryland/abingdon/501490/

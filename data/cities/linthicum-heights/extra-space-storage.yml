@@ -1,11 +1,11 @@
 id: 214920020
-type: way
+type: node
 latitude: 39.21586
 longitude: -76.67951
 postcode: "21090"
 city: Linthicum Heights
-street: "Pinnacle Drive"
-housenumber: 810
+street: Pinnacle Drive
+housenumber: "810"
 phone: ""
 opening_hours: ""
 website: ""

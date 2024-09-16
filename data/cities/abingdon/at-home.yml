@@ -1,11 +1,11 @@
 id: 397172460
-type: way
+type: node
 latitude: 39.46799
 longitude: -76.30594
 postcode: "21009"
 city: Abingdon
-street: "Merchant Boulevard"
-housenumber: 3411
-phone: "+1-443-402-2020"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00; PH off"
-website: "https://www.athome.com/store-detail/?StoreID=Maryland-Abingdon"
+street: Merchant Boulevard
+housenumber: "3411"
+phone: +1-443-402-2020
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00; PH off
+website: https://www.athome.com/store-detail/?StoreID=Maryland-Abingdon

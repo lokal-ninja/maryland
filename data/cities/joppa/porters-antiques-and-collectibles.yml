@@ -1,11 +1,11 @@
 id: 813480975
-type: way
+type: node
 latitude: 39.43352
 longitude: -76.35785
 postcode: "21085"
 city: Joppa
-street: "Philadelphia Road"
-housenumber: 521
+street: Philadelphia Road
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

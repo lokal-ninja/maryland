@@ -1,11 +1,11 @@
 id: 687038366
-type: way
+type: node
 latitude: 39.03189
 longitude: -76.07423
 postcode: "21617"
 city: Centreville
-street: "Centreville Road"
-housenumber: 2486
+street: Centreville Road
+housenumber: "2486"
 phone: ""
 opening_hours: ""
-website: "http://www.centrevilleliquors.net"
+website: http://www.centrevilleliquors.net

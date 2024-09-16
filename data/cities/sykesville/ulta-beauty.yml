@@ -1,11 +1,11 @@
 id: 746487416
-type: way
+type: node
 latitude: 39.39691
 longitude: -76.93314
 postcode: "21784"
 city: Sykesville
-street: "Ridge Road"
-housenumber: 6400
-phone: "+1 410-795-0417"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/eldersburg-md-1205"
+street: Ridge Road
+housenumber: "6400"
+phone: +1 410-795-0417
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/eldersburg-md-1205

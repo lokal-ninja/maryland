@@ -1,11 +1,11 @@
 id: 298921905
-type: way
+type: node
 latitude: 39.336
 longitude: -76.4471
 postcode: "21220"
 city: Middle River
-street: "Middle River Road"
-housenumber: 300
+street: Middle River Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/middle-river/300-middle-river-rd.html"
+website: https://www.autozone.com/locations/md/middle-river/300-middle-river-rd.html

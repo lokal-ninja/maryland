@@ -1,11 +1,11 @@
 id: 274928362
-type: way
+type: node
 latitude: 39.31446
 longitude: -76.61974
 postcode: ""
 city: Baltimore
-street: "North Howard Street"
-housenumber: 2210
-phone: "+1 443 438 3986"
+street: North Howard Street
+housenumber: "2210"
+phone: +1 443 438 3986
 opening_hours: ""
-website: "https://topgearbaltimore.com/"
+website: https://topgearbaltimore.com/

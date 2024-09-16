@@ -1,11 +1,11 @@
 id: 624943462
-type: way
+type: node
 latitude: 39.43712
 longitude: -76.30575
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 2210
-phone: "+1-410-844-5868"
-opening_hours: "Mo-Sa 09:00-19:00; Su off; PH off"
-website: "https://1usmotors.com/"
+street: Pulaski Highway
+housenumber: "2210"
+phone: +1-410-844-5868
+opening_hours: Mo-Sa 09:00-19:00; Su off; PH off
+website: https://1usmotors.com/

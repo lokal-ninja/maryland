@@ -4,8 +4,8 @@ latitude: 39.41166
 longitude: -76.6088
 postcode: "21204"
 city: Towson
-street: "York Road"
-housenumber: 1017
-phone: "+1 410-296-2267"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/towson/1017-york-rd.html"
+street: York Road
+housenumber: "1017"
+phone: +1 410-296-2267
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/towson/1017-york-rd.html

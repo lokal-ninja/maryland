@@ -4,8 +4,8 @@ latitude: 39.54789
 longitude: -76.08964
 postcode: "21078"
 city: Havre de Grace
-street: "North Washington Street"
-housenumber: 101
-phone: "+1 215-910-1876"
-opening_hours: "by appointment only"
-website: "https://www.chrisbarbershop.net"
+street: North Washington Street
+housenumber: "101"
+phone: +1 215-910-1876
+opening_hours: '"by appointment only"'
+website: https://www.chrisbarbershop.net

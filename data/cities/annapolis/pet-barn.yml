@@ -4,8 +4,8 @@ latitude: 38.9869
 longitude: -76.54271
 postcode: "21401"
 city: Annapolis
-street: "Jennifer Road"
-housenumber: 167
-phone: "+1 (410) 573-0404"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "petbarn.net"
+street: Jennifer Road
+housenumber: "167"
+phone: +1 (410) 573-0404
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: petbarn.net

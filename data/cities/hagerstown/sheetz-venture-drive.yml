@@ -1,11 +1,11 @@
 id: 737116468
-type: way
+type: node
 latitude: 39.60882
 longitude: -77.7508
 postcode: "21740"
 city: Hagerstown
-street: "Venture Drive"
-housenumber: 17803
-phone: "+1 301-790-0398"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/163"
+street: Venture Drive
+housenumber: "17803"
+phone: +1 301-790-0398
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/163

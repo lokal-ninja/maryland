@@ -1,11 +1,11 @@
 id: 909467299
-type: way
+type: node
 latitude: 38.55799
 longitude: -76.06229
-postcode: "21613-9471"
+postcode: 21613-9471
 city: Cambridge
-street: "Woods Road"
-housenumber: 802
-phone: "+1 410-228-9391"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+street: Woods Road
+housenumber: "802"
+phone: +1 410-228-9391
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
 website: ""

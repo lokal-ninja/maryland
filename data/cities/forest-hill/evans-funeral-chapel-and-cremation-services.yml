@@ -1,11 +1,11 @@
 id: 702913274
-type: way
+type: node
 latitude: 39.57763
 longitude: -76.38449
 postcode: "21050"
 city: Forest Hill
-street: "Newport Drive"
-housenumber: 3
-phone: "410-893-7575"
+street: Newport Drive
+housenumber: "3"
+phone: 410-893-7575
 opening_hours: ""
-website: "https://www.evansfuneralchapel.com/forest-hill"
+website: https://www.evansfuneralchapel.com/forest-hill

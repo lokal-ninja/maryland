@@ -1,11 +1,11 @@
 id: 645665765
-type: way
+type: node
 latitude: 39.41598
 longitude: -77.43953
 postcode: "21703"
 city: Frederick
-street: "West Patrick Street"
-housenumber: 1002
+street: West Patrick Street
+housenumber: "1002"
 phone: ""
 opening_hours: ""
 website: ""

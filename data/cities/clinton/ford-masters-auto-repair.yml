@@ -1,11 +1,11 @@
 id: 713811079
-type: way
+type: node
 latitude: 38.77928
 longitude: -76.90076
 postcode: "20735"
 city: Clinton
-street: "Old Branch Avenue"
-housenumber: 7925
-phone: "+1-240-244-2943"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://fordmastersrepair.com"
+street: Old Branch Avenue
+housenumber: "7925"
+phone: +1-240-244-2943
+opening_hours: Mo-Fr 08:00-18:00
+website: http://fordmastersrepair.com

@@ -1,11 +1,11 @@
 id: 224607348
-type: way
+type: node
 latitude: 38.92245
 longitude: -76.84586
 postcode: "20706"
 city: Lanham
-street: "Petrie Lane"
-housenumber: 2300
-phone: "+1 301-341-6739"
+street: Petrie Lane
+housenumber: "2300"
+phone: +1 301-341-6739
 opening_hours: ""
-website: "http://stores.bestbuy.com/1776/"
+website: http://stores.bestbuy.com/1776/

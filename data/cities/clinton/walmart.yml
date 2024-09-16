@@ -1,11 +1,11 @@
 id: 224193491
-type: way
+type: node
 latitude: 38.77176
 longitude: -76.89011
 postcode: "20735"
 city: Clinton
-street: "Branch Avenue"
-housenumber: 8745
-phone: "+1 301-877-0502"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2799-clinton-md"
+street: Branch Avenue
+housenumber: "8745"
+phone: +1 301-877-0502
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2799-clinton-md

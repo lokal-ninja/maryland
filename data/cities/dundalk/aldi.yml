@@ -1,11 +1,11 @@
 id: 1192774228
-type: way
+type: node
 latitude: 39.27815
 longitude: -76.50348
-postcode: "21222-2140"
+postcode: 21222-2140
 city: Dundalk
-street: "Merritt Boulevard"
-housenumber: 1401
-phone: "+1 833-471-7018"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/md/dundalk/1401-a1-merritt-boulevard"
+street: Merritt Boulevard
+housenumber: "1401"
+phone: +1 833-471-7018
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/md/dundalk/1401-a1-merritt-boulevard

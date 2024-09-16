@@ -1,11 +1,11 @@
 id: 64376936
-type: way
+type: node
 latitude: 39.09292
 longitude: -77.15419
 postcode: "20850"
 city: Rockville
-street: "Hungerford Drive"
-housenumber: 460
+street: Hungerford Drive
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

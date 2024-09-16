@@ -4,8 +4,8 @@ latitude: 38.97714
 longitude: -76.4873
 postcode: ""
 city: Annapolis
-street: "Main Street"
-housenumber: 87
+street: Main Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
-website: "http://millswine.com"
+website: http://millswine.com

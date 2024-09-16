@@ -1,11 +1,11 @@
 id: 151452289
-type: way
+type: node
 latitude: 39.65255
 longitude: -77.8009
 postcode: "21740"
 city: Hagerstown
-street: "Lager Drive"
-housenumber: 12404
-phone: "+1 301-790-3350"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/184"
+street: Lager Drive
+housenumber: "12404"
+phone: +1 301-790-3350
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/184

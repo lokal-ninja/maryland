@@ -1,11 +1,11 @@
 id: 738360800
-type: way
+type: node
 latitude: 39.55454
 longitude: -76.28459
 postcode: "21015"
 city: Bel Air
-street: "Churchville Road"
-housenumber: 2205
+street: Churchville Road
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

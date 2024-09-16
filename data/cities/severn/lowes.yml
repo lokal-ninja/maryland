@@ -1,11 +1,11 @@
 id: 206040013
-type: way
+type: node
 latitude: 39.14857
 longitude: -76.64815
 postcode: "21144"
 city: Severn
-street: "George Clauss Boulevard"
-housenumber: 415
-phone: "+1 443-883-4135"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "stores.lowes.com/lowes/cgi/site?site=2594"
+street: George Clauss Boulevard
+housenumber: "415"
+phone: +1 443-883-4135
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: stores.lowes.com/lowes/cgi/site?site=2594

@@ -1,11 +1,11 @@
 id: 100103004
-type: way
+type: node
 latitude: 39.0018
 longitude: -76.87594
 postcode: "20770"
 city: Greenbelt
-street: "Centerway"
-housenumber: 121
+street: Centerway
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.greenbelt.coop/"
+website: https://www.greenbelt.coop/

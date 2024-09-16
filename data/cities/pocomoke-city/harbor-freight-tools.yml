@@ -1,11 +1,11 @@
 id: 194463032
-type: way
+type: node
 latitude: 38.07538
 longitude: -75.55558
 postcode: "21851"
 city: Pocomoke City
-street: "Newtowne Boulevard"
-housenumber: 110
-phone: "+1 757-694-6868"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/110-newtowne-blvd-pocomoke-city-21851?number=3239"
+street: Newtowne Boulevard
+housenumber: "110"
+phone: +1 757-694-6868
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/110-newtowne-blvd-pocomoke-city-21851?number=3239

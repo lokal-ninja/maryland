@@ -1,11 +1,11 @@
 id: 195835437
-type: way
+type: node
 latitude: 38.78182
 longitude: -76.55469
 postcode: "20751"
 city: Deale
-street: "Deale Road"
-housenumber: 654
+street: Deale Road
+housenumber: "654"
 phone: ""
 opening_hours: ""
 website: ""

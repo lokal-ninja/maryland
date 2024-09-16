@@ -1,11 +1,11 @@
 id: 206461850
-type: way
+type: node
 latitude: 39.28443
 longitude: -76.76267
-postcode: "21228-3906"
+postcode: 21228-3906
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6503
-phone: "+1 833-471-7039"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/md/catonsville/6503a-baltimore-national-park"
+street: Baltimore National Pike
+housenumber: "6503"
+phone: +1 833-471-7039
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/md/catonsville/6503a-baltimore-national-park

@@ -1,11 +1,11 @@
 id: 411892796
-type: way
+type: node
 latitude: 39.52708
 longitude: -76.35489
 postcode: "21014"
 city: Bel Air
-street: "Baltimore Pike"
-housenumber: 508
+street: Baltimore Pike
+housenumber: "508"
 phone: ""
 opening_hours: ""
-website: "https://local.fedex.com/md/bel-air/office-0994/"
+website: https://local.fedex.com/md/bel-air/office-0994/

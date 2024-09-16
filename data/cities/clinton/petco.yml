@@ -2,10 +2,10 @@ id: 10718003362
 type: node
 latitude: 38.7687
 longitude: -76.88743
-postcode: "20735-2612"
+postcode: 20735-2612
 city: Clinton
-street: "Branch Avenue"
-housenumber: 8909
-phone: "+1 301-868-7384"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/clinton/pet-supplies-clinton-md-2770.html"
+street: Branch Avenue
+housenumber: "8909"
+phone: +1 301-868-7384
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/md/clinton/pet-supplies-clinton-md-2770.html

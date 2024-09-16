@@ -1,11 +1,11 @@
 id: 686169507
-type: way
+type: node
 latitude: 39.18842
 longitude: -76.11719
 postcode: "21620"
 city: Chestertown
-street: "Langford Road"
-housenumber: 24576
+street: Langford Road
+housenumber: "24576"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

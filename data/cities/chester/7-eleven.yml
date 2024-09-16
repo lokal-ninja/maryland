@@ -1,11 +1,11 @@
 id: 357850255
-type: way
+type: node
 latitude: 38.9745
 longitude: -76.28009
 postcode: "21619"
 city: Chester
-street: "Dominion Road"
-housenumber: 107
-phone: "+1 410-643-3369"
+street: Dominion Road
+housenumber: "107"
+phone: +1 410-643-3369
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/chester/107-dominion-rd-17867"
+website: https://www.7-eleven.com/locations/md/chester/107-dominion-rd-17867

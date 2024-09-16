@@ -1,11 +1,11 @@
 id: 218858708
-type: way
+type: node
 latitude: 39.09136
 longitude: -77.20349
 postcode: "20850"
 city: Rockville
-street: "Traville Gateway Drive"
-housenumber: 9719
-phone: "+1 301-315-1460"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/rockville/9719-traville-gateway-drive"
+street: Traville Gateway Drive
+housenumber: "9719"
+phone: +1 301-315-1460
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/rockville/9719-traville-gateway-drive

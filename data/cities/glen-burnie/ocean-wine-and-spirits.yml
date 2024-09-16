@@ -1,11 +1,11 @@
 id: 457945568
-type: way
+type: node
 latitude: 39.15272
 longitude: -76.59564
 postcode: "21060"
 city: Glen Burnie
-street: "Baltimore Annapolis Boulevard"
-housenumber: 7703
+street: Baltimore Annapolis Boulevard
+housenumber: "7703"
 phone: ""
 opening_hours: ""
 website: ""

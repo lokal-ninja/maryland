@@ -1,11 +1,11 @@
 id: 311423499
-type: way
+type: node
 latitude: 38.34414
 longitude: -75.1854
 postcode: ""
 city: Berlin
-street: "Ocean Gateway"
-housenumber: 10802
-phone: "+1-410-641-2193"
-opening_hours: "Mo-Sa 7:30-21:00; Su 9:00-20:00"
-website: "https://stores.advanceautoparts.com/md/berlin/10802-ocean-gateway-highway"
+street: Ocean Gateway
+housenumber: "10802"
+phone: +1-410-641-2193
+opening_hours: Mo-Sa 7:30-21:00; Su 9:00-20:00
+website: https://stores.advanceautoparts.com/md/berlin/10802-ocean-gateway-highway

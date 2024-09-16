@@ -1,11 +1,11 @@
 id: 693129934
-type: way
+type: node
 latitude: 39.57837
 longitude: -76.34461
 postcode: "21015"
 city: Bel Air
-street: "Conowingo Road"
-housenumber: 2203
-phone: "410-838-3447"
+street: Conowingo Road
+housenumber: "2203"
+phone: 410-838-3447
 opening_hours: ""
-website: "https://www.tricountyunlimited.com/"
+website: https://www.tricountyunlimited.com/

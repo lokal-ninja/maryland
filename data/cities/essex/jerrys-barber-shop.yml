@@ -1,11 +1,11 @@
 id: 298908747
-type: way
+type: node
 latitude: 39.31355
 longitude: -76.46056
 postcode: "21221"
 city: Essex
-street: "Old Eastern Avenue"
-housenumber: 1120
+street: Old Eastern Avenue
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

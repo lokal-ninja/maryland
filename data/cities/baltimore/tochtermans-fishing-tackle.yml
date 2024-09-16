@@ -1,11 +1,11 @@
 id: 337503819
-type: way
+type: node
 latitude: 39.28551
 longitude: -76.58941
 postcode: "21231"
 city: Baltimore
-street: "Eastern Avenue"
-housenumber: 1925
+street: Eastern Avenue
+housenumber: "1925"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

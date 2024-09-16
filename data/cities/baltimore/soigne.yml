@@ -1,11 +1,11 @@
 id: 336300021
-type: way
+type: node
 latitude: 39.28141
 longitude: -76.59335
 postcode: "21231"
 city: Baltimore
-street: "Thames Street"
-housenumber: 1643
+street: Thames Street
+housenumber: "1643"
 phone: ""
-opening_hours: "We-Sa 11:00-18:00; Su 12:00-17:00; PH,Mo,Tu off"
-website: "https://soigneaccessories.com/"
+opening_hours: We-Sa 11:00-18:00; Su 12:00-17:00; PH,Mo,Tu off
+website: https://soigneaccessories.com/

@@ -1,11 +1,11 @@
 id: 298716726
-type: way
+type: node
 latitude: 39.38978
 longitude: -76.52927
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 9126
-phone: "+1-410-665-5600"
+street: Harford Road
+housenumber: "9126"
+phone: +1-410-665-5600
 opening_hours: ""
-website: "https://www.myfamilycarcare.com/"
+website: https://www.myfamilycarcare.com/

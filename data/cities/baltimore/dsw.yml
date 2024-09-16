@@ -1,11 +1,11 @@
 id: 234066688
-type: way
+type: node
 latitude: 39.2769
 longitude: -76.56733
 postcode: "21224"
 city: Baltimore
-street: "Boston Street"
-housenumber: 3501
-phone: "+1 410-246-4867"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/md/baltimore/dsw-designer-shoe-warehouse-canton-crossing.html"
+street: Boston Street
+housenumber: "3501"
+phone: +1 410-246-4867
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/md/baltimore/dsw-designer-shoe-warehouse-canton-crossing.html

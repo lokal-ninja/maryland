@@ -1,11 +1,11 @@
 id: 759277574
-type: way
+type: node
 latitude: 39.59775
 longitude: -75.81631
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 344
-phone: "+1-410-392-3039"
+street: East Pulaski Highway
+housenumber: "344"
+phone: +1-410-392-3039
 opening_hours: ""
-website: "http://uppershorepawn.com/"
+website: http://uppershorepawn.com/

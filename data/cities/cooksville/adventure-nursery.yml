@@ -1,11 +1,11 @@
 id: 350848769
-type: way
+type: node
 latitude: 39.32249
 longitude: -77.028
 postcode: "21723"
 city: Cooksville
-street: "Bushy Park Road"
-housenumber: 14780
-phone: "+1-410-442-2765"
+street: Bushy Park Road
+housenumber: "14780"
+phone: +1-410-442-2765
 opening_hours: ""
 website: ""

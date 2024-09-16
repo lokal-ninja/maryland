@@ -1,11 +1,11 @@
 id: 701473543
-type: way
+type: node
 latitude: 39.56889
 longitude: -76.07101
 postcode: "21903"
 city: Perryville
-street: "Pulaski Highway"
-housenumber: 5448
-phone: "+1-410-642-2323"
+street: Pulaski Highway
+housenumber: "5448"
+phone: +1-410-642-2323
 opening_hours: ""
 website: ""

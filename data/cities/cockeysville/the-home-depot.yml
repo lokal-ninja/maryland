@@ -1,11 +1,11 @@
 id: 53138414
-type: way
+type: node
 latitude: 39.46578
 longitude: -76.64137
 postcode: "21030"
 city: Cockeysville
-street: "Industry Lane"
-housenumber: 125
-phone: "+1 410-667-8200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Timonium/MD/Cockeysville/21030/2565"
+street: Industry Lane
+housenumber: "125"
+phone: +1 410-667-8200
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Timonium/MD/Cockeysville/21030/2565

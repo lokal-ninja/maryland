@@ -1,11 +1,11 @@
 id: 293447436
-type: way
+type: node
 latitude: 38.97785
 longitude: -76.48981
 postcode: "21401"
 city: Annapolis
-street: "Main Street"
-housenumber: 162
+street: Main Street
+housenumber: "162"
 phone: ""
 opening_hours: ""
-website: "https://tylerboe.com/annapolis"
+website: https://tylerboe.com/annapolis

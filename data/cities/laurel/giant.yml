@@ -1,11 +1,11 @@
 id: 236021709
-type: way
+type: node
 latitude: 39.09707
 longitude: -76.85596
 postcode: "20707"
 city: Laurel
-street: "Fairlawn Avenue"
-housenumber: 1009
-phone: "+1 301-725-0046"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/laurel/1009-fairlawn-st"
+street: Fairlawn Avenue
+housenumber: "1009"
+phone: +1 301-725-0046
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/laurel/1009-fairlawn-st

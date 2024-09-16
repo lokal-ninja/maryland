@@ -1,11 +1,11 @@
 id: 118361218
-type: way
+type: node
 latitude: 39.0281
 longitude: -77.0752
 postcode: "20895"
 city: Kensington
-street: "Connecticut Avenue"
-housenumber: 10541
-phone: "+1 301-945-4273"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://local.safeway.com/safeway/md/kensington/10541-connecticut-ave.html"
+street: Connecticut Avenue
+housenumber: "10541"
+phone: +1 301-945-4273
+opening_hours: Mo-Su 05:00-23:00
+website: https://local.safeway.com/safeway/md/kensington/10541-connecticut-ave.html

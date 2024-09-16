@@ -4,8 +4,9 @@ latitude: 38.68964
 longitude: -76.53691
 postcode: "20732"
 city: Chesapeake Beach
-street: "Harbor Road"
-housenumber: 3819
-phone: "+1 443 646 6392"
-opening_hours: "Tu 12:00-18:00; We-Fr 11:00-18:00; Sa 10:00-18:00; Su 12:00-16:00; Jan 1,Dec 25 off"
-website: "https://www.butterfliesandwishes.com/"
+street: Harbor Road
+housenumber: "3819"
+phone: +1 443 646 6392
+opening_hours: Tu 12:00-18:00; We-Fr 11:00-18:00; Sa 10:00-18:00; Su 12:00-16:00;
+    Jan 1,Dec 25 off
+website: https://www.butterfliesandwishes.com/

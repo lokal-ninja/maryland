@@ -1,11 +1,11 @@
 id: 118407276
-type: way
+type: node
 latitude: 39.17295
 longitude: -77.20406
 postcode: "20886"
 city: Montgomery Village
-street: "Montgomery Village Avenue"
-housenumber: 19300
+street: Montgomery Village Avenue
+housenumber: "19300"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off
 website: ""

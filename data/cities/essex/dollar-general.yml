@@ -1,11 +1,11 @@
 id: 298928789
-type: way
+type: node
 latitude: 39.30859
 longitude: -76.47392
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 525
+street: Eastern Boulevard
+housenumber: "525"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/md/essex/15571"
+website: https://www.dollargeneral.com/store-directory/md/essex/15571

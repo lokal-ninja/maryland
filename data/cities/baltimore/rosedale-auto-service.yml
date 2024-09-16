@@ -1,11 +1,11 @@
 id: 336181754
-type: way
+type: node
 latitude: 39.34115
 longitude: -76.54759
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 5606
-phone: "+1-410-488-0500"
-opening_hours: "Mo-Fr 08:00-17:30; Sa-Su off; PH off"
-website: "https://www.rosedaleautoservice.com/"
+street: Belair Road
+housenumber: "5606"
+phone: +1-410-488-0500
+opening_hours: Mo-Fr 08:00-17:30; Sa-Su off; PH off
+website: https://www.rosedaleautoservice.com/

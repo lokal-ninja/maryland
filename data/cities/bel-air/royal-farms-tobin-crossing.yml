@@ -1,11 +1,11 @@
 id: 1298885651
-type: way
+type: node
 latitude: 39.48883
 longitude: -76.25621
 postcode: "21015"
 city: Bel Air
-street: "Tobin Crossing"
-housenumber: 2692
-phone: "+1 667 276 9640"
+street: Tobin Crossing
+housenumber: "2692"
+phone: +1 667 276 9640
 opening_hours: ""
 website: ""

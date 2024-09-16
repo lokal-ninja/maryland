@@ -4,8 +4,8 @@ latitude: 39.26751
 longitude: -76.79874
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8247
-phone: "+1-410-777-9240"
-opening_hours: "Mo-Th 11:00-18:00; Fr-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://pbandlotus.com/"
+street: Main Street
+housenumber: "8247"
+phone: +1-410-777-9240
+opening_hours: Mo-Th 11:00-18:00; Fr-Sa 11:00-20:00; Su 11:00-18:00
+website: https://pbandlotus.com/

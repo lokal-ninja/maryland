@@ -1,11 +1,11 @@
 id: 746380681
-type: way
+type: node
 latitude: 39.37381
 longitude: -76.44443
 postcode: "21162"
 city: White Marsh
-street: "Nottingridge Road"
-housenumber: 5361
+street: Nottingridge Road
+housenumber: "5361"
 phone: ""
 opening_hours: ""
-website: "https://www.sheehynissanofwhitemarsh.com/"
+website: https://www.sheehynissanofwhitemarsh.com/

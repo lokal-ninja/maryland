@@ -1,11 +1,11 @@
 id: 83922495
-type: way
+type: node
 latitude: 39.42686
 longitude: -76.61945
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1705
+street: York Road
+housenumber: "1705"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/md/lutherville-timonium/1705-york-rd-21093/4263"
+website: https://www.ntb.com/store/md/lutherville-timonium/1705-york-rd-21093/4263

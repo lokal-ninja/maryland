@@ -1,11 +1,11 @@
 id: 92879364
-type: way
+type: node
 latitude: 38.997
 longitude: -77.02725
 postcode: "20910"
 city: Silver Spring
-street: "Colesville Road"
-housenumber: 8661
-phone: "+1 301-589-1091"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.ellsworthplace.com"
+street: Colesville Road
+housenumber: "8661"
+phone: +1 301-589-1091
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.ellsworthplace.com

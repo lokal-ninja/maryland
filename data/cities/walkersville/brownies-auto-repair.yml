@@ -1,11 +1,11 @@
 id: 866123400
-type: way
+type: node
 latitude: 39.48039
 longitude: -77.35192
 postcode: "21793"
 city: Walkersville
-street: "West Frederick Street"
-housenumber: 42
+street: West Frederick Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

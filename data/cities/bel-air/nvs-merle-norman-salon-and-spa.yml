@@ -1,11 +1,11 @@
 id: 662779329
-type: way
+type: node
 latitude: 39.52699
 longitude: -76.33967
 postcode: "21014"
 city: Bel Air
-street: "South Main Street"
-housenumber: 839
-phone: "410-803-0005"
+street: South Main Street
+housenumber: "839"
+phone: 410-803-0005
 opening_hours: ""
-website: "https://www.nvssalon.com/"
+website: https://www.nvssalon.com/

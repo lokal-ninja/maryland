@@ -1,11 +1,11 @@
 id: 1127936206
-type: way
+type: node
 latitude: 39.38923
 longitude: -77.31041
 postcode: "21754"
 city: Ijamsville
-street: "Silverside Street"
-housenumber: 10210
+street: Silverside Street
+housenumber: "10210"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 325436767
-type: way
+type: node
 latitude: 39.48891
 longitude: -76.19752
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 1140
-phone: "410-401-8769"
+street: South Philadelphia Boulevard
+housenumber: "1140"
+phone: 410-401-8769
 opening_hours: ""
-website: "https://www.cookmazda.com/"
+website: https://www.cookmazda.com/

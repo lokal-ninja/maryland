@@ -1,11 +1,11 @@
 id: 45055273
-type: way
+type: node
 latitude: 39.15292
 longitude: -77.06526
 postcode: "20832"
 city: Olney
-street: "Village Center"
-housenumber: 18140
-phone: "+1 301-570-1665"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/olney/18140-village-center"
+street: Village Center
+housenumber: "18140"
+phone: +1 301-570-1665
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/olney/18140-village-center

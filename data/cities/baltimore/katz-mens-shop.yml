@@ -1,11 +1,11 @@
 id: 336425749
-type: way
+type: node
 latitude: 39.28828
 longitude: -76.63797
 postcode: "21223"
 city: Baltimore
-street: "West Baltimore Street"
-housenumber: 1241
-phone: "+1 410-837-5332"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: West Baltimore Street
+housenumber: "1241"
+phone: +1 410-837-5332
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

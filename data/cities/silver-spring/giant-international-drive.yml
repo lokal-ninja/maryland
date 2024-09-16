@@ -1,11 +1,11 @@
 id: 45716002
-type: way
+type: node
 latitude: 39.10131
 longitude: -77.07534
 postcode: "20906"
 city: Silver Spring
-street: "International Drive"
-housenumber: 3860
-phone: "+1 301-598-4666"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/silver-spring/3860-international-dr"
+street: International Drive
+housenumber: "3860"
+phone: +1 301-598-4666
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/silver-spring/3860-international-dr

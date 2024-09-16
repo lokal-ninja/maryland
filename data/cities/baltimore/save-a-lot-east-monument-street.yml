@@ -1,11 +1,11 @@
 id: 336263217
-type: way
+type: node
 latitude: 39.29841
 longitude: -76.58188
 postcode: "21205"
 city: Baltimore
-street: "East Monument Street"
-housenumber: 2509
+street: East Monument Street
+housenumber: "2509"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/baltimore-21205-61282/"
+website: https://savealot.com/grocery-stores/baltimore-21205-61282/

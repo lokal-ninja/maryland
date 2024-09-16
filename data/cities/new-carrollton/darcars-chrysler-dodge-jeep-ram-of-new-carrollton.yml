@@ -1,11 +1,11 @@
 id: 233193996
-type: way
+type: node
 latitude: 38.9555
 longitude: -76.87424
 postcode: "20784"
 city: New Carrollton
-street: "Annapolis Road"
-housenumber: 8100
-phone: "(301) 459-6800"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://www.darcarschryslerjeepdodgeofnewcarrollton.com/"
+street: Annapolis Road
+housenumber: "8100"
+phone: (301) 459-6800
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-18:00
+website: https://www.darcarschryslerjeepdodgeofnewcarrollton.com/

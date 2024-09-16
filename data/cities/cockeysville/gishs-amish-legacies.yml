@@ -1,11 +1,11 @@
 id: 196935973
-type: way
+type: node
 latitude: 39.48803
 longitude: -76.64661
 postcode: "21030"
 city: Cockeysville
-street: "York Road"
-housenumber: 11021
+street: York Road
+housenumber: "11021"
 phone: ""
 opening_hours: ""
-website: "https://gishs.com/"
+website: https://gishs.com/

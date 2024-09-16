@@ -1,11 +1,11 @@
 id: 298500958
-type: way
+type: node
 latitude: 39.40885
 longitude: -76.41072
 postcode: "21162"
 city: White Marsh
-street: "Philadelphia Road"
-housenumber: 11625
+street: Philadelphia Road
+housenumber: "11625"
 phone: ""
 opening_hours: ""
 website: ""

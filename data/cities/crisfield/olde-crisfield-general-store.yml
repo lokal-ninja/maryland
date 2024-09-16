@@ -1,11 +1,11 @@
 id: 575571115
-type: way
+type: node
 latitude: 37.9785
 longitude: -75.86141
 postcode: "21817"
 city: Crisfield
-street: "South 10th Street"
-housenumber: 
+street: South 10th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

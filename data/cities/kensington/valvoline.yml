@@ -1,11 +1,11 @@
 id: 45808608
-type: way
+type: node
 latitude: 39.03042
 longitude: -77.07533
 postcode: "20895"
 city: Kensington
-street: "Connecticut Avenue"
-housenumber: 10635
+street: Connecticut Avenue
+housenumber: "10635"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/md/kensington/oil-change-ba0041.html"
+website: https://store.vioc.com/md/kensington/oil-change-ba0041.html

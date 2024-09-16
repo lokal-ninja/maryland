@@ -1,11 +1,11 @@
 id: 687038403
-type: way
+type: node
 latitude: 39.03221
 longitude: -76.07627
 postcode: "21617"
 city: Centreville
-street: "Centreville Road"
-housenumber: 2504
+street: Centreville Road
+housenumber: "2504"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/centreville/2504-centreville-rd.html"
+website: https://www.autozone.com/locations/md/centreville/2504-centreville-rd.html

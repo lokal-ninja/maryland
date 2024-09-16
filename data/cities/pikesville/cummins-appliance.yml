@@ -1,11 +1,11 @@
 id: 53256053
-type: way
+type: node
 latitude: 39.3821
 longitude: -76.73157
 postcode: "21208"
 city: Pikesville
-street: "Reisterstown Road"
-housenumber: 1708
+street: Reisterstown Road
+housenumber: "1708"
 phone: ""
 opening_hours: ""
 website: ""

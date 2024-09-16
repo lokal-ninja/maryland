@@ -4,8 +4,8 @@ latitude: 39.54424
 longitude: -76.47272
 postcode: "21047"
 city: Fallston
-street: "Fallston Road"
-housenumber: 2739
-phone: "+1-410-692-2688"
-opening_hours: "Su,Mo by appointment; Tu-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-16:00"
-website: "https://www.lavishoffallston.com/"
+street: Fallston Road
+housenumber: "2739"
+phone: +1-410-692-2688
+opening_hours: Su,Mo "by appointment"; Tu-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-16:00
+website: https://www.lavishoffallston.com/

@@ -1,11 +1,11 @@
 id: 625347269
-type: way
+type: node
 latitude: 39.44453
 longitude: -76.31031
 postcode: "21040"
 city: Edgewood
-street: "Philadelphia Road"
-housenumber: 2100
-phone: "+1-410-676-3709"
+street: Philadelphia Road
+housenumber: "2100"
+phone: +1-410-676-3709
 opening_hours: ""
-website: "https://jonesproducefarm.com/"
+website: https://jonesproducefarm.com/

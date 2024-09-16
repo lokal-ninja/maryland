@@ -1,11 +1,11 @@
 id: 771190783
-type: way
+type: node
 latitude: 39.37535
 longitude: -77.15826
 postcode: "21771"
 city: Mount Airy
-street: "Hill Street"
-housenumber: 406
+street: Hill Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

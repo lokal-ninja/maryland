@@ -1,11 +1,11 @@
 id: 64142357
-type: way
+type: node
 latitude: 39.1806
 longitude: -77.26519
 postcode: "20874"
 city: Germantown
-street: "Germantown Road"
-housenumber: 19750
+street: Germantown Road
+housenumber: "19750"
 phone: ""
 opening_hours: ""
-website: "https://www.eurogermantownmercedes.com/"
+website: https://www.eurogermantownmercedes.com/

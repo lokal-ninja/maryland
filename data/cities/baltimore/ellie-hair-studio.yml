@@ -4,8 +4,8 @@ latitude: 39.31275
 longitude: -76.61785
 postcode: "21218"
 city: Baltimore
-street: "Maryland Avenue"
-housenumber: 2019
-phone: "+1 410 852 8040"
-opening_hours: "Mo-Sa 09:00-18:00; Su closed"
+street: Maryland Avenue
+housenumber: "2019"
+phone: +1 410 852 8040
+opening_hours: Mo-Sa 09:00-18:00; Su closed
 website: ""

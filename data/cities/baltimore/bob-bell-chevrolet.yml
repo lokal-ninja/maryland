@@ -1,11 +1,11 @@
 id: 299164340
-type: way
+type: node
 latitude: 39.29633
 longitude: -76.52978
 postcode: "21224"
 city: Baltimore
-street: "Kane Street"
-housenumber: 1
+street: Kane Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

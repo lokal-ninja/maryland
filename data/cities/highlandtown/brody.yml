@@ -1,11 +1,11 @@
 id: 298931025
-type: way
+type: node
 latitude: 39.29869
 longitude: -76.52446
 postcode: "21224"
 city: Highlandtown
-street: "Rolling Mill Road"
-housenumber: 7001
+street: Rolling Mill Road
+housenumber: "7001"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 530026434
-type: way
+type: node
 latitude: 38.77732
 longitude: -76.56614
 postcode: "20779"
 city: Tracys Landing
-street: "Deale Road"
-housenumber: 389
-phone: "+1 301 889 0004"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.westmarine.com/stores/tracys-landing-md-180"
+street: Deale Road
+housenumber: "389"
+phone: +1 301 889 0004
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.westmarine.com/stores/tracys-landing-md-180

@@ -1,11 +1,11 @@
 id: 186238631
-type: way
+type: node
 latitude: 39.38485
 longitude: -77.4009
 postcode: "21704"
 city: Frederick
-street: "Urbana Pike"
-housenumber: 5533
+street: Urbana Pike
+housenumber: "5533"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 877366647
-type: way
+type: node
 latitude: 38.30761
 longitude: -76.66428
 postcode: "20650"
 city: Leonardtown
-street: "Merchants Lane"
-housenumber: 40845
-phone: "+1 301-475-5800"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: Merchants Lane
+housenumber: "40845"
+phone: +1 301-475-5800
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

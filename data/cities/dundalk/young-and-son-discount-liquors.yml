@@ -1,11 +1,11 @@
 id: 299151024
-type: way
+type: node
 latitude: 39.27285
 longitude: -76.5258
 postcode: "21222"
 city: Dundalk
-street: "Holabird Avenue"
-housenumber: 6900
-phone: "+1 410 288 9320"
+street: Holabird Avenue
+housenumber: "6900"
+phone: +1 410 288 9320
 opening_hours: ""
 website: ""

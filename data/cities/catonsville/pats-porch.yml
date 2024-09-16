@@ -1,11 +1,11 @@
 id: 263294070
-type: way
+type: node
 latitude: 39.27125
 longitude: -76.73469
 postcode: "21228"
 city: Catonsville
-street: "Frederick Road"
-housenumber: 819
-phone: "410-788-1270"
+street: Frederick Road
+housenumber: "819"
+phone: 410-788-1270
 opening_hours: ""
-website: "patsporch.com"
+website: patsporch.com

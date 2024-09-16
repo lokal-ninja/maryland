@@ -1,11 +1,11 @@
 id: 1279983976
-type: way
+type: node
 latitude: 39.15315
 longitude: -76.63094
 postcode: ""
 city: Glen Burnie
-street: "Crain Highway South"
-housenumber: 1011
-phone: "+1-410-761-0003"
+street: Crain Highway South
+housenumber: "1011"
+phone: +1-410-761-0003
 opening_hours: ""
-website: "https://tintincmd.com/"
+website: https://tintincmd.com/

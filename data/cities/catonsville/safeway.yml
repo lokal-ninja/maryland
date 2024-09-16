@@ -1,11 +1,11 @@
 id: 160852194
-type: way
+type: node
 latitude: 39.28951
 longitude: -76.73126
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 5660
-phone: "+1 410-869-8220"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/baltimore/5660-baltimore-national-pike.html"
+street: Baltimore National Pike
+housenumber: "5660"
+phone: +1 410-869-8220
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/baltimore/5660-baltimore-national-pike.html

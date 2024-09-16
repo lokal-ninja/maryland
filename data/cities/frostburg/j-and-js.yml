@@ -1,11 +1,11 @@
 id: 800021927
-type: way
+type: node
 latitude: 39.65179
 longitude: -78.92307
 postcode: ""
 city: Frostburg
-street: "South Grant Street"
-housenumber: 75
+street: South Grant Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

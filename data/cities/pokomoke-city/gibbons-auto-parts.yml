@@ -1,11 +1,11 @@
 id: 310929438
-type: way
+type: node
 latitude: 38.04873
 longitude: -75.54402
 postcode: ""
 city: Pokomoke City
-street: "Ocean Highway"
-housenumber: 1443
-phone: "+1-410-957-2332"
-opening_hours: "Mo-Fr 8:00-17:00; Sa 8:00-12:00"
-website: "https://locations.autovalue.com/MD/POCOMOKE-CITY/13977-01/"
+street: Ocean Highway
+housenumber: "1443"
+phone: +1-410-957-2332
+opening_hours: Mo-Fr 8:00-17:00; Sa 8:00-12:00
+website: https://locations.autovalue.com/MD/POCOMOKE-CITY/13977-01/

@@ -1,11 +1,11 @@
 id: 155228838
-type: way
+type: node
 latitude: 39.36191
 longitude: -76.60977
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 5835
+street: York Road
+housenumber: "5835"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/md/baltimore/5835-york-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/md/baltimore/5835-york-road

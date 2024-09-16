@@ -1,11 +1,11 @@
 id: 1287225658
-type: way
+type: node
 latitude: 39.60464
 longitude: -75.89312
 postcode: "21921"
 city: Elkton
-street: "E Old Philadelphia Road"
-housenumber: 1433
+street: E Old Philadelphia Road
+housenumber: "1433"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/elkton-md/"
+website: https://haletrailer.com/locations/elkton-md/

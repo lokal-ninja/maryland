@@ -1,11 +1,11 @@
 id: 576930561
-type: way
+type: node
 latitude: 39.43903
 longitude: -76.29306
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 2703
-phone: "+1 410-612-8114"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00; PH off"
-website: "https://www.homedepot.com/l/Edgewood/MD/Edgewood/21040/2576"
+street: Pulaski Highway
+housenumber: "2703"
+phone: +1 410-612-8114
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00; PH off
+website: https://www.homedepot.com/l/Edgewood/MD/Edgewood/21040/2576

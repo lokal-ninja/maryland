@@ -1,11 +1,11 @@
 id: 532760601
-type: way
+type: node
 latitude: 39.1438
 longitude: -76.52495
 postcode: "21122"
 city: Pasadena
-street: "Fort Smallwood Road"
-housenumber: 8711
-phone: "+1-410-437-0494"
+street: Fort Smallwood Road
+housenumber: "8711"
+phone: +1-410-437-0494
 opening_hours: ""
 website: ""

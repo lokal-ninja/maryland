@@ -1,11 +1,11 @@
 id: 747115434
-type: way
+type: node
 latitude: 39.55114
 longitude: -76.09149
 postcode: "21078"
 city: Havre de Grace
-street: "North Union Avenue"
-housenumber: 419
-phone: "+1 410-939-8888"
+street: North Union Avenue
+housenumber: "419"
+phone: +1 410-939-8888
 opening_hours: ""
-website: "https://coakleyspub.com"
+website: https://coakleyspub.com

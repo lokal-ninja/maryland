@@ -1,11 +1,11 @@
 id: 717794788
-type: way
+type: node
 latitude: 39.40485
 longitude: -76.78881
 postcode: "21117"
 city: Owings Mills
-street: "Mill Run Circle"
-housenumber: 10246
+street: Mill Run Circle
+housenumber: "10246"
 phone: ""
-opening_hours: "Mo-Th 09:00-21:00,Fr-Sa 09:00-22:00"
+opening_hours: Mo-Th 09:00-21:00,Fr-Sa 09:00-22:00
 website: ""

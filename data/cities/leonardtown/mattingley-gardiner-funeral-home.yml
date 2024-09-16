@@ -1,11 +1,11 @@
 id: 391607443
-type: way
+type: node
 latitude: 38.29169
 longitude: -76.63802
 postcode: "20650"
 city: Leonardtown
-street: "Fenwick Street"
-housenumber: 41590
+street: Fenwick Street
+housenumber: "41590"
 phone: ""
 opening_hours: ""
-website: "https://mgfh.com/"
+website: https://mgfh.com/

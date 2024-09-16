@@ -1,11 +1,11 @@
 id: 746487418
-type: way
+type: node
 latitude: 39.39682
 longitude: -76.93258
 postcode: "21784"
 city: Sykesville
-street: "Ridge Road"
-housenumber: 6400
-phone: "+1 443-920-9007"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/sykesville/pet-supplies-sykesville-md-3808.html"
+street: Ridge Road
+housenumber: "6400"
+phone: +1 443-920-9007
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/md/sykesville/pet-supplies-sykesville-md-3808.html

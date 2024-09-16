@@ -1,11 +1,11 @@
 id: 298921614
-type: way
+type: node
 latitude: 39.33518
 longitude: -76.45699
 postcode: "21220"
 city: Middle River
-street: "Compass Road"
-housenumber: 3
+street: Compass Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

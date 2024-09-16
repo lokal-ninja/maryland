@@ -1,11 +1,11 @@
 id: 230777681
-type: way
+type: node
 latitude: 38.41036
 longitude: -75.06093
 postcode: "21842"
 city: Ocean City
-street: "Coastal Highway"
-housenumber: 9507
-phone: "+1 410-723-7004"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://local.acmemarkets.com/md/ocean-city/9507-coastal-hwy.html"
+street: Coastal Highway
+housenumber: "9507"
+phone: +1 410-723-7004
+opening_hours: Mo-Su 07:00-24:00
+website: https://local.acmemarkets.com/md/ocean-city/9507-coastal-hwy.html

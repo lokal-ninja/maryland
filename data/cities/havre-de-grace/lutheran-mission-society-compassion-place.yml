@@ -1,11 +1,11 @@
 id: 571045221
-type: way
+type: node
 latitude: 39.5526
 longitude: -76.10001
 postcode: "21078"
 city: Havre de Grace
-street: "Legion Drive"
-housenumber: 531
-phone: "+1-410-939-0879"
+street: Legion Drive
+housenumber: "531"
+phone: +1-410-939-0879
 opening_hours: ""
-website: "https://compassionplace.org/"
+website: https://compassionplace.org/

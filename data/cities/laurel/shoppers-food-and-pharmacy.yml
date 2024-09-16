@@ -1,11 +1,11 @@
 id: 235170141
-type: way
+type: node
 latitude: 39.07854
 longitude: -76.87029
 postcode: "20707"
 city: Laurel
-street: "Baltimore Avenue"
-housenumber: 13600
+street: Baltimore Avenue
+housenumber: "13600"
 phone: ""
 opening_hours: ""
 website: ""

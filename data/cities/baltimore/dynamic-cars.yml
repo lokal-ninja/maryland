@@ -1,11 +1,11 @@
 id: 274928364
-type: way
+type: node
 latitude: 39.3145
 longitude: -76.61937
 postcode: "21218"
 city: Baltimore
-street: "North Howard Street"
-housenumber: 2201
-phone: "+1 410 889 1040"
+street: North Howard Street
+housenumber: "2201"
+phone: +1 410 889 1040
 opening_hours: ""
-website: "https://www.dynamiccarsinc.com/"
+website: https://www.dynamiccarsinc.com/

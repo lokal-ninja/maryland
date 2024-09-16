@@ -1,11 +1,11 @@
 id: 298710662
-type: way
+type: node
 latitude: 39.37301
 longitude: -76.59466
 postcode: "21239"
 city: Northwood
-street: "Sherwood Road"
-housenumber: 6311
+street: Sherwood Road
+housenumber: "6311"
 phone: ""
 opening_hours: ""
 website: ""

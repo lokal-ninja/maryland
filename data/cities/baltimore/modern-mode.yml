@@ -1,11 +1,11 @@
 id: 336376531
-type: way
+type: node
 latitude: 39.29134
 longitude: -76.61759
 postcode: "21201"
 city: Baltimore
-street: "West Lexington Street"
-housenumber: 105
+street: West Lexington Street
+housenumber: "105"
 phone: "+14105477506"
 opening_hours: ""
 website: ""

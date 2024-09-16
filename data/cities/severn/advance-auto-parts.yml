@@ -1,11 +1,11 @@
 id: 1284242456
-type: way
+type: node
 latitude: 39.13601
 longitude: -76.68477
 postcode: "21144"
 city: Severn
-street: "Clark Station Road"
-housenumber: 7810
-phone: "+1-443-679-9095"
+street: Clark Station Road
+housenumber: "7810"
+phone: +1-443-679-9095
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/md/severn/7810-clark-station-rd"
+website: https://stores.advanceautoparts.com/md/severn/7810-clark-station-rd

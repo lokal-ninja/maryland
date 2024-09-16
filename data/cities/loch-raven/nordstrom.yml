@@ -1,11 +1,11 @@
 id: 156310395
-type: way
+type: node
 latitude: 39.40411
 longitude: -76.5974
 postcode: "21286"
 city: Loch Raven
-street: "Fairmount Avenue"
-housenumber: 700
+street: Fairmount Avenue
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.nordstrom.com/store-details/nordstrom-towson-town-center"
+website: https://www.nordstrom.com/store-details/nordstrom-towson-town-center

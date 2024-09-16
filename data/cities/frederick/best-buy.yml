@@ -1,11 +1,11 @@
 id: 165189420
-type: way
+type: node
 latitude: 39.39755
 longitude: -77.41566
 postcode: "21704"
 city: Frederick
-street: "Guilford Drive"
-housenumber: 7300
-phone: "+1 301-662-6130"
+street: Guilford Drive
+housenumber: "7300"
+phone: +1 301-662-6130
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/frederick/7300-guilford-dr-427.html"
+website: https://stores.bestbuy.com/md/frederick/7300-guilford-dr-427.html

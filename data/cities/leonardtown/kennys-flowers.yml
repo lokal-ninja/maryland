@@ -1,11 +1,11 @@
 id: 391602411
-type: way
+type: node
 latitude: 38.29249
 longitude: -76.63611
 postcode: "20650"
 city: Leonardtown
-street: "Washington Street"
-housenumber: 22765
+street: Washington Street
+housenumber: "22765"
 phone: ""
 opening_hours: ""
 website: ""

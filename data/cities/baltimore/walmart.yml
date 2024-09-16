@@ -1,11 +1,11 @@
 id: 52517901
-type: way
+type: node
 latitude: 39.33701
 longitude: -76.40025
 postcode: "21220"
 city: Baltimore
-street: "Carroll Island Road"
-housenumber: 112
-phone: "+1 410-335-5669"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3481/baltimore-md/whats-new"
+street: Carroll Island Road
+housenumber: "112"
+phone: +1 410-335-5669
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3481/baltimore-md/whats-new

@@ -1,11 +1,11 @@
 id: 328689658
-type: way
+type: node
 latitude: 39.52562
 longitude: -76.18171
 postcode: "21001"
 city: Aberdeen
-street: "Beards Hill Road"
-housenumber: 949
-phone: "+1 410-272-3100"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/548"
+street: Beards Hill Road
+housenumber: "949"
+phone: +1 410-272-3100
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/548

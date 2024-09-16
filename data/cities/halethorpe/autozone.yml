@@ -1,11 +1,11 @@
 id: 1036689554
-type: way
+type: node
 latitude: 39.25616
 longitude: -76.66492
 postcode: "21227"
 city: Halethorpe
-street: "Washington Boulevard"
-housenumber: 3303
+street: Washington Boulevard
+housenumber: "3303"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/halethorpe/3311-washington-blvd.html"
+website: https://www.autozone.com/locations/md/halethorpe/3311-washington-blvd.html

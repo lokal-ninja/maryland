@@ -1,11 +1,11 @@
 id: 336382645
-type: way
+type: node
 latitude: 39.32003
 longitude: -76.62181
 postcode: "21211"
 city: Baltimore
-street: "Huntingdon Avenue"
-housenumber: 2701
+street: Huntingdon Avenue
+housenumber: "2701"
 phone: ""
 opening_hours: ""
 website: ""

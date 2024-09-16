@@ -1,11 +1,11 @@
 id: 314361622
-type: way
+type: node
 latitude: 38.67075
 longitude: -76.8773
 postcode: "20613"
 city: Brandywine
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/brandywine/16001-crain-hwy.html"
+website: https://www.autozone.com/locations/md/brandywine/16001-crain-hwy.html

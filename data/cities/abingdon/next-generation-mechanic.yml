@@ -1,11 +1,11 @@
 id: 673043269
-type: way
+type: node
 latitude: 39.46168
 longitude: -76.25323
 postcode: "21009"
 city: Abingdon
-street: "Pulaski Highway"
-housenumber: 4004
+street: Pulaski Highway
+housenumber: "4004"
 phone: ""
 opening_hours: ""
-website: "https://nextgenerationmechanic.com/"
+website: https://nextgenerationmechanic.com/

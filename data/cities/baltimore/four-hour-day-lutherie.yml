@@ -4,8 +4,8 @@ latitude: 39.33873
 longitude: -76.57328
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 4305
+street: Harford Road
+housenumber: "4305"
 phone: ""
-opening_hours: "If we're here, come on in!"
-website: "https://www.facebook.com/pg/FHDLutherie"
+opening_hours: '"If we''re here, come on in!"'
+website: https://www.facebook.com/pg/FHDLutherie

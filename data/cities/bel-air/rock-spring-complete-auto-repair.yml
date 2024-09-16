@@ -1,11 +1,11 @@
 id: 717797890
-type: way
+type: node
 latitude: 39.58058
 longitude: -76.33948
 postcode: "21015"
 city: Bel Air
-street: "Conowingo Road"
-housenumber: 2236
-phone: "+1-410-893-3633"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "https://www.rockspringsautomotive.com/"
+street: Conowingo Road
+housenumber: "2236"
+phone: +1-410-893-3633
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: https://www.rockspringsautomotive.com/

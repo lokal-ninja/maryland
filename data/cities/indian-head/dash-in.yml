@@ -1,11 +1,11 @@
 id: 355396891
-type: way
+type: node
 latitude: 38.60238
 longitude: -77.13102
 postcode: "20640"
 city: Indian Head
-street: "MD 210"
-housenumber: 5105
+street: MD 210
+housenumber: "5105"
 phone: ""
 opening_hours: ""
 website: ""

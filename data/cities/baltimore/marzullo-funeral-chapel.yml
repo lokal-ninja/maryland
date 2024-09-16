@@ -1,11 +1,11 @@
 id: 336193726
-type: way
+type: node
 latitude: 39.35716
 longitude: -76.55707
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 6009
-phone: "+1-410-254-5201"
+street: Harford Road
+housenumber: "6009"
+phone: +1-410-254-5201
 opening_hours: ""
-website: "https://www.marzullofuneralchapel.com/"
+website: https://www.marzullofuneralchapel.com/

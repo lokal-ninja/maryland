@@ -1,11 +1,11 @@
 id: 46978521
-type: way
+type: node
 latitude: 39.11826
 longitude: -77.20127
 postcode: "20878"
 city: Gaithersburg
-street: "Grand Corner Avenue"
-housenumber: 2
-phone: "+1 301-947-0200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/md/gaithersburg/414/"
+street: Grand Corner Avenue
+housenumber: "2"
+phone: +1 301-947-0200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/md/gaithersburg/414/

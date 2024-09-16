@@ -1,11 +1,11 @@
 id: 1280009445
-type: way
+type: node
 latitude: 39.15965
 longitude: -76.62758
 postcode: "21061"
 city: Glen Burnie
-street: "Crain Highway South"
-housenumber: 401
-phone: "+1-410-766-6877"
+street: Crain Highway South
+housenumber: "401"
+phone: +1-410-766-6877
 opening_hours: ""
-website: "https://evergreengenes.com/"
+website: https://evergreengenes.com/

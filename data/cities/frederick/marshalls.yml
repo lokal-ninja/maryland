@@ -1,11 +1,11 @@
 id: 165268363
-type: way
+type: node
 latitude: 39.44673
 longitude: -77.40013
 postcode: "21701"
 city: Frederick
-street: "Wormans Mill Road"
-housenumber: 7840
-phone: "(301) 631-9049"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com/"
+street: Wormans Mill Road
+housenumber: "7840"
+phone: (301) 631-9049
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com/

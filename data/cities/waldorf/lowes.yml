@@ -1,11 +1,11 @@
 id: 225875339
-type: way
+type: node
 latitude: 38.6436
 longitude: -76.89553
 postcode: "20601"
 city: Waldorf
-street: "Crain Highway"
-housenumber: 2525
-phone: "+1 301-843-9900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0402"
+street: Crain Highway
+housenumber: "2525"
+phone: +1 301-843-9900
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0402

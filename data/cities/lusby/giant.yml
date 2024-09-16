@@ -1,11 +1,11 @@
 id: 438914304
-type: way
+type: node
 latitude: 38.37438
 longitude: -76.44302
 postcode: ""
 city: Lusby
-street: "Rousby Hall Road"
-housenumber: 11740
-phone: "+1 410-394-2160"
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/lusby/11740-rousby-hall-road"
+street: Rousby Hall Road
+housenumber: "11740"
+phone: +1 410-394-2160
+opening_hours: Mo-Sa 06:00-23:00; Su 06:00-22:00
+website: https://stores.giantfood.com/md/lusby/11740-rousby-hall-road

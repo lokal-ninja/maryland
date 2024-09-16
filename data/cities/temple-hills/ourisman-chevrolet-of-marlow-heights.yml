@@ -1,11 +1,11 @@
 id: 615318711
-type: way
+type: node
 latitude: 38.83229
 longitude: -76.93361
 postcode: "20748"
 city: Temple Hills
-street: "Branch Avenue"
-housenumber: 4400
+street: Branch Avenue
+housenumber: "4400"
 phone: ""
 opening_hours: ""
-website: "https://www.ourismanchevrolet.com"
+website: https://www.ourismanchevrolet.com

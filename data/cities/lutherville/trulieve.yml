@@ -1,11 +1,11 @@
 id: 144312984
-type: way
+type: node
 latitude: 39.42217
 longitude: -76.61769
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1526
-phone: "+1-443-486-3643"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off"
-website: "https://www.trulieve.com/dispensaries/lutherville-md"
+street: York Road
+housenumber: "1526"
+phone: +1-443-486-3643
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00; PH off
+website: https://www.trulieve.com/dispensaries/lutherville-md

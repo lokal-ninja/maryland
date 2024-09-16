@@ -1,11 +1,11 @@
 id: 1008215060
-type: way
+type: node
 latitude: 39.11661
 longitude: -76.68118
 postcode: "21144"
 city: Severn
-street: "Quarterfield Road"
-housenumber: 8290
-phone: "+1-410-519-8290"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00"
+street: Quarterfield Road
+housenumber: "8290"
+phone: +1-410-519-8290
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 336187130
-type: way
+type: node
 latitude: 39.3628
 longitude: -76.55216
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 6615
-phone: "+1-410-982-9995"
+street: Harford Road
+housenumber: "6615"
+phone: +1-410-982-9995
 opening_hours: ""
-website: "https://www.justbrittlez.com/"
+website: https://www.justbrittlez.com/

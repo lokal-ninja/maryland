@@ -1,11 +1,11 @@
 id: 188579017
-type: way
+type: node
 latitude: 39.29682
 longitude: -76.56695
 postcode: "21224"
 city: Baltimore
-street: "Pulaski Highway"
-housenumber: 3700
+street: Pulaski Highway
+housenumber: "3700"
 phone: ""
 opening_hours: ""
 website: ""

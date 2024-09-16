@@ -1,11 +1,11 @@
 id: 216249929
-type: way
+type: node
 latitude: 39.12877
 longitude: -76.73557
 postcode: "21144"
 city: Severn
-street: "Baltimore Annapolis Boulevard"
-housenumber: 2602
+street: Baltimore Annapolis Boulevard
+housenumber: "2602"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 317135338
-type: way
+type: node
 latitude: 39.43496
 longitude: -76.31292
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 1955
-phone: "+1-410-612-9020"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-19:00; PH off"
-website: "http://mythriftys.com"
+street: Pulaski Highway
+housenumber: "1955"
+phone: +1-410-612-9020
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-19:00; PH off
+website: http://mythriftys.com

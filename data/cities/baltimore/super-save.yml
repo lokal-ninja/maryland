@@ -1,11 +1,11 @@
 id: 336277156
-type: way
+type: node
 latitude: 39.29872
 longitude: -76.58754
 postcode: "21205"
 city: Baltimore
-street: "East Monument Street"
-housenumber: 2100
+street: East Monument Street
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 777391914
-type: way
+type: node
 latitude: 39.50488
 longitude: -76.38664
 postcode: "21047"
 city: Fallston
-street: "Harford Road"
-housenumber: 1805
-phone: "+1-443-686-9822"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-15:00; Su off; PH off"
-website: "https://toolbeltconsignments.com/"
+street: Harford Road
+housenumber: "1805"
+phone: +1-443-686-9822
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 09:00-15:00; Su off; PH off
+website: https://toolbeltconsignments.com/

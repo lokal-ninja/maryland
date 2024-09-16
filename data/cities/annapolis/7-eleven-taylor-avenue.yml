@@ -1,11 +1,11 @@
 id: 357004912
-type: way
+type: node
 latitude: 38.98883
 longitude: -76.50157
 postcode: "21401"
 city: Annapolis
-street: "Taylor Avenue"
-housenumber: 611
-phone: "+1 410-267-7329"
+street: Taylor Avenue
+housenumber: "611"
+phone: +1 410-267-7329
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/annapolis/611-taylor-ave-11546"
+website: https://www.7-eleven.com/locations/md/annapolis/611-taylor-ave-11546

@@ -1,11 +1,11 @@
 id: 336417980
-type: way
+type: node
 latitude: 39.33086
 longitude: -76.63532
 postcode: "21211"
 city: Baltimore
-street: "West 36th Street"
-housenumber: 1200
-phone: "+1 410 235 1159"
+street: West 36th Street
+housenumber: "1200"
+phone: +1 410 235 1159
 opening_hours: ""
 website: ""

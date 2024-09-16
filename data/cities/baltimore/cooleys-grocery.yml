@@ -1,11 +1,11 @@
 id: 336254657
-type: way
+type: node
 latitude: 39.30101
 longitude: -76.57836
 postcode: "21205"
 city: Baltimore
-street: "Ashland Avenue"
-housenumber: 2739
+street: Ashland Avenue
+housenumber: "2739"
 phone: ""
 opening_hours: ""
 website: ""

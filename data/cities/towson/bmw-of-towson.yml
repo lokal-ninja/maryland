@@ -1,11 +1,11 @@
 id: 184365185
-type: way
+type: node
 latitude: 39.41116
 longitude: -76.61708
 postcode: "21204"
 city: Towson
-street: "Kenilworth Drive"
-housenumber: 700
+street: Kenilworth Drive
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.bmwtowson.com/"
+website: https://www.bmwtowson.com/

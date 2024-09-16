@@ -1,11 +1,11 @@
 id: 719516244
-type: way
+type: node
 latitude: 39.59439
 longitude: -76.32268
 postcode: "21014"
 city: Bel Air
-street: "Conowingo Road"
-housenumber: 2500
-phone: "+1-410-420-9735"
-opening_hours: "Mo,Su off; Tu-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "http://roomswithaviewllc.com"
+street: Conowingo Road
+housenumber: "2500"
+phone: +1-410-420-9735
+opening_hours: Mo,Su off; Tu-Fr 10:00-17:00; Sa 10:00-14:00
+website: http://roomswithaviewllc.com

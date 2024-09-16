@@ -1,11 +1,11 @@
 id: 151074761
-type: way
+type: node
 latitude: 39.24903
 longitude: -76.67365
 postcode: "21227"
 city: Halethorpe
-street: "Commerce Drive"
-housenumber: 3750
-phone: "+1 410-247-8044"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/lansdowne/md/halethorpe/21227/2579"
+street: Commerce Drive
+housenumber: "3750"
+phone: +1 410-247-8044
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/lansdowne/md/halethorpe/21227/2579

@@ -1,11 +1,11 @@
 id: 210475964
-type: way
+type: node
 latitude: 39.37474
 longitude: -76.69051
 postcode: "21209"
 city: Baltimore
-street: "Smith Avenue"
-housenumber: 2801
-phone: "+1 410-413-5240"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/baltimore/2801-smith-ave.html"
+street: Smith Avenue
+housenumber: "2801"
+phone: +1 410-413-5240
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/baltimore/2801-smith-ave.html

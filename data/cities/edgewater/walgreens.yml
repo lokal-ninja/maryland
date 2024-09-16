@@ -1,11 +1,11 @@
 id: 232085673
-type: way
+type: node
 latitude: 38.93118
 longitude: -76.56645
 postcode: "21037"
 city: Edgewater
-street: "Mitchells Chance Road"
-housenumber: 110
-phone: "+1 410 956 9411"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-110+mitchells+chance+rd-edgewater-md-21037/id=17944"
+street: Mitchells Chance Road
+housenumber: "110"
+phone: +1 410 956 9411
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-110+mitchells+chance+rd-edgewater-md-21037/id=17944

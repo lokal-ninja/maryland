@@ -1,11 +1,11 @@
 id: 154002501
-type: way
+type: node
 latitude: 38.4113
 longitude: -75.57012
 postcode: "21801"
 city: Salisbury
-street: "North Salisbury Boulevard"
-housenumber: 2606
-phone: "+1 410-546-6300"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "stores.lowes.com/lowes/cgi/site?site=0424"
+street: North Salisbury Boulevard
+housenumber: "2606"
+phone: +1 410-546-6300
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: stores.lowes.com/lowes/cgi/site?site=0424

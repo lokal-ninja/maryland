@@ -1,11 +1,11 @@
 id: 483763471
-type: way
+type: node
 latitude: 39.49681
 longitude: -76.3282
 postcode: "21015"
 city: Bel Air
-street: "Bel Air South Parkway"
-housenumber: 5
-phone: "410-569-3900"
+street: Bel Air South Parkway
+housenumber: "5"
+phone: 410-569-3900
 opening_hours: ""
-website: "https://lacrosseunlimited.com/bel-air-md"
+website: https://lacrosseunlimited.com/bel-air-md

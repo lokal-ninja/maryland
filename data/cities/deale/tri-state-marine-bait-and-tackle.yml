@@ -1,11 +1,11 @@
 id: 247070122
-type: way
+type: node
 latitude: 38.77908
 longitude: -76.55965
 postcode: "20751"
 city: Deale
-street: "Deale Road"
-housenumber: 485
-phone: "+1-410-867-2398"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.tristatemarine.com/bait-and-tackle-shop"
+street: Deale Road
+housenumber: "485"
+phone: +1-410-867-2398
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.tristatemarine.com/bait-and-tackle-shop

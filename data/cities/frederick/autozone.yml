@@ -1,11 +1,11 @@
 id: 239530109
-type: way
+type: node
 latitude: 39.39211
 longitude: -77.40897
 postcode: "21704"
 city: Frederick
-street: "Buckeystown Pike"
-housenumber: 5719
-phone: "+1 301-378-7495"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/md/frederick/5719-buckeystown-pike.html"
+street: Buckeystown Pike
+housenumber: "5719"
+phone: +1 301-378-7495
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/md/frederick/5719-buckeystown-pike.html

@@ -1,11 +1,11 @@
 id: 193985300
-type: way
+type: node
 latitude: 39.63443
 longitude: -78.76397
 postcode: "21502"
 city: Cumberland
-street: "Virginia Avenue"
-housenumber: 429
-phone: "+1 301-722-1071"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/129"
+street: Virginia Avenue
+housenumber: "429"
+phone: +1 301-722-1071
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/129

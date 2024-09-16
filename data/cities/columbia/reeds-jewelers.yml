@@ -1,11 +1,11 @@
 id: 1218920793
-type: way
+type: node
 latitude: 39.21472
 longitude: -76.8603
 postcode: "21044"
 city: Columbia
-street: "Little Patuxent Parkway"
-housenumber: 10300
-phone: "(410) 740-4922"
+street: Little Patuxent Parkway
+housenumber: "10300"
+phone: (410) 740-4922
 opening_hours: ""
-website: "https://www.reeds.com/"
+website: https://www.reeds.com/

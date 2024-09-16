@@ -1,11 +1,11 @@
 id: 277700934
-type: way
+type: node
 latitude: 39.26154
 longitude: -76.68736
 postcode: "21229"
 city: Baltimore
-street: "Southwestern Boulevard"
-housenumber: 4315
-phone: "410-242-4300"
+street: Southwestern Boulevard
+housenumber: "4315"
+phone: 410-242-4300
 opening_hours: ""
-website: "https://arbutusbiz.com/biz-listings/arbutus-automotive/"
+website: https://arbutusbiz.com/biz-listings/arbutus-automotive/

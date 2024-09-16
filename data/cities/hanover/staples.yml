@@ -1,11 +1,11 @@
 id: 319959329
-type: way
+type: node
 latitude: 39.15193
 longitude: -76.72854
 postcode: "21076"
 city: Hanover
-street: "Arundel Mills Boulevard"
-housenumber: 7661
+street: Arundel Mills Boulevard
+housenumber: "7661"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/md/hanover/7661-arundel-mills-blvd"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/md/hanover/7661-arundel-mills-blvd

@@ -1,11 +1,11 @@
 id: 180417844
-type: way
+type: node
 latitude: 39.07736
 longitude: -76.5433
 postcode: ""
 city: Severna Park
-street: "Gov Ritchie Highway"
-housenumber: 573
-phone: "+1 410-544-4619"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/severna-park/573-gov-ritchie-hwy"
+street: Gov Ritchie Highway
+housenumber: "573"
+phone: +1 410-544-4619
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/severna-park/573-gov-ritchie-hwy

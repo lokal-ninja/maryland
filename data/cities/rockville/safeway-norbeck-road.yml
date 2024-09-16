@@ -1,11 +1,11 @@
 id: 110611600
-type: way
+type: node
 latitude: 39.0945
 longitude: -77.11078
 postcode: "20853"
 city: Rockville
-street: "Norbeck Road"
-housenumber: 5510
-phone: "+1 301-438-4020"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/rockville/5510-norbeck-rd.html"
+street: Norbeck Road
+housenumber: "5510"
+phone: +1 301-438-4020
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/rockville/5510-norbeck-rd.html

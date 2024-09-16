@@ -1,11 +1,11 @@
 id: 298914142
-type: way
+type: node
 latitude: 39.33284
 longitude: -76.44359
 postcode: "21220"
 city: Middle River
-street: "Martin Boulevard"
-housenumber: 1501
+street: Martin Boulevard
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

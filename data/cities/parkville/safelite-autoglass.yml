@@ -1,11 +1,11 @@
 id: 298713700
-type: way
+type: node
 latitude: 39.3754
 longitude: -76.54163
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 7920
+street: Harford Road
+housenumber: "7920"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00; Su off"
-website: "https://www.safelite.com/stores/parkville"
+opening_hours: Mo-Sa 08:00-17:00; Su off
+website: https://www.safelite.com/stores/parkville

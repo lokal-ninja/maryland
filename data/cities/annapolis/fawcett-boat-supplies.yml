@@ -1,11 +1,11 @@
 id: 435702619
-type: way
+type: node
 latitude: 38.94805
 longitude: -76.48994
 postcode: "21403"
 city: Annapolis
-street: "Bay Ridge Road"
-housenumber: 919
+street: Bay Ridge Road
+housenumber: "919"
 phone: "+14102370507"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-17:00"
-website: "https://www.fawcettboat.com/"
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-17:00
+website: https://www.fawcettboat.com/

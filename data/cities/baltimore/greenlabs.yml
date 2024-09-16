@@ -1,11 +1,11 @@
 id: 336308237
-type: way
+type: node
 latitude: 39.28573
 longitude: -76.59592
 postcode: "21231"
 city: Baltimore
-street: "Eastern Avenue"
-housenumber: 1522
+street: Eastern Avenue
+housenumber: "1522"
 phone: ""
 opening_hours: ""
 website: ""

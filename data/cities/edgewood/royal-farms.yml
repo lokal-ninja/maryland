@@ -1,11 +1,11 @@
 id: 544005395
-type: way
+type: node
 latitude: 39.44752
 longitude: -76.30015
 postcode: "21040"
 city: Edgewood
-street: "Philadelphia Road"
-housenumber: 2603
+street: Philadelphia Road
+housenumber: "2603"
 phone: ""
 opening_hours: ""
 website: ""

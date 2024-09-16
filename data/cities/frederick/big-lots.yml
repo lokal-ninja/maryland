@@ -1,11 +1,11 @@
 id: 733379597
-type: way
+type: node
 latitude: 39.41741
 longitude: -77.4572
 postcode: "21703"
 city: Frederick
-street: "West Patrick Street"
-housenumber: 1308
-phone: "+1 240-575-3234"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/md/frederick/1308-w-patrick-st"
+street: West Patrick Street
+housenumber: "1308"
+phone: +1 240-575-3234
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/md/frederick/1308-w-patrick-st

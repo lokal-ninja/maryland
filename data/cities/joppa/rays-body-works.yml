@@ -1,11 +1,11 @@
 id: 669634575
-type: way
+type: node
 latitude: 39.43412
 longitude: -76.33788
 postcode: "21085"
 city: Joppa
-street: "Mountain Road"
-housenumber: 1113
-phone: "410-679-2442"
+street: Mountain Road
+housenumber: "1113"
+phone: 410-679-2442
 opening_hours: ""
-website: "http://www.raysbodyworks.com/"
+website: http://www.raysbodyworks.com/

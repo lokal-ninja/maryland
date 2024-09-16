@@ -1,11 +1,11 @@
 id: 218814806
-type: way
+type: node
 latitude: 39.31368
 longitude: -76.74974
 postcode: "21244"
 city: Windsor Mill
-street: "Belmont Avenue"
-housenumber: 1601
+street: Belmont Avenue
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

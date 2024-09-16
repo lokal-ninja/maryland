@@ -1,11 +1,11 @@
 id: 669634566
-type: way
+type: node
 latitude: 39.43191
 longitude: -76.33987
 postcode: "21085"
 city: Joppa
-street: "Pulaski Highway"
-housenumber: 1008
-phone: "+1-410-388-0505"
+street: Pulaski Highway
+housenumber: "1008"
+phone: +1-410-388-0505
 opening_hours: ""
-website: "https://www.carpointsales.com/"
+website: https://www.carpointsales.com/

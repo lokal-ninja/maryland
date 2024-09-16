@@ -1,11 +1,11 @@
 id: 571368086
-type: way
+type: node
 latitude: 39.54389
 longitude: -76.09745
 postcode: "21078"
 city: Havre de Grace
-street: "Revolution Street"
-housenumber: 801
-phone: "+1 410-942-0411"
-opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00"
-website: "https://www.ezquick801.com"
+street: Revolution Street
+housenumber: "801"
+phone: +1 410-942-0411
+opening_hours: Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00
+website: https://www.ezquick801.com

@@ -1,11 +1,11 @@
 id: 75316728
-type: way
+type: node
 latitude: 39.45512
 longitude: -76.63301
 postcode: "21093"
 city: Lutherville-Timonium
-street: "York Road"
-housenumber: 2420
+street: York Road
+housenumber: "2420"
 phone: ""
 opening_hours: ""
 website: ""

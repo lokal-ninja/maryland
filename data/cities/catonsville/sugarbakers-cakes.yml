@@ -1,11 +1,11 @@
 id: 185219339
-type: way
+type: node
 latitude: 39.27187
 longitude: -76.73341
 postcode: "21228"
 city: Catonsville
-street: "Frederick Road"
-housenumber: 752
+street: Frederick Road
+housenumber: "752"
 phone: ""
 opening_hours: ""
 website: ""

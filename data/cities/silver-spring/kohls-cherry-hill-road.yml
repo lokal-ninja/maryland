@@ -1,11 +1,11 @@
 id: 129998926
-type: way
+type: node
 latitude: 39.0545
 longitude: -76.95703
 postcode: "20904"
 city: Silver Spring
-street: "Cherry Hill Road"
-housenumber: 12024
-phone: "+1 301-572-5576"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/md/silverspring-315.shtml"
+street: Cherry Hill Road
+housenumber: "12024"
+phone: +1 301-572-5576
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/md/silverspring-315.shtml

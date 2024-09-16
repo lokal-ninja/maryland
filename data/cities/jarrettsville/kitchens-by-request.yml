@@ -1,11 +1,11 @@
 id: 758567910
-type: way
+type: node
 latitude: 39.60332
 longitude: -76.4778
 postcode: "21084"
 city: Jarrettsville
-street: "Baldwin Mill Road"
-housenumber: 1115
-phone: "+1-410-557-6957"
+street: Baldwin Mill Road
+housenumber: "1115"
+phone: +1-410-557-6957
 opening_hours: ""
-website: "https://www.kitchensbyrequest.com/"
+website: https://www.kitchensbyrequest.com/

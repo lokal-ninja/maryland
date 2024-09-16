@@ -1,11 +1,11 @@
 id: 336463898
-type: way
+type: node
 latitude: 39.36944
 longitude: -76.64921
 postcode: "21209"
 city: Baltimore
-street: "Falls Road"
-housenumber: 5910
+street: Falls Road
+housenumber: "5910"
 phone: ""
 opening_hours: ""
 website: ""

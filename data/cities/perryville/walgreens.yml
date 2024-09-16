@@ -1,11 +1,11 @@
 id: 701473541
-type: way
+type: node
 latitude: 39.57098
 longitude: -76.06888
 postcode: "21903"
 city: Perryville
-street: "Pulaski Highway"
-housenumber: 5319
-phone: "+1-410-642-0003"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-22:00; Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-5319+PULASKI+HWY-Perryville-MD-21903/id=11054"
+street: Pulaski Highway
+housenumber: "5319"
+phone: +1-410-642-0003
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-22:00; Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-5319+PULASKI+HWY-Perryville-MD-21903/id=11054

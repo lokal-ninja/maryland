@@ -1,11 +1,11 @@
 id: 483763431
-type: way
+type: node
 latitude: 39.49736
 longitude: -76.3267
 postcode: "21015"
 city: Bel Air
-street: "Bel Air South Parkway"
-housenumber: 5
+street: Bel Air South Parkway
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/md/bel-air/966/festival-at-bel-air-gamestop"
+website: https://www.gamestop.com/store/us/md/bel-air/966/festival-at-bel-air-gamestop

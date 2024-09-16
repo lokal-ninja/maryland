@@ -1,11 +1,11 @@
 id: 298916294
-type: way
+type: node
 latitude: 39.3047
 longitude: -76.48537
 postcode: "21221"
 city: Essex
-street: "Riverside Road"
-housenumber: 2
-phone: "+1 443 790 7589"
+street: Riverside Road
+housenumber: "2"
+phone: +1 443 790 7589
 opening_hours: ""
 website: ""

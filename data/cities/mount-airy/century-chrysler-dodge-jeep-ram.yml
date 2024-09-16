@@ -1,11 +1,11 @@
 id: 231519851
-type: way
+type: node
 latitude: 39.36788
 longitude: -77.14373
 postcode: "21771"
 city: Mount Airy
-street: "Century Drive"
-housenumber: 402
+street: Century Drive
+housenumber: "402"
 phone: ""
 opening_hours: ""
-website: "https://www.centurycdjr.com/"
+website: https://www.centurycdjr.com/

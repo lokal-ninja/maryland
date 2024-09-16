@@ -1,11 +1,11 @@
 id: 1108842109
-type: way
+type: node
 latitude: 38.38277
 longitude: -76.95672
 postcode: "20664"
 city: Newburg
-street: "Crain Highway"
-housenumber: 12005
+street: Crain Highway
+housenumber: "12005"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 144312966
-type: way
+type: node
 latitude: 39.42818
 longitude: -76.6192
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1717
-phone: "+1 410-561-2260"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/md/timonium/1717-york-rd-149.html"
+street: York Road
+housenumber: "1717"
+phone: +1 410-561-2260
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/md/timonium/1717-york-rd-149.html

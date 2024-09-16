@@ -1,11 +1,11 @@
 id: 411893543
-type: way
+type: node
 latitude: 39.52766
 longitude: -76.36169
 postcode: "21014"
 city: Bel Air
-street: "Gateway Drive"
-housenumber: 200
-phone: "+1-410-879-1079"
+street: Gateway Drive
+housenumber: "200"
+phone: +1-410-879-1079
 opening_hours: ""
-website: "https://musiclandstore.com/"
+website: https://musiclandstore.com/

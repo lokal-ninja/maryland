@@ -4,8 +4,8 @@ latitude: 38.94905
 longitude: -76.49223
 postcode: "21403"
 city: Annapolis
-street: "Hillsmere Drive"
-housenumber: 111
-phone: "+1 410-268-1961"
-opening_hours: "09:00-21:00"
-website: "https://bayridgewine.com"
+street: Hillsmere Drive
+housenumber: "111"
+phone: +1 410-268-1961
+opening_hours: 09:00-21:00
+website: https://bayridgewine.com

@@ -1,11 +1,11 @@
 id: 237056854
-type: way
+type: node
 latitude: 39.03988
 longitude: -76.68028
 postcode: "21054"
 city: Gambrills
-street: "Chapel Lake Drive"
-housenumber: 2644
-phone: "+1 410-451-4750"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/gambrills/2644-chapel-lake-dr.html"
+street: Chapel Lake Drive
+housenumber: "2644"
+phone: +1 410-451-4750
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/gambrills/2644-chapel-lake-dr.html

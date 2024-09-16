@@ -1,11 +1,11 @@
 id: 299144220
-type: way
+type: node
 latitude: 39.27922
 longitude: -76.50532
 postcode: "21222"
 city: Dundalk
-street: "Merritt Boulevard"
-housenumber: 1318
+street: Merritt Boulevard
+housenumber: "1318"
 phone: ""
 opening_hours: ""
 website: ""

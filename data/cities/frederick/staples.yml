@@ -1,11 +1,11 @@
 id: 164660011
-type: way
+type: node
 latitude: 39.43108
 longitude: -77.42021
 postcode: "21702"
 city: Frederick
-street: "West 7th Street"
-housenumber: 1305
+street: West 7th Street
+housenumber: "1305"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://stores.staples.com/md/frederick/1305-west-7th-street"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 11:00-18:00
+website: https://stores.staples.com/md/frederick/1305-west-7th-street

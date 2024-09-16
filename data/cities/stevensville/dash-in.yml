@@ -1,11 +1,11 @@
 id: 193202631
-type: way
+type: node
 latitude: 38.97575
 longitude: -76.3099
 postcode: "21666"
 city: Stevensville
-street: "Thompson Creek Road"
-housenumber: 401
-phone: "+1 410-604-2193"
-opening_hours: "24/7"
-website: "https://locations.dashin.com/l/md/dash-in-401-thompson-creek-road-21666/3153103/"
+street: Thompson Creek Road
+housenumber: "401"
+phone: +1 410-604-2193
+opening_hours: 24/7
+website: https://locations.dashin.com/l/md/dash-in-401-thompson-creek-road-21666/3153103/

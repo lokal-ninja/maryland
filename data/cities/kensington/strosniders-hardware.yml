@@ -1,11 +1,11 @@
 id: 220667725
-type: way
+type: node
 latitude: 39.02826
 longitude: -77.07767
 postcode: "20895"
 city: Kensington
-street: "Connecticut Avenue"
-housenumber: 10504
-phone: "+1 301-933-2207"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 08:00-18:00"
+street: Connecticut Avenue
+housenumber: "10504"
+phone: +1 301-933-2207
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-19:00; Su 08:00-18:00
 website: ""

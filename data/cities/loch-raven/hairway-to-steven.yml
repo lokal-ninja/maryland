@@ -1,11 +1,11 @@
 id: 239211843
-type: way
+type: node
 latitude: 39.39954
 longitude: -76.60211
 postcode: "21286"
 city: Loch Raven
-street: "East Chesapeake Avenue"
-housenumber: 11
+street: East Chesapeake Avenue
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

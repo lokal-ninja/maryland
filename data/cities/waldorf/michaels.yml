@@ -2,10 +2,10 @@ id: 3570556005
 type: node
 latitude: 38.62834
 longitude: -76.91132
-postcode: "20601-2958"
+postcode: 20601-2958
 city: Waldorf
-street: "Festival Way"
-housenumber: 3026
-phone: "+1 301-638-5669"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/md/waldorf/8810"
+street: Festival Way
+housenumber: "3026"
+phone: +1 301-638-5669
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/md/waldorf/8810

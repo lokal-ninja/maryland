@@ -1,11 +1,11 @@
 id: 1009758128
-type: way
+type: node
 latitude: 39.5941
 longitude: -78.83072
 postcode: "21502"
 city: Cresaptown
-street: "McMullen Highway Southwest"
-housenumber: 14606
-phone: "+1 301-729-0679"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/46"
+street: McMullen Highway Southwest
+housenumber: "14606"
+phone: +1 301-729-0679
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/46

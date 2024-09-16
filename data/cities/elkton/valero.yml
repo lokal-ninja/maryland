@@ -1,11 +1,11 @@
 id: 935132601
-type: way
+type: node
 latitude: 39.61336
 longitude: -75.83782
 postcode: "21921"
 city: Elkton
-street: "North Bridge Street"
-housenumber: 407
+street: North Bridge Street
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

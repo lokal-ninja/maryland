@@ -1,11 +1,11 @@
 id: 759079016
-type: way
+type: node
 latitude: 39.60358
 longitude: -75.83046
 postcode: "21921"
 city: Elkton
-street: "South Bridge Street"
-housenumber: 218
-phone: "+1-443-406-7676"
-opening_hours: "Mo-Sa 09:00-19:00; Su off; PH off"
-website: "https://www.judgeautogroup.com/"
+street: South Bridge Street
+housenumber: "218"
+phone: +1-443-406-7676
+opening_hours: Mo-Sa 09:00-19:00; Su off; PH off
+website: https://www.judgeautogroup.com/

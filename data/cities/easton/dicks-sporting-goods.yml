@@ -1,11 +1,11 @@
 id: 503829594
-type: way
+type: node
 latitude: 38.78374
 longitude: -76.08456
 postcode: "21601"
 city: Easton
-street: "Marlboro Avenue"
-housenumber: 28564
-phone: "+1 410-200-9560"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/md/easton/1096/"
+street: Marlboro Avenue
+housenumber: "28564"
+phone: +1 410-200-9560
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/md/easton/1096/

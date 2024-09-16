@@ -1,11 +1,11 @@
 id: 642306770
-type: way
+type: node
 latitude: 39.65025
 longitude: -77.71729
 postcode: "21740"
 city: Hagerstown
-street: "Charles Street"
-housenumber: 100
+street: Charles Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "http://www.restorehagerstown.org/"
+website: http://www.restorehagerstown.org/

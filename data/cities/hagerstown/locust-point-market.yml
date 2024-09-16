@@ -1,11 +1,11 @@
 id: 641980946
-type: way
+type: node
 latitude: 39.63491
 longitude: -77.72275
 postcode: "21740"
 city: Hagerstown
-street: "South Locust Street"
-housenumber: 360
+street: South Locust Street
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

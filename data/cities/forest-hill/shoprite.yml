@@ -1,11 +1,11 @@
 id: 658984223
-type: way
+type: node
 latitude: 39.57551
 longitude: -76.38462
 postcode: "21050"
 city: Forest Hill
-street: "Rock Spring Road"
-housenumber: 2101
-phone: "+1 410-420-8220"
-opening_hours: "06:00-22:00"
-website: "https://www.shoprite.com"
+street: Rock Spring Road
+housenumber: "2101"
+phone: +1 410-420-8220
+opening_hours: 06:00-22:00
+website: https://www.shoprite.com

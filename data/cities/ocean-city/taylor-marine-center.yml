@@ -1,11 +1,11 @@
 id: 311523348
-type: way
+type: node
 latitude: 38.33703
 longitude: -75.14322
 postcode: ""
 city: Ocean City
-street: "Ocean Gateway"
-housenumber: 11850
-phone: "+1-410-213-1391"
+street: Ocean Gateway
+housenumber: "11850"
+phone: +1-410-213-1391
 opening_hours: ""
-website: "https://www.taylormarinecenter.com/"
+website: https://www.taylormarinecenter.com/

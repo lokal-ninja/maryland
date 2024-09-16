@@ -1,11 +1,11 @@
 id: 82134729
-type: way
+type: node
 latitude: 39.49208
 longitude: -76.64821
 postcode: "21030"
 city: Cockeysville
-street: "York Road"
-housenumber: 11201
+street: York Road
+housenumber: "11201"
 phone: ""
 opening_hours: ""
 website: ""

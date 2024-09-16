@@ -1,11 +1,11 @@
 id: 1302103879
-type: way
+type: node
 latitude: 39.57473
 longitude: -76.9833
 postcode: "21157"
 city: Westminster
-street: "North Center Street"
-housenumber: 385
-phone: "+1-410-857-9999"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-16:00"
-website: "https://www.jiffylube.com/locations/md/westminster/1307"
+street: North Center Street
+housenumber: "385"
+phone: +1-410-857-9999
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-16:00
+website: https://www.jiffylube.com/locations/md/westminster/1307

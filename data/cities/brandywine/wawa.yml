@@ -1,11 +1,11 @@
 id: 101550856
-type: way
+type: node
 latitude: 38.66472
 longitude: -76.87592
 postcode: "20613"
 city: Brandywine
-street: "McKendree Road"
-housenumber: 16410
+street: McKendree Road
+housenumber: "16410"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/580"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/580

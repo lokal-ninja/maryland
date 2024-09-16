@@ -1,11 +1,11 @@
 id: 298918678
-type: way
+type: node
 latitude: 39.33328
 longitude: -76.43318
 postcode: "21220"
 city: Middle River
-street: "Eastern Boulevard"
-housenumber: 2333
+street: Eastern Boulevard
+housenumber: "2333"
 phone: ""
 opening_hours: ""
 website: ""

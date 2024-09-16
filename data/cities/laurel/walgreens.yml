@@ -1,11 +1,11 @@
 id: 252570658
-type: way
+type: node
 latitude: 39.09877
 longitude: -76.84863
 postcode: "20707"
 city: Laurel
-street: "Washington Boulevard"
-housenumber: 600
+street: Washington Boulevard
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-600+washington+blvd+s-laurel-md-20707/id=15185"
+website: https://www.walgreens.com/locator/walgreens-600+washington+blvd+s-laurel-md-20707/id=15185

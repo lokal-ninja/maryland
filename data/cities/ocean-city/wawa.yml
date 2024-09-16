@@ -1,11 +1,11 @@
 id: 230831117
-type: way
+type: node
 latitude: 38.42648
 longitude: -75.05668
 postcode: "21842"
 city: Ocean City
-street: "Coastal Highway"
-housenumber: 12001
+street: Coastal Highway
+housenumber: "12001"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/"
+opening_hours: 24/7
+website: https://www.wawa.com/

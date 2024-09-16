@@ -1,11 +1,11 @@
 id: 209115136
-type: way
+type: node
 latitude: 39.35558
 longitude: -76.70816
 postcode: "21215"
 city: Baltimore
-street: "Vincent Lane"
-housenumber: 6620
-phone: "+1 410-358-4046"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/reisterstown/md/baltimore/21215/2584"
+street: Vincent Lane
+housenumber: "6620"
+phone: +1 410-358-4046
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/reisterstown/md/baltimore/21215/2584

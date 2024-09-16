@@ -1,11 +1,11 @@
 id: 135994234
-type: way
+type: node
 latitude: 39.18316
 longitude: -76.81759
 postcode: "21046"
 city: Columbia
-street: "Snowden Square Drive"
-housenumber: 9041
-phone: "+1 410-312-0950"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/md/columbia-store0361.html"
+street: Snowden Square Drive
+housenumber: "9041"
+phone: +1 410-312-0950
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/md/columbia-store0361.html

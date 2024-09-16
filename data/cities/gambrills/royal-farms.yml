@@ -1,11 +1,11 @@
 id: 265351066
-type: way
+type: node
 latitude: 39.02416
 longitude: -76.69228
 postcode: "21054"
 city: Gambrills
-street: "Robert Crain Highway"
-housenumber: 1114
-phone: "+1 443 292 7133"
+street: Robert Crain Highway
+housenumber: "1114"
+phone: +1 443 292 7133
 opening_hours: ""
 website: ""

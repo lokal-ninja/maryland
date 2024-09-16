@@ -1,11 +1,11 @@
 id: 400692678
-type: way
+type: node
 latitude: 39.17269
 longitude: -76.78506
 postcode: "21075"
 city: Elkridge
-street: "Washington Boulevard"
-housenumber: 7894
+street: Washington Boulevard
+housenumber: "7894"
 phone: ""
 opening_hours: ""
 website: ""

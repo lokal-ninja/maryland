@@ -1,11 +1,11 @@
 id: 175291460
-type: way
+type: node
 latitude: 39.12909
 longitude: -76.82316
 postcode: "20723"
 city: Laurel
-street: "Freestate Drive"
-housenumber: 8801
+street: Freestate Drive
+housenumber: "8801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 336310227
-type: way
+type: node
 latitude: 39.28503
 longitude: -76.59633
 postcode: "21231"
 city: Baltimore
-street: "South Caroline Street"
-housenumber: 511
+street: South Caroline Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

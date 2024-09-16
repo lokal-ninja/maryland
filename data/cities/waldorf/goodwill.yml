@@ -1,11 +1,11 @@
 id: 314363274
-type: way
+type: node
 latitude: 38.64369
 longitude: -76.89507
 postcode: "20601"
 city: Waldorf
-street: "Crain Highway"
-housenumber: 2495
+street: Crain Highway
+housenumber: "2495"
 phone: ""
 opening_hours: ""
 website: ""

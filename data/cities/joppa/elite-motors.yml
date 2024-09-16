@@ -1,11 +1,11 @@
 id: 669634577
-type: way
+type: node
 latitude: 39.43521
 longitude: -76.34158
 postcode: "21085"
 city: Joppa
-street: "Old Mountain Road South"
-housenumber: 1203
-phone: "410-803-4448"
+street: Old Mountain Road South
+housenumber: "1203"
+phone: 410-803-4448
 opening_hours: ""
-website: "https://www.elitemotorsforless.com/"
+website: https://www.elitemotorsforless.com/

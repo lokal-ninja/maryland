@@ -1,11 +1,11 @@
 id: 584306698
-type: way
+type: node
 latitude: 39.4826
 longitude: -77.25489
 postcode: "21701"
 city: Frederick
-street: "Liberty Road"
-housenumber: 11802
+street: Liberty Road
+housenumber: "11802"
 phone: ""
 opening_hours: ""
-website: "https://www.hartzlerfuneralhome.com"
+website: https://www.hartzlerfuneralhome.com

@@ -1,11 +1,11 @@
 id: 337535828
-type: way
+type: node
 latitude: 39.287
 longitude: -76.53849
 postcode: "21224"
 city: Baltimore
-street: "Eastern Avenue"
-housenumber: 6315
-phone: "+1 410-631-4440"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/dundalk/md/baltimore/21224/2505"
+street: Eastern Avenue
+housenumber: "6315"
+phone: +1 410-631-4440
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/dundalk/md/baltimore/21224/2505

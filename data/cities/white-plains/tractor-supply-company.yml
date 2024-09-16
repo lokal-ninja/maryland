@@ -1,11 +1,11 @@
 id: 351280901
-type: way
+type: node
 latitude: 38.5941
 longitude: -76.9378
 postcode: "20695"
 city: White Plains
-street: "Wawa Lane"
-housenumber: 10795
-phone: "+1 301-632-2266"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Wawa Lane
+housenumber: "10795"
+phone: +1 301-632-2266
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

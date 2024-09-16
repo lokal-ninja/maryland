@@ -1,11 +1,11 @@
 id: 204648887
-type: way
+type: node
 latitude: 39.46585
 longitude: -76.63406
 postcode: "21030"
 city: Cockeysville
-street: "Cranbrook Road"
-housenumber: 122
+street: Cranbrook Road
+housenumber: "122"
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/"
+website: https://www.riteaid.com/

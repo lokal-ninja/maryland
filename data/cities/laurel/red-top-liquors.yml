@@ -1,11 +1,11 @@
 id: 891338652
-type: way
+type: node
 latitude: 38.5222
 longitude: -75.6982
 postcode: "19956"
 city: Laurel
-street: "Sharptown Road"
-housenumber: 3061
+street: Sharptown Road
+housenumber: "3061"
 phone: ""
 opening_hours: ""
 website: ""

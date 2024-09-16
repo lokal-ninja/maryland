@@ -1,11 +1,11 @@
 id: 628459350
-type: way
+type: node
 latitude: 39.53734
 longitude: -76.35149
 postcode: "21014"
 city: Bel Air
-street: "North Bond Street"
-housenumber: 101
-phone: "410-879-8818"
+street: North Bond Street
+housenumber: "101"
+phone: 410-879-8818
 opening_hours: ""
-website: "http://www.fisherautoparts.com/"
+website: http://www.fisherautoparts.com/

@@ -1,11 +1,11 @@
 id: 299310089
-type: way
+type: node
 latitude: 39.27266
 longitude: -76.73549
 postcode: "21228"
 city: Catonsville
-street: "Melrose Avenue"
-housenumber: 117
-phone: "443-604-3625"
+street: Melrose Avenue
+housenumber: "117"
+phone: 443-604-3625
 opening_hours: ""
-website: "catonsvillemassage.com"
+website: catonsvillemassage.com

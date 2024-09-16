@@ -1,11 +1,11 @@
 id: 224922234
-type: way
+type: node
 latitude: 39.004
 longitude: -76.93109
 postcode: "20740"
 city: College Park
-street: "Baltimore Avenue"
-housenumber: 9104
+street: Baltimore Avenue
+housenumber: "9104"
 phone: ""
 opening_hours: ""
 website: ""

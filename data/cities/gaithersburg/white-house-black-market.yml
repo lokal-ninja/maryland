@@ -1,11 +1,11 @@
 id: 1236007842
-type: way
+type: node
 latitude: 39.11701
 longitude: -77.19883
 postcode: "20878"
 city: Gaithersburg
-street: "Boardwalk Place"
-housenumber: 129
+street: Boardwalk Place
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

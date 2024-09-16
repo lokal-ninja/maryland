@@ -1,11 +1,11 @@
 id: 661062137
-type: way
+type: node
 latitude: 39.52969
 longitude: -76.34257
 postcode: "21014"
 city: Bel Air
-street: "South Main Street"
-housenumber: 624
+street: South Main Street
+housenumber: "624"
 phone: ""
 opening_hours: ""
-website: "https://bellaamicisalon.com/"
+website: https://bellaamicisalon.com/

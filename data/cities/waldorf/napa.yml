@@ -1,11 +1,11 @@
 id: 902387581
-type: way
+type: node
 latitude: 38.61273
 longitude: -76.91659
 postcode: "20602"
 city: Waldorf
-street: "Industrial Park Drive"
-housenumber: 68
-phone: "+1 (301) 645-8730"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-17:00; Su 09:00-17:00"
-website: "https://www.napaonline.com/en/MD/Waldorf/store/27732"
+street: Industrial Park Drive
+housenumber: "68"
+phone: +1 (301) 645-8730
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-17:00; Su 09:00-17:00
+website: https://www.napaonline.com/en/MD/Waldorf/store/27732

@@ -1,11 +1,11 @@
 id: 961724127
-type: way
+type: node
 latitude: 39.40328
 longitude: -77.42702
 postcode: ""
 city: Frederick
-street: "Prospect Boulevard"
-housenumber: 400
+street: Prospect Boulevard
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

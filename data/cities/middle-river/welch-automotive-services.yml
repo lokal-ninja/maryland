@@ -1,11 +1,11 @@
 id: 298928612
-type: way
+type: node
 latitude: 39.33994
 longitude: -76.44828
 postcode: "21220"
 city: Middle River
-street: "Middle River Road"
-housenumber: 516
-phone: "+1 410 918 9292"
+street: Middle River Road
+housenumber: "516"
+phone: +1 410 918 9292
 opening_hours: ""
 website: ""

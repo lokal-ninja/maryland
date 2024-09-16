@@ -1,11 +1,11 @@
 id: 1120669619
-type: way
+type: node
 latitude: 39.09276
 longitude: -76.85953
 postcode: "20707"
 city: Laurel
-street: "Cherry Lane"
-housenumber: 8499
+street: Cherry Lane
+housenumber: "8499"
 phone: ""
 opening_hours: ""
 website: ""

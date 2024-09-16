@@ -1,11 +1,11 @@
 id: 1294635990
-type: way
+type: node
 latitude: 39.67541
 longitude: -75.85846
 postcode: "21921"
 city: Elkton
-street: "Singerly Road"
-housenumber: 2524
-phone: "+1 443-406-6200"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/md/elkton/21451"
+street: Singerly Road
+housenumber: "2524"
+phone: +1 443-406-6200
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/md/elkton/21451

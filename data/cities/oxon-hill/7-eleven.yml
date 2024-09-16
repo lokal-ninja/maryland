@@ -1,11 +1,11 @@
 id: 243582104
-type: way
+type: node
 latitude: 38.81136
 longitude: -76.9666
 postcode: "20745"
 city: Oxon Hill
-street: "Saint Barnabas Road"
-housenumber: 5622
-phone: "+1 301-894-7089"
+street: Saint Barnabas Road
+housenumber: "5622"
+phone: +1 301-894-7089
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/oxon-hill/5622-st-barnabus-ave-36747"
+website: https://www.7-eleven.com/locations/md/oxon-hill/5622-st-barnabus-ave-36747

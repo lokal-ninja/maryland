@@ -1,11 +1,11 @@
 id: 1194071295
-type: way
+type: node
 latitude: 39.60029
 longitude: -77.72827
 postcode: "21740"
 city: Hagerstown
-street: "Sharpsburg Pike"
-housenumber: 10447
-phone: "+1 833-471-7075"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/md/hagerstown/10447-sharpsburg-pike"
+street: Sharpsburg Pike
+housenumber: "10447"
+phone: +1 833-471-7075
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/md/hagerstown/10447-sharpsburg-pike

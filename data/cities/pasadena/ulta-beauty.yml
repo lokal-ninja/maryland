@@ -4,8 +4,8 @@ latitude: 39.12544
 longitude: -76.59193
 postcode: "21122"
 city: Pasadena
-street: "Ritchie Highway"
-housenumber: 8048
-phone: "+1 410-553-5049"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/pasadena-md-1582"
+street: Ritchie Highway
+housenumber: "8048"
+phone: +1 410-553-5049
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/pasadena-md-1582

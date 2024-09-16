@@ -1,11 +1,11 @@
 id: 298500000
-type: way
+type: node
 latitude: 39.38962
 longitude: -76.41468
 postcode: "21162"
 city: White Marsh
-street: "Pulaski Highway"
-housenumber: 11175
-phone: "+1-443-756-1646"
+street: Pulaski Highway
+housenumber: "11175"
+phone: +1-443-756-1646
 opening_hours: ""
-website: "https://redlinemusclecargarage.com/"
+website: https://redlinemusclecargarage.com/

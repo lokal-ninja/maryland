@@ -1,11 +1,11 @@
 id: 808400577
-type: way
+type: node
 latitude: 39.12462
 longitude: -76.59116
 postcode: "21122"
 city: Pasadena
-street: "Ritchie Highway"
-housenumber: 8052
-phone: "+1-410-766-6656"
+street: Ritchie Highway
+housenumber: "8052"
+phone: +1-410-766-6656
 opening_hours: ""
 website: ""

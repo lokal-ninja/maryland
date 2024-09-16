@@ -1,11 +1,11 @@
 id: 759738605
-type: way
+type: node
 latitude: 39.69859
 longitude: -76.06306
 postcode: "21911"
 city: Rising Sun
-street: "Pearl Street"
-housenumber: 9
+street: Pearl Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

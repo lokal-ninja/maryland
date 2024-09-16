@@ -1,11 +1,11 @@
 id: 629123857
-type: way
+type: node
 latitude: 39.52965
 longitude: -76.35111
 postcode: "21014"
 city: Bel Air
-street: "Baltimore Pike"
-housenumber: 333
+street: Baltimore Pike
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/bel-air/333-baltimore-pike.html"
+website: https://www.autozone.com/locations/md/bel-air/333-baltimore-pike.html

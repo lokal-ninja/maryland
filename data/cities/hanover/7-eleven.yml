@@ -1,11 +1,11 @@
 id: 119757465
-type: way
+type: node
 latitude: 39.15888
 longitude: -76.71446
 postcode: "21076"
 city: Hanover
-street: "Dorsey Road"
-housenumber: 1401
+street: Dorsey Road
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 57201411
-type: way
+type: node
 latitude: 39.46443
 longitude: -76.63692
 postcode: "21030"
 city: Cockeysville
-street: "York Road"
-housenumber: 10022
+street: York Road
+housenumber: "10022"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/cockeysville/10022-york-rd.html"
+website: https://www.autozone.com/locations/md/cockeysville/10022-york-rd.html

@@ -1,11 +1,11 @@
 id: 336376724
-type: way
+type: node
 latitude: 39.29409
 longitude: -76.618
 postcode: "21201"
 city: Baltimore
-street: "West Mulberry Street"
-housenumber: 116
+street: West Mulberry Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

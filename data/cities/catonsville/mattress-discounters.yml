@@ -1,11 +1,11 @@
 id: 235671462
-type: way
+type: node
 latitude: 39.28419
 longitude: -76.75953
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6427
+street: Baltimore National Pike
+housenumber: "6427"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241399842
-type: way
+type: node
 latitude: 39.31694
 longitude: -76.6168
 postcode: "21218"
 city: Baltimore
-street: "North Charles Street"
-housenumber: 2401
-phone: "+1 410-261-6110"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/baltimore/2401-n-charles-st.html"
+street: North Charles Street
+housenumber: "2401"
+phone: +1 410-261-6110
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/baltimore/2401-n-charles-st.html

@@ -1,11 +1,11 @@
 id: 298499308
-type: way
+type: node
 latitude: 39.38116
 longitude: -76.42572
 postcode: "21162"
 city: White Marsh
-street: "Pulaski Highway"
-housenumber: 10821
-phone: "+1-410-335-6882"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.classicbodyandfender.com/"
+street: Pulaski Highway
+housenumber: "10821"
+phone: +1-410-335-6882
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.classicbodyandfender.com/

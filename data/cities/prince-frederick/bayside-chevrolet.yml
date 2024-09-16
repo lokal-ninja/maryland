@@ -1,11 +1,11 @@
 id: 615335382
-type: way
+type: node
 latitude: 38.56244
 longitude: -76.60135
 postcode: "20678"
 city: Prince Frederick
-street: "Auto Drive"
-housenumber: 109
-phone: "+1 410 535 1500"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00"
-website: "https://www.baysidechevy.com"
+street: Auto Drive
+housenumber: "109"
+phone: +1 410 535 1500
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00
+website: https://www.baysidechevy.com

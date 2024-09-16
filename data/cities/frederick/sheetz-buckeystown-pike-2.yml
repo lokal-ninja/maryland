@@ -1,11 +1,11 @@
 id: 697659254
-type: way
+type: node
 latitude: 39.39924
 longitude: -77.40649
 postcode: "21704"
 city: Frederick
-street: "Buckeystown Pike"
-housenumber: 6050
-phone: "+1 301-644-2881"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/519"
+street: Buckeystown Pike
+housenumber: "6050"
+phone: +1 301-644-2881
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/519

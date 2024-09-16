@@ -1,11 +1,11 @@
 id: 367129389
-type: way
+type: node
 latitude: 38.97498
 longitude: -76.54018
 postcode: "21401"
 city: Annapolis
-street: "Old Solomons Island Road"
-housenumber: 149
-phone: "+1-888-409-1189"
+street: Old Solomons Island Road
+housenumber: "149"
+phone: +1-888-409-1189
 opening_hours: ""
-website: "https://www.annapolissubaru.com/"
+website: https://www.annapolissubaru.com/

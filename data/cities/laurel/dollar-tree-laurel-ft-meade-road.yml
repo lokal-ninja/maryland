@@ -1,11 +1,11 @@
 id: 115869552
-type: way
+type: node
 latitude: 39.0984
 longitude: -76.81151
 postcode: "20724"
 city: Laurel
-street: "Laurel Ft Meade Road"
-housenumber: 3401
-phone: "+1 301-623-2797"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollartree.com/locations/md/laurel/9089/"
+street: Laurel Ft Meade Road
+housenumber: "3401"
+phone: +1 301-623-2797
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollartree.com/locations/md/laurel/9089/

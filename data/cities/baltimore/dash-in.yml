@@ -1,11 +1,11 @@
 id: 196044438
-type: way
+type: node
 latitude: 39.26128
 longitude: -76.66494
 postcode: "21227"
 city: Baltimore
-street: "South Caton Avenue"
-housenumber: 1517
+street: South Caton Avenue
+housenumber: "1517"
 phone: ""
 opening_hours: ""
 website: ""

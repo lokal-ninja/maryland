@@ -1,11 +1,11 @@
 id: 46945133
-type: way
+type: node
 latitude: 39.08034
 longitude: -77.14251
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 708
+street: Rockville Pike
+housenumber: "708"
 phone: ""
 opening_hours: ""
 website: ""

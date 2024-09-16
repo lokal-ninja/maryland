@@ -1,11 +1,11 @@
 id: 179222043
-type: way
+type: node
 latitude: 39.36459
 longitude: -76.9692
 postcode: "21784"
 city: Sykesville
-street: "Main Street"
-housenumber: 7610
+street: Main Street
+housenumber: "7610"
 phone: ""
 opening_hours: ""
 website: ""

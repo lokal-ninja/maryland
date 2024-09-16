@@ -1,11 +1,11 @@
 id: 1279199839
-type: way
+type: node
 latitude: 39.18233
 longitude: -76.61543
 postcode: ""
 city: Glen Burnie
-street: "Crain Highway North"
-housenumber: 1126
-phone: "+1-410-766-0202"
+street: Crain Highway North
+housenumber: "1126"
+phone: +1-410-766-0202
 opening_hours: ""
-website: "https://www.suddenimpactcollision.org/"
+website: https://www.suddenimpactcollision.org/

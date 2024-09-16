@@ -1,11 +1,11 @@
 id: 237697761
-type: way
+type: node
 latitude: 39.03241
 longitude: -76.68871
 postcode: "21054"
 city: Gambrills
-street: "South Main Chapel Way"
-housenumber: 1413
-phone: "+1 443-332-6200"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.wegmans.com/stores/crofton-md/"
+street: South Main Chapel Way
+housenumber: "1413"
+phone: +1 443-332-6200
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.wegmans.com/stores/crofton-md/

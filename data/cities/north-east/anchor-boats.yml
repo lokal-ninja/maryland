@@ -1,11 +1,11 @@
 id: 798172839
-type: way
+type: node
 latitude: 39.60571
 longitude: -75.94616
 postcode: "21901"
 city: North East
-street: "North Mauldin Avenue"
-housenumber: 448
-phone: "+1-800-773-2628"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-17:00; Su 10:00-16:30; PH off"
-website: "https://www.anchorboat.com/"
+street: North Mauldin Avenue
+housenumber: "448"
+phone: +1-800-773-2628
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-17:00; Su 10:00-16:30; PH off
+website: https://www.anchorboat.com/

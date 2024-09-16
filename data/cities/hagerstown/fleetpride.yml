@@ -1,11 +1,11 @@
 id: 317131898
-type: way
+type: node
 latitude: 39.62743
 longitude: -77.78785
 postcode: "21740"
 city: Hagerstown
-street: "Notley Road"
-housenumber: 16803
+street: Notley Road
+housenumber: "16803"
 phone: ""
 opening_hours: ""
-website: "https://branches.fleetpride.com/md/hagerstown/truckparts-hag.html"
+website: https://branches.fleetpride.com/md/hagerstown/truckparts-hag.html

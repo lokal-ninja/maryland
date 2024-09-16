@@ -1,11 +1,11 @@
 id: 588220196
-type: way
+type: node
 latitude: 39.28956
 longitude: -76.61165
 postcode: "21202"
 city: Baltimore
-street: "East Baltimore Street"
-housenumber: 217
-phone: "+1-410-773-9905"
+street: East Baltimore Street
+housenumber: "217"
+phone: +1-410-773-9905
 opening_hours: ""
-website: "https://www.ampmlock.com/locations/downtown-baltimore/"
+website: https://www.ampmlock.com/locations/downtown-baltimore/

@@ -1,11 +1,11 @@
 id: 440968265
-type: way
+type: node
 latitude: 39.4494
 longitude: -77.38322
 postcode: "21701"
 city: Frederick
-street: "Kingfisher Drive"
-housenumber: 1701
+street: Kingfisher Drive
+housenumber: "1701"
 phone: ""
 opening_hours: ""
 website: ""

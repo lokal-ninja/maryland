@@ -1,11 +1,11 @@
 id: 336375898
-type: way
+type: node
 latitude: 39.31495
 longitude: -76.61744
 postcode: "21218"
 city: Baltimore
-street: "Morton Street"
-housenumber: 
+street: Morton Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

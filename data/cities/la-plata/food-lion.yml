@@ -1,11 +1,11 @@
 id: 220638263
-type: way
+type: node
 latitude: 38.54789
 longitude: -76.98311
 postcode: "20646"
 city: La Plata
-street: "Drury Drive"
-housenumber: 100
+street: Drury Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

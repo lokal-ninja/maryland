@@ -1,11 +1,11 @@
 id: 727138966
-type: way
+type: node
 latitude: 39.47081
 longitude: -76.26849
 postcode: "21009"
 city: Abingdon
-street: "Philadelphia Road"
-housenumber: 3914
-phone: "+1-410-676-2227"
+street: Philadelphia Road
+housenumber: "3914"
+phone: +1-410-676-2227
 opening_hours: ""
 website: ""

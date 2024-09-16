@@ -1,11 +1,11 @@
 id: 336582745
-type: way
+type: node
 latitude: 39.35309
 longitude: -76.69747
 postcode: "21215"
 city: Baltimore
-street: "Reisterstown Road"
-housenumber: 6103
+street: Reisterstown Road
+housenumber: "6103"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-15:00"
-website: "https://www.carfinityusa.com"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-15:00
+website: https://www.carfinityusa.com

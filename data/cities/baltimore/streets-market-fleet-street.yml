@@ -1,11 +1,11 @@
 id: 964802625
-type: way
+type: node
 latitude: 39.28576
 longitude: -76.54754
 postcode: "21224"
 city: Baltimore
-street: "Fleet Street"
-housenumber: 5701
-phone: "+1-410-800-2213"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.streetsmarket.com/"
+street: Fleet Street
+housenumber: "5701"
+phone: +1-410-800-2213
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.streetsmarket.com/

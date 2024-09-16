@@ -1,11 +1,11 @@
 id: 317135355
-type: way
+type: node
 latitude: 39.43419
 longitude: -76.30554
 postcode: "21040"
 city: Edgewood
-street: "Edgewood Road"
-housenumber: 1001
+street: Edgewood Road
+housenumber: "1001"
 phone: ""
 opening_hours: ""
-website: "https://salonandsuites.com"
+website: https://salonandsuites.com

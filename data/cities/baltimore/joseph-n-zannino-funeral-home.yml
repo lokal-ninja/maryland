@@ -1,11 +1,11 @@
 id: 273741615
-type: way
+type: node
 latitude: 39.28878
 longitude: -76.56719
 postcode: "21224"
 city: Baltimore
-street: "South Conkling Street"
-housenumber: 263
+street: South Conkling Street
+housenumber: "263"
 phone: ""
 opening_hours: ""
 website: ""

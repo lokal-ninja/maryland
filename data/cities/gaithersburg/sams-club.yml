@@ -1,11 +1,11 @@
 id: 47403309
-type: way
+type: node
 latitude: 39.15081
 longitude: -77.2122
 postcode: "20877"
 city: Gaithersburg
-street: "North Frederick Avenue"
-housenumber: 610
-phone: "+1 301-216-2550"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/gaithersburg-md-sams-club/6653"
+street: North Frederick Avenue
+housenumber: "610"
+phone: +1 301-216-2550
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/gaithersburg-md-sams-club/6653

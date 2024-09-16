@@ -1,11 +1,11 @@
 id: 554296175
-type: way
+type: node
 latitude: 39.54898
 longitude: -76.09011
 postcode: "21078"
 city: Havre de Grace
-street: "North Washington Street"
-housenumber: 200
+street: North Washington Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

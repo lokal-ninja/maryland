@@ -1,11 +1,11 @@
 id: 436463284
-type: way
+type: node
 latitude: 38.98719
 longitude: -76.53039
 postcode: "21401"
 city: Annapolis
-street: "Hudson Street"
-housenumber: 34
+street: Hudson Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://fitzgeraldvolkswagen.com/"
+website: https://fitzgeraldvolkswagen.com/

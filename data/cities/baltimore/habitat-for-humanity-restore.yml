@@ -1,11 +1,11 @@
 id: 336169097
-type: way
+type: node
 latitude: 39.28721
 longitude: -76.53678
 postcode: "21224"
 city: Baltimore
-street: "Kane Street"
-housenumber: 505
+street: Kane Street
+housenumber: "505"
 phone: ""
-opening_hours: "Tu-Su 10:00-18:00"
-website: "https://www.habitatchesapeake.org/dundalk-restore/"
+opening_hours: Tu-Su 10:00-18:00
+website: https://www.habitatchesapeake.org/dundalk-restore/

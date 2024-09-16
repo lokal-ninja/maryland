@@ -1,11 +1,11 @@
 id: 233078423
-type: way
+type: node
 latitude: 39.2873
 longitude: -76.53555
 postcode: "21224"
 city: Baltimore
-street: "Eastern Avenue"
-housenumber: 6541
+street: Eastern Avenue
+housenumber: "6541"
 phone: ""
 opening_hours: ""
-website: "https://www.wawa.com/"
+website: https://www.wawa.com/

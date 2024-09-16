@@ -1,11 +1,11 @@
 id: 294151418
-type: way
+type: node
 latitude: 39.27906
 longitude: -76.55267
 postcode: "21224"
 city: Baltimore
-street: "Interstate Avenue"
-housenumber: 1100
+street: Interstate Avenue
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

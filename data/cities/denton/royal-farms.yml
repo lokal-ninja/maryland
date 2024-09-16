@@ -1,11 +1,11 @@
 id: 721754612
-type: way
+type: node
 latitude: 38.88499
 longitude: -75.82919
 postcode: "21629"
 city: Denton
-street: "Market Street"
-housenumber: 502
-phone: "+1 410 479 6140"
+street: Market Street
+housenumber: "502"
+phone: +1 410 479 6140
 opening_hours: ""
 website: ""

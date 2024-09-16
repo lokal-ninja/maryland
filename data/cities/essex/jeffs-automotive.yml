@@ -1,11 +1,11 @@
 id: 298922606
-type: way
+type: node
 latitude: 39.31205
 longitude: -76.47712
 postcode: "21221"
 city: Essex
-street: "Mace Avenue"
-housenumber: 313
-phone: "+1 410 682 5700"
+street: Mace Avenue
+housenumber: "313"
+phone: +1 410 682 5700
 opening_hours: ""
 website: ""

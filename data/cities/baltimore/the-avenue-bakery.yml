@@ -1,11 +1,11 @@
 id: 336430099
-type: way
+type: node
 latitude: 39.30813
 longitude: -76.63985
 postcode: "21217"
 city: Baltimore
-street: "Pennsylvania Avenue"
-housenumber: 2229
-phone: "+1 410-225-3881"
+street: Pennsylvania Avenue
+housenumber: "2229"
+phone: +1 410-225-3881
 opening_hours: ""
 website: ""

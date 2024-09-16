@@ -1,11 +1,11 @@
 id: 629137939
-type: way
+type: node
 latitude: 39.46154
 longitude: -76.27917
 postcode: "21009"
 city: Abingdon
-street: "Cokesbury Road"
-housenumber: 1317
-phone: "410-676-4600"
+street: Cokesbury Road
+housenumber: "1317"
+phone: 410-676-4600
 opening_hours: ""
-website: "https://www.mccomasfuneralhome.com"
+website: https://www.mccomasfuneralhome.com

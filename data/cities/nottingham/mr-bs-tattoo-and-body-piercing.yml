@@ -1,11 +1,11 @@
 id: 299102329
-type: way
+type: node
 latitude: 39.36495
 longitude: -76.51961
 postcode: "21236"
 city: Nottingham
-street: "Belair Road"
-housenumber: 7554
-phone: "+1-410-668-3567"
+street: Belair Road
+housenumber: "7554"
+phone: +1-410-668-3567
 opening_hours: ""
-website: "https://mrbstattoo.com/"
+website: https://mrbstattoo.com/

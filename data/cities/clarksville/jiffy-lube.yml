@@ -1,11 +1,11 @@
 id: 130101841
-type: way
+type: node
 latitude: 39.21285
 longitude: -76.9377
 postcode: "21029"
 city: Clarksville
-street: "Clarksville Square Drive"
-housenumber: 5816
+street: Clarksville Square Drive
+housenumber: "5816"
 phone: ""
 opening_hours: ""
 website: ""

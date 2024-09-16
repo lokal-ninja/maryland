@@ -1,11 +1,11 @@
 id: 83922476
-type: way
+type: node
 latitude: 39.42834
 longitude: -76.61859
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1719
-phone: "+1 410-453-9131"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/lutherville/pet-supplies-lutherville-md-940.html"
+street: York Road
+housenumber: "1719"
+phone: +1 410-453-9131
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/md/lutherville/pet-supplies-lutherville-md-940.html

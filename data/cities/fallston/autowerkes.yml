@@ -1,11 +1,11 @@
 id: 525716065
-type: way
+type: node
 latitude: 39.49766
 longitude: -76.38737
 postcode: "21047"
 city: Fallston
-street: "Belair Road"
-housenumber: 1909
-phone: "410-803-8555"
+street: Belair Road
+housenumber: "1909"
+phone: 410-803-8555
 opening_hours: ""
-website: "https://autowerkesinc.com/"
+website: https://autowerkesinc.com/

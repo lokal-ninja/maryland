@@ -1,11 +1,11 @@
 id: 411885752
-type: way
+type: node
 latitude: 39.52522
 longitude: -76.36047
 postcode: "21014"
 city: Bel Air
-street: "Baltimore Pike"
-housenumber: 696
-phone: "410-879-9801"
+street: Baltimore Pike
+housenumber: "696"
+phone: 410-879-9801
 opening_hours: ""
-website: "https://l.macys.com/bel-air-md/furniture"
+website: https://l.macys.com/bel-air-md/furniture

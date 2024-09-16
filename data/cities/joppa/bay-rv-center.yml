@@ -1,11 +1,11 @@
 id: 669634568
-type: way
+type: node
 latitude: 39.43188
 longitude: -76.34061
 postcode: "21085"
 city: Joppa
-street: "Pulaski Highway"
-housenumber: 1002
+street: Pulaski Highway
+housenumber: "1002"
 phone: ""
 opening_hours: ""
-website: "https://bayrvcenter.com/"
+website: https://bayrvcenter.com/

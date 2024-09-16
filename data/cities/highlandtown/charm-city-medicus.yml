@@ -1,11 +1,11 @@
 id: 298931751
-type: way
+type: node
 latitude: 39.29196
 longitude: -76.51323
 postcode: "21224"
 city: Highlandtown
-street: "North Point Boulevard"
-housenumber: 717
-phone: "+1-443-530-6474"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.charmcitymedicus.com/"
+street: North Point Boulevard
+housenumber: "717"
+phone: +1-443-530-6474
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.charmcitymedicus.com/

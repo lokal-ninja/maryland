@@ -1,11 +1,11 @@
 id: 295177003
-type: way
+type: node
 latitude: 39.28617
 longitude: -76.59328
 postcode: "21231"
 city: Baltimore
-street: "South Broadway"
-housenumber: 415
+street: South Broadway
+housenumber: "415"
 phone: "+14102069840"
 opening_hours: ""
 website: ""

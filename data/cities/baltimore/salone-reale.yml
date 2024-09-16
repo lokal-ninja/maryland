@@ -1,11 +1,11 @@
 id: 336371829
-type: way
+type: node
 latitude: 39.30386
 longitude: -76.61645
 postcode: "21201"
 city: Baltimore
-street: "North Charles Street"
-housenumber: 1212
+street: North Charles Street
+housenumber: "1212"
 phone: ""
 opening_hours: ""
-website: "https://www.royalbbundles.net/"
+website: https://www.royalbbundles.net/

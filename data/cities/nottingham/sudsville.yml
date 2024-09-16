@@ -1,11 +1,11 @@
 id: 778996888
-type: way
+type: node
 latitude: 39.36409
 longitude: -76.52106
 postcode: "21236"
 city: Nottingham
-street: "Belair Road"
-housenumber: 7528
+street: Belair Road
+housenumber: "7528"
 phone: ""
 opening_hours: ""
-website: "http://sudsvillelaundry.com/"
+website: http://sudsvillelaundry.com/

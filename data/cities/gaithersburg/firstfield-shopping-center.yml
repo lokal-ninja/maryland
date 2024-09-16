@@ -1,11 +1,11 @@
 id: 63939460
-type: way
+type: node
 latitude: 39.14406
 longitude: -77.21978
 postcode: "20878"
 city: Gaithersburg
-street: "Quince Orchard Road"
-housenumber: 505
-phone: "+1-703-442-4309"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.regencycenters.com/property/detail/90048/FirstfieldShoppingCtr"
+street: Quince Orchard Road
+housenumber: "505"
+phone: +1-703-442-4309
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.regencycenters.com/property/detail/90048/FirstfieldShoppingCtr

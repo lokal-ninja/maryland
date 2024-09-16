@@ -1,11 +1,11 @@
 id: 1235085571
-type: way
+type: node
 latitude: 39.14394
 longitude: -76.89397
 postcode: "20723"
 city: Laurel
-street: "Scaggsville Road"
-housenumber: 11011
+street: Scaggsville Road
+housenumber: "11011"
 phone: ""
 opening_hours: ""
-website: "https://thoroughbredautocare.com"
+website: https://thoroughbredautocare.com

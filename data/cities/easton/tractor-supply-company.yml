@@ -1,11 +1,11 @@
 id: 744368557
-type: way
+type: node
 latitude: 38.79065
 longitude: -76.05803
 postcode: "21601"
 city: Easton
-street: "Cecil Drive"
-housenumber: 29328
-phone: "+1 410-770-6413"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Cecil Drive
+housenumber: "29328"
+phone: +1 410-770-6413
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

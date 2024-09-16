@@ -1,11 +1,11 @@
 id: 241200099
-type: way
+type: node
 latitude: 38.6195
 longitude: -76.93558
 postcode: "20603"
 city: Waldorf
-street: "Smallwood Drive West"
-housenumber: 2007
+street: Smallwood Drive West
+housenumber: "2007"
 phone: ""
 opening_hours: ""
 website: ""

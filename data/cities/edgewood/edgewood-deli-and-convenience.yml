@@ -1,11 +1,11 @@
 id: 624984870
-type: way
+type: node
 latitude: 39.42666
 longitude: -76.29966
 postcode: "21040"
 city: Edgewood
-street: "Edgewood Road"
-housenumber: 700
+street: Edgewood Road
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

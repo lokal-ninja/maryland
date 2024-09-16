@@ -4,8 +4,8 @@ latitude: 39.28098
 longitude: -76.5946
 postcode: "21231"
 city: Baltimore
-street: "South Bond Street"
-housenumber: 901
+street: South Bond Street
+housenumber: "901"
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.sucasa.furniture/"
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.sucasa.furniture/

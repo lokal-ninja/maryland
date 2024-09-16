@@ -1,11 +1,11 @@
 id: 455302579
-type: way
+type: node
 latitude: 39.5573
 longitude: -76.36794
 postcode: "21014"
 city: Bel Air
-street: "Rock Spring Road"
-housenumber: 1401
-phone: "+1 410-420-2960"
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/bel-air/1401-rock-spring-road"
+street: Rock Spring Road
+housenumber: "1401"
+phone: +1 410-420-2960
+opening_hours: Mo-Sa 06:00-23:00; Su 06:00-22:00
+website: https://stores.giantfood.com/md/bel-air/1401-rock-spring-road

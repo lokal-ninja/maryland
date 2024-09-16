@@ -1,11 +1,11 @@
 id: 759079015
-type: way
+type: node
 latitude: 39.60566
 longitude: -75.83076
 postcode: "21921"
 city: Elkton
-street: "South Bridge Street"
-housenumber: 207
-phone: "+1-410-267-3377"
+street: South Bridge Street
+housenumber: "207"
+phone: +1-410-267-3377
 opening_hours: ""
-website: "https://www.elktoncarpet.com/"
+website: https://www.elktoncarpet.com/

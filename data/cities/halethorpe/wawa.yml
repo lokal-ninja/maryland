@@ -1,11 +1,11 @@
 id: 342096194
-type: way
+type: node
 latitude: 39.24638
 longitude: -76.6733
 postcode: "21227"
 city: Halethorpe
-street: "Washington Boulevard"
-housenumber: 3716
-phone: "410-247-2620"
+street: Washington Boulevard
+housenumber: "3716"
+phone: 410-247-2620
 opening_hours: ""
 website: ""

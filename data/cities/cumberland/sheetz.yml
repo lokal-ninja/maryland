@@ -4,8 +4,8 @@ latitude: 39.64981
 longitude: -78.76955
 postcode: "21502"
 city: Cumberland
-street: "Greene Street"
-housenumber: 210
-phone: "+1 301-722-1235"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/51"
+street: Greene Street
+housenumber: "210"
+phone: +1 301-722-1235
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/51

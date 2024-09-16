@@ -1,11 +1,11 @@
 id: 613089123
-type: way
+type: node
 latitude: 38.97131
 longitude: -76.9792
 postcode: "20782"
 city: Hyattsville
-street: "Ager Road"
-housenumber: 6580
-phone: "+1 301 422 7300"
+street: Ager Road
+housenumber: "6580"
+phone: +1 301 422 7300
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 336222671
-type: way
+type: node
 latitude: 39.34206
 longitude: -76.56904
 postcode: "21214"
 city: Baltimore
-street: "Harford Road"
-housenumber: 4621
-phone: "+1-410-426-0800"
+street: Harford Road
+housenumber: "4621"
+phone: +1-410-426-0800
 opening_hours: ""
-website: "https://stores.pepboys.com/md/baltimore/4621-harford-rd.html"
+website: https://stores.pepboys.com/md/baltimore/4621-harford-rd.html

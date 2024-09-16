@@ -1,11 +1,11 @@
 id: 336359467
-type: way
+type: node
 latitude: 39.27621
 longitude: -76.61216
 postcode: "21230"
 city: Baltimore
-street: "Light Street"
-housenumber: 1131
-phone: "+1 410 685 6859"
+street: Light Street
+housenumber: "1131"
+phone: +1 410 685 6859
 opening_hours: ""
 website: ""

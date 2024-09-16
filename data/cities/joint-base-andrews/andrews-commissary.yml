@@ -1,11 +1,11 @@
 id: 86085874
-type: way
+type: node
 latitude: 38.81641
 longitude: -76.88236
 postcode: "20762"
 city: Joint Base Andrews
-street: "Starkey Avenue"
-housenumber: 1684
+street: Starkey Avenue
+housenumber: "1684"
 phone: ""
 opening_hours: ""
 website: ""

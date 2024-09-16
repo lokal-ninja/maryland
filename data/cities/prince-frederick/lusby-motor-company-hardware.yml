@@ -1,11 +1,11 @@
 id: 290229688
-type: way
+type: node
 latitude: 38.53895
 longitude: -76.58322
 postcode: "20678"
 city: Prince Frederick
-street: "Main Street"
-housenumber: 155
-phone: "+1 410-535-0442"
-opening_hours: "Mo-Th,Sa 07:30-17:30; Fr 07:30-19:30; Su off"
-website: "https://www.lusbyhardware.com/"
+street: Main Street
+housenumber: "155"
+phone: +1 410-535-0442
+opening_hours: Mo-Th,Sa 07:30-17:30; Fr 07:30-19:30; Su off
+website: https://www.lusbyhardware.com/

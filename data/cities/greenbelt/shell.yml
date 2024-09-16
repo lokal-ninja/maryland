@@ -1,11 +1,11 @@
 id: 613029060
-type: way
+type: node
 latitude: 38.99094
 longitude: -76.85756
 postcode: "20770"
 city: Greenbelt
-street: "Greenbelt Road"
-housenumber: 8711
+street: Greenbelt Road
+housenumber: "8711"
 phone: ""
 opening_hours: ""
 website: ""

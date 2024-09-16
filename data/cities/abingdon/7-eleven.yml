@@ -1,11 +1,11 @@
 id: 544193541
-type: way
+type: node
 latitude: 39.47819
 longitude: -76.30988
-postcode: "21009-1062"
+postcode: 21009-1062
 city: Abingdon
-street: "Abingdon Road"
-housenumber: 3000
-phone: "+1 410-569-0326"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/abingdon/3000-abingdon-rd-26334"
+street: Abingdon Road
+housenumber: "3000"
+phone: +1 410-569-0326
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/abingdon/3000-abingdon-rd-26334

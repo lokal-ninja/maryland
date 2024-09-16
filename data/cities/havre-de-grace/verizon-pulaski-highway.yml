@@ -1,11 +1,11 @@
 id: 175509884
-type: way
+type: node
 latitude: 39.55247
 longitude: -76.10139
 postcode: "21078"
 city: Havre de Grace
-street: "Pulaski Highway"
-housenumber: 900
-phone: "+1-443-502-5411"
+street: Pulaski Highway
+housenumber: "900"
+phone: +1-443-502-5411
 opening_hours: ""
 website: ""

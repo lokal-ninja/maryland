@@ -1,11 +1,11 @@
 id: 172826564
-type: way
+type: node
 latitude: 39.19842
 longitude: -76.73953
 postcode: "21075"
 city: Elkridge
-street: "Washington Boulevard"
-housenumber: 6641
-phone: "+1 410 796 3216"
+street: Washington Boulevard
+housenumber: "6641"
+phone: +1 410 796 3216
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 157797266
-type: way
+type: node
 latitude: 39.39695
 longitude: -77.41191
 postcode: "21704"
 city: Frederick
-street: "Guilford Drive"
-housenumber: 7400
-phone: "+1 301-631-0805"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2233/frederick-md/whats-new"
+street: Guilford Drive
+housenumber: "7400"
+phone: +1 301-631-0805
+opening_hours: 24/7
+website: https://www.walmart.com/store/2233/frederick-md/whats-new

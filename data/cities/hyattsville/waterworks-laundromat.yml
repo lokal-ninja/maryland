@@ -1,11 +1,11 @@
 id: 246408173
-type: way
+type: node
 latitude: 38.98384
 longitude: -76.97058
 postcode: "20783"
 city: Hyattsville
-street: "University Boulevard East"
-housenumber: 2311
+street: University Boulevard East
+housenumber: "2311"
 phone: ""
 opening_hours: ""
 website: ""

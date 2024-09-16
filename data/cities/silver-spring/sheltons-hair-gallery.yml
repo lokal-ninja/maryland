@@ -1,11 +1,11 @@
 id: 90387244
-type: way
+type: node
 latitude: 38.98941
 longitude: -77.02431
 postcode: "20910"
 city: Silver Spring
-street: "Gist Avenue"
-housenumber: 910
+street: Gist Avenue
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

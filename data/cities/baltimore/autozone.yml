@@ -1,11 +1,11 @@
 id: 191346992
-type: way
+type: node
 latitude: 39.35709
 longitude: -76.70327
 postcode: "21215"
 city: Baltimore
-street: "Reisterstown Road"
-housenumber: 6501
+street: Reisterstown Road
+housenumber: "6501"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/baltimore/6501-reisterstown-rd.html"
+website: https://www.autozone.com/locations/md/baltimore/6501-reisterstown-rd.html

@@ -4,8 +4,8 @@ latitude: 39.28706
 longitude: -76.60713
 postcode: "21202"
 city: Baltimore
-street: "East Pratt Street"
-housenumber: 600
-phone: "+1 667-888-9527"
-opening_hours: "09:00-20:00"
-website: "https://stores.burlington.com/md/baltimore/1510/"
+street: East Pratt Street
+housenumber: "600"
+phone: +1 667-888-9527
+opening_hours: 09:00-20:00
+website: https://stores.burlington.com/md/baltimore/1510/

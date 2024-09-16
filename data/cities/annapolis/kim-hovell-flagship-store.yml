@@ -1,11 +1,11 @@
 id: 356345432
-type: way
+type: node
 latitude: 38.97764
 longitude: -76.48945
 postcode: "21401"
 city: Annapolis
-street: "Main Street"
-housenumber: 151
+street: Main Street
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "https://kimhovell.com/"
+website: https://kimhovell.com/

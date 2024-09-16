@@ -1,11 +1,11 @@
 id: 136735988
-type: way
+type: node
 latitude: 39.2515
 longitude: -76.8197
 postcode: "21043"
 city: Ellicott City
-street: "Montgomery Road"
-housenumber: 4360
-phone: "+1 410-480-8140"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/md/ellicott-city/8815"
+street: Montgomery Road
+housenumber: "4360"
+phone: +1 410-480-8140
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/md/ellicott-city/8815

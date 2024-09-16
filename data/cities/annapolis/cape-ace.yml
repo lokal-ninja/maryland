@@ -1,11 +1,11 @@
 id: 887394813
-type: way
+type: node
 latitude: 39.03937
 longitude: -76.43948
 postcode: "21409"
 city: Annapolis
-street: "Cape Saint Claire Road"
-housenumber: 1320
-phone: "+1 410-757-0797"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00"
-website: "https://www.capeacehardware.com/"
+street: Cape Saint Claire Road
+housenumber: "1320"
+phone: +1 410-757-0797
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00
+website: https://www.capeacehardware.com/

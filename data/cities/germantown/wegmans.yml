@@ -1,11 +1,11 @@
 id: 238132317
-type: way
+type: node
 latitude: 39.19883
 longitude: -77.25667
 postcode: "20876"
 city: Germantown
-street: "Seneca Meadows Parkway"
-housenumber: 20600
-phone: "+1 240-499-0700"
+street: Seneca Meadows Parkway
+housenumber: "20600"
+phone: +1 240-499-0700
 opening_hours: ""
-website: "https://www.wegmans.com/stores/germantown-md"
+website: https://www.wegmans.com/stores/germantown-md

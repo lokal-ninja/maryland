@@ -1,11 +1,11 @@
 id: 543801168
-type: way
+type: node
 latitude: 38.32341
 longitude: -75.21016
 postcode: "21811"
 city: Berlin
-street: "Decatur Street"
-housenumber: 105
+street: Decatur Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/md/berlin/489"
+website: https://www.dollargeneral.com/store-directory/md/berlin/489

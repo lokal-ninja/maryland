@@ -4,8 +4,8 @@ latitude: 39.36864
 longitude: -76.54699
 postcode: "21234"
 city: Baltimore
-street: "Harford Road"
-housenumber: 7219
-phone: "+1-410-444-6410"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-16:00; Su off; PH off"
-website: "http://www.fenwickbakery.com/"
+street: Harford Road
+housenumber: "7219"
+phone: +1-410-444-6410
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-16:00; Su off; PH off
+website: http://www.fenwickbakery.com/

@@ -1,11 +1,11 @@
 id: 549844397
-type: way
+type: node
 latitude: 38.34002
 longitude: -75.11944
 postcode: "21842"
 city: Ocean City
-street: "Ocean Gateway"
-housenumber: 12449
+street: Ocean Gateway
+housenumber: "12449"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 336195709
-type: way
+type: node
 latitude: 39.3339
 longitude: -76.55816
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 4810
-phone: "+1-410-675-4988"
+street: Belair Road
+housenumber: "4810"
+phone: +1-410-675-4988
 opening_hours: ""
-website: "http://rimsourcemotorsports.com/"
+website: http://rimsourcemotorsports.com/

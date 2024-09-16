@@ -1,11 +1,11 @@
 id: 47916363
-type: way
+type: node
 latitude: 38.29304
 longitude: -76.50468
 postcode: "20619"
 city: California
-street: "Miramar Way"
-housenumber: 45485
-phone: "+1 301-737-4420"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1981/california-md/whats-new"
+street: Miramar Way
+housenumber: "45485"
+phone: +1 301-737-4420
+opening_hours: 24/7
+website: https://www.walmart.com/store/1981/california-md/whats-new

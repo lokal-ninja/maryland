@@ -1,11 +1,11 @@
 id: 47107868
-type: way
+type: node
 latitude: 39.10502
 longitude: -77.15674
 postcode: "20850"
 city: Rockville
-street: "Frederick Road"
-housenumber: 15127
+street: Frederick Road
+housenumber: "15127"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:00"
+opening_hours: Mo-Sa 07:30-18:00
 website: ""

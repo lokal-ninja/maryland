@@ -1,11 +1,11 @@
 id: 351280909
-type: way
+type: node
 latitude: 38.583
 longitude: -76.95239
 postcode: "20695"
 city: White Plains
-street: "Crain Highway"
-housenumber: 4705
+street: Crain Highway
+housenumber: "4705"
 phone: ""
 opening_hours: ""
 website: ""

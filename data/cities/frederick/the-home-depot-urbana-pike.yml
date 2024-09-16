@@ -1,11 +1,11 @@
 id: 164272072
-type: way
+type: node
 latitude: 39.38456
 longitude: -77.39937
 postcode: "21704"
 city: Frederick
-street: "Urbana Pike"
-housenumber: 5517
-phone: "+1 301-620-0571"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/frederick/md/frederick/21704/2559"
+street: Urbana Pike
+housenumber: "5517"
+phone: +1 301-620-0571
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/frederick/md/frederick/21704/2559

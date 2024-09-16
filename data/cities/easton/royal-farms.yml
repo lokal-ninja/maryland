@@ -1,11 +1,11 @@
 id: 469476122
-type: way
+type: node
 latitude: 38.75903
 longitude: -76.06133
 postcode: "21601"
 city: Easton
-street: "Ocean Gateway"
-housenumber: 7655
+street: Ocean Gateway
+housenumber: "7655"
 phone: ""
 opening_hours: ""
 website: ""

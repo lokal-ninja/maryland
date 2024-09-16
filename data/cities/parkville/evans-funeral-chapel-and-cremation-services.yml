@@ -1,11 +1,11 @@
 id: 282184339
-type: way
+type: node
 latitude: 39.38421
 longitude: -76.53449
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 8800
-phone: "+1-410-665-9444"
+street: Harford Road
+housenumber: "8800"
+phone: +1-410-665-9444
 opening_hours: ""
-website: "https://www.evansfuneralchapel.com/"
+website: https://www.evansfuneralchapel.com/

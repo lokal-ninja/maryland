@@ -1,11 +1,11 @@
 id: 252988245
-type: way
+type: node
 latitude: 39.40694
 longitude: -76.6078
 postcode: "21204"
 city: Towson
-street: "Ensor Avenue"
-housenumber: 3
+street: Ensor Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

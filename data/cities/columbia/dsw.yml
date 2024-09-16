@@ -1,11 +1,11 @@
 id: 135994230
-type: way
+type: node
 latitude: 39.18292
 longitude: -76.81714
 postcode: "21046"
 city: Columbia
-street: "Snowden Square Drive"
-housenumber: 9051
-phone: "+1 410-872-0029"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/md/columbia/dsw-designer-shoe-warehouse-snowden-square.html"
+street: Snowden Square Drive
+housenumber: "9051"
+phone: +1 410-872-0029
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/md/columbia/dsw-designer-shoe-warehouse-snowden-square.html

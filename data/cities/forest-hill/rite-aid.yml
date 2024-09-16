@@ -1,11 +1,11 @@
 id: 692608585
-type: way
+type: node
 latitude: 39.55995
 longitude: -76.37261
 postcode: "21050"
 city: Forest Hill
-street: "Rock Spring Road"
-housenumber: 1520
-phone: "+1 410-836-5288"
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-19:00"
-website: "https://www.riteaid.com/locations/md/forest-hill/1520-rock-spring-road.html"
+street: Rock Spring Road
+housenumber: "1520"
+phone: +1 410-836-5288
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-19:00
+website: https://www.riteaid.com/locations/md/forest-hill/1520-rock-spring-road.html

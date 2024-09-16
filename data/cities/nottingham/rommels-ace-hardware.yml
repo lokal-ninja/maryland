@@ -1,11 +1,11 @@
 id: 198102593
-type: way
+type: node
 latitude: 39.3974
 longitude: -76.47899
 postcode: "21236"
 city: Nottingham
-street: "Ebenezer Road"
-housenumber: 4231
-phone: "+1 410-256-1913"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+street: Ebenezer Road
+housenumber: "4231"
+phone: +1 410-256-1913
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
 website: ""

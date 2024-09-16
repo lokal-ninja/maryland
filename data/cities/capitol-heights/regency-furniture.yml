@@ -1,11 +1,11 @@
 id: 706077728
-type: way
+type: node
 latitude: 38.86211
 longitude: -76.85123
 postcode: "20743"
 city: Capitol Heights
-street: "Ritchie Station Court"
-housenumber: 1859
-phone: "+1 301-782-3800"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.regencyfurniture.com"
+street: Ritchie Station Court
+housenumber: "1859"
+phone: +1 301-782-3800
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.regencyfurniture.com

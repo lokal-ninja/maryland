@@ -1,11 +1,11 @@
 id: 227502431
-type: way
+type: node
 latitude: 39.48675
 longitude: -76.39874
 postcode: "21047"
 city: Fallston
-street: "Belair Road"
-housenumber: 2625
-phone: "+1-410-879-2525"
+street: Belair Road
+housenumber: "2625"
+phone: +1-410-879-2525
 opening_hours: ""
-website: "https://logcabinchocolates.com/"
+website: https://logcabinchocolates.com/

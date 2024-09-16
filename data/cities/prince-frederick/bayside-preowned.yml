@@ -1,11 +1,11 @@
 id: 615335379
-type: way
+type: node
 latitude: 38.5613
 longitude: -76.60331
 postcode: ""
 city: Prince Frederick
-street: "Auto Drive"
-housenumber: 120
+street: Auto Drive
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

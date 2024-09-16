@@ -1,11 +1,11 @@
 id: 47977402
-type: way
+type: node
 latitude: 38.28699
 longitude: -76.47699
-postcode: "20653-2131"
+postcode: 20653-2131
 city: Lexington Park
-street: "Three Notch Road"
-housenumber: 22530
-phone: "+1 240-725-0531"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/587"
+street: Three Notch Road
+housenumber: "22530"
+phone: +1 240-725-0531
+opening_hours: 24/7
+website: https://www.wawa.com/locations/587

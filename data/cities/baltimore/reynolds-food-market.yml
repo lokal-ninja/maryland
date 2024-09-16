@@ -1,11 +1,11 @@
 id: 336405325
-type: way
+type: node
 latitude: 39.28177
 longitude: -76.6316
 postcode: "21230"
 city: Baltimore
-street: "West Cross Street"
-housenumber: 1155
+street: West Cross Street
+housenumber: "1155"
 phone: ""
 opening_hours: ""
 website: ""

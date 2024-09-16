@@ -1,11 +1,11 @@
 id: 759281082
-type: way
+type: node
 latitude: 39.60429
 longitude: -75.79617
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 1105
-phone: "+1-410-620-0093"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-18:00; PH off"
-website: "https://stores.advanceautoparts.com/md/elkton/1105-e-pulaski-hwy"
+street: East Pulaski Highway
+housenumber: "1105"
+phone: +1-410-620-0093
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-18:00; PH off
+website: https://stores.advanceautoparts.com/md/elkton/1105-e-pulaski-hwy

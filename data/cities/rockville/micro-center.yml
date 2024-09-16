@@ -4,8 +4,8 @@ latitude: 39.05755
 longitude: -77.12442
 postcode: "20852"
 city: Rockville
-street: "East Jefferson Street"
-housenumber: 1776
+street: East Jefferson Street
+housenumber: "1776"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.microcenter.com/site/stores/rockville.aspx?storeid=85"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.microcenter.com/site/stores/rockville.aspx?storeid=85

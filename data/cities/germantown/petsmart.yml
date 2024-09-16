@@ -1,11 +1,11 @@
 id: 169216629
-type: way
+type: node
 latitude: 39.20212
 longitude: -77.25061
 postcode: "20876"
 city: Germantown
-street: "Frederick Road"
-housenumber: 20924
-phone: "+1 301-916-2029"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/md/germantown-store0363.html"
+street: Frederick Road
+housenumber: "20924"
+phone: +1 301-916-2029
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/md/germantown-store0363.html

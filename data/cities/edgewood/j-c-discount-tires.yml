@@ -1,11 +1,11 @@
 id: 544454029
-type: way
+type: node
 latitude: 39.4365
 longitude: -76.30973
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 2102
-phone: "+1-410-676-5020"
+street: Pulaski Highway
+housenumber: "2102"
+phone: +1-410-676-5020
 opening_hours: ""
-website: "https://www.jctire.com"
+website: https://www.jctire.com

@@ -1,11 +1,11 @@
 id: 336321746
-type: way
+type: node
 latitude: 39.28536
 longitude: -76.60056
 postcode: "21202"
 city: Baltimore
-street: "Eastern Avenue"
-housenumber: 914
-phone: "+1 410 685 1535"
+street: Eastern Avenue
+housenumber: "914"
+phone: +1 410 685 1535
 opening_hours: ""
 website: ""

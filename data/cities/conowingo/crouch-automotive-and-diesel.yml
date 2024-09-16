@@ -1,11 +1,11 @@
 id: 745783634
-type: way
+type: node
 latitude: 39.67339
 longitude: -76.16708
 postcode: "21918"
 city: Conowingo
-street: "Conowingo Road"
-housenumber: 169
-phone: "+1-410-378-5555"
+street: Conowingo Road
+housenumber: "169"
+phone: +1-410-378-5555
 opening_hours: ""
-website: "https://crouchautomotive.com/"
+website: https://crouchautomotive.com/

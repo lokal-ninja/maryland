@@ -1,11 +1,11 @@
 id: 475147627
-type: way
+type: node
 latitude: 39.38319
 longitude: -77.40754
 postcode: "21703"
 city: Frederick
-street: "Buckeystown Pike"
-housenumber: 5500
-phone: "+1 240-772-3181"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/md/frederick/614/"
+street: Buckeystown Pike
+housenumber: "5500"
+phone: +1 240-772-3181
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/md/frederick/614/

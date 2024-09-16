@@ -1,11 +1,11 @@
 id: 717787924
-type: way
+type: node
 latitude: 39.5934
 longitude: -76.32278
 postcode: "21015"
 city: Bel Air
-street: "Conowingo Road"
-housenumber: 2457
-phone: "+1-410-838-4902"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.us1salesandservice.com"
+street: Conowingo Road
+housenumber: "2457"
+phone: +1-410-838-4902
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.us1salesandservice.com

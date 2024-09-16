@@ -1,11 +1,11 @@
 id: 525676319
-type: way
+type: node
 latitude: 39.3978
 longitude: -76.585
 postcode: "21286"
 city: Loch Raven
-street: "Goucher Boulevard"
-housenumber: 803
+street: Goucher Boulevard
+housenumber: "803"
 phone: ""
 opening_hours: ""
 website: ""

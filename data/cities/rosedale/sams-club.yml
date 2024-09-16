@@ -1,11 +1,11 @@
 id: 65162503
-type: way
+type: node
 latitude: 39.33686
 longitude: -76.48718
 postcode: "21237"
 city: Rosedale
-street: "Petrie Way"
-housenumber: 6410
-phone: "+1 410-686-2683"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/baltimore-md-sams-club/6650"
+street: Petrie Way
+housenumber: "6410"
+phone: +1 410-686-2683
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/baltimore-md-sams-club/6650

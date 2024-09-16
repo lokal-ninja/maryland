@@ -4,8 +4,9 @@ latitude: 39.63483
 longitude: -76.26708
 postcode: "21154"
 city: Street
-street: "Priestford Road"
-housenumber: 1169
-phone: "+1-443-608-7642"
-opening_hours: "Mo-Tu by appointment, We-Th 11:00-17:00; Fr 11:00-18:00; Sa 10:00-18:00; Su 10:00-14:00; PH off"
-website: "https://www.heatedclothing4u.com"
+street: Priestford Road
+housenumber: "1169"
+phone: +1-443-608-7642
+opening_hours: Mo-Tu "by appointment", We-Th 11:00-17:00; Fr 11:00-18:00; Sa 10:00-18:00;
+    Su 10:00-14:00; PH off
+website: https://www.heatedclothing4u.com

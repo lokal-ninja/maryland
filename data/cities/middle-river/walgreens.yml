@@ -1,11 +1,11 @@
 id: 114421560
-type: way
+type: node
 latitude: 39.33659
 longitude: -76.45624
 postcode: "21220"
 city: Middle River
-street: "Compass Road"
-housenumber: 401
+street: Compass Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-401+compass+rd-baltimore-md-21220/id=5686"
+website: https://www.walgreens.com/locator/walgreens-401+compass+rd-baltimore-md-21220/id=5686

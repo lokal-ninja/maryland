@@ -1,11 +1,11 @@
 id: 719061113
-type: way
+type: node
 latitude: 39.57141
 longitude: -76.35663
 postcode: "21014"
 city: Bel Air
-street: "Underwood Lane"
-housenumber: 521
-phone: "+1-410-420-6500"
+street: Underwood Lane
+housenumber: "521"
+phone: +1-410-420-6500
 opening_hours: ""
-website: "https://harfordcountytransmissions.com/"
+website: https://harfordcountytransmissions.com/

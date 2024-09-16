@@ -1,11 +1,11 @@
 id: 237055929
-type: way
+type: node
 latitude: 38.88918
 longitude: -76.72036
-postcode: "20774-8804"
+postcode: 20774-8804
 city: Upper Marlboro
-street: "Southeast Crain Highway"
-housenumber: 163
-phone: "+1 301-218-3154"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/562"
+street: Southeast Crain Highway
+housenumber: "163"
+phone: +1 301-218-3154
+opening_hours: 24/7
+website: https://www.wawa.com/locations/562

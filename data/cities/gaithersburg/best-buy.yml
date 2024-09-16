@@ -1,11 +1,11 @@
 id: 46972934
-type: way
+type: node
 latitude: 39.11656
 longitude: -77.18707
 postcode: "20877"
 city: Gaithersburg
-street: "Shady Grove Road"
-housenumber: 15750
-phone: "+1 301-990-8839"
+street: Shady Grove Road
+housenumber: "15750"
+phone: +1 301-990-8839
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/gaithersburg/15750-shady-grove-rd-288.html"
+website: https://stores.bestbuy.com/md/gaithersburg/15750-shady-grove-rd-288.html

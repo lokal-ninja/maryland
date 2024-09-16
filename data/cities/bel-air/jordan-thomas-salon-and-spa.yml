@@ -1,11 +1,11 @@
 id: 135329365
-type: way
+type: node
 latitude: 39.49785
 longitude: -76.33111
 postcode: "21015"
 city: Bel Air
-street: "Bel Air South Parkway"
-housenumber: 16
+street: Bel Air South Parkway
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

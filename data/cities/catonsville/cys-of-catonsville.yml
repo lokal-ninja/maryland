@@ -1,11 +1,11 @@
 id: 187122584
-type: way
+type: node
 latitude: 39.27179
 longitude: -76.73219
 postcode: "21228"
 city: Catonsville
-street: "Frederick Road"
-housenumber: 719
+street: Frederick Road
+housenumber: "719"
 phone: ""
 opening_hours: ""
-website: "https://cysswim.com/"
+website: https://cysswim.com/

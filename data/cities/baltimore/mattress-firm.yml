@@ -1,11 +1,11 @@
 id: 234066711
-type: way
+type: node
 latitude: 39.2761
 longitude: -76.56467
 postcode: "21224"
 city: Baltimore
-street: "Boston Street"
-housenumber: 3757
-phone: "+1 410-276-0407"
+street: Boston Street
+housenumber: "3757"
+phone: +1 410-276-0407
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/md/baltimore/152039/"
+website: https://www.mattressfirm.com/en-us/stores/md/baltimore/152039/

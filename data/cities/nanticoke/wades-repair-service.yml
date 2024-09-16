@@ -1,11 +1,11 @@
 id: 1023118791
-type: way
+type: node
 latitude: 38.27843
 longitude: -75.90006
 postcode: "21814"
 city: Nanticoke
-street: "Nanticoke Road"
-housenumber: 20669
-phone: "+1 410 873 2099"
+street: Nanticoke Road
+housenumber: "20669"
+phone: +1 410 873 2099
 opening_hours: ""
 website: ""

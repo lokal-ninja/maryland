@@ -1,11 +1,11 @@
 id: 669606311
-type: way
+type: node
 latitude: 39.43394
 longitude: -76.32051
 postcode: "21040"
 city: Edgewood
-street: "Gateway Drive"
-housenumber: 1020
+street: Gateway Drive
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

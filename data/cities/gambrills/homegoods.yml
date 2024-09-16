@@ -1,11 +1,11 @@
 id: 238142513
-type: way
+type: node
 latitude: 39.0391
 longitude: -76.68104
 postcode: "21054"
 city: Gambrills
-street: "Chapel Lake Drive"
-housenumber: 2618
-phone: "+1 410-721-5691"
-opening_hours: "09:00-22:00"
+street: Chapel Lake Drive
+housenumber: "2618"
+phone: +1 410-721-5691
+opening_hours: 09:00-22:00
 website: ""

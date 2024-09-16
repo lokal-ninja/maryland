@@ -1,11 +1,11 @@
 id: 859497598
-type: way
+type: node
 latitude: 39.65615
 longitude: -77.75189
 postcode: "21740"
 city: Hagerstown
-street: "Garland Groh Boulevard"
-housenumber: 17810
-phone: "+1 301-791-2886"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/hagerstown/md/hagerstown/21740/2567"
+street: Garland Groh Boulevard
+housenumber: "17810"
+phone: +1 301-791-2886
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/hagerstown/md/hagerstown/21740/2567

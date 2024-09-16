@@ -4,8 +4,8 @@ latitude: 38.97783
 longitude: -76.54466
 postcode: "21401"
 city: Annapolis
-street: "Forest Drive"
-housenumber: 2319
-phone: "+1 410-224-8323"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/annapolis/pet-supplies-annapolis-md-770.html"
+street: Forest Drive
+housenumber: "2319"
+phone: +1 410-224-8323
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/md/annapolis/pet-supplies-annapolis-md-770.html

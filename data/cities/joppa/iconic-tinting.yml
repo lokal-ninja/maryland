@@ -1,11 +1,11 @@
 id: 721040516
-type: way
+type: node
 latitude: 39.41572
 longitude: -76.38332
 postcode: "21085"
 city: Joppa
-street: "Pulaski Highway"
-housenumber: 12210
-phone: "+1-410-696-8468"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 09:00-16:00; Su off; PH off"
-website: "http://www.iconictinting.com/"
+street: Pulaski Highway
+housenumber: "12210"
+phone: +1-410-696-8468
+opening_hours: Mo-Fr 10:00-17:00; Sa 09:00-16:00; Su off; PH off
+website: http://www.iconictinting.com/

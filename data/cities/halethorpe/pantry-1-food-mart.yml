@@ -1,11 +1,11 @@
 id: 299367044
-type: way
+type: node
 latitude: 39.24932
 longitude: -76.69389
 postcode: "21227"
 city: Halethorpe
-street: "East Drive"
-housenumber: 5314
+street: East Drive
+housenumber: "5314"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 336394438
-type: way
+type: node
 latitude: 39.28281
 longitude: -76.62777
 postcode: "21230"
 city: Baltimore
-street: "Washington Boulevard"
-housenumber: 763
+street: Washington Boulevard
+housenumber: "763"
 phone: ""
 opening_hours: ""
 website: ""

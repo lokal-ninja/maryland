@@ -1,11 +1,11 @@
 id: 234407911
-type: way
+type: node
 latitude: 39.0829
 longitude: -76.8629
 postcode: "20707"
 city: Laurel
-street: "Spruce Hill Drive"
-housenumber: 8301
+street: Spruce Hill Drive
+housenumber: "8301"
 phone: ""
 opening_hours: ""
 website: ""

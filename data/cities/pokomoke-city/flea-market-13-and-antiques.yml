@@ -1,11 +1,11 @@
 id: 310937036
-type: way
+type: node
 latitude: 38.03279
 longitude: -75.54266
 postcode: ""
 city: Pokomoke City
-street: "Ocean Highway"
-housenumber: 1011
-phone: "+1-410-957-3532"
-opening_hours: "Fr-Su 08:00-16:00"
-website: "http://www.fleamarket13andantiques.net/"
+street: Ocean Highway
+housenumber: "1011"
+phone: +1-410-957-3532
+opening_hours: Fr-Su 08:00-16:00
+website: http://www.fleamarket13andantiques.net/

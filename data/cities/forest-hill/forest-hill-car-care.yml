@@ -1,11 +1,11 @@
 id: 691561660
-type: way
+type: node
 latitude: 39.58537
 longitude: -76.3872
 postcode: "21050"
 city: Forest Hill
-street: "Rocks Road"
-housenumber: 2403
-phone: "+1-410-838-3116"
+street: Rocks Road
+housenumber: "2403"
+phone: +1-410-838-3116
 opening_hours: ""
-website: "http://auto-repair-md.com/"
+website: http://auto-repair-md.com/

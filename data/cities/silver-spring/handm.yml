@@ -1,11 +1,11 @@
 id: 697599575
-type: way
+type: node
 latitude: 38.99657
 longitude: -77.02559
 postcode: "20910"
 city: Silver Spring
-street: "Fenton Street"
-housenumber: 8518
+street: Fenton Street
+housenumber: "8518"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www2.hm.com/en_us/customer-service/shopping-at-hm/local-store.US0278.html"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www2.hm.com/en_us/customer-service/shopping-at-hm/local-store.US0278.html

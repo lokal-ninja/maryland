@@ -1,11 +1,11 @@
 id: 1029232920
-type: way
+type: node
 latitude: 38.9909
 longitude: -77.09546
 postcode: "20814"
 city: Bethesda
-street: "Wisconsin Avenue"
-housenumber: 8015
+street: Wisconsin Avenue
+housenumber: "8015"
 phone: ""
 opening_hours: ""
-website: "https://www.bethesdabeerandwinemd.com/"
+website: https://www.bethesdabeerandwinemd.com/

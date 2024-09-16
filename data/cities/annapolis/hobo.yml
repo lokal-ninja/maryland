@@ -1,11 +1,11 @@
 id: 356353938
-type: way
+type: node
 latitude: 38.97713
 longitude: -76.48783
 postcode: "21401"
 city: Annapolis
-street: "Green Street"
-housenumber: 194
+street: Green Street
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "https://www.hobobags.com"
+website: https://www.hobobags.com

@@ -1,11 +1,11 @@
 id: 336282493
-type: way
+type: node
 latitude: 39.2879
 longitude: -76.5895
 postcode: "21231"
 city: Baltimore
-street: "Gough Street"
-housenumber: 1920
+street: Gough Street
+housenumber: "1920"
 phone: ""
 opening_hours: ""
 website: ""

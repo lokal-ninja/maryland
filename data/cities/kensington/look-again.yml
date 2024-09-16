@@ -1,11 +1,11 @@
 id: 118361225
-type: way
+type: node
 latitude: 39.02673
 longitude: -77.07293
 postcode: "20895"
 city: Kensington
-street: "Howard Avenue"
-housenumber: 3716
-phone: "+1 301 942 4707"
-opening_hours: "Th-Sa 10:00-16:00; Su 11:00-16:00"
-website: "http://www.youreyes.org/get-involved/#look-again-resale-shops"
+street: Howard Avenue
+housenumber: "3716"
+phone: +1 301 942 4707
+opening_hours: Th-Sa 10:00-16:00; Su 11:00-16:00
+website: http://www.youreyes.org/get-involved/#look-again-resale-shops

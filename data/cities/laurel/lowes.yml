@@ -1,11 +1,11 @@
 id: 227235623
-type: way
+type: node
 latitude: 39.08637
 longitude: -76.86299
 postcode: "20707"
 city: Laurel
-street: "Baltimore Avenue"
-housenumber: 14300
-phone: "+1 301-498-3466"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "stores.lowes.com/lowes/cgi/site?site=1188"
+street: Baltimore Avenue
+housenumber: "14300"
+phone: +1 301-498-3466
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: stores.lowes.com/lowes/cgi/site?site=1188

@@ -1,11 +1,11 @@
 id: 658306159
-type: way
+type: node
 latitude: 39.5041
 longitude: -76.3832
 postcode: "21014"
 city: Bel Air
-street: "Belair Road"
-housenumber: 1510
+street: Belair Road
+housenumber: "1510"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off"
-website: "https://www.joneschryslermaryland.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off
+website: https://www.joneschryslermaryland.com/

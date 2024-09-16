@@ -1,11 +1,11 @@
 id: 64505565
-type: way
+type: node
 latitude: 39.28925
 longitude: -77.20533
 postcode: "20872"
 city: Damascus
-street: "Ridge Road"
-housenumber: 26344
-phone: "+1 240-308-9084"
+street: Ridge Road
+housenumber: "26344"
+phone: +1 240-308-9084
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/damascus/26344-ridge-rd-27368"
+website: https://www.7-eleven.com/locations/md/damascus/26344-ridge-rd-27368

@@ -1,11 +1,11 @@
 id: 678976182
-type: way
+type: node
 latitude: 39.53981
 longitude: -76.10729
 postcode: "21078"
 city: Havre de Grace
-street: "Revolution Street"
-housenumber: 1227
-phone: "+1-410-939-3920"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.andrewsgaragehdg.com/"
+street: Revolution Street
+housenumber: "1227"
+phone: +1-410-939-3920
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.andrewsgaragehdg.com/

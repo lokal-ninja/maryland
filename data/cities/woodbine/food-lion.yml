@@ -1,11 +1,11 @@
 id: 177019007
-type: way
+type: node
 latitude: 39.35035
 longitude: -77.06694
 postcode: "21797"
 city: Woodbine
-street: "Lisbon Center Drive"
-housenumber: 705
+street: Lisbon Center Drive
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

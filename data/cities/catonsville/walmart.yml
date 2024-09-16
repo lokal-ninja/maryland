@@ -1,11 +1,11 @@
 id: 61052576
-type: way
+type: node
 latitude: 39.28215
 longitude: -76.75188
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6205
-phone: "+1 410-719-0600"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2248/catonsville-md/whats-new"
+street: Baltimore National Pike
+housenumber: "6205"
+phone: +1 410-719-0600
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2248/catonsville-md/whats-new

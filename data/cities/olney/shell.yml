@@ -1,11 +1,11 @@
 id: 44998344
-type: way
+type: node
 latitude: 39.15204
 longitude: -77.06722
 postcode: "20832"
 city: Olney
-street: "Georgia Avenue"
-housenumber: 18040
+street: Georgia Avenue
+housenumber: "18040"
 phone: ""
 opening_hours: ""
 website: ""

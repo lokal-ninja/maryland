@@ -1,11 +1,11 @@
 id: 196441682
-type: way
+type: node
 latitude: 39.39972
 longitude: -76.54405
 postcode: "21234"
 city: Parkville
-street: "Waltham Woods Road"
-housenumber: 8858
-phone: "+1 410-882-8822"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/parkville/8858-waltham-woods-rd.html"
+street: Waltham Woods Road
+housenumber: "8858"
+phone: +1 410-882-8822
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/parkville/8858-waltham-woods-rd.html

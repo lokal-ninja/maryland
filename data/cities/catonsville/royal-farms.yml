@@ -1,11 +1,11 @@
 id: 919604787
-type: way
+type: node
 latitude: 39.28125
 longitude: -76.72592
 postcode: "21228"
 city: Catonsville
-street: "Edmondson Avenue"
-housenumber: 6124
+street: Edmondson Avenue
+housenumber: "6124"
 phone: ""
 opening_hours: ""
-website: "https://www.royalfarms.com/"
+website: https://www.royalfarms.com/

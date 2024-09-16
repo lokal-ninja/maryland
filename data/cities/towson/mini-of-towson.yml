@@ -1,11 +1,11 @@
 id: 1125013139
-type: way
+type: node
 latitude: 39.41089
 longitude: -76.61788
 postcode: "21204"
 city: Towson
-street: "Kenilworth Drive"
-housenumber: 720
+street: Kenilworth Drive
+housenumber: "720"
 phone: ""
 opening_hours: ""
-website: "https://www.minioftowson.com/"
+website: https://www.minioftowson.com/

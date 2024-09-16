@@ -1,11 +1,11 @@
 id: 184178550
-type: way
+type: node
 latitude: 39.33316
 longitude: -76.75917
 postcode: "21244"
 city: Windsor Mill
-street: "North Rolling Road"
-housenumber: 2845
+street: North Rolling Road
+housenumber: "2845"
 phone: ""
 opening_hours: ""
-website: "https://www.wawa.com/"
+website: https://www.wawa.com/

@@ -1,11 +1,11 @@
 id: 122088296
-type: way
+type: node
 latitude: 39.06019
 longitude: -77.0483
 postcode: "20902"
 city: Silver Spring
-street: "Randolph Road"
-housenumber: 2211
+street: Randolph Road
+housenumber: "2211"
 phone: ""
 opening_hours: ""
 website: ""

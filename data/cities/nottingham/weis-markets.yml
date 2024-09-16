@@ -1,11 +1,11 @@
 id: 188564408
-type: way
+type: node
 latitude: 39.39969
 longitude: -76.4834
 postcode: "21236"
 city: Nottingham
-street: "Joppa Road"
-housenumber: 4126
+street: Joppa Road
+housenumber: "4126"
 phone: ""
 opening_hours: ""
 website: ""

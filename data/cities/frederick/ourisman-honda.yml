@@ -1,11 +1,11 @@
 id: 328272834
-type: way
+type: node
 latitude: 39.37493
 longitude: -77.40937
 postcode: "21704"
 city: Frederick
-street: "Shockley Drive"
-housenumber: 7400
+street: Shockley Drive
+housenumber: "7400"
 phone: ""
 opening_hours: ""
-website: "https://www.shockleyhonda.com/"
+website: https://www.shockleyhonda.com/

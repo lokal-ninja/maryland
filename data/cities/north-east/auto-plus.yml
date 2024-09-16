@@ -1,11 +1,11 @@
 id: 773666256
-type: way
+type: node
 latitude: 39.61285
 longitude: -75.93398
 postcode: "21901"
 city: North East
-street: "Flint Drive"
-housenumber: 24
-phone: "+1-410-287-6301"
+street: Flint Drive
+housenumber: "24"
+phone: +1-410-287-6301
 opening_hours: ""
-website: "https://autoplusap.com//"
+website: https://autoplusap.com//

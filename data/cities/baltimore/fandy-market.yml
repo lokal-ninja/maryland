@@ -1,11 +1,11 @@
 id: 336343172
-type: way
+type: node
 latitude: 39.316
 longitude: -76.60693
 postcode: "21218"
 city: Baltimore
-street: "Cokesbury Avenue"
-housenumber: 666
+street: Cokesbury Avenue
+housenumber: "666"
 phone: ""
 opening_hours: ""
 website: ""

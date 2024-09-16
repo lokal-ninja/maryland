@@ -1,11 +1,11 @@
 id: 485157140
-type: way
+type: node
 latitude: 38.78439
 longitude: -76.79219
 postcode: "20772"
 city: Upper Marlboro
-street: "Crain Highway"
-housenumber: 7600
-phone: "+1-301-627-6603"
+street: Crain Highway
+housenumber: "7600"
+phone: +1-301-627-6603
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/upper-marlboro-md-pharmacies/7600-se-crain-highway-upper-marlboro-md-20772/storeid=1470"
+website: https://www.cvs.com/store-locator/upper-marlboro-md-pharmacies/7600-se-crain-highway-upper-marlboro-md-20772/storeid=1470

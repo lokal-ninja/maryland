@@ -1,11 +1,11 @@
 id: 142220109
-type: way
+type: node
 latitude: 39.18501
 longitude: -76.79366
 postcode: "21075"
 city: Elkridge
-street: "Gateway Overlook Drive"
-housenumber: 8251
-phone: "+1 410-872-9448"
+street: Gateway Overlook Drive
+housenumber: "8251"
+phone: +1 410-872-9448
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/elkridge/8251-gateway-overlook-dr-263.html"
+website: https://stores.bestbuy.com/md/elkridge/8251-gateway-overlook-dr-263.html

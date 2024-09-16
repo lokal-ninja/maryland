@@ -4,8 +4,9 @@ latitude: 39.63231
 longitude: -76.27353
 postcode: "21154"
 city: Street
-street: "Conowingo Rd"
-housenumber: 3404
+street: Conowingo Rd
+housenumber: "3404"
 phone: ""
-opening_hours: "Tu 11:00-19:00, We 11:00-18:00, Th 11:00-20:00, Fr 11:00-19:00, Sa 10:00-17:00, Su closed, Mo 11:00-19:00"
+opening_hours: Tu 11:00-19:00, We 11:00-18:00, Th 11:00-20:00, Fr 11:00-19:00, Sa
+    10:00-17:00, Su closed, Mo 11:00-19:00
 website: ""

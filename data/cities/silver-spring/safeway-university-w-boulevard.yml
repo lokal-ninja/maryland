@@ -1,11 +1,11 @@
 id: 42455560
-type: way
+type: node
 latitude: 39.02062
 longitude: -77.01565
 postcode: "20901"
 city: Silver Spring
-street: "University W Boulevard"
-housenumber: 116
-phone: "+1 301-593-7526"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/silver-spring/116-university-w-blvd.html"
+street: University W Boulevard
+housenumber: "116"
+phone: +1 301-593-7526
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/silver-spring/116-university-w-blvd.html

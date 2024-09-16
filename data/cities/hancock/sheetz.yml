@@ -1,11 +1,11 @@
 id: 160624386
-type: way
+type: node
 latitude: 39.70011
 longitude: -78.18471
 postcode: "21750"
 city: Hancock
-street: "West Main Street"
-housenumber: 192
-phone: "+1 301-678-6393"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/43"
+street: West Main Street
+housenumber: "192"
+phone: +1 301-678-6393
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/43

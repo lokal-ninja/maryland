@@ -1,11 +1,11 @@
 id: 391194733
-type: way
+type: node
 latitude: 38.29126
 longitude: -76.63509
 postcode: ""
 city: Leonardtown
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 965286453
-type: way
+type: node
 latitude: 39.11736
 longitude: -76.61894
 postcode: "21108"
 city: Millersville
-street: "Old Mill Road"
-housenumber: 495
+street: Old Mill Road
+housenumber: "495"
 phone: ""
 opening_hours: ""
 website: ""

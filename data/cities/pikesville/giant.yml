@@ -1,11 +1,11 @@
 id: 54267037
-type: way
+type: node
 latitude: 39.3773
 longitude: -76.72428
 postcode: "21208"
 city: Pikesville
-street: "Old Court Road"
-housenumber: 3757
-phone: "+1 410-602-7660"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/pikesville/3757-old-court-rd"
+street: Old Court Road
+housenumber: "3757"
+phone: +1 410-602-7660
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/pikesville/3757-old-court-rd

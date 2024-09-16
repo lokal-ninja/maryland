@@ -1,11 +1,11 @@
 id: 678976177
-type: way
+type: node
 latitude: 39.54067
 longitude: -76.10375
 postcode: "21078"
 city: Havre de Grace
-street: "Revolution Street"
-housenumber: 1122
-phone: "+1-443-502-6688"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://locations.familydollar.com/md/havre-de-grace/30813/"
+street: Revolution Street
+housenumber: "1122"
+phone: +1-443-502-6688
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://locations.familydollar.com/md/havre-de-grace/30813/

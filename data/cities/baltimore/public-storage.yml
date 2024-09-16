@@ -1,11 +1,11 @@
 id: 191344936
-type: way
+type: node
 latitude: 39.3506
 longitude: -76.69411
 postcode: "21215"
 city: Baltimore
-street: "Reisterstown Road"
-housenumber: 5801
+street: Reisterstown Road
+housenumber: "5801"
 phone: ""
 opening_hours: ""
 website: ""

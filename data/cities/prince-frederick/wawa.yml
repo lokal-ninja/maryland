@@ -1,11 +1,11 @@
 id: 289314419
-type: way
+type: node
 latitude: 38.55696
 longitude: -76.59889
 postcode: "20678"
 city: Prince Frederick
-street: "North Solomons Island Road"
-housenumber: 305
+street: North Solomons Island Road
+housenumber: "305"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/591"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/591

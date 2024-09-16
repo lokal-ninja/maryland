@@ -1,11 +1,11 @@
 id: 336381068
-type: way
+type: node
 latitude: 39.31993
 longitude: -76.62006
 postcode: "21211"
 city: Baltimore
-street: "West Lorraine Avenue"
-housenumber: 201
+street: West Lorraine Avenue
+housenumber: "201"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-16:00; PH,Su,Mo off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-16:00; PH,Su,Mo off
 website: ""

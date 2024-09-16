@@ -1,11 +1,11 @@
 id: 345304809
-type: way
+type: node
 latitude: 39.1897
 longitude: -76.60952
 postcode: "21061"
 city: Glen Burnie
-street: "Ritchie Highway"
-housenumber: 6717
-phone: "+1-410-487-0038"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/glen-burnie-north/1938"
+street: Ritchie Highway
+housenumber: "6717"
+phone: +1-410-487-0038
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/glen-burnie-north/1938

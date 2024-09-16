@@ -1,11 +1,11 @@
 id: 1183745574
-type: way
+type: node
 latitude: 39.12789
 longitude: -76.54001
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 2800
-phone: "+1-410-439-9066"
+street: Mountain Road
+housenumber: "2800"
+phone: +1-410-439-9066
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/pasadena/2800-mountain-rd-32311"
+website: https://www.7-eleven.com/locations/md/pasadena/2800-mountain-rd-32311

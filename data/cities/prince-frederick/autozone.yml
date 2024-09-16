@@ -1,11 +1,11 @@
 id: 419932477
-type: way
+type: node
 latitude: 38.55385
 longitude: -76.59612
 postcode: ""
 city: Prince Frederick
-street: "Prince Frederick Boulevard"
-housenumber: 741
-phone: "+1 410-414-9437"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/md/prince-frederick/741-prince-frederick-blvd.html"
+street: Prince Frederick Boulevard
+housenumber: "741"
+phone: +1 410-414-9437
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/md/prince-frederick/741-prince-frederick-blvd.html

@@ -1,11 +1,11 @@
 id: 733443339
-type: way
+type: node
 latitude: 39.39468
 longitude: -76.52483
 postcode: "21234"
 city: Parkville
-street: "East Joppa Road"
-housenumber: 2919
+street: East Joppa Road
+housenumber: "2919"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/parkville-md-pharmacies/2911-east-joppa-rd-parkville-md-21234/storeid=2045"
+website: https://www.cvs.com/store-locator/parkville-md-pharmacies/2911-east-joppa-rd-parkville-md-21234/storeid=2045

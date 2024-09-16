@@ -1,11 +1,11 @@
 id: 336412399
-type: way
+type: node
 latitude: 39.29678
 longitude: -76.63337
 postcode: "21217"
 city: Baltimore
-street: "North Fremont Avenue"
-housenumber: 662
+street: North Fremont Avenue
+housenumber: "662"
 phone: ""
 opening_hours: ""
 website: ""

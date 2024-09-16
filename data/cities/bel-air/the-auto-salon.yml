@@ -1,11 +1,11 @@
 id: 629123849
-type: way
+type: node
 latitude: 39.53205
 longitude: -76.34872
 postcode: "21014"
 city: Bel Air
-street: "Baltimore Pike"
-housenumber: 139
-phone: "+1-443-640-4281"
+street: Baltimore Pike
+housenumber: "139"
+phone: +1-443-640-4281
 opening_hours: ""
-website: "https://www.autosalonbelair.com/"
+website: https://www.autosalonbelair.com/

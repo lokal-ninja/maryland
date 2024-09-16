@@ -4,8 +4,8 @@ latitude: 39.29221
 longitude: -76.61568
 postcode: "21201"
 city: Baltimore
-street: "North Charles Street"
-housenumber: 222
-phone: "+1-667-930-3405"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.streetsmarket.com/"
+street: North Charles Street
+housenumber: "222"
+phone: +1-667-930-3405
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.streetsmarket.com/

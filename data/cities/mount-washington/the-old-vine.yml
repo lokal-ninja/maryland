@@ -1,11 +1,11 @@
 id: 275030806
-type: way
+type: node
 latitude: 39.37217
 longitude: -76.65015
 postcode: "21209"
 city: Mount Washington
-street: "Falls Road"
-housenumber: 6054
+street: Falls Road
+housenumber: "6054"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

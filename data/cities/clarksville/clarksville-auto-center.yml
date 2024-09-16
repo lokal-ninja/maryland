@@ -1,11 +1,11 @@
 id: 130101848
-type: way
+type: node
 latitude: 39.21354
 longitude: -76.9373
 postcode: "21029"
 city: Clarksville
 street: ""
-housenumber: 12188
+housenumber: "12188"
 phone: ""
 opening_hours: ""
-website: "www.clarksvilleautocenter.com"
+website: www.clarksvilleautocenter.com

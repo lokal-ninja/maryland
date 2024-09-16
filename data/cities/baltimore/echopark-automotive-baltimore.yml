@@ -1,11 +1,11 @@
 id: 191344938
-type: way
+type: node
 latitude: 39.35233
 longitude: -76.69637
 postcode: "21215"
 city: Baltimore
-street: "Reisterstown Road"
-housenumber: 6001
-phone: "+1-410-553-5540"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.echopark.com/dealerships/baltimore.htm"
+street: Reisterstown Road
+housenumber: "6001"
+phone: +1-410-553-5540
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.echopark.com/dealerships/baltimore.htm

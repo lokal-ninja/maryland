@@ -4,8 +4,8 @@ latitude: 39.29378
 longitude: -76.61528
 postcode: "21201"
 city: Baltimore
-street: "North Charles Street"
-housenumber: 339
+street: North Charles Street
+housenumber: "339"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00;Sa 10:00-19:00;Su 12:00-18:00"
+opening_hours: Mo-Fr 11:00-19:00;Sa 10:00-19:00;Su 12:00-18:00
 website: ""

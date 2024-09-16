@@ -1,11 +1,11 @@
 id: 750618456
-type: way
+type: node
 latitude: 39.49989
 longitude: -77.56724
 postcode: "21773"
 city: Myersville
-street: "Myersville Road"
-housenumber: 9629
+street: Myersville Road
+housenumber: "9629"
 phone: ""
 opening_hours: ""
 website: ""

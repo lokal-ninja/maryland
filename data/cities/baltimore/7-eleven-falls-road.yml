@@ -1,11 +1,11 @@
 id: 336415185
-type: way
+type: node
 latitude: 39.33125
 longitude: -76.63472
 postcode: "21211"
 city: Baltimore
-street: "Falls Road"
-housenumber: 3601
-phone: "+1 410-467-4234"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/baltimore/3601-falls-road-27340"
+street: Falls Road
+housenumber: "3601"
+phone: +1 410-467-4234
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/baltimore/3601-falls-road-27340

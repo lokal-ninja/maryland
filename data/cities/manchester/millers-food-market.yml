@@ -1,11 +1,11 @@
 id: 201280298
-type: way
+type: node
 latitude: 39.66371
 longitude: -76.88678
 postcode: "21102"
 city: Manchester
-street: "Manchester Road"
-housenumber: 3075
-phone: "+1-410-374-4545"
-opening_hours: "Mo-Sa 8:00-20:00"
-website: "https://www.millersfoodmarket.com/"
+street: Manchester Road
+housenumber: "3075"
+phone: +1-410-374-4545
+opening_hours: Mo-Sa 8:00-20:00
+website: https://www.millersfoodmarket.com/

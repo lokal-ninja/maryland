@@ -1,11 +1,11 @@
 id: 299326968
-type: way
+type: node
 latitude: 39.26947
 longitude: -76.73137
 postcode: "21228"
 city: Catonsville
-street: "Bloomingdale Avenue"
-housenumber: 708
+street: Bloomingdale Avenue
+housenumber: "708"
 phone: ""
 opening_hours: ""
 website: ""

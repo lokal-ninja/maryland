@@ -1,11 +1,11 @@
 id: 298929622
-type: way
+type: node
 latitude: 39.30938
 longitude: -76.47252
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 609
-phone: "+1 410 686 6162"
+street: Eastern Boulevard
+housenumber: "609"
+phone: +1 410 686 6162
 opening_hours: ""
 website: ""

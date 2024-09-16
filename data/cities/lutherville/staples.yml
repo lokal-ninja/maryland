@@ -1,11 +1,11 @@
 id: 176596099
-type: way
+type: node
 latitude: 39.44245
 longitude: -76.62611
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 2131
+street: York Road
+housenumber: "2131"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/md/timonium/2131-york-rd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/md/timonium/2131-york-rd

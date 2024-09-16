@@ -1,11 +1,11 @@
 id: 225647705
-type: way
+type: node
 latitude: 38.62038
 longitude: -76.92326
-postcode: "20603-4582"
+postcode: 20603-4582
 city: Waldorf
-street: "Western Parkway"
-housenumber: 3300
-phone: "+1 301-645-7114"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/waldorf/1008"
+street: Western Parkway
+housenumber: "3300"
+phone: +1 301-645-7114
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/waldorf/1008

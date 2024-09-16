@@ -1,11 +1,11 @@
 id: 631993167
-type: way
+type: node
 latitude: 39.48008
 longitude: -76.31157
 postcode: "21009"
 city: Abingdon
-street: "Emmorton Road"
-housenumber: 2904
-phone: "410-569-4500"
+street: Emmorton Road
+housenumber: "2904"
+phone: 410-569-4500
 opening_hours: ""
-website: "https://www.kenwoodkitchens.com/"
+website: https://www.kenwoodkitchens.com/

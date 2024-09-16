@@ -1,11 +1,11 @@
 id: 239530387
-type: way
+type: node
 latitude: 39.3812
 longitude: -77.42211
 postcode: "21703"
 city: Frederick
-street: "New Design Road"
-housenumber: 5316
+street: New Design Road
+housenumber: "5316"
 phone: ""
 opening_hours: ""
-website: "https://giantfood.com/"
+website: https://giantfood.com/

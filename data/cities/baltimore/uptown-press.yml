@@ -1,11 +1,11 @@
 id: 336384428
-type: way
+type: node
 latitude: 39.31438
 longitude: -76.62311
 postcode: "21211"
 city: Baltimore
-street: "West 23rd Street"
-housenumber: 501
-phone: "+1 410 889 8686"
+street: West 23rd Street
+housenumber: "501"
+phone: +1 410 889 8686
 opening_hours: ""
-website: "https://www.uptownpress.com/"
+website: https://www.uptownpress.com/

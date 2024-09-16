@@ -1,11 +1,11 @@
 id: 317135345
-type: way
+type: node
 latitude: 39.43522
 longitude: -76.31817
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 1812
-phone: "+1-410-676-8404"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00"
-website: "https://www.jiffylube.com/locations/md/edgewood/993"
+street: Pulaski Highway
+housenumber: "1812"
+phone: +1-410-676-8404
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00
+website: https://www.jiffylube.com/locations/md/edgewood/993

@@ -1,11 +1,11 @@
 id: 742488256
-type: way
+type: node
 latitude: 39.05065
 longitude: -77.11619
 postcode: "20852"
 city: Rockville
-street: "Rose Avenue"
-housenumber: 910
-phone: "+1-301-770-1751"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.rei.com/stores/rockville"
+street: Rose Avenue
+housenumber: "910"
+phone: +1-301-770-1751
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.rei.com/stores/rockville

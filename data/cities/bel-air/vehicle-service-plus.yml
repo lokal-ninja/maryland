@@ -1,11 +1,11 @@
 id: 629125335
-type: way
+type: node
 latitude: 39.53323
 longitude: -76.34829
 postcode: "21014"
 city: Bel Air
-street: "Baltimore Pike"
-housenumber: 100
-phone: "+1-410-879-1500"
-opening_hours: "Mo-Fr 07:30-17:00; Sa-Su off; PH off"
+street: Baltimore Pike
+housenumber: "100"
+phone: +1-410-879-1500
+opening_hours: Mo-Fr 07:30-17:00; Sa-Su off; PH off
 website: ""

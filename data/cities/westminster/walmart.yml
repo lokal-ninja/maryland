@@ -1,11 +1,11 @@
 id: 53051445
-type: way
+type: node
 latitude: 39.58608
 longitude: -76.98394
 postcode: "21157"
 city: Westminster
-street: "Woodward Road"
-housenumber: 280
-phone: "+1 410-857-8307"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1867/westminster-md/whats-new"
+street: Woodward Road
+housenumber: "280"
+phone: +1 410-857-8307
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1867/westminster-md/whats-new

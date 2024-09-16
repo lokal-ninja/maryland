@@ -1,11 +1,11 @@
 id: 156567167
-type: way
+type: node
 latitude: 39.28351
 longitude: -76.80825
 postcode: "21043"
 city: Ellicott City
-street: "Baltimore National Pike"
-housenumber: 8559
+street: Baltimore National Pike
+housenumber: "8559"
 phone: ""
 opening_hours: ""
 website: ""

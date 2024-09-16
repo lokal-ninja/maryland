@@ -1,11 +1,11 @@
 id: 337489838
-type: way
+type: node
 latitude: 39.37186
 longitude: -76.61049
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 6310
+street: York Road
+housenumber: "6310"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.wellswine.com/"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.wellswine.com/

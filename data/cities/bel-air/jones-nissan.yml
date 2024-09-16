@@ -1,11 +1,11 @@
 id: 658306157
-type: way
+type: node
 latitude: 39.50578
 longitude: -76.38243
 postcode: "21014"
 city: Bel Air
-street: "Belair Road"
-housenumber: 1506
+street: Belair Road
+housenumber: "1506"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off"
-website: "https://www.belairnissan.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off
+website: https://www.belairnissan.com/

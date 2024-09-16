@@ -1,11 +1,11 @@
 id: 591703904
-type: way
+type: node
 latitude: 39.57009
 longitude: -76.38392
 postcode: "21050"
 city: Forest Hill
-street: "Osborne Parkway"
-housenumber: 50
-phone: "+1-410-638-6010"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.kohls.com/stores/md/foresthill-1330.shtml"
+street: Osborne Parkway
+housenumber: "50"
+phone: +1-410-638-6010
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.kohls.com/stores/md/foresthill-1330.shtml

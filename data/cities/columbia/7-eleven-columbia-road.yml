@@ -1,11 +1,11 @@
 id: 145471634
-type: way
+type: node
 latitude: 39.22798
 longitude: -76.85671
 postcode: "21044"
 city: Columbia
-street: "Columbia Road"
-housenumber: 5740
-phone: "+1 410-730-3520"
+street: Columbia Road
+housenumber: "5740"
+phone: +1 410-730-3520
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/columbia/5740-columbia-road-11704"
+website: https://www.7-eleven.com/locations/md/columbia/5740-columbia-road-11704

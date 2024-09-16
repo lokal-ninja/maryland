@@ -1,11 +1,11 @@
 id: 266685209
-type: way
+type: node
 latitude: 39.2827
 longitude: -76.75521
 postcode: "21228"
 city: Catonsville
-street: "North Rolling Road"
-housenumber: 800
+street: North Rolling Road
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

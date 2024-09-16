@@ -1,11 +1,11 @@
 id: 336345761
-type: way
+type: node
 latitude: 39.33891
 longitude: -76.60775
 postcode: "21218"
 city: Baltimore
-street: "Rose Hill Terrace"
-housenumber: 532
+street: Rose Hill Terrace
+housenumber: "532"
 phone: ""
 opening_hours: ""
 website: ""

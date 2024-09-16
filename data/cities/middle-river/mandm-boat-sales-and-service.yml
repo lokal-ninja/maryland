@@ -1,11 +1,11 @@
 id: 298916762
-type: way
+type: node
 latitude: 39.32808
 longitude: -76.44241
 postcode: "21220"
 city: Middle River
-street: "Eastern Boulevard"
-housenumber: 2010
-phone: "+1 410 391 2333"
+street: Eastern Boulevard
+housenumber: "2010"
+phone: +1 410 391 2333
 opening_hours: ""
-website: "http://www.mmboats.com"
+website: http://www.mmboats.com

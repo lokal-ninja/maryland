@@ -1,11 +1,11 @@
 id: 336278268
-type: way
+type: node
 latitude: 39.29764
 longitude: -76.5879
 postcode: "21205"
 city: Baltimore
-street: "North Chester Street"
-housenumber: 600
+street: North Chester Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

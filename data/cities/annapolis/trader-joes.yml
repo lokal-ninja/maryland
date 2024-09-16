@@ -4,8 +4,8 @@ latitude: 38.98914
 longitude: -76.53993
 postcode: "21401"
 city: Annapolis
-street: "Jennifer Road"
-housenumber: 160
-phone: "+1 410-573-0505"
-opening_hours: "08:00-21:00"
-website: "https://locations.traderjoes.com/md/annapolis/650/"
+street: Jennifer Road
+housenumber: "160"
+phone: +1 410-573-0505
+opening_hours: 08:00-21:00
+website: https://locations.traderjoes.com/md/annapolis/650/

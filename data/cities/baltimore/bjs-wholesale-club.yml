@@ -1,11 +1,11 @@
 id: 375844957
-type: way
+type: node
 latitude: 39.27914
 longitude: -76.55615
 postcode: "21224"
 city: Baltimore
-street: "O'Donnell Street"
-housenumber: 4701
+street: O'Donnell Street
+housenumber: "4701"
 phone: ""
 opening_hours: ""
 website: ""

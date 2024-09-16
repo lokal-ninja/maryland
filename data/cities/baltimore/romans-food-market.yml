@@ -1,11 +1,11 @@
 id: 336339408
-type: way
+type: node
 latitude: 39.31409
 longitude: -76.6055
 postcode: "21218"
 city: Baltimore
-street: "East 22nd Street"
-housenumber: 931
+street: East 22nd Street
+housenumber: "931"
 phone: ""
 opening_hours: ""
 website: ""

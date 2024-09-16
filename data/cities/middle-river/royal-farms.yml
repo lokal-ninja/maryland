@@ -1,11 +1,11 @@
 id: 253456784
-type: way
+type: node
 latitude: 39.35975
 longitude: -76.41039
 postcode: "21220"
 city: Middle River
-street: "Market Way"
-housenumber: 11905
+street: Market Way
+housenumber: "11905"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.royalfarms.com/"
+opening_hours: 24/7
+website: https://www.royalfarms.com/

@@ -1,11 +1,11 @@
 id: 170508774
-type: way
+type: node
 latitude: 39.26773
 longitude: -76.75664
 postcode: "21228"
 city: Catonsville
-street: "Frederick Road"
-housenumber: 1835
-phone: "+1-443-830-0310"
+street: Frederick Road
+housenumber: "1835"
+phone: +1-443-830-0310
 opening_hours: ""
-website: "https://www.candlelightfuneralhome.com/"
+website: https://www.candlelightfuneralhome.com/

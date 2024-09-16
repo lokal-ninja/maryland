@@ -1,11 +1,11 @@
 id: 356394881
-type: way
+type: node
 latitude: 39.29362
 longitude: -76.65913
 postcode: "21223"
 city: Baltimore
-street: "West Franklin Street"
-housenumber: 2560
+street: West Franklin Street
+housenumber: "2560"
 phone: ""
-opening_hours: "09:00-20:00 different pharmacy hours"
-website: "https://www.cvs.com/store-locator/baltimore-md-pharmacies/2560-west-franklin-street-baltimore-md-21223/storeid=5764"
+opening_hours: 09:00-20:00 "different pharmacy hours"
+website: https://www.cvs.com/store-locator/baltimore-md-pharmacies/2560-west-franklin-street-baltimore-md-21223/storeid=5764

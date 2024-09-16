@@ -1,11 +1,11 @@
 id: 1053405557
-type: way
+type: node
 latitude: 39.31358
 longitude: -76.64558
 postcode: "21217"
 city: Baltimore
-street: "North Fulton Avenue"
-housenumber: 2217
+street: North Fulton Avenue
+housenumber: "2217"
 phone: ""
 opening_hours: ""
 website: ""

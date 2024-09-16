@@ -1,11 +1,11 @@
 id: 83586317
-type: way
+type: node
 latitude: 39.33032
 longitude: -76.42666
 postcode: "21220"
 city: Middle River
-street: "Wilson Point Road"
-housenumber: 500
+street: Wilson Point Road
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

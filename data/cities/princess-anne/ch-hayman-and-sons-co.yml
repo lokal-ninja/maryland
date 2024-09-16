@@ -1,11 +1,11 @@
 id: 901097014
-type: way
+type: node
 latitude: 38.20547
 longitude: -75.69482
 postcode: "21853"
 city: Princess Anne
-street: "Broad Street"
-housenumber: 30488
+street: Broad Street
+housenumber: "30488"
 phone: ""
 opening_hours: ""
 website: ""

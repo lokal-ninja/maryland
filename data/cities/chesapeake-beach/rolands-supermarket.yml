@@ -4,8 +4,9 @@ latitude: 38.68794
 longitude: -76.53602
 postcode: "20732"
 city: Chesapeake Beach
-street: "Bayside Road"
-housenumber: 7875
-phone: "+1 410 257 0187"
-opening_hours: "06:00-21:00; Jan 1 09:00-21:00; Dec 24 06:00-19:00; Dec 25 off; Dec 31 06:00-19:00"
-website: "https://www.rolandsgrocery.com/"
+street: Bayside Road
+housenumber: "7875"
+phone: +1 410 257 0187
+opening_hours: 06:00-21:00; Jan 1 09:00-21:00; Dec 24 06:00-19:00; Dec 25 off; Dec
+    31 06:00-19:00
+website: https://www.rolandsgrocery.com/

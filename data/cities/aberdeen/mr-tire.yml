@@ -4,8 +4,8 @@ latitude: 39.51061
 longitude: -76.16642
 postcode: "21001"
 city: Aberdeen
-street: "West Bel Air Avenue"
-housenumber: 123
-phone: "+1-410-272-2679"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00; PH off"
-website: "https://locations.mrtire.com/md/aberdeen/123-w--bel-air-avenue.html"
+street: West Bel Air Avenue
+housenumber: "123"
+phone: +1-410-272-2679
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-17:00; PH off
+website: https://locations.mrtire.com/md/aberdeen/123-w--bel-air-avenue.html

@@ -1,11 +1,11 @@
 id: 336350091
-type: way
+type: node
 latitude: 39.35424
 longitude: -76.60926
 postcode: "21212"
 city: Baltimore
-street: "Glenwood Avenue"
-housenumber: 500
+street: Glenwood Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 128366922
-type: way
+type: node
 latitude: 39.27899
 longitude: -76.83079
 postcode: "21042"
 city: Ellicott City
-street: "Baltimore National Pike"
-housenumber: 9220
-phone: "+1 443-288-0071"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/md/ellicott-city/1322/"
+street: Baltimore National Pike
+housenumber: "9220"
+phone: +1 443-288-0071
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/md/ellicott-city/1322/

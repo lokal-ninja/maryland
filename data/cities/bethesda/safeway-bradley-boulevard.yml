@@ -1,11 +1,11 @@
 id: 227706681
-type: way
+type: node
 latitude: 38.97773
 longitude: -77.09939
 postcode: "20815"
 city: Bethesda
-street: "Bradley Boulevard"
-housenumber: 5000
-phone: "+1 301-215-4148"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/bethesda/5000-bradley-blvd.html"
+street: Bradley Boulevard
+housenumber: "5000"
+phone: +1 301-215-4148
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/bethesda/5000-bradley-blvd.html

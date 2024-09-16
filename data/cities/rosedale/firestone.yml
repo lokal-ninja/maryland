@@ -1,11 +1,11 @@
 id: 311115902
-type: way
+type: node
 latitude: 39.33914
 longitude: -76.48231
 postcode: "21237"
 city: Rosedale
-street: "Yellow Brick Road"
-housenumber: 8815
+street: Yellow Brick Road
+housenumber: "8815"
 phone: ""
 opening_hours: ""
 website: ""

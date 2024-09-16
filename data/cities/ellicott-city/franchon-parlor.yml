@@ -4,8 +4,9 @@ latitude: 39.28114
 longitude: -76.81218
 postcode: "21043"
 city: Ellicott City
-street: "Baltimore National Pike"
-housenumber: 8659
+street: Baltimore National Pike
+housenumber: "8659"
 phone: ""
-opening_hours: "Mo off; Tu by appointment; We-Fr 10:00-18:00; Sa 09:00-14:00; Su off; PH off"
-website: "http://franchonparlour.com/"
+opening_hours: Mo off; Tu "by appointment"; We-Fr 10:00-18:00; Sa 09:00-14:00; Su
+    off; PH off
+website: http://franchonparlour.com/

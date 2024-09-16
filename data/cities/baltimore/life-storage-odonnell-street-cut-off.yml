@@ -1,11 +1,11 @@
 id: 198499830
-type: way
+type: node
 latitude: 39.28
 longitude: -76.54933
 postcode: "21224"
 city: Baltimore
-street: "O'Donnell Street Cut Off"
-housenumber: 5425
-phone: "+1-410-230-7188"
+street: O'Donnell Street Cut Off
+housenumber: "5425"
+phone: +1-410-230-7188
 opening_hours: ""
-website: "https://lifestorage.com"
+website: https://lifestorage.com

@@ -1,11 +1,11 @@
 id: 1184114577
-type: way
+type: node
 latitude: 39.22582
 longitude: -76.06924
 postcode: "21620"
 city: Chestertown
-street: "Washington Avenue"
-housenumber: 711
+street: Washington Avenue
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

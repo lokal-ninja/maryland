@@ -4,8 +4,9 @@ latitude: 39.59889
 longitude: -75.82595
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 128
-phone: "+1-443-350-9808"
-opening_hours: "Mo-We 12:00-21:00; Th 12:00-22:00; Fr-Sa 11:00-23:00; Su 12:00-20:00; PH off"
-website: "https://spartancigarlounge.com/"
+street: East Pulaski Highway
+housenumber: "128"
+phone: +1-443-350-9808
+opening_hours: Mo-We 12:00-21:00; Th 12:00-22:00; Fr-Sa 11:00-23:00; Su 12:00-20:00;
+    PH off
+website: https://spartancigarlounge.com/

@@ -1,11 +1,11 @@
 id: 57201441
-type: way
+type: node
 latitude: 39.46424
 longitude: -76.63734
 postcode: "21030"
 city: Cockeysville
-street: "York Road"
-housenumber: 10012
+street: York Road
+housenumber: "10012"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/md/cockeysville/10012-york-rd-21030/4247"
+website: https://www.ntb.com/store/md/cockeysville/10012-york-rd-21030/4247

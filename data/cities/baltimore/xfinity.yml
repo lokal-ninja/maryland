@@ -1,11 +1,11 @@
 id: 336404828
-type: way
+type: node
 latitude: 39.3358
 longitude: -76.6312
 postcode: "21211"
 city: Baltimore
-street: "West 40th Street"
-housenumber: 733
+street: West 40th Street
+housenumber: "733"
 phone: ""
 opening_hours: ""
 website: ""

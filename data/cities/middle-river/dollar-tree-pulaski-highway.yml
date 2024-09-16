@@ -1,11 +1,11 @@
 id: 380901528
-type: way
+type: node
 latitude: 39.35988
 longitude: -76.44548
 postcode: "21220"
 city: Middle River
-street: "Pulaski Highway"
-housenumber: 9991
+street: Pulaski Highway
+housenumber: "9991"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/md/middle-river/591/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/md/middle-river/591/

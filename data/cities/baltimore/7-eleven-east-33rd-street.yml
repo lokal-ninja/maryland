@@ -4,8 +4,8 @@ latitude: 39.32804
 longitude: -76.61037
 postcode: "21218"
 city: Baltimore
-street: "East 33rd Street"
-housenumber: 401
-phone: "+1 443-610-0837"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/baltimore/401-e-33rd-st-20925"
+street: East 33rd Street
+housenumber: "401"
+phone: +1 443-610-0837
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/baltimore/401-e-33rd-st-20925

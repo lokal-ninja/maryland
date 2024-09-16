@@ -1,11 +1,11 @@
 id: 172949774
-type: way
+type: node
 latitude: 39.28237
 longitude: -76.81379
 postcode: "21043"
 city: Ellicott City
-street: "Executive Center Road"
-housenumber: 8901
+street: Executive Center Road
+housenumber: "8901"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7663"
+website: https://www.carmax.com/stores/7663

@@ -1,11 +1,11 @@
 id: 337120970
-type: way
+type: node
 latitude: 39.28509
 longitude: -76.58666
 postcode: "21231"
 city: Baltimore
-street: "Fleet Street"
-housenumber: 2108
+street: Fleet Street
+housenumber: "2108"
 phone: ""
 opening_hours: ""
-website: "https://www.likdancewear.com/"
+website: https://www.likdancewear.com/

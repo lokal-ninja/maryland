@@ -1,11 +1,11 @@
 id: 357469832
-type: way
+type: node
 latitude: 39.02706
 longitude: -76.45484
 postcode: "21409"
 city: Annapolis
-street: "Busch's Frontage Road"
-housenumber: 333
+street: Busch's Frontage Road
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.volvocarsannapolis.com/"
+website: https://www.volvocarsannapolis.com/

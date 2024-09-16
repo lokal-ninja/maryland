@@ -1,11 +1,11 @@
 id: 141816014
-type: way
+type: node
 latitude: 39.2654
 longitude: -76.79061
 postcode: "21043"
 city: Oella
-street: "Frederick Road"
-housenumber: 64
-phone: "(410) 465-4515"
+street: Frederick Road
+housenumber: "64"
+phone: (410) 465-4515
 opening_hours: ""
 website: ""

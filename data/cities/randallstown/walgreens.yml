@@ -1,11 +1,11 @@
 id: 190671302
-type: way
+type: node
 latitude: 39.36995
 longitude: -76.80031
 postcode: "21133"
 city: Randallstown
-street: "Liberty Road"
-housenumber: 9110
+street: Liberty Road
+housenumber: "9110"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9110+liberty+rd-randallstown-md-21133/id=6265"
+website: https://www.walgreens.com/locator/walgreens-9110+liberty+rd-randallstown-md-21133/id=6265

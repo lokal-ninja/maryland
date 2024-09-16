@@ -1,11 +1,11 @@
 id: 130651930
-type: way
+type: node
 latitude: 39.11312
 longitude: -76.9362
 postcode: "20866"
 city: Burtonsville
-street: "Old Columbia Pike"
-housenumber: 15618
-phone: "+1 301-476-7181"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/burtonsville/15618-columbia-pike"
+street: Old Columbia Pike
+housenumber: "15618"
+phone: +1 301-476-7181
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/burtonsville/15618-columbia-pike

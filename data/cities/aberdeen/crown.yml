@@ -1,11 +1,11 @@
 id: 686507750
-type: way
+type: node
 latitude: 39.52276
 longitude: -76.18918
 postcode: "21001"
 city: Aberdeen
-street: "West Bel Air Avenue"
-housenumber: 804
+street: West Bel Air Avenue
+housenumber: "804"
 phone: ""
 opening_hours: ""
 website: ""

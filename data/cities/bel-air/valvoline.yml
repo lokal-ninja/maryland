@@ -1,11 +1,11 @@
 id: 846899338
-type: way
+type: node
 latitude: 39.56969
 longitude: -76.35481
 postcode: "21014"
 city: Bel Air
-street: "Conowingo Road"
-housenumber: 1608
-phone: "+1 410-870-7272"
-opening_hours: "Mo off; Tu-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00"
-website: "https://store.vioc.com/md/belair/oil-change-ba0033.html"
+street: Conowingo Road
+housenumber: "1608"
+phone: +1 410-870-7272
+opening_hours: Mo off; Tu-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
+website: https://store.vioc.com/md/belair/oil-change-ba0033.html

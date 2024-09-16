@@ -1,11 +1,11 @@
 id: 291460241
-type: way
+type: node
 latitude: 39.5414
 longitude: -76.3243
 postcode: "21015"
 city: Bel Air
-street: "Brierhill Drive"
-housenumber: 225
-phone: "+1 410-420-2050"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/bel-air/225-brierhill-dr.html"
+street: Brierhill Drive
+housenumber: "225"
+phone: +1 410-420-2050
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/bel-air/225-brierhill-dr.html

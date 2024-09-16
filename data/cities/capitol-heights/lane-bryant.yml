@@ -1,11 +1,11 @@
 id: 706077727
-type: way
+type: node
 latitude: 38.86776
 longitude: -76.85421
 postcode: "20743"
 city: Capitol Heights
-street: "Ritchie Station Court"
-housenumber: 1723
-phone: "+1 301-499-2728"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://stores.lanebryant.com/md/capitol-heights/1723-ritchie-station-ct."
+street: Ritchie Station Court
+housenumber: "1723"
+phone: +1 301-499-2728
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://stores.lanebryant.com/md/capitol-heights/1723-ritchie-station-ct.

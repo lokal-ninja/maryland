@@ -1,11 +1,11 @@
 id: 727189556
-type: way
+type: node
 latitude: 39.49904
 longitude: -76.17064
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 731
-phone: "+1-410-272-0200"
+street: South Philadelphia Boulevard
+housenumber: "731"
+phone: +1-410-272-0200
 opening_hours: ""
 website: ""

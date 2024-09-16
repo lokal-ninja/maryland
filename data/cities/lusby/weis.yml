@@ -1,11 +1,11 @@
 id: 438914311
-type: way
+type: node
 latitude: 38.3736
 longitude: -76.4371
 postcode: "20657"
 city: Lusby
-street: "Village Center Drive"
-housenumber: 210
+street: Village Center Drive
+housenumber: "210"
 phone: ""
-opening_hours: "07:00-20:00"
-website: "https://www.weismarkets.com/stores/weis-markets-lusby-284/4361"
+opening_hours: 07:00-20:00
+website: https://www.weismarkets.com/stores/weis-markets-lusby-284/4361

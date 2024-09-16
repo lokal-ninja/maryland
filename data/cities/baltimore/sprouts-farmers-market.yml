@@ -1,11 +1,11 @@
 id: 948344223
-type: way
+type: node
 latitude: 39.27795
 longitude: -76.56349
 postcode: "21224"
 city: Baltimore
-street: "Boston Street"
-housenumber: 3800
-phone: "+1 443-836-5882"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/md/baltimore/baltimore/"
+street: Boston Street
+housenumber: "3800"
+phone: +1 443-836-5882
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/md/baltimore/baltimore/

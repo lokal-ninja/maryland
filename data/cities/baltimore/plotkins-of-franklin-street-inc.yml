@@ -1,11 +1,11 @@
 id: 336386420
-type: way
+type: node
 latitude: 39.29494
 longitude: -76.62451
 postcode: "21201"
 city: Baltimore
-street: "West Franklin Street"
-housenumber: 600
+street: West Franklin Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

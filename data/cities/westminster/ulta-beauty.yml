@@ -4,8 +4,8 @@ latitude: 39.58456
 longitude: -76.98704
 postcode: "21157"
 city: Westminster
-street: "Clifton Boulevard"
-housenumber: 200
-phone: "+1 410-871-8856"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/westminster-md-1479"
+street: Clifton Boulevard
+housenumber: "200"
+phone: +1 410-871-8856
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/westminster-md-1479

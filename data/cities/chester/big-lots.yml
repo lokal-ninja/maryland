@@ -1,11 +1,11 @@
 id: 193249839
-type: way
+type: node
 latitude: 38.97437
 longitude: -76.27778
 postcode: "21619"
 city: Chester
-street: "Kent Towne Market"
-housenumber: 24
-phone: "+1 410-604-2541"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/md/chester/24-kent-towne-market"
+street: Kent Towne Market
+housenumber: "24"
+phone: +1 410-604-2541
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/md/chester/24-kent-towne-market

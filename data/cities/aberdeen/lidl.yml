@@ -1,11 +1,11 @@
 id: 693945781
-type: way
+type: node
 latitude: 39.49802
 longitude: -76.17247
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 621
-phone: "+1 844-747-5435"
+street: South Philadelphia Boulevard
+housenumber: "621"
+phone: +1 844-747-5435
 opening_hours: ""
-website: "https://www.lidl.com/stores/US01023"
+website: https://www.lidl.com/stores/US01023

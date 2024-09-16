@@ -1,11 +1,11 @@
 id: 167180485
-type: way
+type: node
 latitude: 39.17531
 longitude: -77.2712
 postcode: "20874"
 city: Germantown
-street: "Bowman Mill Drive"
-housenumber: 19412
+street: Bowman Mill Drive
+housenumber: "19412"
 phone: ""
 opening_hours: ""
 website: ""

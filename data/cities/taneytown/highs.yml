@@ -1,11 +1,11 @@
 id: 201232013
-type: way
+type: node
 latitude: 39.64847
 longitude: -77.15655
 postcode: "21787"
 city: Taneytown
-street: "East Baltimore Street"
-housenumber: 
-phone: "+1 410-756-2571"
+street: East Baltimore Street
+housenumber: ""
+phone: +1 410-756-2571
 opening_hours: ""
-website: "https://www.highs.com/"
+website: https://www.highs.com/

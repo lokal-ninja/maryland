@@ -1,11 +1,11 @@
 id: 169216630
-type: way
+type: node
 latitude: 39.20231
 longitude: -77.2501
 postcode: "20876"
 city: Germantown
-street: "Frederick Road"
-housenumber: 20926
-phone: "+1 301-916-7301"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/md/germantown/20926-frederick-rd"
+street: Frederick Road
+housenumber: "20926"
+phone: +1 301-916-7301
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/md/germantown/20926-frederick-rd

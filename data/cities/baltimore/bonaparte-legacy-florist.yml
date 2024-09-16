@@ -1,11 +1,11 @@
 id: 1053405688
-type: way
+type: node
 latitude: 39.31043
 longitude: -76.63735
 postcode: "21217"
 city: Baltimore
-street: "West North Avenue"
-housenumber: 1200
+street: West North Avenue
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

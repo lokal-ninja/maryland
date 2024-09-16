@@ -1,11 +1,11 @@
 id: 232497151
-type: way
+type: node
 latitude: 39.13389
 longitude: -76.63775
 postcode: "21061"
 city: Glen Burnie
-street: "Crain Highway South"
-housenumber: 7940
-phone: "+1 410-969-7590"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/glen-burnie/7940-crain-hwy"
+street: Crain Highway South
+housenumber: "7940"
+phone: +1 410-969-7590
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/glen-burnie/7940-crain-hwy

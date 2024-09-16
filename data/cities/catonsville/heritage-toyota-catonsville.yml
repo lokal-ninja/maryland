@@ -1,11 +1,11 @@
 id: 142517635
-type: way
+type: node
 latitude: 39.28535
 longitude: -76.75516
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6324
+street: Baltimore National Pike
+housenumber: "6324"
 phone: ""
 opening_hours: ""
-website: "https://www.heritagetoyotacatonsville.com/"
+website: https://www.heritagetoyotacatonsville.com/

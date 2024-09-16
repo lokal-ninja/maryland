@@ -1,11 +1,11 @@
 id: 751400919
-type: way
+type: node
 latitude: 38.78779
 longitude: -76.08369
 postcode: "21601"
 city: Easton
-street: "Brooks Drive"
-housenumber: 8693
+street: Brooks Drive
+housenumber: "8693"
 phone: ""
 opening_hours: ""
 website: ""

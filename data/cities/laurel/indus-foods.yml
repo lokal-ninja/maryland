@@ -1,11 +1,11 @@
 id: 549800892
-type: way
+type: node
 latitude: 39.09793
 longitude: -76.85501
 postcode: "20707"
 city: Laurel
-street: "4th Street"
-housenumber: 900
-phone: "+1-240-280-2340"
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su off"
-website: "https://indus-food.com/"
+street: 4th Street
+housenumber: "900"
+phone: +1-240-280-2340
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su off
+website: https://indus-food.com/

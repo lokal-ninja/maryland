@@ -1,11 +1,11 @@
 id: 166502793
-type: way
+type: node
 latitude: 39.15416
 longitude: -76.72266
 postcode: "21076"
 city: Hanover
-street: "Arundel Mills Circle"
-housenumber: 7043
+street: Arundel Mills Circle
+housenumber: "7043"
 phone: ""
 opening_hours: ""
 website: ""

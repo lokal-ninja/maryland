@@ -2,10 +2,10 @@ id: 6451091564
 type: node
 latitude: 39.58544
 longitude: -76.98978
-postcode: "21157-6185"
+postcode: 21157-6185
 city: Westminster
-street: "Englar Road"
-housenumber: 400
-phone: "+1 410-871-2405"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/md/westminster/pet-supplies-westminster-md-2867.html"
+street: Englar Road
+housenumber: "400"
+phone: +1 410-871-2405
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/md/westminster/pet-supplies-westminster-md-2867.html

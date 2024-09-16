@@ -1,11 +1,11 @@
 id: 615885762
-type: way
+type: node
 latitude: 38.92597
 longitude: -76.88668
 postcode: "20785"
 city: Hyattsville
-street: "Landover Road"
-housenumber: 7501
+street: Landover Road
+housenumber: "7501"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

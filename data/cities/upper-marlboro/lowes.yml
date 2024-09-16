@@ -1,11 +1,11 @@
 id: 227450531
-type: way
+type: node
 latitude: 38.89426
 longitude: -76.82578
 postcode: "20774"
 city: Upper Marlboro
-street: "Campus Way South"
-housenumber: 10440
-phone: "+1 301-350-6777"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0702"
+street: Campus Way South
+housenumber: "10440"
+phone: +1 301-350-6777
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0702

@@ -1,11 +1,11 @@
 id: 864710900
-type: way
+type: node
 latitude: 39.56768
 longitude: -78.705
 postcode: "21502"
 city: Oldtown
-street: "Old Oldtown Road Southeast"
-housenumber: 13901
-phone: "+1 301-777-9100"
-opening_hours: "Tu-Sa 09:00-16:00"
+street: Old Oldtown Road Southeast
+housenumber: "13901"
+phone: +1 301-777-9100
+opening_hours: Tu-Sa 09:00-16:00
 website: ""

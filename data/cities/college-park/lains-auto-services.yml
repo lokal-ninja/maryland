@@ -1,11 +1,11 @@
 id: 302355096
-type: way
+type: node
 latitude: 39.00384
 longitude: -76.93113
 postcode: "20740"
 city: College Park
-street: "Baltimore Avenue"
-housenumber: 9104
+street: Baltimore Avenue
+housenumber: "9104"
 phone: ""
 opening_hours: ""
-website: "https://www.lainsauto.com/"
+website: https://www.lainsauto.com/

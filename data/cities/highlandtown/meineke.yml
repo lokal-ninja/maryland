@@ -1,11 +1,11 @@
 id: 299154763
-type: way
+type: node
 latitude: 39.28726
 longitude: -76.50609
 postcode: "21224"
 city: Highlandtown
-street: "Merritt Boulevard"
-housenumber: 790
+street: Merritt Boulevard
+housenumber: "790"
 phone: ""
 opening_hours: ""
 website: ""

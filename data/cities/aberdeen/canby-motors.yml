@@ -1,11 +1,11 @@
 id: 686532717
-type: way
+type: node
 latitude: 39.488
 longitude: -76.20261
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 1232
-phone: "410-297-9010"
+street: South Philadelphia Boulevard
+housenumber: "1232"
+phone: 410-297-9010
 opening_hours: ""
-website: "https://canbynew.com/"
+website: https://canbynew.com/

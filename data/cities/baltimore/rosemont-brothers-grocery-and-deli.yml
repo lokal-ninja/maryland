@@ -1,11 +1,11 @@
 id: 336518344
-type: way
+type: node
 latitude: 39.30491
 longitude: -76.66711
 postcode: "21216"
 city: Baltimore
-street: "Brighton Street"
-housenumber: 2955
+street: Brighton Street
+housenumber: "2955"
 phone: ""
 opening_hours: ""
 website: ""

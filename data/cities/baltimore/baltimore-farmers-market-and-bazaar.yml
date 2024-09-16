@@ -4,8 +4,8 @@ latitude: 39.29344
 longitude: -76.61024
 postcode: "21202"
 city: Baltimore
-street: "East Saratoga Street"
-housenumber: 400
-phone: "+1 410-752-8632"
-opening_hours: "Apr-Dec: Su 07:00-12:00"
-website: "http://www.promotionandarts.org/events-festivals/baltimore-farmers-market"
+street: East Saratoga Street
+housenumber: "400"
+phone: +1 410-752-8632
+opening_hours: 'Apr-Dec: Su 07:00-12:00'
+website: http://www.promotionandarts.org/events-festivals/baltimore-farmers-market

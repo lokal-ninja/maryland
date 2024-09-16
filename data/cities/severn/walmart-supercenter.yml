@@ -1,11 +1,11 @@
 id: 206040011
-type: way
+type: node
 latitude: 39.14719
 longitude: -76.64731
 postcode: "21144"
 city: Severn
-street: "George Claus Boulevard"
-housenumber: 407
-phone: "+1 410-582-9990"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1875/severn-md/whats-new"
+street: George Claus Boulevard
+housenumber: "407"
+phone: +1 410-582-9990
+opening_hours: 24/7
+website: https://www.walmart.com/store/1875/severn-md/whats-new

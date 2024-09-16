@@ -1,11 +1,11 @@
 id: 427538452
-type: way
+type: node
 latitude: 38.82679
 longitude: -76.92302
 postcode: "20746"
 city: Marlow Heights
-street: "Auth Way"
-housenumber: 5000
+street: Auth Way
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

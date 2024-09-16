@@ -1,11 +1,11 @@
 id: 336353135
-type: way
+type: node
 latitude: 39.35863
 longitude: -76.61028
 postcode: "21212"
 city: Baltimore
-street: "Bellona Avenue"
-housenumber: 5700
+street: Bellona Avenue
+housenumber: "5700"
 phone: ""
 opening_hours: ""
 website: ""

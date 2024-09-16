@@ -1,11 +1,11 @@
 id: 243245413
-type: way
+type: node
 latitude: 38.80373
 longitude: -76.99048
 postcode: "20745"
 city: Oxon Hill
-street: "Livingston Road"
-housenumber: 6223
+street: Livingston Road
+housenumber: "6223"
 phone: ""
-opening_hours: "08:00-24:00"
+opening_hours: 08:00-24:00
 website: ""

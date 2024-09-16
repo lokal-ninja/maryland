@@ -4,8 +4,8 @@ latitude: 39.33919
 longitude: -76.57223
 postcode: "21214"
 city: Baltimore
-street: "Montebello Terrace"
-housenumber: 3003
+street: Montebello Terrace
+housenumber: "3003"
 phone: ""
 opening_hours: ""
-website: "https://zekescoffee.com/pages/our-roastery"
+website: https://zekescoffee.com/pages/our-roastery

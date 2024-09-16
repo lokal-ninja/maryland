@@ -1,11 +1,11 @@
 id: 578617957
-type: way
+type: node
 latitude: 39.49411
 longitude: -76.32286
 postcode: "21015"
 city: Bel Air
-street: "Old Emmorton Road"
-housenumber: 2232
-phone: "410-515-0031"
+street: Old Emmorton Road
+housenumber: "2232"
+phone: 410-515-0031
 opening_hours: ""
-website: "http://www.countyballet.com/"
+website: http://www.countyballet.com/

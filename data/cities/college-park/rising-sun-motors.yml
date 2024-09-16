@@ -1,11 +1,11 @@
 id: 224922217
-type: way
+type: node
 latitude: 38.99941
 longitude: -76.9251
 postcode: "20740"
 city: College Park
-street: "Rhode Island Avenue"
-housenumber: 9001
-phone: "+1-301-345-2600"
+street: Rhode Island Avenue
+housenumber: "9001"
+phone: +1-301-345-2600
 opening_hours: ""
-website: "https://www.risingsunmotorsmd.com/"
+website: https://www.risingsunmotorsmd.com/

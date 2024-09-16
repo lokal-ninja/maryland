@@ -1,11 +1,11 @@
 id: 240872862
-type: way
+type: node
 latitude: 39.05667
 longitude: -76.65673
 postcode: "21054"
 city: Gambrills
-street: "Annapolis Road"
-housenumber: 710
+street: Annapolis Road
+housenumber: "710"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/595"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/595

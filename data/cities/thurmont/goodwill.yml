@@ -1,11 +1,11 @@
 id: 336426323
-type: way
+type: node
 latitude: 39.62255
 longitude: -77.40755
 postcode: "21788"
 city: Thurmont
-street: "East Main Street"
-housenumber: 202
-phone: "+1-301-271-2100"
-opening_hours: "9:00-19:00"
+street: East Main Street
+housenumber: "202"
+phone: +1-301-271-2100
+opening_hours: 9:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1183745583
-type: way
+type: node
 latitude: 39.12657
 longitude: -76.53839
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 2905
-phone: "+1-410-437-2155"
+street: Mountain Road
+housenumber: "2905"
+phone: +1-410-437-2155
 opening_hours: ""
-website: "https://www.kentislandcrab.com/"
+website: https://www.kentislandcrab.com/

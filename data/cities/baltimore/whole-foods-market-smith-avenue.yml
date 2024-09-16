@@ -1,11 +1,11 @@
 id: 315788811
-type: way
+type: node
 latitude: 39.36869
 longitude: -76.65011
 postcode: "21209"
 city: Baltimore
-street: "Smith Avenue"
-housenumber: 1330
-phone: "+1 410-532-6700"
-opening_hours: "PH,Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/mountwashington"
+street: Smith Avenue
+housenumber: "1330"
+phone: +1 410-532-6700
+opening_hours: PH,Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/mountwashington

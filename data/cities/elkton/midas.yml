@@ -1,11 +1,11 @@
 id: 759277573
-type: way
+type: node
 latitude: 39.59781
 longitude: -75.81688
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 338
-phone: "+1-443-485-1963"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-16:00; Su off; PH off"
-website: "https://www.midas.com/baltimore/store.aspx?shopnum=4602&dmanum=72"
+street: East Pulaski Highway
+housenumber: "338"
+phone: +1-443-485-1963
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-16:00; Su off; PH off
+website: https://www.midas.com/baltimore/store.aspx?shopnum=4602&dmanum=72

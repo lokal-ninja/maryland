@@ -1,11 +1,11 @@
 id: 480120950
-type: way
+type: node
 latitude: 39.04464
 longitude: -76.06555
 postcode: "21617"
 city: Centreville
-street: "West Water Street"
-housenumber: 102
-phone: "410-758-3469"
+street: West Water Street
+housenumber: "102"
+phone: 410-758-3469
 opening_hours: ""
 website: ""

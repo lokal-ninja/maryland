@@ -1,11 +1,11 @@
 id: 727361437
-type: way
+type: node
 latitude: 39.50452
 longitude: -76.16747
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 330
-phone: "+1-443-760-3447"
+street: South Philadelphia Boulevard
+housenumber: "330"
+phone: +1-443-760-3447
 opening_hours: ""
-website: "https://www.ntb.com/store/md/aberdeen/320-s-philadelphia-blvd-21001/4235"
+website: https://www.ntb.com/store/md/aberdeen/320-s-philadelphia-blvd-21001/4235

@@ -1,11 +1,11 @@
 id: 432710959
-type: way
+type: node
 latitude: 39.31307
 longitude: -77.62622
 postcode: "21716"
 city: Brunswick
-street: "East Potomac Street"
-housenumber: 25
+street: East Potomac Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

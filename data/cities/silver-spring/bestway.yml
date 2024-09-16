@@ -1,11 +1,11 @@
 id: 505957544
-type: way
+type: node
 latitude: 38.99886
 longitude: -77.00248
 postcode: "20901"
 city: Silver Spring
-street: "Piney Branch Road"
-housenumber: 8540
-phone: "+1-301-587-5262"
-opening_hours: "Mo-Fr 09:00-21:00, Sa-Su 08:00-21:00"
+street: Piney Branch Road
+housenumber: "8540"
+phone: +1-301-587-5262
+opening_hours: Mo-Fr 09:00-21:00, Sa-Su 08:00-21:00
 website: ""

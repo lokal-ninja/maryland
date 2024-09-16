@@ -1,11 +1,11 @@
 id: 184499868
-type: way
+type: node
 latitude: 38.95882
 longitude: -76.93893
 postcode: "20737"
 city: Riverdale
-street: "Cleveland Avenue"
-housenumber: 5801
-phone: "+1 301 699 5500"
+street: Cleveland Avenue
+housenumber: "5801"
+phone: +1 301 699 5500
 opening_hours: ""
-website: "https://www.chambersfuneralhomes.com/"
+website: https://www.chambersfuneralhomes.com/

@@ -4,8 +4,8 @@ latitude: 39.07134
 longitude: -77.13331
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 1047
-phone: "+1 301 545 0101"
-opening_hours: "Mo,We-Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://www.maruichiusa.com/"
+street: Rockville Pike
+housenumber: "1047"
+phone: +1 301 545 0101
+opening_hours: Mo,We-Sa 10:00-19:00; Su 11:00-19:00
+website: https://www.maruichiusa.com/

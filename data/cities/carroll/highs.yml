@@ -1,11 +1,11 @@
 id: 174393709
-type: way
+type: node
 latitude: 39.26192
 longitude: -76.69527
 postcode: "21229"
 city: Carroll
-street: "Maiden Choice Lane"
-housenumber: 1075
+street: Maiden Choice Lane
+housenumber: "1075"
 phone: ""
-opening_hours: "05:00-24:00"
+opening_hours: 05:00-24:00
 website: ""

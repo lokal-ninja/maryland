@@ -1,11 +1,11 @@
 id: 237313614
-type: way
+type: node
 latitude: 39.31261
 longitude: -76.75341
 postcode: "21244"
 city: Windsor Mill
-street: "Security Boulevard"
-housenumber: 7005
+street: Security Boulevard
+housenumber: "7005"
 phone: ""
 opening_hours: ""
-website: "https://www.weismarkets.com/"
+website: https://www.weismarkets.com/

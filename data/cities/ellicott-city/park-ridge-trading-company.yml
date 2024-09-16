@@ -1,11 +1,11 @@
 id: 113572276
-type: way
+type: node
 latitude: 39.26757
 longitude: -76.79613
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8080
+street: Main Street
+housenumber: "8080"
 phone: ""
-opening_hours: "We,Th,Su,Mo 11:00-17:00; Fr,Sa 11:00-18:00"
-website: "https://www.parkridgetrading.com"
+opening_hours: We,Th,Su,Mo 11:00-17:00; Fr,Sa 11:00-18:00
+website: https://www.parkridgetrading.com

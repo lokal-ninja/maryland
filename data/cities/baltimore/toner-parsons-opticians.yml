@@ -4,8 +4,9 @@ latitude: 39.36933
 longitude: -76.54641
 postcode: "21234"
 city: Baltimore
-street: "Harford Road"
-housenumber: 7315
-phone: "+1-410-444-4737"
-opening_hours: "Mo off; Tu 10:00-19:00; We-Fr 10:00-17:00; Sa 10:00-14:00; Su off; PH off"
-website: "https://www.tonerparsonsopticians.com/"
+street: Harford Road
+housenumber: "7315"
+phone: +1-410-444-4737
+opening_hours: Mo off; Tu 10:00-19:00; We-Fr 10:00-17:00; Sa 10:00-14:00; Su off;
+    PH off
+website: https://www.tonerparsonsopticians.com/

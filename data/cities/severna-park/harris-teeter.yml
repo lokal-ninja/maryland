@@ -1,11 +1,11 @@
 id: 554040104
-type: way
+type: node
 latitude: 39.10115
 longitude: -76.5646
 postcode: "21146"
 city: Severna Park
-street: "Governor Ritchie Highway"
-housenumber: 143
-phone: "+1 410-544-1846"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.harristeeter.com/stores/grocery/md/severna-park/magothy-gateway/097/00364"
+street: Governor Ritchie Highway
+housenumber: "143"
+phone: +1 410-544-1846
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.harristeeter.com/stores/grocery/md/severna-park/magothy-gateway/097/00364

@@ -1,11 +1,11 @@
 id: 298928087
-type: way
+type: node
 latitude: 39.30397
 longitude: -76.48373
 postcode: "21221"
 city: Essex
-street: "Marie Avenue"
-housenumber: 5
+street: Marie Avenue
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

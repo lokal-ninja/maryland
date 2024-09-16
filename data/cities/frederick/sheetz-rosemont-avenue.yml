@@ -1,11 +1,11 @@
 id: 398065043
-type: way
+type: node
 latitude: 39.42636
 longitude: -77.43128
 postcode: "21702"
 city: Frederick
-street: "Rosemont Avenue"
-housenumber: 1600
-phone: "+1 301-228-2620"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/242"
+street: Rosemont Avenue
+housenumber: "1600"
+phone: +1 301-228-2620
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/242

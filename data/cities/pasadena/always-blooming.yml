@@ -4,8 +4,9 @@ latitude: 39.12398
 longitude: -76.52322
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 3820
-phone: "+1-410-255-3105"
-opening_hours: "Mo-Tu 09:00-18:00; We 10:00-18:00; Th-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
-website: "https://www.alwaysblooming.com/"
+street: Mountain Road
+housenumber: "3820"
+phone: +1-410-255-3105
+opening_hours: Mo-Tu 09:00-18:00; We 10:00-18:00; Th-Fr 09:00-18:00; Sa 09:00-14:00;
+    Su off
+website: https://www.alwaysblooming.com/

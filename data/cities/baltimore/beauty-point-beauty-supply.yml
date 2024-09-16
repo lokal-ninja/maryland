@@ -1,11 +1,11 @@
 id: 336353055
-type: way
+type: node
 latitude: 39.35572
 longitude: -76.61003
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 5400
+street: York Road
+housenumber: "5400"
 phone: ""
 opening_hours: ""
-website: "https://beauty-point-variety-store.business.site/"
+website: https://beauty-point-variety-store.business.site/

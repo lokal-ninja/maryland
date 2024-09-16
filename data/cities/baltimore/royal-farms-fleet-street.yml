@@ -1,11 +1,11 @@
 id: 150575411
-type: way
+type: node
 latitude: 39.28519
 longitude: -76.58758
 postcode: "21231"
 city: Baltimore
-street: "Fleet Street"
-housenumber: 2050
+street: Fleet Street
+housenumber: "2050"
 phone: ""
 opening_hours: ""
-website: "https://www.royalfarms.com"
+website: https://www.royalfarms.com

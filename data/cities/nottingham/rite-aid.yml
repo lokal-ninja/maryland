@@ -1,11 +1,11 @@
 id: 198102598
-type: way
+type: node
 latitude: 39.39679
 longitude: -76.47677
 postcode: "21236"
 city: Nottingham
-street: "Ebenezer Road"
-housenumber: 4339
+street: Ebenezer Road
+housenumber: "4339"
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/"
+website: https://www.riteaid.com/

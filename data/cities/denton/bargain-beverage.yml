@@ -1,11 +1,11 @@
 id: 725952125
-type: way
+type: node
 latitude: 38.88543
 longitude: -75.834
 postcode: "21629"
 city: Denton
-street: "Franklin Street"
-housenumber: 100
-phone: "+1-410-479-2215"
+street: Franklin Street
+housenumber: "100"
+phone: +1-410-479-2215
 opening_hours: ""
 website: ""

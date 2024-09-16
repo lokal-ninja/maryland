@@ -1,11 +1,11 @@
 id: 190671301
-type: way
+type: node
 latitude: 39.36914
 longitude: -76.79859
 postcode: "21133"
 city: Randallstown
-street: "Liberty Road"
-housenumber: 9050
+street: Liberty Road
+housenumber: "9050"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/randallstown/9050-liberty-rd.html"
+website: https://www.autozone.com/locations/md/randallstown/9050-liberty-rd.html

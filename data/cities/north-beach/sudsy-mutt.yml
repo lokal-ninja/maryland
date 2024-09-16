@@ -1,11 +1,11 @@
 id: 616980192
-type: way
+type: node
 latitude: 38.70851
 longitude: -76.53215
 postcode: "20714"
 city: North Beach
-street: "7th Street"
-housenumber: 4107
-phone: "+1 443-964-4958"
-opening_hours: "By Appointment"
-website: "https://www.sudsymuttspa.com/"
+street: 7th Street
+housenumber: "4107"
+phone: +1 443-964-4958
+opening_hours: '"By Appointment"'
+website: https://www.sudsymuttspa.com/

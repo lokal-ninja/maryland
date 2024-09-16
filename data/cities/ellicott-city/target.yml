@@ -1,11 +1,11 @@
 id: 136694394
-type: way
+type: node
 latitude: 39.25011
 longitude: -76.81814
 postcode: "21043"
 city: Ellicott City
-street: "Montgomery Road"
-housenumber: 4390
-phone: "+1 410-203-1700"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/ellicott-city/1042"
+street: Montgomery Road
+housenumber: "4390"
+phone: +1 410-203-1700
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/ellicott-city/1042

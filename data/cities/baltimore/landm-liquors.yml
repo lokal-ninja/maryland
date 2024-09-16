@@ -1,11 +1,11 @@
 id: 336330263
-type: way
+type: node
 latitude: 39.31188
 longitude: -76.60326
 postcode: "21202"
 city: Baltimore
-street: "East North Avenue"
-housenumber: 1148
+street: East North Avenue
+housenumber: "1148"
 phone: ""
 opening_hours: ""
 website: ""

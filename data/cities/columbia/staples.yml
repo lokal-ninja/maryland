@@ -1,11 +1,11 @@
 id: 142701628
-type: way
+type: node
 latitude: 39.18213
 longitude: -76.8218
 postcode: "21045"
 city: Columbia
-street: "Snowden River Parkway"
-housenumber: 9091
+street: Snowden River Parkway
+housenumber: "9091"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/md/columbia/9091-snowden-river-pkwy"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/md/columbia/9091-snowden-river-pkwy

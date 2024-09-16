@@ -1,11 +1,11 @@
 id: 201351236
-type: way
+type: node
 latitude: 39.57807
 longitude: -76.37235
 postcode: "21050"
 city: Forest Hill
-street: "Industry Lane"
-housenumber: 130
+street: Industry Lane
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://reflectedimages.net/"
+website: https://reflectedimages.net/

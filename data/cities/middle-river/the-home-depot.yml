@@ -1,11 +1,11 @@
 id: 247063620
-type: way
+type: node
 latitude: 39.3597
 longitude: -76.44309
 postcode: "21220"
 city: Middle River
-street: "Pulaski Highway"
-housenumber: 9955
-phone: "+1 410-780-9200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/white-marsh/md/baltimore/21220/2502"
+street: Pulaski Highway
+housenumber: "9955"
+phone: +1 410-780-9200
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/white-marsh/md/baltimore/21220/2502

@@ -1,11 +1,11 @@
 id: 632018061
-type: way
+type: node
 latitude: 39.56063
 longitude: -76.37051
 postcode: "21050"
 city: Forest Hill
-street: "Rock Spring Road"
-housenumber: 1519
-phone: "+1 410-638-8757"
-opening_hours: "08:00-22:00"
-website: "https://www.cvs.com/store-locator/forest-hill-md-pharmacies/1519-rock-spring-rd-forest-hill-md-21050/storeid=352"
+street: Rock Spring Road
+housenumber: "1519"
+phone: +1 410-638-8757
+opening_hours: 08:00-22:00
+website: https://www.cvs.com/store-locator/forest-hill-md-pharmacies/1519-rock-spring-rd-forest-hill-md-21050/storeid=352

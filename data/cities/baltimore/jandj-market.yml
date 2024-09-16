@@ -1,11 +1,11 @@
 id: 336244958
-type: way
+type: node
 latitude: 39.30516
 longitude: -76.57539
 postcode: "21213"
 city: Baltimore
-street: "North Potomac Street"
-housenumber: 1201
+street: North Potomac Street
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

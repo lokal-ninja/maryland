@@ -1,11 +1,11 @@
 id: 63929301
-type: way
-latitude: 39.15514
-longitude: -77.21461
-postcode: "20879-3506"
+type: node
+latitude: 39.15506
+longitude: -77.21451
+postcode: 20879-3506
 city: Gaithersburg
-street: "Russell Avenue"
-housenumber: 880
-phone: "+1 301-417-1500"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/gaithersburg-md-213.html"
+street: Russell Avenue
+housenumber: "880"
+phone: +1 301-417-1500
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/gaithersburg-md-213.html

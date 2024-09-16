@@ -1,11 +1,11 @@
 id: 242138754
-type: way
+type: node
 latitude: 38.38887
 longitude: -75.0676
 postcode: "21842"
 city: Ocean City
-street: "66th Street"
-housenumber: 122
+street: 66th Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

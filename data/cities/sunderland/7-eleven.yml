@@ -1,11 +1,11 @@
 id: 535279461
-type: way
+type: node
 latitude: 38.66765
 longitude: -76.60021
 postcode: "20689"
 city: Sunderland
-street: "Dalrymple Road"
-housenumber: 35
+street: Dalrymple Road
+housenumber: "35"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

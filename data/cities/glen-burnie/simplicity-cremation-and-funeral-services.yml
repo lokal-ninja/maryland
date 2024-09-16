@@ -1,11 +1,11 @@
 id: 228099512
-type: way
+type: node
 latitude: 39.17202
 longitude: -76.62971
 postcode: "21061"
 city: Glen Burnie
-street: "8th Avenue Northwest"
-housenumber: 244
-phone: "+1-410-777-5295"
+street: 8th Avenue Northwest
+housenumber: "244"
+phone: +1-410-777-5295
 opening_hours: ""
-website: "https://www.simplicitycfs.com/"
+website: https://www.simplicitycfs.com/

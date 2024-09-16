@@ -1,11 +1,11 @@
 id: 521036042
-type: way
+type: node
 latitude: 39.56971
 longitude: -77.17761
 postcode: "21791"
 city: Union Bridge
-street: "North Main Street"
-housenumber: 17
+street: North Main Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

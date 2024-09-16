@@ -1,11 +1,11 @@
 id: 311549117
-type: way
+type: node
 latitude: 38.33763
 longitude: -75.13609
 postcode: ""
 city: Ocean City
-street: "Ocean Gateway"
-housenumber: 12046
-phone: "+1-410-213-2227"
+street: Ocean Gateway
+housenumber: "12046"
+phone: +1-410-213-2227
 opening_hours: ""
-website: "http://www.ocimportservice.com"
+website: http://www.ocimportservice.com

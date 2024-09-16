@@ -1,11 +1,11 @@
 id: 83700371
-type: way
+type: node
 latitude: 39.47957
 longitude: -76.65146
 postcode: "21030"
 city: Cockeysville
-street: "Cockeysville Road"
-housenumber: 227
+street: Cockeysville Road
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

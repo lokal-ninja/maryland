@@ -1,11 +1,11 @@
 id: 336270655
-type: way
+type: node
 latitude: 39.29753
 longitude: -76.58523
 postcode: "21205"
 city: Baltimore
-street: "McElderry Street"
-housenumber: 2253
+street: McElderry Street
+housenumber: "2253"
 phone: ""
 opening_hours: ""
 website: ""

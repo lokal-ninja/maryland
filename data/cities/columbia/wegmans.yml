@@ -1,11 +1,11 @@
 id: 163603776
-type: way
+type: node
 latitude: 39.18681
 longitude: -76.82017
 postcode: "21045"
 city: Columbia
-street: "McGaw Road"
-housenumber: 8855
-phone: "+1 443-537-2900"
+street: McGaw Road
+housenumber: "8855"
+phone: +1 443-537-2900
 opening_hours: ""
-website: "https://www.wegmans.com/columbia"
+website: https://www.wegmans.com/columbia

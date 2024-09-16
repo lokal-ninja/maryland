@@ -1,11 +1,11 @@
 id: 298931742
-type: way
+type: node
 latitude: 39.31058
 longitude: -76.46904
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 717
+street: Eastern Boulevard
+housenumber: "717"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/md/essex/717-eastern-blvd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/md/essex/717-eastern-blvd

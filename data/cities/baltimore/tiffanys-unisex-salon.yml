@@ -1,11 +1,11 @@
 id: 336379869
-type: way
+type: node
 latitude: 39.29232
 longitude: -76.61924
 postcode: "21201"
 city: Baltimore
-street: "North Howard Street"
-housenumber: 219
-phone: "+1 443 874 4191"
+street: North Howard Street
+housenumber: "219"
+phone: +1 443 874 4191
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 704405135
-type: way
+type: node
 latitude: 39.40389
 longitude: -75.86801
 postcode: "21913"
 city: Cecilton
-street: "South Bohemia Avenue"
-housenumber: 111
+street: South Bohemia Avenue
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://intensive-car-care-of-cecilton.business.site/"
+opening_hours: Mo-Fr 09:00-17:30
+website: https://intensive-car-care-of-cecilton.business.site/

@@ -1,11 +1,11 @@
 id: 969845591
-type: way
+type: node
 latitude: 39.26736
 longitude: -76.79739
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8173
+street: Main Street
+housenumber: "8173"
 phone: ""
 opening_hours: ""
-website: "https://ellicottcityshopping.com"
+website: https://ellicottcityshopping.com

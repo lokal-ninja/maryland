@@ -1,11 +1,11 @@
 id: 201182635
-type: way
+type: node
 latitude: 39.64977
 longitude: -77.15946
 postcode: "21787"
 city: Taneytown
-street: "East Baltimore Street"
-housenumber: 
+street: East Baltimore Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00; Su 8:00-18:00"
-website: "https://stores.advanceautoparts.com/md/taneytown/508-e-baltimore-st"
+opening_hours: Mo-Sa 8:00-21:00; Su 8:00-18:00
+website: https://stores.advanceautoparts.com/md/taneytown/508-e-baltimore-st

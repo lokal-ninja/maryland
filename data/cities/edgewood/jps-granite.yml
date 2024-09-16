@@ -1,11 +1,11 @@
 id: 688045299
-type: way
+type: node
 latitude: 39.44539
 longitude: -76.28701
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 2908
-phone: "443-587-4933"
+street: Pulaski Highway
+housenumber: "2908"
+phone: 443-587-4933
 opening_hours: ""
-website: "https://jpsgranite.com/"
+website: https://jpsgranite.com/

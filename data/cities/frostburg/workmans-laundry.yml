@@ -1,11 +1,11 @@
 id: 929893037
-type: way
+type: node
 latitude: 39.66641
 longitude: -78.93583
 postcode: "21532"
 city: Frostburg
-street: "West Main Street"
-housenumber: 232
+street: West Main Street
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

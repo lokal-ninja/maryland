@@ -1,11 +1,11 @@
 id: 759429613
-type: way
+type: node
 latitude: 39.69855
 longitude: -76.05829
 postcode: "21911"
 city: Rising Sun
-street: "East Main Street"
-housenumber: 201
-phone: "+1-410-658-5955"
+street: East Main Street
+housenumber: "201"
+phone: +1-410-658-5955
 opening_hours: ""
 website: ""

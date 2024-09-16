@@ -1,11 +1,11 @@
 id: 163971232
-type: way
+type: node
 latitude: 39.40352
 longitude: -76.60453
 postcode: "21204"
 city: Towson
-street: "York Road"
-housenumber: 704
+street: York Road
+housenumber: "704"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/md/towson/704-york-rd-21204/4273"
+website: https://www.ntb.com/store/md/towson/704-york-rd-21204/4273

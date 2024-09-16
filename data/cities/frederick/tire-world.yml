@@ -1,11 +1,11 @@
 id: 450837691
-type: way
+type: node
 latitude: 39.44639
 longitude: -77.38911
 postcode: "21701"
 city: Frederick
-street: "Riverbend Way"
-housenumber: 1291
-phone: "+1-301-668-5009"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-15:00; Su off"
-website: "https://shoptireworld.com/"
+street: Riverbend Way
+housenumber: "1291"
+phone: +1-301-668-5009
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-15:00; Su off
+website: https://shoptireworld.com/

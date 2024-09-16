@@ -1,11 +1,11 @@
 id: 238914671
-type: way
+type: node
 latitude: 39.28177
 longitude: -76.75242
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6223
-phone: "+1 410-788-8023"
-opening_hours: "Mo-Su 12:00-24:00"
-website: "https://stores.giantfood.com/md/catonsville/6223-baltimore-national-pike"
+street: Baltimore National Pike
+housenumber: "6223"
+phone: +1 410-788-8023
+opening_hours: Mo-Su 12:00-24:00
+website: https://stores.giantfood.com/md/catonsville/6223-baltimore-national-pike

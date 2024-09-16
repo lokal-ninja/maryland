@@ -1,11 +1,11 @@
 id: 298937090
-type: way
+type: node
 latitude: 39.31274
 longitude: -76.46582
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 836
-phone: "+1 410-391-6563"
+street: Eastern Boulevard
+housenumber: "836"
+phone: +1 410-391-6563
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/essex/836-eastern-avenue-27335"
+website: https://www.7-eleven.com/locations/md/essex/836-eastern-avenue-27335

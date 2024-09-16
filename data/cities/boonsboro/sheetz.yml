@@ -1,11 +1,11 @@
 id: 1188714004
-type: way
+type: node
 latitude: 39.57141
 longitude: -77.64732
 postcode: "21713"
 city: Boonsboro
-street: "National Pike"
-housenumber: 20723
-phone: "+1 301-733-3047"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/209"
+street: National Pike
+housenumber: "20723"
+phone: +1 301-733-3047
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/209

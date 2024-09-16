@@ -1,11 +1,11 @@
 id: 163213981
-type: way
+type: node
 latitude: 39.27816
 longitude: -76.55489
 postcode: "21224"
 city: Baltimore
-street: "South Ponca Street"
-housenumber: 1300
+street: South Ponca Street
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

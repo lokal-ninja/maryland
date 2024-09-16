@@ -1,11 +1,11 @@
 id: 902398754
-type: way
+type: node
 latitude: 39.10869
 longitude: -76.63098
 postcode: "21108"
 city: Millersville
-street: "Veterans Highway"
-housenumber: 8328
-phone: "+1 (410) 987-0661"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-17:00; Su 10:00-17:00"
-website: "https://www.napaonline.com/stores/md/millersville/8328-veterans-hwy?sdref=modal"
+street: Veterans Highway
+housenumber: "8328"
+phone: +1 (410) 987-0661
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-17:00; Su 10:00-17:00
+website: https://www.napaonline.com/stores/md/millersville/8328-veterans-hwy?sdref=modal

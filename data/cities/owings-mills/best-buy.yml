@@ -1,11 +1,11 @@
 id: 131418925
-type: way
+type: node
 latitude: 39.42014
 longitude: -76.77941
 postcode: "21117"
 city: Owings Mills
-street: "Owings Mills Boulevard"
-housenumber: 10400
-phone: "+1 443-394-0620"
+street: Owings Mills Boulevard
+housenumber: "10400"
+phone: +1 443-394-0620
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/owings-mills/10400-owings-mills-blvd-1436.html"
+website: https://stores.bestbuy.com/md/owings-mills/10400-owings-mills-blvd-1436.html

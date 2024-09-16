@@ -1,11 +1,11 @@
 id: 298703161
-type: way
+type: node
 latitude: 39.38141
 longitude: -76.55864
 postcode: "21234"
 city: Parkville
-street: "Taylor Avenue"
-housenumber: 1800
-phone: "+1 410 882 5180"
+street: Taylor Avenue
+housenumber: "1800"
+phone: +1 410 882 5180
 opening_hours: ""
 website: ""

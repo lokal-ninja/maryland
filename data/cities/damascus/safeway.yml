@@ -1,11 +1,11 @@
 id: 64505571
-type: way
+type: node
 latitude: 39.28992
 longitude: -77.20269
 postcode: "20872"
 city: Damascus
-street: "Main Street"
-housenumber: 9807
-phone: "+1 301-391-6146"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/damascus/9807-main-st.html"
+street: Main Street
+housenumber: "9807"
+phone: +1 301-391-6146
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/damascus/9807-main-st.html

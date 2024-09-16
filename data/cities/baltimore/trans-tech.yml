@@ -1,11 +1,11 @@
 id: 244177038
-type: way
+type: node
 latitude: 39.27233
 longitude: -76.5398
 postcode: "21222"
 city: Baltimore
-street: "Holabird Avenue"
-housenumber: 6218
+street: Holabird Avenue
+housenumber: "6218"
 phone: ""
 opening_hours: ""
 website: ""

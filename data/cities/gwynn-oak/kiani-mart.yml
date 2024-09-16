@@ -1,11 +1,11 @@
 id: 299309645
-type: way
+type: node
 latitude: 39.29371
 longitude: -76.73045
 postcode: "21207"
 city: Gwynn Oak
-street: "Ingleside Avenue"
-housenumber: 1110
+street: Ingleside Avenue
+housenumber: "1110"
 phone: ""
 opening_hours: ""
 website: ""

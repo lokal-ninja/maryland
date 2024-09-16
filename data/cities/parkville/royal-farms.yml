@@ -1,11 +1,11 @@
 id: 200511134
-type: way
+type: node
 latitude: 39.37609
 longitude: -76.54615
 postcode: "21234"
 city: Parkville
-street: "Taylor Avenue"
-housenumber: 2700
+street: Taylor Avenue
+housenumber: "2700"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

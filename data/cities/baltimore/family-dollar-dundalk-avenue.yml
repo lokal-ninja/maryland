@@ -1,11 +1,11 @@
 id: 196296601
-type: way
+type: node
 latitude: 39.27347
 longitude: -76.53075
 postcode: "21222"
 city: Baltimore
-street: "Dundalk Avenue"
-housenumber: 1725
+street: Dundalk Avenue
+housenumber: "1725"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 311225680
-type: way
+type: node
 latitude: 38.32424
 longitude: -75.21109
 postcode: ""
 city: Berlin
-street: "Flower Street"
-housenumber: 111
+street: Flower Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

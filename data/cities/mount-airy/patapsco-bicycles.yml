@@ -1,11 +1,11 @@
 id: 998029832
-type: way
+type: node
 latitude: 39.37691
 longitude: -77.15368
 postcode: "21771"
 city: Mount Airy
-street: "North Main Street"
-housenumber: 5
-phone: "+1 301 829 5604"
+street: North Main Street
+housenumber: "5"
+phone: +1 301 829 5604
 opening_hours: ""
 website: ""

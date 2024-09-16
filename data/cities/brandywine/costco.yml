@@ -1,11 +1,11 @@
 id: 225522486
-type: way
+type: node
 latitude: 38.67062
 longitude: -76.87153
-postcode: "20613-8081"
+postcode: 20613-8081
 city: Brandywine
-street: "Crain Highway"
-housenumber: 16006
-phone: "+1 301-372-3200"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/brandywine-md-1039.html"
+street: Crain Highway
+housenumber: "16006"
+phone: +1 301-372-3200
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/brandywine-md-1039.html

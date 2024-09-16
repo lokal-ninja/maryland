@@ -1,11 +1,11 @@
 id: 759277536
-type: way
+type: node
 latitude: 39.59884
 longitude: -75.81836
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 303
-phone: "+1-410-398-9044"
-opening_hours: "Mo-Su 07:30-21:00; PH off"
-website: "https://www.autozone.com/locations/md/elkton/303-pulaski-e.html"
+street: East Pulaski Highway
+housenumber: "303"
+phone: +1-410-398-9044
+opening_hours: Mo-Su 07:30-21:00; PH off
+website: https://www.autozone.com/locations/md/elkton/303-pulaski-e.html

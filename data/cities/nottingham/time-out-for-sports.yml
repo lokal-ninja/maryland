@@ -1,11 +1,11 @@
 id: 298528156
-type: way
+type: node
 latitude: 39.41759
 longitude: -76.45917
 postcode: "21236"
 city: Nottingham
-street: "Belair Road"
-housenumber: 9716
-phone: "+1-410-248-0068"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:00; Su off; PH off"
-website: "https://www.timeoutforsports.net/"
+street: Belair Road
+housenumber: "9716"
+phone: +1-410-248-0068
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:00; Su off; PH off
+website: https://www.timeoutforsports.net/

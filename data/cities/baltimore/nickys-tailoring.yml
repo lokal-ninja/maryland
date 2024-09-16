@@ -1,11 +1,11 @@
 id: 336381930
-type: way
+type: node
 latitude: 39.29587
 longitude: -76.62144
 postcode: "21201"
 city: Baltimore
-street: "North Eutaw Street"
-housenumber: 600
-phone: "+1 410 383 7100"
+street: North Eutaw Street
+housenumber: "600"
+phone: +1 410 383 7100
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 113572454
-type: way
+type: node
 latitude: 39.26782
 longitude: -76.79536
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8044
+street: Main Street
+housenumber: "8044"
 phone: ""
-opening_hours: "We-Su 11:00-18:00"
-website: "https://www.forgetmenotfactory.com/"
+opening_hours: We-Su 11:00-18:00
+website: https://www.forgetmenotfactory.com/

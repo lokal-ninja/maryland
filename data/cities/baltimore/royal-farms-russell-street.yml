@@ -1,11 +1,11 @@
 id: 196489143
-type: way
+type: node
 latitude: 39.27405
 longitude: -76.62872
 postcode: "21230"
 city: Baltimore
-street: "Russell Street"
-housenumber: 1540
+street: Russell Street
+housenumber: "1540"
 phone: ""
 opening_hours: ""
 website: ""

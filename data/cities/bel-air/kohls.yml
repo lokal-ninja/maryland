@@ -4,8 +4,8 @@ latitude: 39.49406
 longitude: -76.32482
 postcode: "21015"
 city: Bel Air
-street: "Bel Air South Parkway"
-housenumber: 5
-phone: "+1 410-569-6066"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.kohls.com/stores/md/belair-463.shtml"
+street: Bel Air South Parkway
+housenumber: "5"
+phone: +1 410-569-6066
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.kohls.com/stores/md/belair-463.shtml

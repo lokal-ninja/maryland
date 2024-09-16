@@ -1,11 +1,11 @@
 id: 632018648
-type: way
+type: node
 latitude: 39.42856
 longitude: -76.35476
 postcode: "21085"
 city: Joppa
-street: "Pulaski Highway"
-housenumber: 601
-phone: "+1 410-538-3691"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/316"
+street: Pulaski Highway
+housenumber: "601"
+phone: +1 410-538-3691
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/316

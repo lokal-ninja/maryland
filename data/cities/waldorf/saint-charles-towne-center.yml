@@ -1,11 +1,11 @@
 id: 225638466
-type: way
+type: node
 latitude: 38.61833
 longitude: -76.92373
 postcode: "20603"
 city: Waldorf
-street: "Mall Circle"
-housenumber: 11110
+street: Mall Circle
+housenumber: "11110"
 phone: ""
 opening_hours: ""
 website: ""

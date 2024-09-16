@@ -1,11 +1,11 @@
 id: 256259270
-type: way
+type: node
 latitude: 39.55192
 longitude: -76.09222
 postcode: "21078"
 city: Havre de Grace
-street: "North Union Avenue"
-housenumber: 500
-phone: "+1 410-939-7063"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/havre-de-grace/500-n-union-st-35490"
+street: North Union Avenue
+housenumber: "500"
+phone: +1 410-939-7063
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/havre-de-grace/500-n-union-st-35490

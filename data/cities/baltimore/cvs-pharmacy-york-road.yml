@@ -1,11 +1,11 @@
 id: 336353604
-type: way
+type: node
 latitude: 39.35197
 longitude: -76.61062
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 5200
-phone: "+1 410-433-7711"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.cvs.com/store-locator/baltimore-md-pharmacies/5200-york-road-baltimore-md-21212/storeid=2034"
+street: York Road
+housenumber: "5200"
+phone: +1 410-433-7711
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.cvs.com/store-locator/baltimore-md-pharmacies/5200-york-road-baltimore-md-21212/storeid=2034

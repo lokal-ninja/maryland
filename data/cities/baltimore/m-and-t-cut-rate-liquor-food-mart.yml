@@ -1,11 +1,11 @@
 id: 336284667
-type: way
+type: node
 latitude: 39.30775
 longitude: -76.58996
 postcode: "21213"
 city: Baltimore
-street: "East Oliver Street"
-housenumber: 2002
+street: East Oliver Street
+housenumber: "2002"
 phone: ""
 opening_hours: ""
 website: ""

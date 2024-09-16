@@ -1,11 +1,11 @@
 id: 131245303
-type: way
+type: node
 latitude: 39.3102
 longitude: -76.70804
 postcode: "21207"
 city: Baltimore
-street: "Windsor Mill Road"
-housenumber: 5205
+street: Windsor Mill Road
+housenumber: "5205"
 phone: ""
 opening_hours: ""
 website: ""

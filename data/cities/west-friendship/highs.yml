@@ -1,11 +1,11 @@
 id: 110435812
-type: way
+type: node
 latitude: 39.30365
 longitude: -76.95482
 postcode: "21794"
 city: West Friendship
-street: "Frederick Road"
-housenumber: 12780
+street: Frederick Road
+housenumber: "12780"
 phone: ""
 opening_hours: ""
 website: ""

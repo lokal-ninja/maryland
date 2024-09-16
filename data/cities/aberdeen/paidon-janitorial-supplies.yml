@@ -1,11 +1,11 @@
 id: 686749005
-type: way
+type: node
 latitude: 39.52184
 longitude: -76.1872
 postcode: "21001"
 city: Aberdeen
-street: "West Bel Air Avenue"
-housenumber: 791
+street: West Bel Air Avenue
+housenumber: "791"
 phone: ""
 opening_hours: ""
-website: "https://www.paidonproducts.com"
+website: https://www.paidonproducts.com

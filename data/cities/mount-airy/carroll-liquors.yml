@@ -1,11 +1,11 @@
 id: 169924665
-type: way
+type: node
 latitude: 39.36515
 longitude: -77.16518
 postcode: "21771"
 city: Mount Airy
-street: "East Ridgeville Boulevard"
-housenumber: 6
+street: East Ridgeville Boulevard
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

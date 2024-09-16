@@ -1,11 +1,11 @@
 id: 220295120
-type: way
+type: node
 latitude: 39.17153
 longitude: -76.63027
 postcode: ""
 city: Glen Burnie
-street: "Baltimore Annapolis Boulevard"
-housenumber: 7391
+street: Baltimore Annapolis Boulevard
+housenumber: "7391"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/md/glenburnie/oil-change-ba0002.html"
+website: https://store.vioc.com/md/glenburnie/oil-change-ba0002.html

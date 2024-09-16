@@ -1,11 +1,11 @@
 id: 686532692
-type: way
+type: node
 latitude: 39.48784
 longitude: -76.20021
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 1226
-phone: "410-272-2990"
+street: South Philadelphia Boulevard
+housenumber: "1226"
+phone: 410-272-2990
 opening_hours: ""
-website: "https://aberdeenoutdoor.com/"
+website: https://aberdeenoutdoor.com/

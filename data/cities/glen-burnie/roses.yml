@@ -1,11 +1,11 @@
 id: 228099511
-type: way
+type: node
 latitude: 39.17239
 longitude: -76.63044
 postcode: "21061"
 city: Glen Burnie
-street: "Baltimore Annapolis Boulevard"
-housenumber: 7387
-phone: "+1-410-863-7256"
+street: Baltimore Annapolis Boulevard
+housenumber: "7387"
+phone: +1-410-863-7256
 opening_hours: ""
-website: "https://www.rosesdiscountstores.com/"
+website: https://www.rosesdiscountstores.com/

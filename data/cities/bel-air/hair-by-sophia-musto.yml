@@ -4,8 +4,8 @@ latitude: 39.53248
 longitude: -76.34672
 postcode: "21014"
 city: Bel Air
-street: "Kenmore Avenue"
-housenumber: 331
-phone: "+1 443 939 0180"
-opening_hours: "on appointment"
+street: Kenmore Avenue
+housenumber: "331"
+phone: +1 443 939 0180
+opening_hours: '"on appointment"'
 website: ""

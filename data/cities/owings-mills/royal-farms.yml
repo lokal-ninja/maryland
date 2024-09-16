@@ -1,11 +1,11 @@
 id: 132436884
-type: way
+type: node
 latitude: 39.42426
 longitude: -76.80569
 postcode: "21117"
 city: Owings Mills
-street: "Red Run Boulevard"
-housenumber: 10988
+street: Red Run Boulevard
+housenumber: "10988"
 phone: ""
 opening_hours: ""
 website: ""

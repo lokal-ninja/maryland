@@ -1,11 +1,11 @@
 id: 321892498
-type: way
+type: node
 latitude: 39.59879
 longitude: -77.67957
 postcode: "21740"
 city: Hagerstown
-street: "Auto Place"
-housenumber: 10375
-phone: "+1-240-329-2823"
+street: Auto Place
+housenumber: "10375"
+phone: +1-240-329-2823
 opening_hours: ""
-website: "http://www.sharrett-subaru.com/"
+website: http://www.sharrett-subaru.com/

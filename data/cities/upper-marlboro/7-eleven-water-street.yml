@@ -1,11 +1,11 @@
 id: 231880661
-type: way
+type: node
 latitude: 38.81579
 longitude: -76.75201
-postcode: "20772-3033"
+postcode: 20772-3033
 city: Upper Marlboro
-street: "Water Street"
-housenumber: 5315
-phone: "+1 301-627-6594"
+street: Water Street
+housenumber: "5315"
+phone: +1 301-627-6594
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/upper-marlboro/5315-water-st-28857"
+website: https://www.7-eleven.com/locations/md/upper-marlboro/5315-water-st-28857

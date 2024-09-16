@@ -4,8 +4,8 @@ latitude: 39.51041
 longitude: -76.16524
 postcode: "21001"
 city: Aberdeen
-street: "North Parke Street"
-housenumber: 10
-phone: "+1-443-327-8480"
-opening_hours: "Mo-Fr 11:00-19:00; Sa-Su 09:00-20:00; PH off"
+street: North Parke Street
+housenumber: "10"
+phone: +1-443-327-8480
+opening_hours: Mo-Fr 11:00-19:00; Sa-Su 09:00-20:00; PH off
 website: ""

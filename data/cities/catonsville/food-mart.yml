@@ -1,11 +1,11 @@
 id: 183872177
-type: way
+type: node
 latitude: 39.29047
 longitude: -76.73121
 postcode: "21228"
 city: Catonsville
-street: "Ingleside Avenue"
-housenumber: 920
+street: Ingleside Avenue
+housenumber: "920"
 phone: ""
 opening_hours: ""
-website: "https://www.westviewshell.com/"
+website: https://www.westviewshell.com/

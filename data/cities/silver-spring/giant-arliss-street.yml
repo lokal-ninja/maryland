@@ -1,11 +1,11 @@
 id: 234052973
-type: way
+type: node
 latitude: 38.99969
 longitude: -77.00307
 postcode: "20901"
 city: Silver Spring
-street: "Arliss Street"
-housenumber: 8750
-phone: "+1 301-587-3450"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/silver-spring/8750-arliss-st"
+street: Arliss Street
+housenumber: "8750"
+phone: +1 301-587-3450
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/silver-spring/8750-arliss-st

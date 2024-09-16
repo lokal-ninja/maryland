@@ -1,11 +1,11 @@
 id: 166775890
-type: way
+type: node
 latitude: 39.1532
 longitude: -76.72967
 postcode: "21076"
 city: Hanover
-street: "Arundel Mills Boulevard"
-housenumber: 7684
+street: Arundel Mills Boulevard
+housenumber: "7684"
 phone: ""
 opening_hours: ""
-website: "https://www.jared.com/"
+website: https://www.jared.com/

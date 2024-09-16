@@ -4,8 +4,8 @@ latitude: 39.34714
 longitude: -76.53896
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 5975
-phone: "+1-443-438-7494"
-opening_hours: "Mo-Su 09:00-21:00; PH off"
-website: "https://www.starbuds.us/baltimore"
+street: Belair Road
+housenumber: "5975"
+phone: +1-443-438-7494
+opening_hours: Mo-Su 09:00-21:00; PH off
+website: https://www.starbuds.us/baltimore

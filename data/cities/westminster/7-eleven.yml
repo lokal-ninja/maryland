@@ -1,11 +1,11 @@
 id: 521118688
-type: way
+type: node
 latitude: 39.57405
 longitude: -76.98505
 postcode: "21157"
 city: Westminster
-street: "Baltimore Boulevard"
-housenumber: 353
+street: Baltimore Boulevard
+housenumber: "353"
 phone: ""
 opening_hours: ""
 website: ""

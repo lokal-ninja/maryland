@@ -1,11 +1,11 @@
 id: 751412435
-type: way
+type: node
 latitude: 38.96598
 longitude: -76.19348
 postcode: "21638"
 city: Grasonville
-street: "Hissey Road"
-housenumber: 101
-phone: "+1 443-390-2460"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8518"
+street: Hissey Road
+housenumber: "101"
+phone: +1 443-390-2460
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8518

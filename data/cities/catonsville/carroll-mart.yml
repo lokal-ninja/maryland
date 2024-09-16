@@ -1,11 +1,11 @@
 id: 185218649
-type: way
+type: node
 latitude: 39.27784
 longitude: -76.73305
 postcode: "21228"
 city: Catonsville
-street: "Edmondson Avenue"
-housenumber: 620
+street: Edmondson Avenue
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

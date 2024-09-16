@@ -1,11 +1,11 @@
 id: 747115421
-type: way
+type: node
 latitude: 39.54694
 longitude: -76.08963
 postcode: "21078"
 city: Havre de Grace
-street: "South Washington Street"
-housenumber: 123
-phone: "+1-410-939-2882"
+street: South Washington Street
+housenumber: "123"
+phone: +1-410-939-2882
 opening_hours: ""
-website: "https://www.zellmanfuneralhome.com/"
+website: https://www.zellmanfuneralhome.com/

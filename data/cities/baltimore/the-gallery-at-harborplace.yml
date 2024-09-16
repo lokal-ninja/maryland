@@ -1,11 +1,11 @@
 id: 178328409
-type: way
+type: node
 latitude: 39.28694
 longitude: -76.61086
 postcode: "21202"
 city: Baltimore
-street: "East Pratt Street"
-housenumber: 200
+street: East Pratt Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

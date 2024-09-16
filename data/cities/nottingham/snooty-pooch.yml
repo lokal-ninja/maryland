@@ -1,11 +1,11 @@
 id: 298519415
-type: way
+type: node
 latitude: 39.38215
 longitude: -76.49963
 postcode: "21236"
 city: Nottingham
-street: "Belair Road"
-housenumber: 8313
+street: Belair Road
+housenumber: "8313"
 phone: ""
 opening_hours: ""
 website: ""

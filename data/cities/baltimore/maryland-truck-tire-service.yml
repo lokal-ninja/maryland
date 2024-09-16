@@ -1,11 +1,11 @@
 id: 336169793
-type: way
+type: node
 latitude: 39.30487
 longitude: -76.53765
 postcode: "21237"
 city: Baltimore
-street: "Pulaski Highway"
-housenumber: 6601
-phone: "+1-410-483-1600"
+street: Pulaski Highway
+housenumber: "6601"
+phone: +1-410-483-1600
 opening_hours: ""
-website: "https://marylandtrucktire.com/"
+website: https://marylandtrucktire.com/

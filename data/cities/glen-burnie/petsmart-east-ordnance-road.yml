@@ -1,11 +1,11 @@
 id: 421698794
-type: way
+type: node
 latitude: 39.19885
 longitude: -76.59998
 postcode: "21060"
 city: Glen Burnie
-street: "East Ordnance Road"
-housenumber: 597
-phone: "+1 410-582-9444"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/md/glen-burnie-store0360.html"
+street: East Ordnance Road
+housenumber: "597"
+phone: +1 410-582-9444
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/md/glen-burnie-store0360.html

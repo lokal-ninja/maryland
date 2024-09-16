@@ -1,11 +1,11 @@
 id: 352698540
-type: way
+type: node
 latitude: 39.52782
 longitude: -76.36041
 postcode: "21014"
 city: Bel Air
-street: "Boulton Street"
-housenumber: 618
-phone: "+1 410-638-7744"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/md/bel-air/office-depot-2598"
+street: Boulton Street
+housenumber: "618"
+phone: +1 410-638-7744
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/md/bel-air/office-depot-2598

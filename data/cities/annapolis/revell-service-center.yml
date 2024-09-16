@@ -1,11 +1,11 @@
 id: 357469827
-type: way
+type: node
 latitude: 39.02695
 longitude: -76.45739
 postcode: "21409"
 city: Annapolis
-street: "Busch's Frontage Road"
-housenumber: 313
-phone: "+1 410-757-1454"
+street: Busch's Frontage Road
+housenumber: "313"
+phone: +1 410-757-1454
 opening_hours: ""
-website: "https://www.revellservicecenter.com/"
+website: https://www.revellservicecenter.com/

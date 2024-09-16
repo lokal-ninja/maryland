@@ -1,11 +1,11 @@
 id: 411211182
-type: way
+type: node
 latitude: 39.22946
 longitude: -77.25168
 postcode: "20871"
 city: Clarksburg
-street: "Snowden Farm Parkway"
-housenumber: 12101
-phone: "+1 571-343-4147"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/clarksburg/12101-snowden-farm-pkwy-39766"
+street: Snowden Farm Parkway
+housenumber: "12101"
+phone: +1 571-343-4147
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/clarksburg/12101-snowden-farm-pkwy-39766

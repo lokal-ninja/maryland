@@ -1,11 +1,11 @@
 id: 336328999
-type: way
+type: node
 latitude: 39.31795
 longitude: -76.60272
 postcode: "21218"
 city: Baltimore
-street: "East 25th Street"
-housenumber: 729
-phone: "+1 410-235-6624"
+street: East 25th Street
+housenumber: "729"
+phone: +1 410-235-6624
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/baltimore/729-east-25-street-27739"
+website: https://www.7-eleven.com/locations/md/baltimore/729-east-25-street-27739

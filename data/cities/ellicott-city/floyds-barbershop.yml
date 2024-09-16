@@ -4,8 +4,8 @@ latitude: 39.27741
 longitude: -76.82461
 postcode: "21042"
 city: Ellicott City
-street: "Baltimore National Pike"
-housenumber: 9050
-phone: "(410) 313-8420"
-opening_hours: "Mo-Tu 12:00-20:00; We-Fr 09:00-19:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.floydsbarbershop.com/ellicott-city/"
+street: Baltimore National Pike
+housenumber: "9050"
+phone: (410) 313-8420
+opening_hours: Mo-Tu 12:00-20:00; We-Fr 09:00-19:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.floydsbarbershop.com/ellicott-city/

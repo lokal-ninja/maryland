@@ -1,11 +1,11 @@
 id: 175148972
-type: way
+type: node
 latitude: 39.12073
 longitude: -76.82667
 postcode: "20723"
 city: Laurel
-street: "Washington Boulevard"
-housenumber: 9651
+street: Washington Boulevard
+housenumber: "9651"
 phone: ""
 opening_hours: ""
 website: ""

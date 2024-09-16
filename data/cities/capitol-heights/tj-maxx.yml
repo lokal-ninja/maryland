@@ -1,11 +1,11 @@
 id: 706077719
-type: way
+type: node
 latitude: 38.86639
 longitude: -76.85335
 postcode: "20743"
 city: Capitol Heights
-street: "Ritchie Station Court"
-housenumber: 1751
-phone: "+1 301-333-1602"
-opening_hours: "09:30-21:30"
-website: "https://tjmaxx.tjx.com/store/stores/Capitol+Heights-MD-20743/1363/aboutstore"
+street: Ritchie Station Court
+housenumber: "1751"
+phone: +1 301-333-1602
+opening_hours: 09:30-21:30
+website: https://tjmaxx.tjx.com/store/stores/Capitol+Heights-MD-20743/1363/aboutstore

@@ -1,11 +1,11 @@
 id: 298934905
-type: way
+type: node
 latitude: 39.2954
 longitude: -76.51058
 postcode: "21224"
 city: Highlandtown
-street: "Eastern Avenue"
-housenumber: 7856
-phone: "+1-410-282-4562"
+street: Eastern Avenue
+housenumber: "7856"
+phone: +1-410-282-4562
 opening_hours: ""
-website: "https://pricebusters.com/"
+website: https://pricebusters.com/

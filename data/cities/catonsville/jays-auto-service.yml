@@ -1,11 +1,11 @@
 id: 248610374
-type: way
+type: node
 latitude: 39.29119
 longitude: -76.7213
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 5506
-phone: "+1-410-747-0044"
+street: Baltimore National Pike
+housenumber: "5506"
+phone: +1-410-747-0044
 opening_hours: ""
-website: "https://www.jaysautoservices.com/"
+website: https://www.jaysautoservices.com/

@@ -1,11 +1,11 @@
 id: 1046487436
-type: way
+type: node
 latitude: 39.45009
 longitude: -77.66296
 postcode: "21779"
 city: Rohrersville
-street: "Woodstock Lane"
-housenumber: 4925
-phone: "+1 301 432 2965"
+street: Woodstock Lane
+housenumber: "4925"
+phone: +1 301 432 2965
 opening_hours: ""
-website: "https://www.meehansminiatures.com/"
+website: https://www.meehansminiatures.com/

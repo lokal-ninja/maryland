@@ -1,11 +1,11 @@
 id: 103091167
-type: way
+type: node
 latitude: 39.31103
 longitude: -76.75002
 postcode: "21207"
 city: Gwynn Oak
-street: "Security Boulevard"
-housenumber: 6901
+street: Security Boulevard
+housenumber: "6901"
 phone: ""
 opening_hours: ""
-website: "https://www.securitysquare.com/"
+website: https://www.securitysquare.com/

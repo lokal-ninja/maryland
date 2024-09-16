@@ -1,11 +1,11 @@
 id: 999071322
-type: way
+type: node
 latitude: 38.9923
 longitude: -76.66973
 postcode: "21054"
 city: Gambrills
-street: "Defense Highway"
-housenumber: 1329
-phone: "+1 410 387 1314"
-opening_hours: "Mo-Su 04:00 - 00:00"
-website: "https://www.highs.com/"
+street: Defense Highway
+housenumber: "1329"
+phone: +1 410 387 1314
+opening_hours: Mo-Su 04:00 - 00:00
+website: https://www.highs.com/

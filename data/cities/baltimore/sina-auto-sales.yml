@@ -1,11 +1,11 @@
 id: 336170867
-type: way
+type: node
 latitude: 39.34816
 longitude: -76.53879
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 6000
-phone: "+1-410-426-7462"
+street: Belair Road
+housenumber: "6000"
+phone: +1-410-426-7462
 opening_hours: ""
-website: "https://www.sinaautosales.com/"
+website: https://www.sinaautosales.com/

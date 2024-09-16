@@ -1,11 +1,11 @@
 id: 462246308
-type: way
+type: node
 latitude: 39.64619
 longitude: -77.15782
 postcode: "21787"
 city: Taneytown
-street: "Antrim Boulevard"
-housenumber: 11
-phone: "+1 410 756 6655"
+street: Antrim Boulevard
+housenumber: "11"
+phone: +1 410 756 6655
 opening_hours: ""
-website: "https://www.crouseford.com"
+website: https://www.crouseford.com

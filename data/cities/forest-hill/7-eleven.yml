@@ -1,11 +1,11 @@
 id: 632018056
-type: way
+type: node
 latitude: 39.55879
 longitude: -76.37031
 postcode: "21050"
 city: Forest Hill
-street: "Rock Spring Road"
-housenumber: 1501
-phone: "+1 410-838-8106"
+street: Rock Spring Road
+housenumber: "1501"
+phone: +1 410-838-8106
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/forest-hill/1501-rock-spring-rd-35478"
+website: https://www.7-eleven.com/locations/md/forest-hill/1501-rock-spring-rd-35478

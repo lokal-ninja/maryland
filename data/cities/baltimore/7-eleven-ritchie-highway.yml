@@ -1,11 +1,11 @@
 id: 288239798
-type: way
+type: node
 latitude: 39.23382
 longitude: -76.61226
-postcode: "21225-2763"
+postcode: 21225-2763
 city: Baltimore
-street: "Ritchie Highway"
-housenumber: 4000
-phone: "+1 410-789-1392"
+street: Ritchie Highway
+housenumber: "4000"
+phone: +1 410-789-1392
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/baltimore/4000-ritchie-hwy.-23753"
+website: https://www.7-eleven.com/locations/md/baltimore/4000-ritchie-hwy.-23753

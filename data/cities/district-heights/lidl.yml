@@ -1,11 +1,11 @@
 id: 1198020946
-type: way
+type: node
 latitude: 38.85061
 longitude: -76.88129
 postcode: "20747"
 city: District Heights
-street: "Marlboro Pike"
-housenumber: 7200
-phone: "+1 844-747-5435"
+street: Marlboro Pike
+housenumber: "7200"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

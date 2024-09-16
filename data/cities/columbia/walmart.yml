@@ -1,11 +1,11 @@
 id: 136031480
-type: way
+type: node
 latitude: 39.19634
 longitude: -76.81939
 postcode: "21045"
 city: Columbia
-street: "Dobbin Road"
-housenumber: 6405
-phone: "+1 410-740-2448"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5228/columbia-md/whats-new"
+street: Dobbin Road
+housenumber: "6405"
+phone: +1 410-740-2448
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5228/columbia-md/whats-new

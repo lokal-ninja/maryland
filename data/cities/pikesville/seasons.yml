@@ -1,11 +1,11 @@
 id: 53527421
-type: way
+type: node
 latitude: 39.37926
 longitude: -76.72873
 postcode: "21208"
 city: Pikesville
-street: "Reisterstown Road"
-housenumber: 1630
+street: Reisterstown Road
+housenumber: "1630"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/"
+website: https://www.officedepot.com/

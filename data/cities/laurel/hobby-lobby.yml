@@ -1,11 +1,11 @@
 id: 115869650
-type: way
+type: node
 latitude: 39.0956
 longitude: -76.80806
 postcode: "20724"
 city: Laurel
-street: "Corridor Marketplace"
-housenumber: 3333
+street: Corridor Marketplace
+housenumber: "3333"
 phone: ""
 opening_hours: ""
-website: "https://www.hobbylobby.com/"
+website: https://www.hobbylobby.com/

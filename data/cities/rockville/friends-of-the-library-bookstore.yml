@@ -4,8 +4,8 @@ latitude: 39.04621
 longitude: -77.09991
 postcode: "20852"
 city: Rockville
-street: "Boiling Brook Parkway"
-housenumber: 4886
+street: Boiling Brook Parkway
+housenumber: "4886"
 phone: ""
-opening_hours: "Su-Fr 12:00-18:00; Sa 10:00-18:00"
-website: "https://www.folmc.org/bookstores/"
+opening_hours: Su-Fr 12:00-18:00; Sa 10:00-18:00
+website: https://www.folmc.org/bookstores/

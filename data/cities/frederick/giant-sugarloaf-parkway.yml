@@ -1,11 +1,11 @@
 id: 131930006
-type: way
+type: node
 latitude: 39.33066
 longitude: -77.35263
 postcode: "21704"
 city: Frederick
-street: "Sugarloaf Parkway"
-housenumber: 3530
-phone: "+1 301-874-1200"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfood.com/md/frederick/3530-sugarloaf-parkway"
+street: Sugarloaf Parkway
+housenumber: "3530"
+phone: +1 301-874-1200
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfood.com/md/frederick/3530-sugarloaf-parkway

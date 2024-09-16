@@ -1,11 +1,11 @@
 id: 336380048
-type: way
+type: node
 latitude: 39.31872
 longitude: -76.61967
 postcode: "21218"
 city: Baltimore
-street: "North Howard Street"
-housenumber: 2545
+street: North Howard Street
+housenumber: "2545"
 phone: ""
-opening_hours: "Fr-Su 15:00-21:00; PH,Mo-Th off"
+opening_hours: Fr-Su 15:00-21:00; PH,Mo-Th off
 website: ""

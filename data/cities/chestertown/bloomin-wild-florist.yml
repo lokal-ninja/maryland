@@ -1,11 +1,11 @@
 id: 1181464298
-type: way
+type: node
 latitude: 39.21108
 longitude: -76.06494
 postcode: "21620"
 city: Chestertown
-street: "Maple Avenue"
-housenumber: 301
+street: Maple Avenue
+housenumber: "301"
 phone: "+14107785300"
 opening_hours: ""
 website: ""

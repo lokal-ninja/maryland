@@ -1,11 +1,11 @@
 id: 615360586
-type: way
+type: node
 latitude: 38.9665
 longitude: -77.00129
 postcode: "20783"
 city: Hyattsville
-street: "New Hampshire Avenue"
-housenumber: 6323
+street: New Hampshire Avenue
+housenumber: "6323"
 phone: ""
 opening_hours: ""
 website: ""

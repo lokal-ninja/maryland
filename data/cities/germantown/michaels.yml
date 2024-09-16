@@ -1,11 +1,11 @@
 id: 169233437
-type: way
+type: node
 latitude: 39.19914
 longitude: -77.24619
 postcode: "20876"
 city: Germantown
-street: "Frederick Road"
-housenumber: 20902
-phone: "+1 301-515-4951"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/md/germantown/9709"
+street: Frederick Road
+housenumber: "20902"
+phone: +1 301-515-4951
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/md/germantown/9709

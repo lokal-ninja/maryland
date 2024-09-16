@@ -1,11 +1,11 @@
 id: 268205313
-type: way
+type: node
 latitude: 38.64786
 longitude: -76.89185
 postcode: "20601"
 city: Waldorf
-street: "Crain Highway"
-housenumber: 2365
-phone: "+1 301-645-6116"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/waldorf-md-sams-club/6655"
+street: Crain Highway
+housenumber: "2365"
+phone: +1 301-645-6116
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/waldorf-md-sams-club/6655

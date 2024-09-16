@@ -1,11 +1,11 @@
 id: 298906887
-type: way
+type: node
 latitude: 39.30613
 longitude: -76.48183
 postcode: "21221"
 city: Essex
-street: "Wiltshire Road"
-housenumber: 10
+street: Wiltshire Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

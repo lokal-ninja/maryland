@@ -1,11 +1,11 @@
 id: 1293441566
-type: way
+type: node
 latitude: 39.46443
 longitude: -76.93395
 postcode: "21048"
 city: Finksburg
-street: "Sykesville Road"
-housenumber: 4007
+street: Sykesville Road
+housenumber: "4007"
 phone: ""
 opening_hours: ""
 website: ""

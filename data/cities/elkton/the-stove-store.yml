@@ -1,11 +1,11 @@
 id: 153273896
-type: way
+type: node
 latitude: 39.60183
 longitude: -75.79994
 postcode: "21921"
 city: Elkton
-street: "East Pulaski Highway"
-housenumber: 804
-phone: "+1-844-645-2235"
+street: East Pulaski Highway
+housenumber: "804"
+phone: +1-844-645-2235
 opening_hours: ""
-website: "https://acestovestore.com/"
+website: https://acestovestore.com/

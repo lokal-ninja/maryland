@@ -1,11 +1,11 @@
 id: 1116105394
-type: way
+type: node
 latitude: 39.64678
 longitude: -78.81983
 postcode: "21502"
 city: LaVale
-street: "National Highway"
-housenumber: 900
+street: National Highway
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 336263953
-type: way
+type: node
 latitude: 39.30501
 longitude: -76.5825
 postcode: "21213"
 city: Baltimore
-street: "East Biddle Street"
-housenumber: 2500
+street: East Biddle Street
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

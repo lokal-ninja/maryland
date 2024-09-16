@@ -1,11 +1,11 @@
 id: 65249532
-type: way
+type: node
 latitude: 39.37958
 longitude: -76.50024
 postcode: "21236"
 city: Nottingham
-street: "Wholesale Club Drive"
-housenumber: 4201
-phone: "+1-410-882-1100"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00; PH off"
-website: "https://www.bjs.com/"
+street: Wholesale Club Drive
+housenumber: "4201"
+phone: +1-410-882-1100
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00; PH off
+website: https://www.bjs.com/

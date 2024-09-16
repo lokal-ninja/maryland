@@ -4,8 +4,8 @@ latitude: 39.57499
 longitude: -76.99558
 postcode: "21157"
 city: Westminster
-street: "East Main Street"
-housenumber: 11
-phone: "+1-410-876-7425"
-opening_hours: "Th-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://brothersun.biz/"
+street: East Main Street
+housenumber: "11"
+phone: +1-410-876-7425
+opening_hours: Th-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://brothersun.biz/

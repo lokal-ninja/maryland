@@ -1,11 +1,11 @@
 id: 287412825
-type: way
+type: node
 latitude: 38.97805
 longitude: -76.48784
 postcode: "21401"
 city: Annapolis
-street: "Market Space"
-housenumber: 16
+street: Market Space
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.thepinkcrab.com"
+website: https://www.thepinkcrab.com

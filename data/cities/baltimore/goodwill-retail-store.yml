@@ -4,8 +4,8 @@ latitude: 39.28314
 longitude: -76.59307
 postcode: "21231"
 city: Baltimore
-street: "South Broadway"
-housenumber: 715
+street: South Broadway
+housenumber: "715"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
 website: ""

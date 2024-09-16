@@ -1,11 +1,11 @@
 id: 227974105
-type: way
+type: node
 latitude: 39.40576
 longitude: -76.95139
 postcode: "21784"
 city: Eldersburg
-street: "Sykesville Road"
-housenumber: 6110
+street: Sykesville Road
+housenumber: "6110"
 phone: ""
 opening_hours: ""
-website: "https://www.antwerpenchevy.com/"
+website: https://www.antwerpenchevy.com/

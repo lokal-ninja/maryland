@@ -1,11 +1,11 @@
 id: 288076647
-type: way
+type: node
 latitude: 38.97796
 longitude: -76.49034
 postcode: "21401"
 city: Annapolis
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://seasonstaproom.com"
+website: https://seasonstaproom.com

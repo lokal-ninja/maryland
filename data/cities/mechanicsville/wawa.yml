@@ -1,11 +1,11 @@
 id: 358990006
-type: way
+type: node
 latitude: 38.42687
 longitude: -76.71594
-postcode: "20659-3374"
+postcode: 20659-3374
 city: Mechanicsville
-street: "Three Notch Road"
-housenumber: 27605
-phone: "+1 301-818-0450"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/583"
+street: Three Notch Road
+housenumber: "27605"
+phone: +1 301-818-0450
+opening_hours: 24/7
+website: https://www.wawa.com/locations/583

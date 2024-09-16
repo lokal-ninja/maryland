@@ -1,11 +1,11 @@
 id: 907022314
-type: way
+type: node
 latitude: 39.12547
 longitude: -76.53042
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 3400
-phone: "+1-410-360-1509"
+street: Mountain Road
+housenumber: "3400"
+phone: +1-410-360-1509
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3400+mountain+road-pasadena-md-21122/id=18160"
+website: https://www.walgreens.com/locator/walgreens-3400+mountain+road-pasadena-md-21122/id=18160

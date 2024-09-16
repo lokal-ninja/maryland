@@ -1,11 +1,11 @@
 id: 239530388
-type: way
+type: node
 latitude: 39.38017
 longitude: -77.42337
 postcode: "21703"
 city: Frederick
-street: "New Design Road"
-housenumber: 5312
+street: New Design Road
+housenumber: "5312"
 phone: ""
 opening_hours: ""
-website: "https://mysweetbuds.com/"
+website: https://mysweetbuds.com/

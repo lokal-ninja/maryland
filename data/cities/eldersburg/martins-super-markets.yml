@@ -1,11 +1,11 @@
 id: 110309960
-type: way
+type: node
 latitude: 39.41091
 longitude: -76.94947
 postcode: "21784"
 city: Eldersburg
-street: "Londontown Boulevard"
-housenumber: 1320
+street: Londontown Boulevard
+housenumber: "1320"
 phone: ""
-opening_hours: "open"
-website: "https://martinsfoods.com/"
+opening_hours: open
+website: https://martinsfoods.com/

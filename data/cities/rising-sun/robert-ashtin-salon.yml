@@ -1,11 +1,12 @@
 id: 759743413
-type: way
+type: node
 latitude: 39.69786
 longitude: -76.06599
 postcode: "21911"
 city: Rising Sun
-street: "West Main Street"
-housenumber: 203
-phone: "+1-410-657-7600"
-opening_hours: "Mo off; Tu-We 10:00-19:00; Th 10:00-17:00; Sa 09:00-15:00; Su off; PH off"
-website: "https://robertashtinsalon.com/"
+street: West Main Street
+housenumber: "203"
+phone: +1-410-657-7600
+opening_hours: Mo off; Tu-We 10:00-19:00; Th 10:00-17:00; Sa 09:00-15:00; Su off;
+    PH off
+website: https://robertashtinsalon.com/

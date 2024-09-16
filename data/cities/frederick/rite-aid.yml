@@ -1,11 +1,11 @@
 id: 239531759
-type: way
+type: node
 latitude: 39.41981
 longitude: -77.43824
 postcode: "21702"
 city: Frederick
-street: "Key Parkway"
-housenumber: 1000
-phone: "+1-301-624-0000"
+street: Key Parkway
+housenumber: "1000"
+phone: +1-301-624-0000
 opening_hours: ""
 website: ""

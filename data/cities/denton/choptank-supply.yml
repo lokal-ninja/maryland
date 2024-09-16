@@ -1,11 +1,11 @@
 id: 729792707
-type: way
+type: node
 latitude: 38.88658
 longitude: -75.82332
 postcode: "21629"
 city: Denton
-street: "Crystal Avenue"
-housenumber: 802
-phone: "+1 410-479-1233"
+street: Crystal Avenue
+housenumber: "802"
+phone: +1 410-479-1233
 opening_hours: ""
-website: "https://choptanksupply.com/index.html"
+website: https://choptanksupply.com/index.html

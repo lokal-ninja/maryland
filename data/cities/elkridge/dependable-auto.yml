@@ -1,11 +1,11 @@
 id: 172826565
-type: way
+type: node
 latitude: 39.19817
 longitude: -76.7385
 postcode: "21075"
 city: Elkridge
-street: "Howard Lane"
-housenumber: 6320
+street: Howard Lane
+housenumber: "6320"
 phone: ""
 opening_hours: ""
-website: "https://www.dautoservice.com/"
+website: https://www.dautoservice.com/

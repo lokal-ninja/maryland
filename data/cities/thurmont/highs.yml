@@ -1,11 +1,11 @@
 id: 310501996
-type: way
+type: node
 latitude: 39.61375
 longitude: -77.41975
 postcode: "21788"
 city: Thurmont
-street: "Frederick Road"
-housenumber: 201
+street: Frederick Road
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

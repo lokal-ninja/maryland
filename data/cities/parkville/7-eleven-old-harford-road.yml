@@ -1,11 +1,11 @@
 id: 298715205
-type: way
+type: node
 latitude: 39.39086
 longitude: -76.54316
 postcode: "21234"
 city: Parkville
-street: "Old Harford Road"
-housenumber: 8605
-phone: "+1 410-665-8996"
+street: Old Harford Road
+housenumber: "8605"
+phone: +1 410-665-8996
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/baltimore/8605-old-harford-rd-11602"
+website: https://www.7-eleven.com/locations/md/baltimore/8605-old-harford-rd-11602

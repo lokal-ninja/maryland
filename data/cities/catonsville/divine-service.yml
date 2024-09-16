@@ -1,11 +1,11 @@
 id: 299320311
-type: way
+type: node
 latitude: 39.27826
 longitude: -76.73318
 postcode: "21228"
 city: Catonsville
-street: "Ingleside Avenue"
-housenumber: 410
-phone: "+1-848-333-0198"
+street: Ingleside Avenue
+housenumber: "410"
+phone: +1-848-333-0198
 opening_hours: ""
 website: ""

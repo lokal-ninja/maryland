@@ -1,11 +1,11 @@
 id: 336347664
-type: way
+type: node
 latitude: 39.29307
 longitude: -76.60845
 postcode: "21202"
 city: Baltimore
-street: "North Gay Street"
-housenumber: 224
+street: North Gay Street
+housenumber: "224"
 phone: ""
 opening_hours: ""
-website: "http://www.addbeautysupply.com"
+website: http://www.addbeautysupply.com

@@ -1,11 +1,11 @@
 id: 613943625
-type: way
+type: node
 latitude: 38.98683
 longitude: -76.7584
 postcode: "20715"
 city: Bowie
-street: "Laurel Bowie Road"
-housenumber: 7404
-phone: "+1 301-262-5131"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/bowie/7404-laurel-bowie-rd-11550"
+street: Laurel Bowie Road
+housenumber: "7404"
+phone: +1 301-262-5131
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/bowie/7404-laurel-bowie-rd-11550

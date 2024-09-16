@@ -1,11 +1,11 @@
 id: 298909091
-type: way
+type: node
 latitude: 39.31144
 longitude: -76.44779
 postcode: "21221"
 city: Essex
-street: "Back River Neck Road"
-housenumber: 118
+street: Back River Neck Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

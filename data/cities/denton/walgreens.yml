@@ -1,11 +1,11 @@
 id: 730332696
-type: way
+type: node
 latitude: 38.87479
 longitude: -75.82426
 postcode: "21629"
 city: Denton
-street: "Denton Plaza"
-housenumber: 21
-phone: "+1-410-479-1771"
+street: Denton Plaza
+housenumber: "21"
+phone: +1-410-479-1771
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-21+denton+plz-denton-md-21629/id=19451"
+website: https://www.walgreens.com/locator/walgreens-21+denton+plz-denton-md-21629/id=19451

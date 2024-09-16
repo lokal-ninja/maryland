@@ -1,11 +1,11 @@
 id: 336377222
-type: way
+type: node
 latitude: 39.29354
 longitude: -76.61839
 postcode: "21201"
 city: Baltimore
-street: "Park Avenue"
-housenumber: 318
+street: Park Avenue
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

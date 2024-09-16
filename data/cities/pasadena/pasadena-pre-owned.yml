@@ -1,11 +1,11 @@
 id: 1191337185
-type: way
+type: node
 latitude: 39.12599
 longitude: -76.5359
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 3101
-phone: "+1-410-360-0400"
+street: Mountain Road
+housenumber: "3101"
+phone: +1-410-360-0400
 opening_hours: ""
-website: "https://www.pasadenapreowned.com/"
+website: https://www.pasadenapreowned.com/

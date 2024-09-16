@@ -1,11 +1,11 @@
 id: 56159898
-type: way
+type: node
 latitude: 39.03479
 longitude: -77.04844
 postcode: "20902"
 city: Wheaton
-street: "Georgia Avenue"
-housenumber: 10901
-phone: "+1 301-942-1877"
+street: Georgia Avenue
+housenumber: "10901"
+phone: +1 301-942-1877
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/wheaton/10901-georgia-ave-1129.html"
+website: https://stores.bestbuy.com/md/wheaton/10901-georgia-ave-1129.html

@@ -1,11 +1,11 @@
 id: 319959331
-type: way
+type: node
 latitude: 39.15194
 longitude: -76.72897
 postcode: "21076"
 city: Hanover
-street: "Arundel Mills Boulevard"
-housenumber: 7665
-phone: "+1 410-796-2472"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/md/hanover/2731"
+street: Arundel Mills Boulevard
+housenumber: "7665"
+phone: +1 410-796-2472
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/md/hanover/2731

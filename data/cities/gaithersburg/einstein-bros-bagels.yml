@@ -1,11 +1,11 @@
 id: 1002115540
-type: way
+type: node
 latitude: 39.14467
 longitude: -77.21941
 postcode: "20878"
 city: Gaithersburg
-street: "Quince Orchard Road"
-housenumber: 531
-phone: "+1 301-947-4208"
-opening_hours: "Mo-Su 05:00-14:00"
-website: "https://locations.einsteinbros.com/us/md/gaithersburg/531-quince-orchard-rd"
+street: Quince Orchard Road
+housenumber: "531"
+phone: +1 301-947-4208
+opening_hours: Mo-Su 05:00-14:00
+website: https://locations.einsteinbros.com/us/md/gaithersburg/531-quince-orchard-rd

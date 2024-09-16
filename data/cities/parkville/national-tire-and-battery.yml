@@ -4,8 +4,8 @@ latitude: 39.37335
 longitude: -76.54288
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 7713
+street: Harford Road
+housenumber: "7713"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.ntb.com/store/md/parkville/7713-harford-rd-21234/4267"
+opening_hours: Mo-Th 08:00-19:00; Sa 08:00-18:00
+website: https://www.ntb.com/store/md/parkville/7713-harford-rd-21234/4267

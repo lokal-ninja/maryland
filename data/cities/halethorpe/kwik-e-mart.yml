@@ -1,11 +1,11 @@
 id: 196040606
-type: way
+type: node
 latitude: 39.25712
 longitude: -76.66486
 postcode: "21227"
 city: Halethorpe
-street: "Washington Boulevard"
-housenumber: 1463
+street: Washington Boulevard
+housenumber: "1463"
 phone: ""
 opening_hours: ""
 website: ""

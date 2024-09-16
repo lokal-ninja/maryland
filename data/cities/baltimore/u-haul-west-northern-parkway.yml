@@ -1,11 +1,11 @@
 id: 184133740
-type: way
+type: node
 latitude: 39.34798
 longitude: -76.69235
 postcode: "21208"
 city: Baltimore
-street: "West Northern Parkway"
-housenumber: 4111
+street: West Northern Parkway
+housenumber: "4111"
 phone: ""
 opening_hours: ""
 website: ""

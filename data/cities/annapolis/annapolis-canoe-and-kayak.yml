@@ -4,8 +4,8 @@ latitude: 38.97257
 longitude: -76.4817
 postcode: "21403"
 city: Annapolis
-street: "Third Street"
-housenumber: 311
+street: Third Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
-website: "https://www.annapoliscanoeandkayak.com/"
+website: https://www.annapoliscanoeandkayak.com/

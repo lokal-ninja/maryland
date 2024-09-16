@@ -1,11 +1,11 @@
 id: 336305085
-type: way
+type: node
 latitude: 39.28195
 longitude: -76.59497
 postcode: "21231"
 city: Baltimore
-street: "South Bond Street"
-housenumber: 817
-phone: "+1 410 327 2300"
+street: South Bond Street
+housenumber: "817"
+phone: +1 410 327 2300
 opening_hours: ""
-website: "http://alphastudiobaltimore.com"
+website: http://alphastudiobaltimore.com

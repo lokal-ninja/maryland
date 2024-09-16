@@ -1,11 +1,11 @@
 id: 638048287
-type: way
+type: node
 latitude: 39.47102
 longitude: -76.30872
 postcode: "21009"
 city: Abingdon
-street: "Emmorton Road"
-housenumber: 3309
+street: Emmorton Road
+housenumber: "3309"
 phone: ""
 opening_hours: ""
-website: "https://www.aaa.com/autorepair/locations/abingdon-md"
+website: https://www.aaa.com/autorepair/locations/abingdon-md

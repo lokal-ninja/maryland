@@ -1,11 +1,11 @@
 id: 146207107
-type: way
+type: node
 latitude: 39.24245
 longitude: -76.8403
 postcode: "21042"
 city: Ellicott City
-street: "Dorsey Hall Drive"
-housenumber: 4755 
+street: Dorsey Hall Drive
+housenumber: '4755 '
 phone: ""
 opening_hours: ""
 website: ""

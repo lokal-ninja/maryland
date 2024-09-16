@@ -1,11 +1,11 @@
 id: 298937371
-type: way
+type: node
 latitude: 39.33847
 longitude: -76.48556
 postcode: "21237"
 city: Rosedale
-street: "Philadelphia Road"
-housenumber: 8667
+street: Philadelphia Road
+housenumber: "8667"
 phone: ""
 opening_hours: ""
 website: ""

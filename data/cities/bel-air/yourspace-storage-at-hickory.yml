@@ -1,11 +1,11 @@
 id: 690110219
-type: way
+type: node
 latitude: 39.5694
 longitude: -76.35241
 postcode: "21014"
 city: Bel Air
-street: "Hoagie Drive"
-housenumber: 603
-phone: "410-893-7666"
+street: Hoagie Drive
+housenumber: "603"
+phone: 410-893-7666
 opening_hours: ""
 website: ""

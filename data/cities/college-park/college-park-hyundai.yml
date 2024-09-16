@@ -1,11 +1,11 @@
 id: 302566929
-type: way
+type: node
 latitude: 39.00982
 longitude: -76.92959
 postcode: "20740"
 city: College Park
-street: "Baltimore Avenue"
-housenumber: 9500
+street: Baltimore Avenue
+housenumber: "9500"
 phone: ""
 opening_hours: ""
-website: "https://www.collegeparkhyundai.com/"
+website: https://www.collegeparkhyundai.com/

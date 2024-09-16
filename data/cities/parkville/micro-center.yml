@@ -4,8 +4,8 @@ latitude: 39.39707
 longitude: -76.54517
 postcode: "21234"
 city: Parkville
-street: "East Joppa Road"
-housenumber: 1957
+street: East Joppa Road
+housenumber: "1957"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.microcenter.com/site/stores/parkville.aspx?storeid=125"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.microcenter.com/site/stores/parkville.aspx?storeid=125

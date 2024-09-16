@@ -1,11 +1,11 @@
 id: 190681180
-type: way
+type: node
 latitude: 39.36237
 longitude: -76.78185
 postcode: "21133"
 city: Randallstown
-street: "Liberty Road"
-housenumber: 8631
+street: Liberty Road
+housenumber: "8631"
 phone: ""
 opening_hours: ""
 website: ""

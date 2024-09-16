@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /columbia/royal-farms-centre-park-drive/
+url: /columbia/royal-farms-minstrel-way/
 shop: convenience
 ---

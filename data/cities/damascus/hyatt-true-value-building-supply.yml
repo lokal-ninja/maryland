@@ -1,11 +1,11 @@
 id: 64505493
-type: way
+type: node
 latitude: 39.28719
 longitude: -77.20873
 postcode: "20872"
 city: Damascus
-street: "Ridge Road"
-housenumber: 26200
+street: Ridge Road
+housenumber: "26200"
 phone: ""
 opening_hours: ""
 website: ""

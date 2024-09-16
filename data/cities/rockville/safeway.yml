@@ -4,8 +4,8 @@ latitude: 39.11306
 longitude: -77.17182
 postcode: "20850"
 city: Rockville
-street: "Redland Boulevard"
-housenumber: 403
-phone: "+1 301-990-3150"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/md/rockville/403-redland-blvd.html"
+street: Redland Boulevard
+housenumber: "403"
+phone: +1 301-990-3150
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.safeway.com/safeway/md/rockville/403-redland-blvd.html

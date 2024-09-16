@@ -1,11 +1,11 @@
 id: 1110144521
-type: way
+type: node
 latitude: 39.45933
 longitude: -77.40613
 postcode: "21702"
 city: Frederick
-street: "Thomas Johnson Drive"
-housenumber: 23
-phone: "+1 301-228-9135"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findASheetz?search=Thomas%20Johnson%20Drive"
+street: Thomas Johnson Drive
+housenumber: "23"
+phone: +1 301-228-9135
+opening_hours: 24/7
+website: https://orders.sheetz.com/findASheetz?search=Thomas%20Johnson%20Drive

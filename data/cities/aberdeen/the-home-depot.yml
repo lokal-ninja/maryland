@@ -1,11 +1,11 @@
 id: 328689659
-type: way
+type: node
 latitude: 39.52407
 longitude: -76.181
 postcode: "21001"
 city: Aberdeen
-street: "Beards Hill Road"
-housenumber: 979
-phone: "+1 410-297-8930"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-18:00"
-website: "https://www.homedepot.com/l/Aberdeen-MD/MD/Aberdeen/21001/2510"
+street: Beards Hill Road
+housenumber: "979"
+phone: +1 410-297-8930
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-18:00
+website: https://www.homedepot.com/l/Aberdeen-MD/MD/Aberdeen/21001/2510

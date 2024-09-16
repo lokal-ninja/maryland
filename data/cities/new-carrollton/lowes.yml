@@ -1,11 +1,11 @@
 id: 128005836
-type: way
+type: node
 latitude: 38.9598
 longitude: -76.87518
 postcode: "20784"
 city: New Carrollton
-street: "Riverdale Road"
-housenumber: 7710
-phone: "+1 310-918-6406"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/"
+street: Riverdale Road
+housenumber: "7710"
+phone: +1 310-918-6406
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/

@@ -1,11 +1,11 @@
 id: 331001479
-type: way
+type: node
 latitude: 39.71775
 longitude: -76.39361
 postcode: "21160"
 city: Whiteford
-street: "Whiteford Road"
-housenumber: 2902
-phone: "+1-410-452-5969"
+street: Whiteford Road
+housenumber: "2902"
+phone: +1-410-452-5969
 opening_hours: ""
-website: "https://www.saubelsmarkets.com/"
+website: https://www.saubelsmarkets.com/

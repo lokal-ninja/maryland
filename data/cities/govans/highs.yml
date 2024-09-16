@@ -1,11 +1,11 @@
 id: 298710362
-type: way
+type: node
 latitude: 39.3779
 longitude: -76.62651
 postcode: "21212"
 city: Govans
-street: "Charles Street"
-housenumber: 6207
+street: Charles Street
+housenumber: "6207"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1199465045
-type: way
+type: node
 latitude: 38.79703
 longitude: -76.98402
 postcode: "20745"
 city: Oxon Hill
-street: "Livingston Road"
-housenumber: 6712
-phone: "+1 240-493-3640"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/md/oxon-hill/17525"
+street: Livingston Road
+housenumber: "6712"
+phone: +1 240-493-3640
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/md/oxon-hill/17525

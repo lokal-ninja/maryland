@@ -1,11 +1,11 @@
 id: 480120969
-type: way
+type: node
 latitude: 39.04441
 longitude: -76.06508
 postcode: "21617"
 city: Centreville
-street: "North Commerce Street"
-housenumber: 106
-phone: "443-262-8042"
+street: North Commerce Street
+housenumber: "106"
+phone: 443-262-8042
 opening_hours: ""
-website: "https://inkordyestudio.org/"
+website: https://inkordyestudio.org/

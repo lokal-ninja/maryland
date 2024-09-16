@@ -1,11 +1,11 @@
 id: 336349468
-type: way
+type: node
 latitude: 39.34116
 longitude: -76.60919
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 4303
+street: York Road
+housenumber: "4303"
 phone: ""
 opening_hours: ""
 website: ""

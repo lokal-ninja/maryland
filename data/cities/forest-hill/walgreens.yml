@@ -1,11 +1,11 @@
 id: 611914695
-type: way
+type: node
 latitude: 39.57298
 longitude: -76.3859
 postcode: "21050"
 city: Forest Hill
-street: "Rock Spring Road"
-housenumber: 2016
-phone: "+1 410-638-2404"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2016+rock+spring+rd-forest+hill-md-21050/id=9926"
+street: Rock Spring Road
+housenumber: "2016"
+phone: +1 410-638-2404
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2016+rock+spring+rd-forest+hill-md-21050/id=9926

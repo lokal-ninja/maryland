@@ -1,11 +1,11 @@
 id: 217813139
-type: way
+type: node
 latitude: 39.6435
 longitude: -75.7978
 postcode: "21921"
 city: Elkton
-street: "Elkton Road"
-housenumber: 1400
+street: Elkton Road
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

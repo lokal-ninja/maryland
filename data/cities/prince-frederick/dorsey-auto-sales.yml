@@ -1,11 +1,11 @@
 id: 419932484
-type: way
+type: node
 latitude: 38.55422
 longitude: -76.59612
 postcode: "20678"
 city: Prince Frederick
-street: "North Solomons Island Road"
-housenumber: 708
-phone: "+1 410-414-7373"
+street: North Solomons Island Road
+housenumber: "708"
+phone: +1 410-414-7373
 opening_hours: ""
 website: ""

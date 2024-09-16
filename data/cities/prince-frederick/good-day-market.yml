@@ -1,11 +1,11 @@
 id: 1105337325
-type: way
+type: node
 latitude: 38.55282
 longitude: -76.56214
 postcode: "20678"
 city: Prince Frederick
-street: "Dares Beach Road"
-housenumber: 1701
+street: Dares Beach Road
+housenumber: "1701"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

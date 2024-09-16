@@ -1,11 +1,11 @@
 id: 352702669
-type: way
+type: node
 latitude: 39.50606
 longitude: -76.38121
 postcode: "21014"
 city: Bel Air
-street: "Belair Road"
-housenumber: 1508
-phone: "410-879-6400"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off"
-website: "http://jonesjunctionusedcars.com/"
+street: Belair Road
+housenumber: "1508"
+phone: 410-879-6400
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off
+website: http://jonesjunctionusedcars.com/

@@ -1,11 +1,11 @@
 id: 874482389
-type: way
+type: node
 latitude: 39.66111
 longitude: -77.74333
 postcode: "21740"
 city: Hagerstown
-street: "Garland Groh Boulevard"
-housenumber: 18057
+street: Garland Groh Boulevard
+housenumber: "18057"
 phone: ""
 opening_hours: ""
-website: "https://www.fivebelow.com/"
+website: https://www.fivebelow.com/

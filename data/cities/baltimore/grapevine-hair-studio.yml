@@ -1,11 +1,11 @@
 id: 336263765
-type: way
+type: node
 latitude: 39.28486
 longitude: -76.58271
 postcode: "21224"
 city: Baltimore
-street: "South Montford Avenue"
-housenumber: 601
+street: South Montford Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://www.grapevinehairstudio.com/"
+website: https://www.grapevinehairstudio.com/

@@ -1,11 +1,11 @@
 id: 286995708
-type: way
+type: node
 latitude: 38.97783
 longitude: -76.49039
 postcode: "21401"
 city: Annapolis
-street: "Main Street"
-housenumber: 179
+street: Main Street
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

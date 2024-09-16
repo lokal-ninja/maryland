@@ -1,11 +1,11 @@
 id: 336381922
-type: way
+type: node
 latitude: 39.29249
 longitude: -76.62154
 postcode: "21201"
 city: Baltimore
-street: "North Eutaw Street"
-housenumber: 230
-phone: "+1 443-449-7412"
+street: North Eutaw Street
+housenumber: "230"
+phone: +1 443-449-7412
 opening_hours: ""
-website: "https://www.beautyzn.com/"
+website: https://www.beautyzn.com/

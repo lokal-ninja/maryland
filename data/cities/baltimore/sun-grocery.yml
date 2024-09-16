@@ -1,11 +1,11 @@
 id: 336354144
-type: way
+type: node
 latitude: 39.30849
 longitude: -76.61058
 postcode: "21202"
 city: Baltimore
-street: "Pitman Place"
-housenumber: 400
+street: Pitman Place
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

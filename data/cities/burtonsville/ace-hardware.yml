@@ -1,11 +1,11 @@
 id: 130651785
-type: way
+type: node
 latitude: 39.11115
 longitude: -76.93094
 postcode: "20866"
 city: Burtonsville
-street: "Sandy Spring Road"
-housenumber: 3801
-phone: "+1 301-421-1900"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-17:00"
+street: Sandy Spring Road
+housenumber: "3801"
+phone: +1 301-421-1900
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 228608888
-type: way
+type: node
 latitude: 38.98647
 longitude: -76.98658
-postcode: "20912-7504"
+postcode: 20912-7504
 city: Takoma Park
-street: "New Hampshire Avenue"
-housenumber: 7609
-phone: "+1 833-471-7029"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://stores.aldi.us/md/takoma-park/7609-new-hampshire-avenue"
+street: New Hampshire Avenue
+housenumber: "7609"
+phone: +1 833-471-7029
+opening_hours: Mo-Su 08:00-21:00
+website: https://stores.aldi.us/md/takoma-park/7609-new-hampshire-avenue

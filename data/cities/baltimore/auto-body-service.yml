@@ -1,11 +1,11 @@
 id: 336167270
-type: way
+type: node
 latitude: 39.35079
 longitude: -76.5349
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 6233
-phone: "+1-410-426-5527"
+street: Belair Road
+housenumber: "6233"
+phone: +1-410-426-5527
 opening_hours: ""
 website: ""

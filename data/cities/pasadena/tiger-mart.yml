@@ -1,11 +1,11 @@
 id: 208355015
-type: way
+type: node
 latitude: 39.11124
 longitude: -76.50033
 postcode: "21122"
 city: Pasadena
-street: "Mountain Road"
-housenumber: 4459
+street: Mountain Road
+housenumber: "4459"
 phone: ""
 opening_hours: ""
 website: ""

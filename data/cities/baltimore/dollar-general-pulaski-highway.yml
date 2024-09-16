@@ -1,11 +1,11 @@
 id: 336204886
-type: way
+type: node
 latitude: 39.29665
 longitude: -76.56223
 postcode: "21224"
 city: Baltimore
-street: "Pulaski Highway"
-housenumber: 4101
+street: Pulaski Highway
+housenumber: "4101"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/md/baltimore/15271"
+website: https://www.dollargeneral.com/store-directory/md/baltimore/15271

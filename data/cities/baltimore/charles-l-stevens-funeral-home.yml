@@ -1,11 +1,11 @@
 id: 336300656
-type: way
+type: node
 latitude: 39.26875
 longitude: -76.59383
 postcode: "21230"
 city: Baltimore
-street: "East Fort Avenue"
-housenumber: 1503
+street: East Fort Avenue
+housenumber: "1503"
 phone: ""
 opening_hours: ""
 website: ""

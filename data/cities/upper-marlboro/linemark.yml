@@ -1,11 +1,11 @@
 id: 225521232
-type: way
+type: node
 latitude: 38.88073
 longitude: -76.72382
 postcode: "20774"
 city: Upper Marlboro
-street: "Prince Georges Boulevard"
-housenumber: 501
-phone: "+1-301-925-9000"
+street: Prince Georges Boulevard
+housenumber: "501"
+phone: +1-301-925-9000
 opening_hours: ""
-website: "https://www.linemark.com/"
+website: https://www.linemark.com/

@@ -1,11 +1,11 @@
 id: 46945215
-type: way
+type: node
 latitude: 39.07022
 longitude: -77.1305
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 1200
-phone: "+1 301-984-1479"
+street: Rockville Pike
+housenumber: "1200"
+phone: +1 301-984-1479
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/rockville/1200-rockville-pike-293.html"
+website: https://stores.bestbuy.com/md/rockville/1200-rockville-pike-293.html

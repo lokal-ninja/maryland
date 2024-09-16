@@ -1,11 +1,11 @@
 id: 160207447
-type: way
+type: node
 latitude: 39.61212
 longitude: -77.41762
 postcode: "21788"
 city: Thurmont
-street: "Thurmont Boulevard"
-housenumber: 2
-phone: "+1-301-271-4028"
-opening_hours: "24/7"
+street: Thurmont Boulevard
+housenumber: "2"
+phone: +1-301-271-4028
+opening_hours: 24/7
 website: ""

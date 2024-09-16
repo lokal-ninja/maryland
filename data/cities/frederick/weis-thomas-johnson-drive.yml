@@ -1,11 +1,11 @@
 id: 306611115
-type: way
+type: node
 latitude: 39.44169
 longitude: -77.40874
 postcode: "21702"
 city: Frederick
-street: "Thomas Johnson Drive"
-housenumber: 199
-phone: "+1-301-662-8065"
+street: Thomas Johnson Drive
+housenumber: "199"
+phone: +1-301-662-8065
 opening_hours: ""
-website: "https://www.weismarkets.com/"
+website: https://www.weismarkets.com/

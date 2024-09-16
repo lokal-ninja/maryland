@@ -1,11 +1,11 @@
 id: 298917201
-type: way
+type: node
 latitude: 39.30529
 longitude: -76.48176
 postcode: "21221"
 city: Essex
-street: "Eastern Boulevard"
-housenumber: 209
+street: Eastern Boulevard
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 299144278
-type: way
+type: node
 latitude: 39.27644
 longitude: -76.5045
 postcode: "21222"
 city: Dundalk
-street: "Merritt Boulevard"
-housenumber: 1408
+street: Merritt Boulevard
+housenumber: "1408"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/dundalk/1408-merritt-blvd.html"
+website: https://www.autozone.com/locations/md/dundalk/1408-merritt-blvd.html

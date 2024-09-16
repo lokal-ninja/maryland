@@ -4,8 +4,8 @@ latitude: 38.95092
 longitude: -76.49357
 postcode: "21403"
 city: Annapolis
-street: "Forest Drive"
-housenumber: 912
-phone: "+1 410-268-3939"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 08:00-18:00"
-website: "https://kbtruevalue.com/"
+street: Forest Drive
+housenumber: "912"
+phone: +1 410-268-3939
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 08:00-18:00
+website: https://kbtruevalue.com/

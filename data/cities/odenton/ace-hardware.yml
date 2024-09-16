@@ -1,11 +1,11 @@
 id: 476085082
-type: way
+type: node
 latitude: 39.08543
 longitude: -76.70027
 postcode: "21113"
 city: Odenton
-street: "Piney Orchard Parkway"
-housenumber: 8380
-phone: "+1 410-674-5222"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Piney Orchard Parkway
+housenumber: "8380"
+phone: +1 410-674-5222
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

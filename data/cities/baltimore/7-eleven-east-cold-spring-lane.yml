@@ -1,11 +1,11 @@
 id: 336315894
-type: way
+type: node
 latitude: 39.34578
 longitude: -76.59828
 postcode: "21239"
 city: Baltimore
-street: "East Cold Spring Lane"
-housenumber: 1120
-phone: "+1 410-323-2380"
+street: East Cold Spring Lane
+housenumber: "1120"
+phone: +1 410-323-2380
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/baltimore/1120-e-cold-spring-lane-22104"
+website: https://www.7-eleven.com/locations/md/baltimore/1120-e-cold-spring-lane-22104

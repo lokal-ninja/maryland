@@ -1,11 +1,11 @@
 id: 337888189
-type: way
+type: node
 latitude: 39.29494
 longitude: -76.57165
-postcode: "21224-1437"
+postcode: 21224-1437
 city: Baltimore
-street: "East Fayette Street"
-housenumber: 3250
-phone: "+1 833-471-7030"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/md/baltimore/3250-east-fayette-street"
+street: East Fayette Street
+housenumber: "3250"
+phone: +1 833-471-7030
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/md/baltimore/3250-east-fayette-street

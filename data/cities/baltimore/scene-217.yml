@@ -1,11 +1,11 @@
 id: 336328034
-type: way
+type: node
 latitude: 39.28692
 longitude: -76.60252
 postcode: "21202"
 city: Baltimore
-street: "Albemarle Street"
-housenumber: 217
+street: Albemarle Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

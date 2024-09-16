@@ -1,11 +1,11 @@
 id: 295319042
-type: way
+type: node
 latitude: 39.29029
 longitude: -76.59421
 postcode: "21231"
 city: Baltimore
-street: "South Broadway"
-housenumber: 100
-phone: "+1 410-276-4090"
+street: South Broadway
+housenumber: "100"
+phone: +1 410-276-4090
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/baltimore/100-s-broadway-23860"
+website: https://www.7-eleven.com/locations/md/baltimore/100-s-broadway-23860

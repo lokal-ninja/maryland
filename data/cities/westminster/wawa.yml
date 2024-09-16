@@ -1,11 +1,11 @@
 id: 452944058
-type: way
+type: node
 latitude: 39.56131
 longitude: -76.96704
 postcode: "21157"
 city: Westminster
-street: "Leidy Road"
-housenumber: 805
+street: Leidy Road
+housenumber: "805"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

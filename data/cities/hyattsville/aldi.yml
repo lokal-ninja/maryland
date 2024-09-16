@@ -1,11 +1,11 @@
 id: 228606075
-type: way
+type: node
 latitude: 38.95582
 longitude: -76.96435
-postcode: "20782-3711"
+postcode: 20782-3711
 city: Hyattsville
-street: "Hamilton Street"
-housenumber: 3025
-phone: "+1 866-471-7006"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://stores.aldi.us/md/hyattsville/3025-hamilton-street"
+street: Hamilton Street
+housenumber: "3025"
+phone: +1 866-471-7006
+opening_hours: Mo-Su 08:30-20:30
+website: https://stores.aldi.us/md/hyattsville/3025-hamilton-street

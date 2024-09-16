@@ -1,11 +1,11 @@
 id: 336592322
-type: way
+type: node
 latitude: 39.31018
 longitude: -76.70898
 postcode: "21207"
 city: Baltimore
-street: "Muth Avenue"
-housenumber: 5209
+street: Muth Avenue
+housenumber: "5209"
 phone: ""
 opening_hours: ""
 website: ""

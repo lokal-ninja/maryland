@@ -4,8 +4,8 @@ latitude: 38.95225
 longitude: -76.94044
 postcode: "20781"
 city: Hyattsville
-street: "Baltimore Avenue"
-housenumber: 5107
-phone: "+1-240-764-7163"
+street: Baltimore Avenue
+housenumber: "5107"
+phone: +1-240-764-7163
 opening_hours: ""
-website: "https://hairzstudio.com/"
+website: https://hairzstudio.com/

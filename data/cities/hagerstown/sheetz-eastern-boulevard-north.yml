@@ -1,11 +1,11 @@
 id: 1098799156
-type: way
+type: node
 latitude: 39.63748
 longitude: -77.69713
 postcode: "21740"
 city: Hagerstown
-street: "Eastern Boulevard, North"
-housenumber: 191
-phone: "+1 240-313-3901"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/464"
+street: Eastern Boulevard, North
+housenumber: "191"
+phone: +1 240-313-3901
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/464

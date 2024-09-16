@@ -1,11 +1,11 @@
 id: 336297255
-type: way
+type: node
 latitude: 39.28645
 longitude: -76.59329
 postcode: "21231"
 city: Baltimore
-street: "South Broadway"
-housenumber: 403
+street: South Broadway
+housenumber: "403"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-baltimore-md-10205581/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-baltimore-md-10205581/

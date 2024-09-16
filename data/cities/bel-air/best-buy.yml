@@ -1,11 +1,11 @@
 id: 352698538
-type: way
+type: node
 latitude: 39.52845
 longitude: -76.36006
 postcode: "21014"
 city: Bel Air
-street: "Boulton Street"
-housenumber: 602
-phone: "+1 410-893-6101"
+street: Boulton Street
+housenumber: "602"
+phone: +1 410-893-6101
 opening_hours: ""
-website: "https://stores.bestbuy.com/md/bel-air/602-boulton-st-296.html"
+website: https://stores.bestbuy.com/md/bel-air/602-boulton-st-296.html

@@ -1,11 +1,11 @@
 id: 240884020
-type: way
+type: node
 latitude: 38.5952
 longitude: -76.93725
 postcode: "20695"
 city: White Plains
-street: "Crain Highway"
-housenumber: 4210
+street: Crain Highway
+housenumber: "4210"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/568"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/568

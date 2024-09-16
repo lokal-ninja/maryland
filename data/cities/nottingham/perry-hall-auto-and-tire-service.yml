@@ -1,11 +1,11 @@
 id: 298508424
-type: way
+type: node
 latitude: 39.41679
 longitude: -76.46011
 postcode: "21236"
 city: Nottingham
-street: "Cliffvale Road"
-housenumber: 4142
-phone: "+1-410-256-2202"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su off"
-website: "https://perryhallautorepair.com/"
+street: Cliffvale Road
+housenumber: "4142"
+phone: +1-410-256-2202
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su off
+website: https://perryhallautorepair.com/

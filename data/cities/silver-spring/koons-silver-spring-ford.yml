@@ -1,11 +1,11 @@
 id: 130676044
-type: way
+type: node
 latitude: 39.07986
 longitude: -76.9498
 postcode: "20904"
 city: Silver Spring
-street: "Automobile Boulevard"
-housenumber: 3111
-phone: "+1-877-886-6697"
+street: Automobile Boulevard
+housenumber: "3111"
+phone: +1-877-886-6697
 opening_hours: ""
-website: "https://www.koonssilverspringford.com/"
+website: https://www.koonssilverspringford.com/

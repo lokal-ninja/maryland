@@ -1,11 +1,11 @@
 id: 746816858
-type: way
+type: node
 latitude: 39.54503
 longitude: -76.10661
 postcode: "21078"
 city: Havre de Grace
-street: "Pulaski Highway"
-housenumber: 1010
-phone: "+1-443-788-4051"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/md/havre-de-grace/2357.html"
+street: Pulaski Highway
+housenumber: "1010"
+phone: +1-443-788-4051
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/md/havre-de-grace/2357.html

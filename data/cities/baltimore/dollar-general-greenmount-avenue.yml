@@ -1,11 +1,11 @@
 id: 336349819
-type: way
+type: node
 latitude: 39.32711
 longitude: -76.609
 postcode: "21218"
 city: Baltimore
-street: "Greenmount Avenue"
-housenumber: 3133
+street: Greenmount Avenue
+housenumber: "3133"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/md/baltimore/23666"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/md/baltimore/23666

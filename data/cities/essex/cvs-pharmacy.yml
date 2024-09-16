@@ -1,11 +1,11 @@
 id: 298916232
-type: way
+type: node
 latitude: 39.33573
 longitude: -76.45778
 postcode: "21221"
 city: Essex
-street: "Compass Road"
-housenumber: 2
+street: Compass Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/baltimore-md-pharmacies/2-compass-road-baltimore-md-21220/storeid=2455"
+website: https://www.cvs.com/store-locator/baltimore-md-pharmacies/2-compass-road-baltimore-md-21220/storeid=2455

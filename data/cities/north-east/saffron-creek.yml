@@ -1,11 +1,11 @@
 id: 975461663
-type: way
+type: node
 latitude: 39.6002
 longitude: -75.94293
 postcode: ""
 city: North East
-street: "South Main Street"
-housenumber: 19
+street: South Main Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

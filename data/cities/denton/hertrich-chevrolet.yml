@@ -1,11 +1,11 @@
 id: 506131734
-type: way
+type: node
 latitude: 38.86899
 longitude: -75.82416
 postcode: "21629"
 city: Denton
-street: "Industrial Park Way"
-housenumber: 1123
+street: Industrial Park Way
+housenumber: "1123"
 phone: ""
 opening_hours: ""
-website: "https://www.hertrichchevrolet.com/"
+website: https://www.hertrichchevrolet.com/

@@ -1,11 +1,11 @@
 id: 298704256
-type: way
+type: node
 latitude: 39.39842
 longitude: -76.54005
 postcode: "21234"
 city: Parkville
-street: "East Joppa Road"
-housenumber: 2160
+street: East Joppa Road
+housenumber: "2160"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137185010
-type: way
+type: node
 latitude: 39.2836
 longitude: -76.8203
 postcode: "21043"
 city: Ellicott City
-street: "North Ridge Road"
-housenumber: 3200
-phone: "+1 410-418-5780"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2412/ellicott-city-md/whats-new"
+street: North Ridge Road
+housenumber: "3200"
+phone: +1 410-418-5780
+opening_hours: 24/7
+website: https://www.walmart.com/store/2412/ellicott-city-md/whats-new

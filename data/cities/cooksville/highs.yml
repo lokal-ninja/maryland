@@ -1,11 +1,11 @@
 id: 126928814
-type: way
+type: node
 latitude: 39.31326
 longitude: -77.01982
 postcode: "21723"
 city: Cooksville
-street: "Route 97"
-housenumber: 2101
+street: Route 97
+housenumber: "2101"
 phone: ""
 opening_hours: ""
 website: ""

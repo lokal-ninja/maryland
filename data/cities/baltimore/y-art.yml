@@ -1,11 +1,12 @@
 id: 336216061
-type: way
+type: node
 latitude: 39.28866
 longitude: -76.56863
 postcode: "21224"
 city: Baltimore
-street: "Gough Street"
-housenumber: 3402
+street: Gough Street
+housenumber: "3402"
 phone: ""
-opening_hours: "Jan 01-Aug 20,Sep 17-Dec 31 We,Th 12:00-17:00; Jan 01-Aug 20,Sep 17-Dec 31 Fr,Sa 10:00-18:00"
-website: "https://www.yartgalleryandfinegifts.com/"
+opening_hours: Jan 01-Aug 20,Sep 17-Dec 31 We,Th 12:00-17:00; Jan 01-Aug 20,Sep 17-Dec
+    31 Fr,Sa 10:00-18:00
+website: https://www.yartgalleryandfinegifts.com/

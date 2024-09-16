@@ -1,11 +1,11 @@
 id: 167923275
-type: way
+type: node
 latitude: 39.27119
 longitude: -76.73501
 postcode: "21228"
 city: Catonsville
-street: "Frederick Road"
-housenumber: 827
+street: Frederick Road
+housenumber: "827"
 phone: ""
 opening_hours: ""
-website: "https://www.paintedwhims.com"
+website: https://www.paintedwhims.com

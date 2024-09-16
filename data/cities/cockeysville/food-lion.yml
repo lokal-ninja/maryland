@@ -1,11 +1,11 @@
 id: 107474829
-type: way
+type: node
 latitude: 39.46549
 longitude: -76.63491
 postcode: "21030"
 city: Cockeysville
-street: "Cranbrook Road"
-housenumber: 122
+street: Cranbrook Road
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

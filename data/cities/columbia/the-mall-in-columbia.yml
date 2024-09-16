@@ -1,11 +1,11 @@
 id: 142209838
-type: way
+type: node
 latitude: 39.21654
 longitude: -76.85945
 postcode: "21044"
 city: Columbia
-street: "Little Patuxent Parkway"
-housenumber: 10300
+street: Little Patuxent Parkway
+housenumber: "10300"
 phone: ""
 opening_hours: ""
 website: ""

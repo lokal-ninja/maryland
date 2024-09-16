@@ -4,8 +4,8 @@ latitude: 39.17313
 longitude: -77.16226
 postcode: "20879"
 city: Gaithersburg
-street: "Cessna Court"
-housenumber: 18
-phone: "+1 (301) 908-8082"
-opening_hours: "by appointment"
-website: "https://tkdefenseusa.com/"
+street: Cessna Court
+housenumber: "18"
+phone: +1 (301) 908-8082
+opening_hours: '"by appointment"'
+website: https://tkdefenseusa.com/

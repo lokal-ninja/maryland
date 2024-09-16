@@ -1,11 +1,11 @@
 id: 54267040
-type: way
+type: node
 latitude: 39.37661
 longitude: -76.72436
 postcode: "21208"
 city: Pikesville
-street: "Reisterstown Road"
-housenumber: 1401
+street: Reisterstown Road
+housenumber: "1401"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/md/pikesville/1401-reisterstown-rd"
+website: https://stores.advanceautoparts.com/md/pikesville/1401-reisterstown-rd

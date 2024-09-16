@@ -1,11 +1,11 @@
 id: 687175690
-type: way
+type: node
 latitude: 39.03997
 longitude: -76.05652
 postcode: "21617"
 city: Centreville
-street: "Railroad Avenue"
-housenumber: 611
-phone: "+1 443-262-9150"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.acmemarkets.com/md/centreville/611-railroad-ave.html"
+street: Railroad Avenue
+housenumber: "611"
+phone: +1 443-262-9150
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.acmemarkets.com/md/centreville/611-railroad-ave.html

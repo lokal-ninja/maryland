@@ -1,11 +1,11 @@
 id: 188002445
-type: way
+type: node
 latitude: 38.99849
 longitude: -76.90977
 postcode: "20770"
 city: Greenbelt
-street: "Greenbelt Road"
-housenumber: 6100
+street: Greenbelt Road
+housenumber: "6100"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/md/greenbelt/685/beltway-plaza-gamestop"
+website: https://www.gamestop.com/store/us/md/greenbelt/685/beltway-plaza-gamestop

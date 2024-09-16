@@ -1,11 +1,11 @@
 id: 1120241297
-type: way
+type: node
 latitude: 39.63166
 longitude: -75.80826
 postcode: "21921"
 city: Elkton
-street: "Warner Road"
-housenumber: 6
+street: Warner Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.bellehillstorage.com/"
+website: https://www.bellehillstorage.com/

@@ -1,11 +1,11 @@
 id: 294583887
-type: way
+type: node
 latitude: 39.63894
 longitude: -77.71432
 postcode: "21740"
 city: Hagerstown
-street: "East Washington Street"
-housenumber: 301
+street: East Washington Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

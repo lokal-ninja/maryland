@@ -1,11 +1,11 @@
 id: 444927356
-type: way
+type: node
 latitude: 39.03887
 longitude: -76.47998
 postcode: "21012"
 city: Arnold
-street: "Bay Dale Drive"
-housenumber: 1230
+street: Bay Dale Drive
+housenumber: "1230"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1230+bay+dale+dr-arnold-md-21012/id=17610"
+website: https://www.walgreens.com/locator/walgreens-1230+bay+dale+dr-arnold-md-21012/id=17610

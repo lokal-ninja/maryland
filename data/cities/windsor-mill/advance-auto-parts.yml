@@ -1,11 +1,11 @@
 id: 122422195
-type: way
+type: node
 latitude: 39.3191
 longitude: -76.75829
 postcode: "21244"
 city: Windsor Mill
-street: "North Rolling Road"
-housenumber: 2118
+street: North Rolling Road
+housenumber: "2118"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/md/baltimore/2118-n-rolling-rd"
+website: https://stores.advanceautoparts.com/md/baltimore/2118-n-rolling-rd

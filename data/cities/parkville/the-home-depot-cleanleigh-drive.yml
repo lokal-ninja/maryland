@@ -1,11 +1,11 @@
 id: 738063932
-type: way
+type: node
 latitude: 39.37268
 longitude: -76.56316
 postcode: "21234"
 city: Parkville
-street: "Cleanleigh Drive"
-housenumber: 2501
-phone: "+1 410-661-8555"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/parkville/md/parkville/21234/2577"
+street: Cleanleigh Drive
+housenumber: "2501"
+phone: +1 410-661-8555
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/parkville/md/parkville/21234/2577

@@ -1,11 +1,11 @@
 id: 336355366
-type: way
+type: node
 latitude: 39.31614
 longitude: -76.61109
 postcode: "21218"
 city: Baltimore
-street: "Barclay Street"
-housenumber: 2331
+street: Barclay Street
+housenumber: "2331"
 phone: ""
 opening_hours: ""
 website: ""

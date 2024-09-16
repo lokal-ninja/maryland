@@ -1,11 +1,11 @@
 id: 64645979
-type: way
+type: node
 latitude: 39.03975
 longitude: -76.98975
 postcode: "20904"
 city: Silver Spring
-street: "New Hampshire Avenue"
-housenumber: 11177
+street: New Hampshire Avenue
+housenumber: "11177"
 phone: ""
 opening_hours: ""
 website: ""

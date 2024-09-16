@@ -1,11 +1,11 @@
 id: 310845037
-type: way
+type: node
 latitude: 38.054
 longitude: -75.54332
 postcode: ""
 city: Pokomoke City
-street: "Ocean Highway"
-housenumber: 1618
-phone: "+1-888-714-3073"
+street: Ocean Highway
+housenumber: "1618"
+phone: +1-888-714-3073
 opening_hours: ""
-website: "http://www.hertrichofpocomoke.com"
+website: http://www.hertrichofpocomoke.com

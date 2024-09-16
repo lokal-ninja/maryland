@@ -4,8 +4,8 @@ latitude: 39.34437
 longitude: -76.63051
 postcode: "21210"
 city: Baltimore
-street: "West Cold Spring Lane"
-housenumber: 409
+street: West Cold Spring Lane
+housenumber: "409"
 phone: ""
 opening_hours: ""
-website: "https://rolandparkvision.com/"
+website: https://rolandparkvision.com/

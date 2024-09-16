@@ -1,11 +1,11 @@
 id: 669393621
-type: way
+type: node
 latitude: 39.63962
 longitude: -77.71221
 postcode: "21740"
 city: Hagerstown
-street: "Dual Highway"
-housenumber: 350
-phone: "+1-240-329-5277"
+street: Dual Highway
+housenumber: "350"
+phone: +1-240-329-5277
 opening_hours: ""
-website: "https://hagerstownliquors.com/"
+website: https://hagerstownliquors.com/

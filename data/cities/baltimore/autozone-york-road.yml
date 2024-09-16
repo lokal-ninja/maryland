@@ -1,11 +1,11 @@
 id: 336354307
-type: way
+type: node
 latitude: 39.35518
 longitude: -76.61038
 postcode: "21212"
 city: Baltimore
-street: "York Road"
-housenumber: 5316
+street: York Road
+housenumber: "5316"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/md/baltimore/5316-york-rd.html"
+website: https://www.autozone.com/locations/md/baltimore/5316-york-rd.html

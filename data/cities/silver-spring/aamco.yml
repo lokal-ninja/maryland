@@ -1,11 +1,11 @@
 id: 1028635371
-type: way
+type: node
 latitude: 38.99129
 longitude: -77.02632
 postcode: "20910"
 city: Silver Spring
-street: "Georgia Avenue"
-housenumber: 8129
+street: Georgia Avenue
+housenumber: "8129"
 phone: ""
 opening_hours: ""
 website: ""

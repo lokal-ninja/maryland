@@ -1,11 +1,11 @@
 id: 132681915
-type: way
+type: node
 latitude: 39.47076
 longitude: -76.83063
 postcode: "21136"
 city: Reisterstown
-street: "Westminster Pike"
-housenumber: 24
+street: Westminster Pike
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

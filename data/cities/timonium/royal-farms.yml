@@ -1,11 +1,11 @@
 id: 947350607
-type: way
+type: node
 latitude: 39.45643
 longitude: -76.63646
 postcode: "21093"
 city: Timonium
-street: "West Padonia Road"
-housenumber: 100
+street: West Padonia Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

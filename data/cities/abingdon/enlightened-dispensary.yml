@@ -1,11 +1,11 @@
 id: 544193549
-type: way
+type: node
 latitude: 39.47564
 longitude: -76.30901
 postcode: "21009"
 city: Abingdon
-street: "Emmorton Road"
-housenumber: 3111
-phone: "+1-410-329-4926"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00; PH off"
-website: "https://enlighteneddispensary.com/maryland/"
+street: Emmorton Road
+housenumber: "3111"
+phone: +1-410-329-4926
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00; PH off
+website: https://enlighteneddispensary.com/maryland/

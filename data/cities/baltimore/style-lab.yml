@@ -1,11 +1,11 @@
 id: 336369752
-type: way
+type: node
 latitude: 39.31653
 longitude: -76.61562
 postcode: "21218"
 city: Baltimore
-street: "Saint Paul Street"
-housenumber: 2402
+street: Saint Paul Street
+housenumber: "2402"
 phone: ""
 opening_hours: ""
 website: ""

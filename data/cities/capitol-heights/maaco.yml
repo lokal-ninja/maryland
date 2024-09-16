@@ -1,11 +1,11 @@
 id: 242779761
-type: way
+type: node
 latitude: 38.88822
 longitude: -76.86576
 postcode: "20743"
 city: Capitol Heights
-street: "Westhampton Avenue"
-housenumber: 111
+street: Westhampton Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.maaco.com"
+website: https://www.maaco.com

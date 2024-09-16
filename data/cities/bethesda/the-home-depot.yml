@@ -1,11 +1,11 @@
 id: 121190413
-type: way
+type: node
 latitude: 39.02767
 longitude: -77.14488
 postcode: "20817"
 city: Bethesda
-street: "Westlake Terrace"
-housenumber: 7111
-phone: "+1 301-634-3726"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Bethesda/MD/Bethesda/20817/2509"
+street: Westlake Terrace
+housenumber: "7111"
+phone: +1 301-634-3726
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Bethesda/MD/Bethesda/20817/2509

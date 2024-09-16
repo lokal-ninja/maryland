@@ -4,8 +4,8 @@ latitude: 39.32217
 longitude: -76.61283
 postcode: "21218"
 city: Baltimore
-street: "Guilford Avenue"
-housenumber: 2801
+street: Guilford Avenue
+housenumber: "2801"
 phone: ""
-opening_hours: "Mo-We,Su off; Th-Fr 12:00-19:00; Sa 08:00-14:00"
-website: "https://www.motzibread.com/"
+opening_hours: Mo-We,Su off; Th-Fr 12:00-19:00; Sa 08:00-14:00
+website: https://www.motzibread.com/

@@ -4,8 +4,8 @@ latitude: 38.97003
 longitude: -76.52288
 postcode: "21401"
 city: Annapolis
-street: "Forest Drive"
-housenumber: 1781
-phone: "+1 410-626-2710"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.safeway.com/safeway/md/annapolis/1781-forest-dr.html"
+street: Forest Drive
+housenumber: "1781"
+phone: +1 410-626-2710
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.safeway.com/safeway/md/annapolis/1781-forest-dr.html

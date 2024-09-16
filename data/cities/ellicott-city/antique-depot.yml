@@ -1,11 +1,11 @@
 id: 113572322
-type: way
+type: node
 latitude: 39.26727
 longitude: -76.79555
 postcode: "21043"
 city: Ellicott City
-street: "Maryland Avenue"
-housenumber: 3720
+street: Maryland Avenue
+housenumber: "3720"
 phone: ""
-opening_hours: "Mo-Su 10:30-18:00"
+opening_hours: Mo-Su 10:30-18:00
 website: ""

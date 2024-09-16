@@ -1,11 +1,11 @@
 id: 336232072
-type: way
+type: node
 latitude: 39.31413
 longitude: -76.5691
 postcode: "21213"
 city: Baltimore
-street: "Erdman Avenue"
-housenumber: 4001
+street: Erdman Avenue
+housenumber: "4001"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/baltimore-21213-61280/"
+website: https://savealot.com/grocery-stores/baltimore-21213-61280/

@@ -1,11 +1,11 @@
 id: 336537218
-type: way
+type: node
 latitude: 39.28092
 longitude: -76.6741
 postcode: "21229"
 city: Baltimore
-street: "Frederick Avenue"
-housenumber: 3421
+street: Frederick Avenue
+housenumber: "3421"
 phone: ""
 opening_hours: ""
 website: ""

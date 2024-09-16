@@ -1,11 +1,11 @@
 id: 298916098
-type: way
+type: node
 latitude: 39.32545
 longitude: -76.44482
 postcode: "21221"
 city: Essex
-street: "Old Eastern Avenue"
-housenumber: 1920
-phone: "+1 410-686-2545"
+street: Old Eastern Avenue
+housenumber: "1920"
+phone: +1 410-686-2545
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/essex/1921-eastern-blvd-17553"
+website: https://www.7-eleven.com/locations/md/essex/1921-eastern-blvd-17553

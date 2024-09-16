@@ -1,11 +1,11 @@
 id: 53054277
-type: way
+type: node
 latitude: 39.56367
 longitude: -76.96573
 postcode: "21157"
 city: Westminster
-street: "Market Street"
-housenumber: 840
-phone: "+1 410-871-3278"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/md/westminster-491.shtml"
+street: Market Street
+housenumber: "840"
+phone: +1 410-871-3278
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/md/westminster-491.shtml

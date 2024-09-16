@@ -1,11 +1,11 @@
 id: 336172993
-type: way
+type: node
 latitude: 39.34616
 longitude: -76.54067
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 5928
-phone: "+1-410-426-7524"
+street: Belair Road
+housenumber: "5928"
+phone: +1-410-426-7524
 opening_hours: ""
-website: "https://www.difatta.com/"
+website: https://www.difatta.com/

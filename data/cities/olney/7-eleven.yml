@@ -1,11 +1,11 @@
 id: 44998364
-type: way
+type: node
 latitude: 39.15426
 longitude: -77.06747
 postcode: "20832"
 city: Olney
-street: "Georgia Avenue"
-housenumber: 18120
-phone: "+1 301-774-9495"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/olney/18120-georgia-av-11575"
+street: Georgia Avenue
+housenumber: "18120"
+phone: +1 301-774-9495
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/olney/18120-georgia-av-11575

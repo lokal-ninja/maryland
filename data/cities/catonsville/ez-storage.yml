@@ -1,11 +1,11 @@
 id: 184958060
-type: way
+type: node
 latitude: 39.2895
 longitude: -76.72283
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 5525
+street: Baltimore National Pike
+housenumber: "5525"
 phone: ""
 opening_hours: ""
-website: "https://www.ezstorage.com/"
+website: https://www.ezstorage.com/

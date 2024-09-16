@@ -1,11 +1,11 @@
 id: 298501451
-type: way
+type: node
 latitude: 39.44842
 longitude: -76.41778
 postcode: "21087"
 city: Kingsville
-street: "Jerusalem Road"
-housenumber: 11825
-phone: "+1 410 592 6868"
+street: Jerusalem Road
+housenumber: "11825"
+phone: +1 410 592 6868
 opening_hours: ""
 website: ""

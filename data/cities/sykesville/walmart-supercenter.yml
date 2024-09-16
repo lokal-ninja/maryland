@@ -1,11 +1,11 @@
 id: 543014045
-type: way
+type: node
 latitude: 39.3972
 longitude: -76.93546
 postcode: "21784"
 city: Sykesville
-street: "Ridge Road"
-housenumber: 6400
-phone: "+1 410-549-5400"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2436/sykesville-md/whats-new"
+street: Ridge Road
+housenumber: "6400"
+phone: +1 410-549-5400
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2436/sykesville-md/whats-new

@@ -1,11 +1,11 @@
 id: 336480106
-type: way
+type: node
 latitude: 39.30925
 longitude: -76.65255
 postcode: "21216"
 city: Baltimore
-street: "North Smallwood Street"
-housenumber: 1825
+street: North Smallwood Street
+housenumber: "1825"
 phone: ""
 opening_hours: ""
 website: ""

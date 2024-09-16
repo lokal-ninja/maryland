@@ -1,11 +1,11 @@
 id: 216249924
-type: way
+type: node
 latitude: 39.1291
 longitude: -76.73582
 postcode: "21144"
 city: Severn
-street: "Annapolis Road"
-housenumber: 2604
+street: Annapolis Road
+housenumber: "2604"
 phone: ""
 opening_hours: ""
 website: ""

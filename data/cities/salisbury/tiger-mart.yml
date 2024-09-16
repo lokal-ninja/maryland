@@ -1,11 +1,11 @@
 id: 1271520236
-type: way
+type: node
 latitude: 38.36662
 longitude: -75.54144
 postcode: "21804"
 city: Salisbury
-street: "Autumn Grove Court"
-housenumber: 1801
+street: Autumn Grove Court
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://tigermartsalisbury.com"
+website: https://tigermartsalisbury.com

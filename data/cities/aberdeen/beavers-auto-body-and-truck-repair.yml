@@ -1,11 +1,11 @@
 id: 686997922
-type: way
+type: node
 latitude: 39.49783
 longitude: -76.17326
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 627
-phone: "410-575-6716"
+street: South Philadelphia Boulevard
+housenumber: "627"
+phone: 410-575-6716
 opening_hours: ""
-website: "http://www.beaversautobodyrepair.com/"
+website: http://www.beaversautobodyrepair.com/

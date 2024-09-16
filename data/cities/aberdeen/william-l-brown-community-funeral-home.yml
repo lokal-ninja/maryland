@@ -1,11 +1,11 @@
 id: 727196416
-type: way
+type: node
 latitude: 39.50418
 longitude: -76.16635
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 321
-phone: "+1-410-272-5100"
+street: South Philadelphia Boulevard
+housenumber: "321"
+phone: +1-410-272-5100
 opening_hours: ""
-website: "https://www.williamcbrownfh.com/"
+website: https://www.williamcbrownfh.com/

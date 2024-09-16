@@ -1,11 +1,11 @@
 id: 625181093
-type: way
+type: node
 latitude: 39.43289
 longitude: -76.32832
 postcode: "21040"
 city: Edgewood
-street: "Woodbridge Center Way"
-housenumber: 1013
-phone: "410-676-6100"
+street: Woodbridge Center Way
+housenumber: "1013"
+phone: 410-676-6100
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/edgewood-md-pharmacies/1013-woodbridge-ctr-way-edgewood-md-21040/storeid=4214"
+website: https://www.cvs.com/store-locator/edgewood-md-pharmacies/1013-woodbridge-ctr-way-edgewood-md-21040/storeid=4214

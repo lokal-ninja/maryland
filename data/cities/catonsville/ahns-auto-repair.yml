@@ -1,11 +1,11 @@
 id: 184958063
-type: way
+type: node
 latitude: 39.28835
 longitude: -76.72915
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 5465
+street: Baltimore National Pike
+housenumber: "5465"
 phone: ""
 opening_hours: ""
-website: "www.ahnsauto.com"
+website: www.ahnsauto.com

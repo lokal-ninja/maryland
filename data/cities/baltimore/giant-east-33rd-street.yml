@@ -1,11 +1,11 @@
 id: 134683383
-type: way
+type: node
 latitude: 39.32728
 longitude: -76.60821
 postcode: "21218"
 city: Baltimore
-street: "East 33rd Street"
-housenumber: 601
-phone: "+1 410-649-4180"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://stores.giantfood.com/md/baltimore/601-east-33rd-st"
+street: East 33rd Street
+housenumber: "601"
+phone: +1 410-649-4180
+opening_hours: Mo-Su 06:00-22:00
+website: https://stores.giantfood.com/md/baltimore/601-east-33rd-st

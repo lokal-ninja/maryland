@@ -1,11 +1,11 @@
 id: 82288115
-type: way
+type: node
 latitude: 39.48166
 longitude: -76.65651
 postcode: "21030"
 city: Cockeysville
-street: "McCormick Road"
-housenumber: 10903
+street: McCormick Road
+housenumber: "10903"
 phone: ""
 opening_hours: ""
 website: ""

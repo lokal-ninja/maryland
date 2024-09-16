@@ -4,8 +4,8 @@ latitude: 38.97561
 longitude: -76.5224
 postcode: "21401"
 city: Annapolis
-street: "George Avenue"
-housenumber: 1823
-phone: "410-267-7110"
-opening_hours: "Mo,We,Fr 09:00-17:00; Tu,Th 09:00-18:00; Sa 10:00-15:00; Su closed"
-website: "https://www.adu.com/"
+street: George Avenue
+housenumber: "1823"
+phone: 410-267-7110
+opening_hours: Mo,We,Fr 09:00-17:00; Tu,Th 09:00-18:00; Sa 10:00-15:00; Su closed
+website: https://www.adu.com/

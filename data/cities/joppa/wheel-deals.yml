@@ -1,11 +1,11 @@
 id: 721027359
-type: way
+type: node
 latitude: 39.43129
 longitude: -76.34427
 postcode: "21085"
 city: Joppa
-street: "Pulaski Highway"
-housenumber: 904
-phone: "+1-410-671-4026"
+street: Pulaski Highway
+housenumber: "904"
+phone: +1-410-671-4026
 opening_hours: ""
 website: ""

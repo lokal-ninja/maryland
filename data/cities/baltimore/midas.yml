@@ -1,11 +1,11 @@
 id: 196044446
-type: way
+type: node
 latitude: 39.25829
 longitude: -76.6638
 postcode: "21230"
 city: Baltimore
-street: "West Patapsco Avenue"
-housenumber: 3010
+street: West Patapsco Avenue
+housenumber: "3010"
 phone: ""
 opening_hours: ""
 website: ""

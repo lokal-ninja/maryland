@@ -1,11 +1,11 @@
 id: 144312972
-type: way
+type: node
 latitude: 39.42389
 longitude: -76.61923
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1600
+street: York Road
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

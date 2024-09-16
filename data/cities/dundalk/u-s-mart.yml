@@ -1,11 +1,11 @@
 id: 244114212
-type: way
+type: node
 latitude: 39.26501
 longitude: -76.52717
 postcode: "21222"
 city: Dundalk
-street: "Dundalk Avenue"
-housenumber: 2139
+street: Dundalk Avenue
+housenumber: "2139"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 686385687
-type: way
+type: node
 latitude: 39.52464
 longitude: -76.18422
-postcode: "21001-1733"
+postcode: 21001-1733
 city: Aberdeen
-street: "Beards Hill Road"
-housenumber: 940
-phone: "+1 410-734-2493"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00"
-website: "https://local.firestonecompleteautocare.com/maryland/aberdeen/940-beards-hill-rd/"
+street: Beards Hill Road
+housenumber: "940"
+phone: +1 410-734-2493
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
+website: https://local.firestonecompleteautocare.com/maryland/aberdeen/940-beards-hill-rd/

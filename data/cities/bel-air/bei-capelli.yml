@@ -1,11 +1,11 @@
 id: 630112143
-type: way
+type: node
 latitude: 39.53546
 longitude: -76.34842
 postcode: "21014"
 city: Bel Air
-street: "South Main Street"
-housenumber: 108
+street: South Main Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

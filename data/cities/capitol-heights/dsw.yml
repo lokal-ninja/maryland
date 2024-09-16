@@ -1,11 +1,11 @@
 id: 706077725
-type: way
+type: node
 latitude: 38.8675
 longitude: -76.85367
 postcode: "20743"
 city: Capitol Heights
-street: "Ritchie Station Court"
-housenumber: 1725
-phone: "+1 240-716-7103"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/md/capitolheights/dsw-designer-shoe-warehouse-ritchie-station-marketplace.html"
+street: Ritchie Station Court
+housenumber: "1725"
+phone: +1 240-716-7103
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/md/capitolheights/dsw-designer-shoe-warehouse-ritchie-station-marketplace.html

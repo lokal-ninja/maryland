@@ -1,11 +1,11 @@
 id: 131501076
-type: way
+type: node
 latitude: 39.40834
 longitude: -76.76272
 postcode: "21117"
 city: Owings Mills
-street: "Reisterstown Road"
-housenumber: 9801
+street: Reisterstown Road
+housenumber: "9801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 282625880
-type: way
+type: node
 latitude: 39.21686
 longitude: -76.70981
 postcode: "21075"
 city: Elkridge
-street: "Washington Boulevard"
-housenumber: 5790
+street: Washington Boulevard
+housenumber: "5790"
 phone: ""
 opening_hours: ""
-website: "https://www.albrightservice.com/"
+website: https://www.albrightservice.com/

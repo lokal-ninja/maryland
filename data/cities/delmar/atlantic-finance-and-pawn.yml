@@ -1,11 +1,11 @@
 id: 85240503
-type: way
+type: node
 latitude: 38.45581
 longitude: -75.56005
 postcode: "19940"
 city: Delmar
-street: "East State Street"
-housenumber: 10977
+street: East State Street
+housenumber: "10977"
 phone: ""
 opening_hours: ""
 website: ""

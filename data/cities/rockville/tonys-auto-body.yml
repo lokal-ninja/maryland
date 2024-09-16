@@ -1,11 +1,11 @@
 id: 239945724
-type: way
+type: node
 latitude: 39.06069
 longitude: -77.1204
 postcode: "20852"
 city: Rockville
-street: "Chapman Avenue"
-housenumber: 1818
+street: Chapman Avenue
+housenumber: "1818"
 phone: ""
 opening_hours: ""
-website: "https://www.tonysautobodyrockville.com/"
+website: https://www.tonysautobodyrockville.com/

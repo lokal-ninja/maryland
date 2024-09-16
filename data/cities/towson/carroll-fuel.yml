@@ -1,11 +1,11 @@
 id: 298712800
-type: way
+type: node
 latitude: 39.39724
 longitude: -76.64467
 postcode: "21204"
 city: Towson
-street: "Bellona Avenue"
-housenumber: 7613
+street: Bellona Avenue
+housenumber: "7613"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 135181938
-type: way
+type: node
 latitude: 39.49419
 longitude: -76.39337
 postcode: "21047"
 city: Fallston
-street: "Belair Road"
-housenumber: 2308
-phone: "410-358-7777"
+street: Belair Road
+housenumber: "2308"
+phone: 410-358-7777
 opening_hours: ""
-website: "https://www.autoshowcasecars.com/"
+website: https://www.autoshowcasecars.com/

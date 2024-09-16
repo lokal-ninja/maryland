@@ -1,11 +1,11 @@
 id: 230622331
-type: way
+type: node
 latitude: 38.84913
 longitude: -75.81405
 postcode: ""
 city: Denton
 street: ""
-housenumber: 25691
+housenumber: "25691"
 phone: ""
 opening_hours: ""
 website: ""

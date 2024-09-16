@@ -1,11 +1,11 @@
 id: 658306158
-type: way
+type: node
 latitude: 39.5064
 longitude: -76.38247
 postcode: "21014"
 city: Bel Air
-street: "Belair Road"
-housenumber: 1504
+street: Belair Road
+housenumber: "1504"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off"
-website: "https://www.belairhyundai.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su off
+website: https://www.belairhyundai.com/

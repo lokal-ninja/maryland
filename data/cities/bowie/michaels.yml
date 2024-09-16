@@ -1,11 +1,11 @@
 id: 266251171
-type: way
+type: node
 latitude: 38.95151
 longitude: -76.71987
-postcode: "20716-3111"
+postcode: 20716-3111
 city: Bowie
-street: "Mitchellville Road"
-housenumber: 4511
-phone: "+1 301-809-1806"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/md/bowie/9939"
+street: Mitchellville Road
+housenumber: "4511"
+phone: +1 301-809-1806
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/md/bowie/9939

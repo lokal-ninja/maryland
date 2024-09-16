@@ -1,11 +1,11 @@
 id: 436029037
-type: way
+type: node
 latitude: 39.31671
 longitude: -77.62797
 postcode: "21716"
 city: Brunswick
-street: "Petersville Road"
-housenumber: 318
+street: Petersville Road
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

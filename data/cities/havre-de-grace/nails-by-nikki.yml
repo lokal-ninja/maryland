@@ -4,8 +4,8 @@ latitude: 39.55148
 longitude: -76.09106
 postcode: "21078"
 city: Havre de Grace
-street: "Saint John Street"
-housenumber: 425
-phone: "+1-443-502-8386"
-opening_hours: "Mo,Su off; Tu-Fr 10:00-19:00; Sa 09:00-17:00"
+street: Saint John Street
+housenumber: "425"
+phone: +1-443-502-8386
+opening_hours: Mo,Su off; Tu-Fr 10:00-19:00; Sa 09:00-17:00
 website: ""

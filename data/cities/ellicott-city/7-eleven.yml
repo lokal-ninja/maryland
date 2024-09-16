@@ -1,11 +1,11 @@
 id: 128366866
-type: way
+type: node
 latitude: 39.27778
 longitude: -76.83289
 postcode: "21042"
 city: Ellicott City
-street: "Baltimore National Pike"
-housenumber: 9320
-phone: "+1 443-766-2670"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/md/ellicott-city/9320-baltimore-pike-38567"
+street: Baltimore National Pike
+housenumber: "9320"
+phone: +1 443-766-2670
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/md/ellicott-city/9320-baltimore-pike-38567

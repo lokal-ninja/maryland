@@ -1,11 +1,11 @@
 id: 336379836
-type: way
+type: node
 latitude: 39.30092
 longitude: -76.61943
 postcode: "21201"
 city: Baltimore
-street: "West Read Street"
-housenumber: 224
+street: West Read Street
+housenumber: "224"
 phone: ""
-opening_hours: "Su,Mo 10:00-16:00; Tu-Th 10:00-20:00; Fr,Sa 10:00-22:00"
+opening_hours: Su,Mo 10:00-16:00; Tu-Th 10:00-20:00; Fr,Sa 10:00-22:00
 website: ""

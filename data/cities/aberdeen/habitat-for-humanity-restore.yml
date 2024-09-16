@@ -1,11 +1,11 @@
 id: 421334526
-type: way
+type: node
 latitude: 39.52119
 longitude: -76.18638
 postcode: "21001"
 city: Aberdeen
-street: "Beards Hill Road"
-housenumber: 1013
-phone: "443-567-7698"
+street: Beards Hill Road
+housenumber: "1013"
+phone: 443-567-7698
 opening_hours: ""
-website: "http://harfordcecil.habitatrestores.org/"
+website: http://harfordcecil.habitatrestores.org/

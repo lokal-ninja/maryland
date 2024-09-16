@@ -1,11 +1,11 @@
 id: 512187682
-type: way
+type: node
 latitude: 38.45187
 longitude: -75.05787
 postcode: "19944"
 city: Fenwick Island
-street: "Lighthouse Road"
-housenumber: 37520
+street: Lighthouse Road
+housenumber: "37520"
 phone: ""
 opening_hours: ""
 website: ""

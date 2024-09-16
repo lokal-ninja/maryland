@@ -1,11 +1,11 @@
 id: 241986824
-type: way
+type: node
 latitude: 38.72659
 longitude: -76.99231
 postcode: "20744"
 city: Fort Washington
-street: "Swan Creek Road East"
-housenumber: 990
-phone: "+1 301-965-6000"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/md/fort-washington/990-e-swan-creek-rd.html"
+street: Swan Creek Road East
+housenumber: "990"
+phone: +1 301-965-6000
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/md/fort-washington/990-e-swan-creek-rd.html

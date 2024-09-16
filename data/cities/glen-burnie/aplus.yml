@@ -1,11 +1,11 @@
 id: 976159325
-type: way
+type: node
 latitude: 39.14024
 longitude: -76.62739
 postcode: "21061"
 city: Glen Burnie
-street: "Hospital Drive"
-housenumber: 327
+street: Hospital Drive
+housenumber: "327"
 phone: ""
 opening_hours: ""
 website: ""

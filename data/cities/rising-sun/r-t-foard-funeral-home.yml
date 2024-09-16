@@ -1,11 +1,11 @@
 id: 759738663
-type: way
+type: node
 latitude: 39.69707
 longitude: -76.06235
 postcode: "21911"
 city: Rising Sun
-street: "Biggs Highway"
-housenumber: 111
-phone: "+1-410-658-6030"
+street: Biggs Highway
+housenumber: "111"
+phone: +1-410-658-6030
 opening_hours: ""
-website: "https://www.rtfoard.com/"
+website: https://www.rtfoard.com/

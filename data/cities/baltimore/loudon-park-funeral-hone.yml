@@ -1,11 +1,11 @@
 id: 360803255
-type: way
+type: node
 latitude: 39.27089
 longitude: -76.68177
 postcode: "21229"
 city: Baltimore
-street: "Wilkens Avenue"
-housenumber: 3620
+street: Wilkens Avenue
+housenumber: "3620"
 phone: ""
 opening_hours: ""
 website: ""

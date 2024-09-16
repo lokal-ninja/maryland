@@ -1,11 +1,11 @@
 id: 727196420
-type: way
+type: node
 latitude: 39.50543
 longitude: -76.16541
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 237
-phone: "+1-410-272-2595"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00; PH off"
-website: "https://stores.advanceautoparts.com/md/aberdeen/237-south-philadelphia-blvd"
+street: South Philadelphia Boulevard
+housenumber: "237"
+phone: +1-410-272-2595
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00; PH off
+website: https://stores.advanceautoparts.com/md/aberdeen/237-south-philadelphia-blvd

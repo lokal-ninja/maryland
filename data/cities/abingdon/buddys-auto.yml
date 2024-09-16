@@ -1,11 +1,11 @@
 id: 673749468
-type: way
+type: node
 latitude: 39.46559
 longitude: -76.27598
 postcode: "21009"
 city: Abingdon
-street: "Philadelphia Road"
-housenumber: 3711
-phone: "+1-410-679-6300"
+street: Philadelphia Road
+housenumber: "3711"
+phone: +1-410-679-6300
 opening_hours: ""
-website: "https://www.buddysauto.net/"
+website: https://www.buddysauto.net/

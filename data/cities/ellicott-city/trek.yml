@@ -1,11 +1,11 @@
 id: 146260835
-type: way
+type: node
 latitude: 39.28076
 longitude: -76.85994
 postcode: "21042"
 city: Ellicott City
-street: "Bethany Lane"
-housenumber: 3258
+street: Bethany Lane
+housenumber: "3258"
 phone: ""
 opening_hours: ""
-website: "https://www.racepacebicycles.com/"
+website: https://www.racepacebicycles.com/

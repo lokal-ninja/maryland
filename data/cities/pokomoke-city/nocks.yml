@@ -1,11 +1,11 @@
 id: 310845038
-type: way
+type: node
 latitude: 38.04485
 longitude: -75.5421
 postcode: ""
 city: Pokomoke City
-street: "Ocean Highway"
-housenumber: 1242
+street: Ocean Highway
+housenumber: "1242"
 phone: ""
 opening_hours: ""
 website: ""

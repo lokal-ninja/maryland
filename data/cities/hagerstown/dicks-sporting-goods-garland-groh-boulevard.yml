@@ -1,11 +1,11 @@
 id: 875110922
-type: way
+type: node
 latitude: 39.65669
 longitude: -77.75236
 postcode: "21740"
 city: Hagerstown
-street: "Garland Groh Boulevard"
-housenumber: 17780
-phone: "+1 240-420-0140"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/md/hagerstown/4408/"
+street: Garland Groh Boulevard
+housenumber: "17780"
+phone: +1 240-420-0140
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/md/hagerstown/4408/

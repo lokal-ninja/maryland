@@ -1,11 +1,11 @@
 id: 202850029
-type: way
+type: node
 latitude: 39.34729
 longitude: -76.7017
 postcode: "21215"
 city: Baltimore
-street: "Wabash Avenue"
-housenumber: 5760
+street: Wabash Avenue
+housenumber: "5760"
 phone: ""
 opening_hours: ""
 website: ""

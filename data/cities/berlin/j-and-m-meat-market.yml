@@ -1,11 +1,11 @@
 id: 1159269341
-type: way
+type: node
 latitude: 38.32542
 longitude: -75.2185
 postcode: "21811"
 city: Berlin
-street: "William Street"
-housenumber: 101
+street: William Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

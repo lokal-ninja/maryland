@@ -1,11 +1,11 @@
 id: 298712440
-type: way
+type: node
 latitude: 39.37233
 longitude: -76.5668
 postcode: "21234"
 city: Parkville
-street: "McClean Boulevard"
-housenumber: 7301
+street: McClean Boulevard
+housenumber: "7301"
 phone: ""
 opening_hours: ""
 website: ""

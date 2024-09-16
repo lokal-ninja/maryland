@@ -1,11 +1,11 @@
 id: 298921051
-type: way
+type: node
 latitude: 39.27948
 longitude: -76.48915
 postcode: "21222"
 city: Dundalk
-street: "North Point Road"
-housenumber: 2800
+street: North Point Road
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 576580469
-type: way
+type: node
 latitude: 39.03998
 longitude: -76.90561
 postcode: "20705"
 city: Beltsville
-street: "Baltimore Avenue"
-housenumber: 11350
+street: Baltimore Avenue
+housenumber: "11350"
 phone: ""
 opening_hours: ""
 website: ""

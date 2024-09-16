@@ -1,11 +1,11 @@
 id: 329454719
-type: way
+type: node
 latitude: 39.42306
 longitude: -76.61841
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1538
-phone: "+1 410-296-5171"
+street: York Road
+housenumber: "1538"
+phone: +1 410-296-5171
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/lutherville/1538-york-rd-11607"
+website: https://www.7-eleven.com/locations/md/lutherville/1538-york-rd-11607

@@ -1,11 +1,11 @@
 id: 298916407
-type: way
+type: node
 latitude: 39.29572
 longitude: -76.52327
 postcode: "21224"
 city: Highlandtown
-street: "North Point Boulevard"
-housenumber: 200
+street: North Point Boulevard
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

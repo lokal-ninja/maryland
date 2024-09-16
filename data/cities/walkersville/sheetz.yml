@@ -1,11 +1,11 @@
 id: 924972404
-type: way
+type: node
 latitude: 39.46465
 longitude: -77.36523
 postcode: "21793"
 city: Walkersville
-street: "Woodsboro Pike"
-housenumber: 8408
-phone: "+1 301-304-5490"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/210"
+street: Woodsboro Pike
+housenumber: "8408"
+phone: +1 301-304-5490
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/210

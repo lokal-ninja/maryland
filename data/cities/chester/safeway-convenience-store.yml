@@ -1,11 +1,11 @@
 id: 357850280
-type: way
+type: node
 latitude: 38.97405
 longitude: -76.27652
 postcode: "21619"
 city: Chester
-street: "Main Street"
-housenumber: 1835
+street: Main Street
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

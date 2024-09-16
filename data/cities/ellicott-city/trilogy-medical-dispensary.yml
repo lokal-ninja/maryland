@@ -1,11 +1,11 @@
 id: 128366891
-type: way
+type: node
 latitude: 39.27686
 longitude: -76.83186
 postcode: "21042"
 city: Ellicott City
-street: "Baltimore National Pike"
-housenumber: 9291
-phone: "+1-410-539-7372"
+street: Baltimore National Pike
+housenumber: "9291"
+phone: +1-410-539-7372
 opening_hours: ""
-website: "https://trilogy.health/"
+website: https://trilogy.health/

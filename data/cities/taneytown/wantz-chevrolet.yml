@@ -1,11 +1,11 @@
 id: 201182642
-type: way
+type: node
 latitude: 39.65093
 longitude: -77.15985
 postcode: "21787"
 city: Taneytown
-street: "East Baltimore Street"
-housenumber: 501
+street: East Baltimore Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://www.wantzchevrolet.com/"
+website: https://www.wantzchevrolet.com/

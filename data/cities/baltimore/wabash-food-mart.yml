@@ -1,11 +1,11 @@
 id: 212538540
-type: way
+type: node
 latitude: 39.33673
 longitude: -76.67484
 postcode: "21215"
 city: Baltimore
-street: "West Cold Spring Lane"
-housenumber: 3300
+street: West Cold Spring Lane
+housenumber: "3300"
 phone: ""
 opening_hours: ""
 website: ""

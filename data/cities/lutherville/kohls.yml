@@ -1,11 +1,11 @@
 id: 144151057
-type: way
+type: node
 latitude: 39.43102
 longitude: -76.62417
 postcode: "21093"
 city: Lutherville
-street: "West Ridgely Road"
-housenumber: 50
-phone: "+1 410-252-2581"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/md/timonium-665.shtml"
+street: West Ridgely Road
+housenumber: "50"
+phone: +1 410-252-2581
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/md/timonium-665.shtml

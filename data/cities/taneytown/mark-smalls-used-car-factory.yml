@@ -1,11 +1,11 @@
 id: 201116878
-type: way
+type: node
 latitude: 39.66209
 longitude: -77.17287
 postcode: "21787"
 city: Taneytown
-street: "York Street"
-housenumber: 85
-phone: "+1-410-756-5199"
-opening_hours: "Mo-Fr 8:00-17:00"
-website: "https://www.msusedcarfactory.com/"
+street: York Street
+housenumber: "85"
+phone: +1-410-756-5199
+opening_hours: Mo-Fr 8:00-17:00
+website: https://www.msusedcarfactory.com/

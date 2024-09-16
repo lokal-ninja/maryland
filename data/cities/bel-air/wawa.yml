@@ -1,11 +1,11 @@
 id: 290459309
-type: way
+type: node
 latitude: 39.54609
 longitude: -76.31417
 postcode: "21014"
 city: Bel Air
-street: "East Churchville Road"
-housenumber: 1505
-phone: "+1 410-838-8539"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/0557"
+street: East Churchville Road
+housenumber: "1505"
+phone: +1 410-838-8539
+opening_hours: 24/7
+website: https://www.wawa.com/locations/0557

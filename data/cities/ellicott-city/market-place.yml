@@ -1,11 +1,11 @@
 id: 148245101
-type: way
+type: node
 latitude: 39.21611
 longitude: -76.80429
 postcode: "21043"
 city: Ellicott City
-street: "Waterloo Road"
-housenumber: 5651
+street: Waterloo Road
+housenumber: "5651"
 phone: ""
 opening_hours: ""
 website: ""

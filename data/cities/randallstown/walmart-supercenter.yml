@@ -1,11 +1,11 @@
 id: 360341488
-type: way
+type: node
 latitude: 39.366
 longitude: -76.7806
 postcode: "21133"
 city: Randallstown
-street: "Liberty Road"
-housenumber: 8730
-phone: "+1 443-576-3132"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3804/randallstown-md/whats-new"
+street: Liberty Road
+housenumber: "8730"
+phone: +1 443-576-3132
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3804/randallstown-md/whats-new

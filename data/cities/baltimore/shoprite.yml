@@ -1,11 +1,11 @@
 id: 358572569
-type: way
+type: node
 latitude: 39.3306
 longitude: -76.69609
 postcode: "21207"
 city: Baltimore
-street: "Liberty Heights Avenue"
-housenumber: 4601
-phone: "+1 410-664-0240"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/568"
+street: Liberty Heights Avenue
+housenumber: "4601"
+phone: +1 410-664-0240
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/568

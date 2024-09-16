@@ -1,11 +1,11 @@
 id: 336379819
-type: way
+type: node
 latitude: 39.30129
 longitude: -76.61948
 postcode: "21201"
 city: Baltimore
-street: "West Chase Street"
-housenumber: 249
+street: West Chase Street
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 981312664
-type: way
+type: node
 latitude: 38.28947
 longitude: -76.48834
 postcode: "20619"
 city: California
-street: "Three Notch Road"
-housenumber: 22659
+street: Three Notch Road
+housenumber: "22659"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 298501495
-type: way
+type: node
 latitude: 39.44936
 longitude: -76.41808
 postcode: "21087"
 city: Kingsville
-street: "Belair Road"
-housenumber: 11846
-phone: "+1-410-592-9456"
+street: Belair Road
+housenumber: "11846"
+phone: +1-410-592-9456
 opening_hours: ""
-website: "https://www.sensibledesignmd.net/"
+website: https://www.sensibledesignmd.net/

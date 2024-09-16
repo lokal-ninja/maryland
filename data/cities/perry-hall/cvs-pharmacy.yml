@@ -1,11 +1,11 @@
 id: 298528596
-type: way
+type: node
 latitude: 39.41958
 longitude: -76.45692
 postcode: "21128"
 city: Perry Hall
-street: "Belair Road"
-housenumber: 9820
+street: Belair Road
+housenumber: "9820"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/perry-hall-md-pharmacies/9820-belair-road-perry-hall-md-21128/storeid=6858"
+website: https://www.cvs.com/store-locator/perry-hall-md-pharmacies/9820-belair-road-perry-hall-md-21128/storeid=6858

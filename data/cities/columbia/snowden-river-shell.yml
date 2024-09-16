@@ -1,11 +1,11 @@
 id: 146133444
-type: way
+type: node
 latitude: 39.18276
 longitude: -76.82049
 postcode: "21046"
 city: Columbia
-street: "Snowden River Parkway"
-housenumber: 9101
+street: Snowden River Parkway
+housenumber: "9101"
 phone: ""
 opening_hours: ""
 website: ""

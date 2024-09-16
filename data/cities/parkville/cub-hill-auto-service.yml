@@ -1,11 +1,11 @@
 id: 298699811
-type: way
+type: node
 latitude: 39.40911
 longitude: -76.51388
 postcode: "21234"
 city: Parkville
-street: "Harford Road"
-housenumber: 10028
-phone: "+1-410-661-5652"
+street: Harford Road
+housenumber: "10028"
+phone: +1-410-661-5652
 opening_hours: ""
-website: "https://www.cubhillauto.com/"
+website: https://www.cubhillauto.com/

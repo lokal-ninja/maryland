@@ -1,11 +1,11 @@
 id: 613470341
-type: way
+type: node
 latitude: 38.89803
 longitude: -76.82733
 postcode: "20774"
 city: Upper Marlboro
-street: "Campus Way South"
-housenumber: 10530
+street: Campus Way South
+housenumber: "10530"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/md/largo/10530-campus-way-south"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/md/largo/10530-campus-way-south

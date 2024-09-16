@@ -1,11 +1,11 @@
 id: 616661700
-type: way
+type: node
 latitude: 38.82269
 longitude: -76.92075
 postcode: "20746"
 city: Marlow Heights
-street: "Auth Place"
-housenumber: 5000
+street: Auth Place
+housenumber: "5000"
 phone: ""
 opening_hours: ""
-website: "https://www.sheehyfordmarlowheights.com"
+website: https://www.sheehyfordmarlowheights.com

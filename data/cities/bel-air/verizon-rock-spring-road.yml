@@ -1,11 +1,11 @@
 id: 670620490
-type: way
+type: node
 latitude: 39.55728
 longitude: -76.36877
 postcode: "21014"
 city: Bel Air
-street: "Rock Spring Road"
-housenumber: 1435
-phone: "+1 410-420-0001"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://www.verizonwireless.com/stores/maryland/bel-air/cellular-sales-bel-air-rock-spring-rd-355414/"
+street: Rock Spring Road
+housenumber: "1435"
+phone: +1 410-420-0001
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-18:00
+website: https://www.verizonwireless.com/stores/maryland/bel-air/cellular-sales-bel-air-rock-spring-rd-355414/

@@ -1,11 +1,11 @@
 id: 64376613
-type: way
+type: node
 latitude: 39.07639
 longitude: -77.14104
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 799
+street: Rockville Pike
+housenumber: "799"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/rockville-md-pharmacies/799-rockville-pike-rockville-md-20852/storeid=169"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/rockville-md-pharmacies/799-rockville-pike-rockville-md-20852/storeid=169

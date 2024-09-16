@@ -1,11 +1,11 @@
 id: 234066695
-type: way
+type: node
 latitude: 39.27632
 longitude: -76.56464
 postcode: "21224"
 city: Baltimore
-street: "Boston Street"
-housenumber: 3743
+street: Boston Street
+housenumber: "3743"
 phone: ""
 opening_hours: ""
-website: "https://locations.waxcenter.com/md/baltimore/baltimore-canton-crossing-0814.html"
+website: https://locations.waxcenter.com/md/baltimore/baltimore-canton-crossing-0814.html

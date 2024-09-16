@@ -1,11 +1,11 @@
 id: 90394221
-type: way
+type: node
 latitude: 38.99152
 longitude: -77.02706
 postcode: "20910"
 city: Silver Spring
-street: "Georgia Avenue"
-housenumber: 8126
+street: Georgia Avenue
+housenumber: "8126"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.dornecorset.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.dornecorset.com/

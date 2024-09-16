@@ -1,11 +1,11 @@
 id: 684893196
-type: way
+type: node
 latitude: 38.81325
 longitude: -76.05885
 postcode: "21601"
 city: Easton
-street: "Ocean Gateway"
-housenumber: 9716
+street: Ocean Gateway
+housenumber: "9716"
 phone: ""
 opening_hours: ""
-website: "https://www.hertrichfordeaston.com/"
+website: https://www.hertrichfordeaston.com/

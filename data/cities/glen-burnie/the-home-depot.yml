@@ -1,11 +1,11 @@
 id: 345304801
-type: way
+type: node
 latitude: 39.19885
 longitude: -76.59801
 postcode: "21060"
 city: Glen Burnie
-street: "New Ordnance Road"
-housenumber: 601
-phone: "+1 410-553-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/glen-burnie/md/glen-burnie/21060/2501"
+street: New Ordnance Road
+housenumber: "601"
+phone: +1 410-553-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/glen-burnie/md/glen-burnie/21060/2501

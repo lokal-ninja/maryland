@@ -1,11 +1,11 @@
 id: 234066694
-type: way
+type: node
 latitude: 39.27684
 longitude: -76.56492
 postcode: "21224"
 city: Baltimore
-street: "Boston Street"
-housenumber: 3715
+street: Boston Street
+housenumber: "3715"
 phone: ""
 opening_hours: ""
-website: "https://www.myeyedr.com/"
+website: https://www.myeyedr.com/

@@ -1,11 +1,11 @@
 id: 336320668
-type: way
+type: node
 latitude: 39.28539
 longitude: -76.60004
 postcode: "21202"
 city: Baltimore
-street: "Eastern Avenue"
-housenumber: 1008
+street: Eastern Avenue
+housenumber: "1008"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.28162
 longitude: -76.68228
 postcode: "21229"
 city: Baltimore
-street: "Frederick Avenue"
-housenumber: 4003
+street: Frederick Avenue
+housenumber: "4003"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-baltimore-md-10228888/"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-baltimore-md-10228888/

@@ -1,11 +1,11 @@
 id: 132681767
-type: way
+type: node
 latitude: 39.46852
 longitude: -76.83113
 postcode: "21136"
 city: Reisterstown
-street: "Village Center Road"
-housenumber: 10
+street: Village Center Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 438914319
-type: way
+type: node
 latitude: 38.37296
 longitude: -76.44337
 postcode: "20657"
 city: Lusby
-street: "Rousby Hall Road"
-housenumber: 11745
-phone: "+1 410 394 2730"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-11745+rousby+hall+rd-lusby-md-20657/id=10402"
+street: Rousby Hall Road
+housenumber: "11745"
+phone: +1 410 394 2730
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-11745+rousby+hall+rd-lusby-md-20657/id=10402

@@ -1,11 +1,11 @@
 id: 337503773
-type: way
+type: node
 latitude: 39.28484
 longitude: -76.589
 postcode: "21231"
 city: Baltimore
-street: "Fleet Street"
-housenumber: 1926
+street: Fleet Street
+housenumber: "1926"
 phone: "4102760817"
 opening_hours: ""
 website: ""

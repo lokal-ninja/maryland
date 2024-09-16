@@ -4,8 +4,8 @@ latitude: 38.32488
 longitude: -75.21899
 postcode: ""
 city: Berlin
-street: "North Main Street"
-housenumber: 11
+street: North Main Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://treatygeneralstore.com"
+website: https://treatygeneralstore.com

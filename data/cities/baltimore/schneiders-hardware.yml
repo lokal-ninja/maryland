@@ -1,11 +1,11 @@
 id: 336406326
-type: way
+type: node
 latitude: 39.35349
 longitude: -76.63166
 postcode: "21210"
 city: Baltimore
-street: "Wyndhurst Avenue"
-housenumber: 700
+street: Wyndhurst Avenue
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

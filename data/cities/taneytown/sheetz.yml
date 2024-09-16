@@ -1,11 +1,11 @@
 id: 865666019
-type: way
+type: node
 latitude: 39.64798
 longitude: -77.15648
 postcode: "21787"
 city: Taneytown
-street: "Antrim Boulevard"
-housenumber: 40
-phone: "+1 410-756-6905"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/132"
+street: Antrim Boulevard
+housenumber: "40"
+phone: +1 410-756-6905
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/132

@@ -1,11 +1,11 @@
 id: 156818809
-type: way
+type: node
 latitude: 39.43064
 longitude: -76.62093
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 1801
+street: York Road
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1801+york+rd-lutherville-md-21093/id=12847"
+website: https://www.walgreens.com/locator/walgreens-1801+york+rd-lutherville-md-21093/id=12847

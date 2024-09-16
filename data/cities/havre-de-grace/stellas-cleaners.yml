@@ -1,11 +1,11 @@
 id: 678976202
-type: way
+type: node
 latitude: 39.54178
 longitude: -76.10196
 postcode: "21078"
 city: Havre de Grace
-street: "Revolution Street"
-housenumber: 1100
+street: Revolution Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

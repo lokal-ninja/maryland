@@ -1,11 +1,11 @@
 id: 298921902
-type: way
+type: node
 latitude: 39.31162
 longitude: -76.47783
 postcode: "21221"
 city: Essex
-street: "Mace Avenue"
-housenumber: 300
+street: Mace Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

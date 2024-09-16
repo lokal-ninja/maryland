@@ -1,11 +1,11 @@
 id: 315691648
-type: way
+type: node
 latitude: 39.26738
 longitude: -76.79786
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8197
-phone: "+1-410-630-9052"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-19:00"
+street: Main Street
+housenumber: "8197"
+phone: +1-410-630-9052
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-19:00
 website: ""

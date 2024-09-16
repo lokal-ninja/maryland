@@ -1,11 +1,11 @@
 id: 624984884
-type: way
+type: node
 latitude: 39.42603
 longitude: -76.29913
 postcode: "21040"
 city: Edgewood
-street: "Edgewood Road"
-housenumber: 630
-phone: "+1 443-922-2133"
-opening_hours: "24/7"
-website: "https://www.royalfarms.com"
+street: Edgewood Road
+housenumber: "630"
+phone: +1 443-922-2133
+opening_hours: 24/7
+website: https://www.royalfarms.com

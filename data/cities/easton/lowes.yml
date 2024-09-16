@@ -1,11 +1,11 @@
 id: 227371548
-type: way
+type: node
 latitude: 38.78473
 longitude: -76.07804
 postcode: "21601"
 city: Easton
-street: "Glebe Road"
-housenumber: 501
-phone: "+1 410-690-9061"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/MD-Easton/1982"
+street: Glebe Road
+housenumber: "501"
+phone: +1 410-690-9061
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/MD-Easton/1982

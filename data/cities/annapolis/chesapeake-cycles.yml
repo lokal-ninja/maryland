@@ -1,11 +1,11 @@
 id: 436710747
-type: way
+type: node
 latitude: 38.98636
 longitude: -76.54904
 postcode: "21401"
 city: Annapolis
-street: "Defense Highway"
-housenumber: 104
-phone: "+1 410 2660015"
-opening_hours: "Mo 09:00-16:00; Tu-Fr 09:00-18:00; Sa 09:00-16:00; PH,Su off"
-website: "https://www.chesapeakecycles.com"
+street: Defense Highway
+housenumber: "104"
+phone: +1 410 2660015
+opening_hours: Mo 09:00-16:00; Tu-Fr 09:00-18:00; Sa 09:00-16:00; PH,Su off
+website: https://www.chesapeakecycles.com

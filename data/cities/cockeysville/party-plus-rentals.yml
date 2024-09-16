@@ -1,11 +1,11 @@
 id: 889624238
-type: way
+type: node
 latitude: 39.47629
 longitude: -76.64919
 postcode: "21030"
 city: Cockeysville
-street: "Beaver Court"
-housenumber: 1
+street: Beaver Court
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

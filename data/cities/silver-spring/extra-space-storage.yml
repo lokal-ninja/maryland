@@ -1,11 +1,11 @@
 id: 88463031
-type: way
+type: node
 latitude: 38.98568
 longitude: -77.02354
 postcode: "20910"
 city: Silver Spring
-street: "Fenton Street"
-housenumber: 7722
+street: Fenton Street
+housenumber: "7722"
 phone: ""
 opening_hours: ""
 website: ""

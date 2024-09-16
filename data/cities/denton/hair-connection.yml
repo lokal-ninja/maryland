@@ -1,11 +1,11 @@
 id: 729228920
-type: way
+type: node
 latitude: 38.88695
 longitude: -75.82646
 postcode: "21629"
 city: Denton
-street: "North 6th Street"
-housenumber: 201
+street: North 6th Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

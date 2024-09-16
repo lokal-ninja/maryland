@@ -1,11 +1,11 @@
 id: 969845590
-type: way
+type: node
 latitude: 39.26737
 longitude: -76.79746
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8181
+street: Main Street
+housenumber: "8181"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/DiscoveriesEC/"
+website: https://www.facebook.com/DiscoveriesEC/

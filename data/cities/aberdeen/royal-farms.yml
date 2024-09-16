@@ -1,11 +1,11 @@
 id: 175508497
-type: way
+type: node
 latitude: 39.5223
 longitude: -76.1785
 postcode: "21001"
 city: Aberdeen
-street: "Middleton Road"
-housenumber: 1021
-phone: "410-272-9300"
+street: Middleton Road
+housenumber: "1021"
+phone: 410-272-9300
 opening_hours: ""
 website: ""

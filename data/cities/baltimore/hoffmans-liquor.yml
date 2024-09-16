@@ -1,11 +1,11 @@
 id: 336513110
-type: way
+type: node
 latitude: 39.33984
 longitude: -76.66629
 postcode: "21215"
 city: Baltimore
-street: "Park Heights Avenue"
-housenumber: 4403
+street: Park Heights Avenue
+housenumber: "4403"
 phone: ""
 opening_hours: ""
 website: ""

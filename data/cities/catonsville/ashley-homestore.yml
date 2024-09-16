@@ -1,11 +1,11 @@
 id: 148642092
-type: way
+type: node
 latitude: 39.28758
 longitude: -76.76651
 postcode: "21228"
 city: Catonsville
-street: "Baltimore National Pike"
-housenumber: 6610
-phone: "+1 410-788-7779"
+street: Baltimore National Pike
+housenumber: "6610"
+phone: +1 410-788-7779
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/maryland/catonsville/7710000199/"
+website: https://stores.ashleyfurniture.com/store/us/maryland/catonsville/7710000199/

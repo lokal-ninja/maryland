@@ -1,11 +1,11 @@
 id: 64495375
-type: way
+type: node
 latitude: 39.04636
 longitude: -77.09836
 postcode: "20852"
 city: Rockville
-street: "Boiling Brook Parkway"
-housenumber: 4816
-phone: "+1 301 881 0744"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://dcgoodwill.org/locations/rockville-maryland-store-donation-center/"
+street: Boiling Brook Parkway
+housenumber: "4816"
+phone: +1 301 881 0744
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://dcgoodwill.org/locations/rockville-maryland-store-donation-center/

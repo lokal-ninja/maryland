@@ -1,11 +1,11 @@
 id: 130101810
-type: way
+type: node
 latitude: 39.21377
 longitude: -76.93624
 postcode: "21029"
 city: Clarksville
-street: "Clarksville Pike"
-housenumber: 12170
+street: Clarksville Pike
+housenumber: "12170"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 130676040
-type: way
+type: node
 latitude: 39.07745
 longitude: -76.94854
 postcode: "20904"
 city: Silver Spring
-street: "Automobile Boulevard"
-housenumber: 3131
+street: Automobile Boulevard
+housenumber: "3131"
 phone: ""
 opening_hours: ""
-website: "http://www.herbgordonnissan.com"
+website: http://www.herbgordonnissan.com

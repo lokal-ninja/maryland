@@ -1,11 +1,11 @@
 id: 1279534587
-type: way
+type: node
 latitude: 39.17753
 longitude: -76.61779
 postcode: "21061"
 city: Glen Burnie
-street: "Crain Highway North"
-housenumber: 900
-phone: "+1-410-766-4866"
+street: Crain Highway North
+housenumber: "900"
+phone: +1-410-766-4866
 opening_hours: ""
-website: "https://www.shamrockawards.com/"
+website: https://www.shamrockawards.com/

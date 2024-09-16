@@ -1,11 +1,11 @@
 id: 234066686
-type: way
+type: node
 latitude: 39.27636
 longitude: -76.56721
 postcode: "21224"
 city: Baltimore
-street: "Boston Street"
-housenumber: 3531
+street: Boston Street
+housenumber: "3531"
 phone: ""
 opening_hours: ""
 website: ""

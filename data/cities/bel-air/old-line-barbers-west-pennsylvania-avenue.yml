@@ -1,11 +1,11 @@
 id: 705789344
-type: way
+type: node
 latitude: 39.53646
 longitude: -76.34999
 postcode: "21014"
 city: Bel Air
-street: "West Pennsylvania Avenue"
-housenumber: 12
-phone: "+1-410-838-2415"
+street: West Pennsylvania Avenue
+housenumber: "12"
+phone: +1-410-838-2415
 opening_hours: ""
-website: "https://www.oldlinebarbers.com/"
+website: https://www.oldlinebarbers.com/

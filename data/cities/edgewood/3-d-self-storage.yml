@@ -1,11 +1,11 @@
 id: 688045281
-type: way
+type: node
 latitude: 39.44248
 longitude: -76.29186
 postcode: "21040"
 city: Edgewood
-street: "Pulaski Highway"
-housenumber: 2702
-phone: "410-676-9477"
+street: Pulaski Highway
+housenumber: "2702"
+phone: 410-676-9477
 opening_hours: ""
 website: ""

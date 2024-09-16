@@ -1,11 +1,11 @@
 id: 298499282
-type: way
+type: node
 latitude: 39.3807
 longitude: -76.42616
 postcode: "21162"
 city: White Marsh
-street: "Pulaski Highway"
-housenumber: 10811
-phone: "+1-410-335-0500"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off"
-website: "https://www.showandtellofwhitemarsh.com/"
+street: Pulaski Highway
+housenumber: "10811"
+phone: +1-410-335-0500
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su off; PH off
+website: https://www.showandtellofwhitemarsh.com/

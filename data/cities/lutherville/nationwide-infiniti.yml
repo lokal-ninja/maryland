@@ -1,11 +1,11 @@
 id: 74764171
-type: way
+type: node
 latitude: 39.44084
 longitude: -76.62954
 postcode: "21093"
 city: Lutherville
-street: "West Timonium Road"
-housenumber: 22
+street: West Timonium Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

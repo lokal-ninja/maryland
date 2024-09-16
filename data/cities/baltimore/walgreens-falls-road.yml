@@ -1,11 +1,11 @@
 id: 336420206
-type: way
+type: node
 latitude: 39.3329
 longitude: -76.63567
 postcode: "21211"
 city: Baltimore
-street: "Falls Road"
-housenumber: 3708
+street: Falls Road
+housenumber: "3708"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3700+falls+rd-baltimore-md-21211/id=18337"
+website: https://www.walgreens.com/locator/walgreens-3700+falls+rd-baltimore-md-21211/id=18337

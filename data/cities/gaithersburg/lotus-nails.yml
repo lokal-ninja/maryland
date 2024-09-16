@@ -1,11 +1,11 @@
 id: 1002115542
-type: way
+type: node
 latitude: 39.1445
 longitude: -77.21948
 postcode: "20878"
 city: Gaithersburg
-street: "Quince Orchard Road"
-housenumber: 527
+street: Quince Orchard Road
+housenumber: "527"
 phone: ""
 opening_hours: ""
 website: ""

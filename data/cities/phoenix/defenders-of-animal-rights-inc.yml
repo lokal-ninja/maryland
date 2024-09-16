@@ -1,11 +1,11 @@
 id: 298246741
-type: way
+type: node
 latitude: 39.52242
 longitude: -76.57642
 postcode: "21131"
 city: Phoenix
-street: "Old York Road"
-housenumber: 14412
+street: Old York Road
+housenumber: "14412"
 phone: ""
 opening_hours: ""
 website: ""

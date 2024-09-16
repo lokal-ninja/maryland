@@ -1,11 +1,11 @@
 id: 889428634
-type: way
+type: node
 latitude: 39.48674
 longitude: -76.64525
 postcode: "21030"
 city: Cockeysville
-street: "Beaver Run Lane"
-housenumber: 13
+street: Beaver Run Lane
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

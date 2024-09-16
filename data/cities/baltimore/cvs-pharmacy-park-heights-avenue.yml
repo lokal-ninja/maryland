@@ -1,11 +1,11 @@
 id: 190856959
-type: way
+type: node
 latitude: 39.3522
 longitude: -76.68367
 postcode: "21215"
 city: Baltimore
-street: "Park Heights Avenue"
-housenumber: 5501
+street: Park Heights Avenue
+housenumber: "5501"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/baltimore-md-pharmacies/5501-park-heights-ave-baltimore-md-21215/storeid=4411"
+website: https://www.cvs.com/store-locator/baltimore-md-pharmacies/5501-park-heights-ave-baltimore-md-21215/storeid=4411

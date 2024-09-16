@@ -1,11 +1,11 @@
 id: 133667574
-type: way
+type: node
 latitude: 39.43753
 longitude: -76.62623
 postcode: "21093"
 city: Lutherville
-street: "York Road"
-housenumber: 2020
-phone: "+1-410-252-6666"
-opening_hours: "Mo-We 10:00-18:00; Th 10:00-20:00; Fr-Sa 10:00-18:00"
-website: "https://www.smythjewelers.com/"
+street: York Road
+housenumber: "2020"
+phone: +1-410-252-6666
+opening_hours: Mo-We 10:00-18:00; Th 10:00-20:00; Fr-Sa 10:00-18:00
+website: https://www.smythjewelers.com/

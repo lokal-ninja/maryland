@@ -1,11 +1,11 @@
 id: 298931089
-type: way
+type: node
 latitude: 39.26023
 longitude: -76.47527
 postcode: "21222"
 city: Dundalk
-street: "Wise Avenue"
-housenumber: 701
+street: Wise Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

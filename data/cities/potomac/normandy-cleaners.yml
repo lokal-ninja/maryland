@@ -1,11 +1,11 @@
 id: 690817378
-type: way
+type: node
 latitude: 39.01728
 longitude: -77.21069
 postcode: ""
 city: Potomac
-street: "Falls Road"
-housenumber: 9812
+street: Falls Road
+housenumber: "9812"
 phone: ""
 opening_hours: ""
 website: ""

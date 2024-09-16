@@ -1,11 +1,11 @@
 id: 1295106165
-type: way
+type: node
 latitude: 39.40521
 longitude: -77.39387
 postcode: ""
 city: Frederick
-street: "East South Street"
-housenumber: 811
+street: East South Street
+housenumber: "811"
 phone: ""
 opening_hours: ""
-website: "https://www.cubesmart.com"
+website: https://www.cubesmart.com

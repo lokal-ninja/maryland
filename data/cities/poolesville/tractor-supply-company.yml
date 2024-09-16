@@ -1,11 +1,11 @@
 id: 63939811
-type: way
+type: node
 latitude: 39.14288
 longitude: -77.41121
 postcode: "20837"
 city: Poolesville
-street: "Fisher Avenue"
-housenumber: 19610
-phone: "+1 301-407-0307"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Fisher Avenue
+housenumber: "19610"
+phone: +1 301-407-0307
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

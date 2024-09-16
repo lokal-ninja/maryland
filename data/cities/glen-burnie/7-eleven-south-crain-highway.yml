@@ -1,11 +1,11 @@
 id: 985113842
-type: way
+type: node
 latitude: 39.15155
 longitude: -76.63277
 postcode: "21061"
 city: Glen Burnie
-street: "South Crain Highway"
-housenumber: 1250
-phone: "+1 410-590-2168"
+street: South Crain Highway
+housenumber: "1250"
+phone: +1 410-590-2168
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/glen-burnie/1250-s-crain-hwy-39345"
+website: https://www.7-eleven.com/locations/md/glen-burnie/1250-s-crain-hwy-39345

@@ -1,11 +1,11 @@
 id: 412450713
-type: way
+type: node
 latitude: 39.51149
 longitude: -76.37697
 postcode: "21014"
 city: Bel Air
-street: "Belair Road"
-housenumber: 1230
+street: Belair Road
+housenumber: "1230"
 phone: ""
 opening_hours: ""
-website: "https://www.bobbellbelair.com/"
+website: https://www.bobbellbelair.com/

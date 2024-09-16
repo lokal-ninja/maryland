@@ -1,11 +1,11 @@
 id: 228608887
-type: way
+type: node
 latitude: 38.96946
 longitude: -76.97665
 postcode: "20782"
 city: Hyattsville
-street: "Ager Road"
-housenumber: 2000
-phone: "+1 301-422-4858"
+street: Ager Road
+housenumber: "2000"
+phone: +1 301-422-4858
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/hyattsville/2000-e.-west-hwy-29720"
+website: https://www.7-eleven.com/locations/md/hyattsville/2000-e.-west-hwy-29720

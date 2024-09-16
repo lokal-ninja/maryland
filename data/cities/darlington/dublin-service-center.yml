@@ -1,11 +1,11 @@
 id: 728247945
-type: way
+type: node
 latitude: 39.65188
 longitude: -76.26681
 postcode: "21034"
 city: Darlington
-street: "Whiteford Road"
-housenumber: 1605
-phone: "+1-410-457-4300"
+street: Whiteford Road
+housenumber: "1605"
+phone: +1-410-457-4300
 opening_hours: ""
 website: ""

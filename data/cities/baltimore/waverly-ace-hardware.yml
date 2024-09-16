@@ -1,11 +1,11 @@
 id: 336347141
-type: way
+type: node
 latitude: 39.32674
 longitude: -76.60828
 postcode: "21218"
 city: Baltimore
-street: "Homestead Street"
-housenumber: 601
-phone: "+1 443-627-8893"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-18:00"
+street: Homestead Street
+housenumber: "601"
+phone: +1 443-627-8893
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-18:00
 website: ""

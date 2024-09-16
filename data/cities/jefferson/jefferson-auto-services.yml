@@ -1,11 +1,11 @@
 id: 1112825316
-type: way
+type: node
 latitude: 39.36231
 longitude: -77.52901
 postcode: "21755"
 city: Jefferson
-street: "Jefferson Pike"
-housenumber: 4013
+street: Jefferson Pike
+housenumber: "4013"
 phone: ""
 opening_hours: ""
 website: ""

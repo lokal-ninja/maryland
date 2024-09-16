@@ -1,11 +1,11 @@
 id: 177620477
-type: way
+type: node
 latitude: 39.28037
 longitude: -76.57625
 postcode: "21224"
 city: Baltimore
-street: "O'Donnell Street"
-housenumber: 2816
+street: O'Donnell Street
+housenumber: "2816"
 phone: ""
 opening_hours: ""
 website: ""

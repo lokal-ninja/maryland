@@ -1,11 +1,11 @@
 id: 375733978
-type: way
+type: node
 latitude: 38.99385
 longitude: -76.53674
 postcode: "21401"
 city: Annapolis
-street: "Bestgate Road"
-housenumber: 811
+street: Bestgate Road
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 298919917
-type: way
+type: node
 latitude: 39.2323
 longitude: -76.45482
 postcode: "21219"
 city: Sparrows Point
-street: "Sparrows Point Road"
-housenumber: 2413
+street: Sparrows Point Road
+housenumber: "2413"
 phone: ""
 opening_hours: ""
 website: ""

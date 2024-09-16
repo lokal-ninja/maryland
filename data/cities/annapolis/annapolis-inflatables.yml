@@ -1,11 +1,11 @@
 id: 435815784
-type: way
+type: node
 latitude: 38.97304
 longitude: -76.48082
 postcode: "21403"
 city: Annapolis
-street: "Second St"
-housenumber: 306
+street: Second St
+housenumber: "306"
 phone: ""
 opening_hours: ""
-website: "https://www.annapolisinflatables.net/"
+website: https://www.annapolisinflatables.net/

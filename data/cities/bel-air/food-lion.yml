@@ -1,11 +1,11 @@
 id: 690615776
-type: way
+type: node
 latitude: 39.55703
 longitude: -76.27231
 postcode: "21015"
 city: Bel Air
-street: "East Churchville Road"
-housenumber: 2458
+street: East Churchville Road
+housenumber: "2458"
 phone: ""
 opening_hours: ""
-website: "https://www.foodlion.com/stores/md/bel_air/1423/"
+website: https://www.foodlion.com/stores/md/bel_air/1423/

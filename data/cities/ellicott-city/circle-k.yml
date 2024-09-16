@@ -1,11 +1,11 @@
 id: 143932177
-type: way
+type: node
 latitude: 39.25205
 longitude: -76.81667
 postcode: "21043"
 city: Ellicott City
-street: "Montgomery Road"
-housenumber: 4398
+street: Montgomery Road
+housenumber: "4398"
 phone: ""
 opening_hours: ""
 website: ""

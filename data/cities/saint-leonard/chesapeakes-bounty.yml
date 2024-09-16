@@ -1,11 +1,11 @@
 id: 485889335
-type: way
+type: node
 latitude: 38.44855
 longitude: -76.48847
 postcode: "20685"
 city: Saint Leonard
-street: "Saint Leonard Road"
-housenumber: 6415
-phone: "+1 410 586 3881"
-opening_hours: "Mo-Fr 09:30-19:00; Sa, Su 09:30-18:00"
-website: "https://chesapeakesbounty.com"
+street: Saint Leonard Road
+housenumber: "6415"
+phone: +1 410 586 3881
+opening_hours: Mo-Fr 09:30-19:00; Sa, Su 09:30-18:00
+website: https://chesapeakesbounty.com

@@ -1,11 +1,11 @@
 id: 164547343
-type: way
+type: node
 latitude: 39.43919
 longitude: -76.62541
 postcode: "21093"
 city: Timonium
-street: "York Road"
-housenumber: 2061
-phone: "+1-410-777-8123"
-opening_hours: "Su-Th 00:00-24:00, Fr 00:00-19:00"
-website: "https://www.ampmlock.com/locations/lutherville-timonium-locksmith/"
+street: York Road
+housenumber: "2061"
+phone: +1-410-777-8123
+opening_hours: Su-Th 00:00-24:00, Fr 00:00-19:00
+website: https://www.ampmlock.com/locations/lutherville-timonium-locksmith/

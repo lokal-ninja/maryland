@@ -1,11 +1,11 @@
 id: 45107989
-type: way
+type: node
 latitude: 39.15102
 longitude: -77.06451
 postcode: "20832"
 city: Olney
-street: "Olney Sandy Spring Road"
-housenumber: 3134
+street: Olney Sandy Spring Road
+housenumber: "3134"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
 website: ""

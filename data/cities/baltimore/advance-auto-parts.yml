@@ -4,8 +4,8 @@ latitude: 39.31251
 longitude: -76.61916
 postcode: "21218"
 city: Baltimore
-street: "Maryland Avenue"
-housenumber: 2018
-phone: "+1 410-625-1064"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/md/baltimore/2018-maryland-ave"
+street: Maryland Avenue
+housenumber: "2018"
+phone: +1 410-625-1064
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/md/baltimore/2018-maryland-ave

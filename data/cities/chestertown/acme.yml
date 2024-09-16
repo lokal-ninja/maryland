@@ -1,11 +1,11 @@
 id: 1184114578
-type: way
+type: node
 latitude: 39.22558
 longitude: -76.0691
 postcode: "21620"
 city: Chestertown
-street: "Washington Avenue"
-housenumber: 711
-phone: "+1 410-778-5641"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.acmemarkets.com/md/chestertown/711-washington-ave.html"
+street: Washington Avenue
+housenumber: "711"
+phone: +1 410-778-5641
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.acmemarkets.com/md/chestertown/711-washington-ave.html

@@ -1,11 +1,11 @@
 id: 678976199
-type: way
+type: node
 latitude: 39.53919
 longitude: -76.10901
 postcode: "21078"
 city: Havre de Grace
-street: "Old Post Road"
-housenumber: 1317
-phone: "+1 410-939-1720"
+street: Old Post Road
+housenumber: "1317"
+phone: +1 410-939-1720
 opening_hours: ""
-website: "https://www.allaboutpartiesmd.com/"
+website: https://www.allaboutpartiesmd.com/

@@ -1,11 +1,11 @@
 id: 336305636
-type: way
+type: node
 latitude: 39.30203
 longitude: -76.59473
 postcode: "21205"
 city: Baltimore
-street: "North Broadway"
-housenumber: 1000
+street: North Broadway
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

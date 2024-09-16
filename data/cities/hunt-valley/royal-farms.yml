@@ -1,11 +1,11 @@
 id: 280415839
-type: way
+type: node
 latitude: 39.4892
 longitude: -76.65684
 postcode: "21031"
 city: Hunt Valley
-street: "McCormick Road"
-housenumber: 11119
+street: McCormick Road
+housenumber: "11119"
 phone: ""
 opening_hours: ""
 website: ""

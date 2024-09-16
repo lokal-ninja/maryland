@@ -1,11 +1,11 @@
 id: 464534744
-type: way
+type: node
 latitude: 39.41923
 longitude: -77.44507
 postcode: "21702"
 city: Frederick
-street: "West Patrick Street"
-housenumber: 1025
-phone: "+1 301-698-0003"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/md/frederick/65/"
+street: West Patrick Street
+housenumber: "1025"
+phone: +1 301-698-0003
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00
+website: https://stores.burlington.com/md/frederick/65/

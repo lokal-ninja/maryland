@@ -1,11 +1,11 @@
 id: 346066532
-type: way
+type: node
 latitude: 38.6388
 longitude: -76.89973
 postcode: "20601"
 city: Waldorf
-street: "Business Park Drive"
-housenumber: 11755
-phone: "+1-301-843-5200"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 12:00-17:00"
-website: "https://www.waldorfchryslerjeep.com/"
+street: Business Park Drive
+housenumber: "11755"
+phone: +1-301-843-5200
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 12:00-17:00
+website: https://www.waldorfchryslerjeep.com/

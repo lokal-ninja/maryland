@@ -1,11 +1,11 @@
 id: 184241391
-type: way
+type: node
 latitude: 39.32985
 longitude: -76.758
 postcode: "21244"
 city: Windsor Mill
-street: "North Rolling Road"
-housenumber: 2701
-phone: "+1 443-429-3507"
+street: North Rolling Road
+housenumber: "2701"
+phone: +1 443-429-3507
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/windsor-mill/2701-n-rolling-rd-39148"
+website: https://www.7-eleven.com/locations/md/windsor-mill/2701-n-rolling-rd-39148

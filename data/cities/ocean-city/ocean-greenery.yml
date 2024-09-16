@@ -1,11 +1,11 @@
 id: 242248342
-type: way
+type: node
 latitude: 38.37412
 longitude: -75.07027
 postcode: "21842"
 city: Ocean City
-street: "Coastal Highway"
-housenumber: 4805
+street: Coastal Highway
+housenumber: "4805"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 544269048
-type: way
+type: node
 latitude: 39.49802
 longitude: -76.32406
 postcode: "21015"
 city: Bel Air
-street: "Laurel Bush Road"
-housenumber: 2100
-phone: "+1-410-515-1900"
+street: Laurel Bush Road
+housenumber: "2100"
+phone: +1-410-515-1900
 opening_hours: ""
-website: "https://www.northeastern.com/"
+website: https://www.northeastern.com/

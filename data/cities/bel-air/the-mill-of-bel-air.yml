@@ -1,11 +1,11 @@
 id: 628936840
-type: way
+type: node
 latitude: 39.54036
 longitude: -76.35715
 postcode: "21014"
 city: Bel Air
-street: "North Main Street"
-housenumber: 424
-phone: "410-838-6111"
+street: North Main Street
+housenumber: "424"
+phone: 410-838-6111
 opening_hours: ""
-website: "https://www.southernstates.com/storelocations/45933/index.aspx"
+website: https://www.southernstates.com/storelocations/45933/index.aspx

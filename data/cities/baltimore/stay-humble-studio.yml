@@ -4,8 +4,8 @@ latitude: 39.33093
 longitude: -76.62953
 postcode: "21211"
 city: Baltimore
-street: "West 36th Street"
-housenumber: 801
-phone: "+1 410-235-1234"
+street: West 36th Street
+housenumber: "801"
+phone: +1 410-235-1234
 opening_hours: ""
-website: "http://www.stayhumblebaltimore.com"
+website: http://www.stayhumblebaltimore.com

@@ -1,11 +1,11 @@
 id: 436463267
-type: way
+type: node
 latitude: 38.9859
 longitude: -76.5315
 postcode: "21401"
 city: Annapolis
-street: "Hudson Street"
-housenumber: 30
+street: Hudson Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.rommelhdannapolis.com"
+website: https://www.rommelhdannapolis.com

@@ -1,11 +1,11 @@
 id: 411885738
-type: way
+type: node
 latitude: 39.52783
 longitude: -76.35981
 postcode: "21014"
 city: Bel Air
-street: "Boulton Street"
-housenumber: 602
-phone: "+1 410-638-0330"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/md/bel-air-store0364.html"
+street: Boulton Street
+housenumber: "602"
+phone: +1 410-638-0330
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/md/bel-air-store0364.html

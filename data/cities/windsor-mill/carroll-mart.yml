@@ -1,11 +1,11 @@
 id: 122402790
-type: way
+type: node
 latitude: 39.31225
 longitude: -76.75544
 postcode: "21244"
 city: Windsor Mill
-street: "North Rolling Road"
-housenumber: 1900
+street: North Rolling Road
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://carrollfuel.com/"
+website: https://carrollfuel.com/

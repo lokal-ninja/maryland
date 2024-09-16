@@ -1,11 +1,11 @@
 id: 102712599
-type: way
+type: node
 latitude: 39.25224
 longitude: -76.69233
 postcode: ""
 city: Arbutus
-street: "East Drive"
-housenumber: 5101
+street: East Drive
+housenumber: "5101"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://savealot.com/grocery-stores/arbutus-21227-61275/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://savealot.com/grocery-stores/arbutus-21227-61275/

@@ -1,11 +1,11 @@
 id: 359652345
-type: way
+type: node
 latitude: 38.93589
 longitude: -76.72132
 postcode: "20716"
 city: Bowie
-street: "Crain Highway"
-housenumber: 3300
-phone: "+1 301-805-8850"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1893/bowie-md/whats-new"
+street: Crain Highway
+housenumber: "3300"
+phone: +1 301-805-8850
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1893/bowie-md/whats-new

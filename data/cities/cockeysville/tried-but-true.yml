@@ -1,11 +1,11 @@
 id: 83705480
-type: way
+type: node
 latitude: 39.48476
 longitude: -76.64564
 postcode: "21030"
 city: Cockeysville
-street: "York Road"
-housenumber: 10914
+street: York Road
+housenumber: "10914"
 phone: ""
 opening_hours: ""
-website: "http://www.triedbuttrue.com/"
+website: http://www.triedbuttrue.com/

@@ -1,11 +1,11 @@
 id: 42467141
-type: way
+type: node
 latitude: 39.03198
 longitude: -77.00354
 postcode: "20901"
 city: Silver Spring
-street: "Columbia Pike"
-housenumber: 10755
-phone: "+1 301 681-4938"
+street: Columbia Pike
+housenumber: "10755"
+phone: +1 301 681-4938
 opening_hours: ""
 website: ""

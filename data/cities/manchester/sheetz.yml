@@ -1,11 +1,11 @@
 id: 880016997
-type: way
+type: node
 latitude: 39.66494
 longitude: -76.88619
 postcode: "21102"
 city: Manchester
-street: "Main Street"
-housenumber: 3281
-phone: "+1 443-639-5176"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/177"
+street: Main Street
+housenumber: "3281"
+phone: +1 443-639-5176
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/177

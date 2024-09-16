@@ -1,11 +1,11 @@
 id: 902017871
-type: way
+type: node
 latitude: 39.22091
 longitude: -76.64296
 postcode: "21090"
 city: Linthicum
-street: "Baltimore Annapolis Boulevard"
-housenumber: 6830
-phone: "+1-410-789-7003"
+street: Baltimore Annapolis Boulevard
+housenumber: "6830"
+phone: +1-410-789-7003
 opening_hours: ""
 website: ""

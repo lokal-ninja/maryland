@@ -1,11 +1,11 @@
 id: 113572348
-type: way
+type: node
 latitude: 39.26727
 longitude: -76.79689
 postcode: "21043"
 city: Ellicott City
-street: "Main Street"
-housenumber: 8137
-phone: "+1 410 720 2828"
+street: Main Street
+housenumber: "8137"
+phone: +1 410 720 2828
 opening_hours: ""
-website: "https://www.unusualcompany.com"
+website: https://www.unusualcompany.com

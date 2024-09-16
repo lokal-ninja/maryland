@@ -4,8 +4,8 @@ latitude: 39.69764
 longitude: -76.06235
 postcode: "21911"
 city: Rising Sun
-street: "East Main Street"
-housenumber: 10
-phone: "+1-443-967-3663;+1-443-350-5525"
-opening_hours: "Mo,Th 15:00-20:00; Tu,Su off; We,Fr 13:00-20:00; Sa 12:00-16:00"
-website: "https://www.theartdenllc.com/"
+street: East Main Street
+housenumber: "10"
+phone: +1-443-967-3663;+1-443-350-5525
+opening_hours: Mo,Th 15:00-20:00; Tu,Su off; We,Fr 13:00-20:00; Sa 12:00-16:00
+website: https://www.theartdenllc.com/

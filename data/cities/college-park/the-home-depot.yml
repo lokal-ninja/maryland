@@ -1,11 +1,11 @@
 id: 93171841
-type: way
+type: node
 latitude: 39.01761
 longitude: -76.93101
 postcode: "20740"
 city: College Park
-street: "Cherry Hill Road"
-housenumber: 4700
-phone: "+1 301-345-6774"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/college-park/md/college-park/20740/2552"
+street: Cherry Hill Road
+housenumber: "4700"
+phone: +1 301-345-6774
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/college-park/md/college-park/20740/2552

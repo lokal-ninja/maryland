@@ -1,11 +1,11 @@
 id: 336251656
-type: way
+type: node
 latitude: 39.3
 longitude: -76.57753
 postcode: "21205"
 city: Baltimore
-street: "East Madison Street"
-housenumber: 2819
+street: East Madison Street
+housenumber: "2819"
 phone: ""
 opening_hours: ""
 website: ""

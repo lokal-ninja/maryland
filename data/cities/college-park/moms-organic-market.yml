@@ -1,11 +1,11 @@
 id: 372538732
-type: way
+type: node
 latitude: 39.01393
 longitude: -76.92032
 postcode: "20740"
 city: College Park
-street: "Rhode Island Avenue"
-housenumber: 9801
+street: Rhode Island Avenue
+housenumber: "9801"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://momsorganicmarket.com/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://momsorganicmarket.com/

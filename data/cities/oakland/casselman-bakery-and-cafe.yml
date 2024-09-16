@@ -1,11 +1,11 @@
 id: 972133931
-type: way
+type: node
 latitude: 39.50205
 longitude: -79.32754
 postcode: "21550"
 city: Oakland
-street: "Garrett Highway"
-housenumber: 19595
-phone: "240-442-5202"
-opening_hours: "Tu-Sa 07:00-15:00"
-website: "https://casselmanbakery.com"
+street: Garrett Highway
+housenumber: "19595"
+phone: 240-442-5202
+opening_hours: Tu-Sa 07:00-15:00
+website: https://casselmanbakery.com

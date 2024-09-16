@@ -1,11 +1,11 @@
 id: 336169930
-type: way
+type: node
 latitude: 39.34823
 longitude: -76.53775
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 6025
-phone: "+1-410-600-5237"
+street: Belair Road
+housenumber: "6025"
+phone: +1-410-600-5237
 opening_hours: ""
-website: "https://towsonautogroupllc.com/"
+website: https://towsonautogroupllc.com/

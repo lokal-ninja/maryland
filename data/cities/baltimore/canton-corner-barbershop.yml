@@ -4,8 +4,8 @@ latitude: 39.28205
 longitude: -76.57615
 postcode: "21224"
 city: Baltimore
-street: "Hudson Street"
-housenumber: 2809
+street: Hudson Street
+housenumber: "2809"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Tu,Th 10:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Tu,Th 10:00-19:00; Sa 09:00-16:00
 website: ""

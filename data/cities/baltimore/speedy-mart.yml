@@ -1,11 +1,11 @@
 id: 229912287
-type: way
+type: node
 latitude: 39.37047
 longitude: -76.54533
 postcode: "21234"
 city: Baltimore
-street: "Harford Road"
-housenumber: 7501
+street: Harford Road
+housenumber: "7501"
 phone: ""
 opening_hours: ""
 website: ""

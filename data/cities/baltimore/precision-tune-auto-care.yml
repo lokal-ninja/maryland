@@ -1,11 +1,11 @@
 id: 336182092
-type: way
+type: node
 latitude: 39.34011
 longitude: -76.54801
 postcode: "21206"
 city: Baltimore
-street: "Belair Road"
-housenumber: 5529
-phone: "+1-410-483-3222"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off; PH off"
-website: "https://www.precisiontune.com/locations/baltimore-md-gardenville/"
+street: Belair Road
+housenumber: "5529"
+phone: +1-410-483-3222
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off; PH off
+website: https://www.precisiontune.com/locations/baltimore-md-gardenville/

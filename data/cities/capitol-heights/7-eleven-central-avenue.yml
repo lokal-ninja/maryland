@@ -1,11 +1,11 @@
 id: 613485991
-type: way
+type: node
 latitude: 38.88804
 longitude: -76.87762
 postcode: "20743"
 city: Capitol Heights
-street: "Central Avenue"
-housenumber: 7411
-phone: "+1 301-336-5446"
+street: Central Avenue
+housenumber: "7411"
+phone: +1 301-336-5446
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/md/capitol-heights/7411-central-ave.-11682"
+website: https://www.7-eleven.com/locations/md/capitol-heights/7411-central-ave.-11682

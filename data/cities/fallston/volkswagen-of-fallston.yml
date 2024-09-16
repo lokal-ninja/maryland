@@ -1,11 +1,11 @@
 id: 689795797
-type: way
+type: node
 latitude: 39.49565
 longitude: -76.39077
 postcode: "21047"
 city: Fallston
-street: "Belair Road"
-housenumber: 2110
-phone: "+1 833-361-5368"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"
-website: "https://www.vwoffallston.com/"
+street: Belair Road
+housenumber: "2110"
+phone: +1 833-361-5368
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00
+website: https://www.vwoffallston.com/

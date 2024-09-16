@@ -1,11 +1,11 @@
 id: 155228844
-type: way
+type: node
 latitude: 39.38271
 longitude: -76.60789
 postcode: "21212"
 city: Govans
-street: "York Road"
-housenumber: 7204
+street: York Road
+housenumber: "7204"
 phone: ""
 opening_hours: ""
 website: ""

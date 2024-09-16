@@ -1,11 +1,11 @@
 id: 171582387
-type: way
+type: node
 latitude: 39.29275
 longitude: -76.66181
 postcode: "21223"
 city: Baltimore
-street: "West Franklin Street"
-housenumber: 2701
+street: West Franklin Street
+housenumber: "2701"
 phone: ""
 opening_hours: ""
 website: ""

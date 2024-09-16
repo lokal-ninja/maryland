@@ -1,11 +1,11 @@
 id: 299192513
-type: way
+type: node
 latitude: 39.36889
 longitude: -76.79965
 postcode: "21133"
 city: Randallstown
-street: "Liberty Road"
-housenumber: 9101
+street: Liberty Road
+housenumber: "9101"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/md/randallstown/9101-liberty-rd"
+website: https://stores.advanceautoparts.com/md/randallstown/9101-liberty-rd

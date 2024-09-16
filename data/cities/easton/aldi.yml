@@ -1,11 +1,11 @@
 id: 943685759
-type: way
+type: node
 latitude: 38.77283
 longitude: -76.05945
-postcode: "21601-7145"
+postcode: 21601-7145
 city: Easton
-street: "Ocean Gateway"
-housenumber: 8147
-phone: "+1 833-471-7071"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/md/easton/8147-ocean-gateway"
+street: Ocean Gateway
+housenumber: "8147"
+phone: +1 833-471-7071
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/md/easton/8147-ocean-gateway

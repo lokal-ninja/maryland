@@ -1,11 +1,11 @@
 id: 687016061
-type: way
+type: node
 latitude: 39.48725
 longitude: -76.19968
 postcode: "21001"
 city: Aberdeen
-street: "South Philadelphia Boulevard"
-housenumber: 1233
-phone: "+1-410-272-2500"
+street: South Philadelphia Boulevard
+housenumber: "1233"
+phone: +1-410-272-2500
 opening_hours: ""
-website: "http://www.carriersautosales.com/"
+website: http://www.carriersautosales.com/

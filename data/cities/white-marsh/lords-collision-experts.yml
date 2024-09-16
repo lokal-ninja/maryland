@@ -1,11 +1,11 @@
 id: 298499999
-type: way
+type: node
 latitude: 39.39004
 longitude: -76.41533
 postcode: "21162"
 city: White Marsh
-street: "Pulaski Highway"
-housenumber: 11172
+street: Pulaski Highway
+housenumber: "11172"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off; PH off"
-website: "http://securityautobody.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off; PH off
+website: http://securityautobody.com/

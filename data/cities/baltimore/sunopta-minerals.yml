@@ -1,11 +1,11 @@
 id: 336194776
-type: way
+type: node
 latitude: 39.29651
 longitude: -76.55766
 postcode: "21224"
 city: Baltimore
-street: "East Fayette Street"
-housenumber: 4500
+street: East Fayette Street
+housenumber: "4500"
 phone: ""
 opening_hours: ""
 website: ""

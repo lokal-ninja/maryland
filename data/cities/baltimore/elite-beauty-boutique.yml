@@ -1,11 +1,11 @@
 id: 1053405675
-type: way
+type: node
 latitude: 39.31274
 longitude: -76.64552
 postcode: "21217"
 city: Baltimore
-street: "Pennsylvania Avenue"
-housenumber: 2707
-phone: "+1-443-563-2881"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-17:00"
-website: "https://www.elitebeautyboutiquemd.com/"
+street: Pennsylvania Avenue
+housenumber: "2707"
+phone: +1-443-563-2881
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-17:00
+website: https://www.elitebeautyboutiquemd.com/

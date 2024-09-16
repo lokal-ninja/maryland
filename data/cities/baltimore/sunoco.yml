@@ -1,11 +1,11 @@
 id: 336283014
-type: way
+type: node
 latitude: 39.29563
 longitude: -76.58953
 postcode: "21231"
 city: Baltimore
-street: "Orleans Street"
-housenumber: 1920
+street: Orleans Street
+housenumber: "1920"
 phone: ""
 opening_hours: ""
 website: ""

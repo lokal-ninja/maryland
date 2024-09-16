@@ -1,11 +1,11 @@
 id: 169794011
-type: way
+type: node
 latitude: 39.3673
 longitude: -77.14156
 postcode: "21771"
 city: Mount Airy
-street: "Century Drive"
-housenumber: 301
-phone: "+1 301-831-7877"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com"
+street: Century Drive
+housenumber: "301"
+phone: +1 301-831-7877
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com

@@ -4,8 +4,8 @@ latitude: 39.05717
 longitude: -77.12376
 postcode: "20852"
 city: Rockville
-street: "Rockville Pike"
-housenumber: 12270
-phone: "+1 301-881-7787"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
+street: Rockville Pike
+housenumber: "12270"
+phone: +1 301-881-7787
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
 website: ""

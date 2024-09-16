@@ -1,11 +1,11 @@
 id: 137545521
-type: way
+type: node
 latitude: 39.28084
 longitude: -76.81581
 postcode: "21043"
 city: Ellicott City
-street: "North Ridge Road"
-housenumber: 3301
+street: North Ridge Road
+housenumber: "3301"
 phone: ""
 opening_hours: ""
 website: ""

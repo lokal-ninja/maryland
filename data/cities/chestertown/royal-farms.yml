@@ -1,11 +1,11 @@
 id: 648518787
-type: way
+type: node
 latitude: 39.21864
 longitude: -76.08
 postcode: "21620"
 city: Chestertown
-street: "High Street"
-housenumber: 859
+street: High Street
+housenumber: "859"
 phone: ""
 opening_hours: ""
 website: ""

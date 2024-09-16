@@ -1,11 +1,11 @@
 id: 345304774
-type: way
+type: node
 latitude: 39.19318
 longitude: -76.61469
 postcode: ""
 city: Glen Burnie
-street: "Ritchie Highway"
-housenumber: 6700
-phone: "+1-443-848-0245"
+street: Ritchie Highway
+housenumber: "6700"
+phone: +1-443-848-0245
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6700+ritchie+hwy-glen+burnie-md-21061/id=9028"
+website: https://www.walgreens.com/locator/walgreens-6700+ritchie+hwy-glen+burnie-md-21061/id=9028

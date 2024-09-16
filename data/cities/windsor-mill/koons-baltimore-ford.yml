@@ -1,11 +1,11 @@
 id: 156126243
-type: way
+type: node
 latitude: 39.31351
 longitude: -76.75135
 postcode: "21244"
 city: Windsor Mill
-street: "Security Boulevard"
-housenumber: 6970
-phone: "888-855-0607"
+street: Security Boulevard
+housenumber: "6970"
+phone: 888-855-0607
 opening_hours: ""
-website: "http://www.koonsbaltimoreford.com"
+website: http://www.koonsbaltimoreford.com

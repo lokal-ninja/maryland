@@ -1,11 +1,11 @@
 id: 336198610
-type: way
+type: node
 latitude: 39.29443
 longitude: -76.56037
 postcode: "21224"
 city: Baltimore
-street: "North Kresson Street"
-housenumber: 118
+street: North Kresson Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

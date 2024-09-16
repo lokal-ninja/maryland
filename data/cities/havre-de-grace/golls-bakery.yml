@@ -1,11 +1,11 @@
 id: 747077402
-type: way
+type: node
 latitude: 39.54959
 longitude: -76.08994
 postcode: "21078"
 city: Havre de Grace
-street: "North Washington Street"
-housenumber: 234
-phone: "+1-410-939-4321"
-opening_hours: "closed for remodeling"
-website: "https://gollsbakery4321dotcom.wordpress.com"
+street: North Washington Street
+housenumber: "234"
+phone: +1-410-939-4321
+opening_hours: '"closed for remodeling"'
+website: https://gollsbakery4321dotcom.wordpress.com

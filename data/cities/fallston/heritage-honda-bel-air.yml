@@ -1,11 +1,11 @@
 id: 689825824
-type: way
+type: node
 latitude: 39.50001
 longitude: -76.38736
 postcode: "21047"
 city: Fallston
-street: "Belair Road"
-housenumber: 1800
+street: Belair Road
+housenumber: "1800"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su off"
-website: "https://www.heritagehondabelair.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su off
+website: https://www.heritagehondabelair.com/

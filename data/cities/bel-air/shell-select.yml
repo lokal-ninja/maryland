@@ -1,11 +1,11 @@
 id: 689258245
-type: way
+type: node
 latitude: 39.55824
 longitude: -76.37118
 postcode: "21014"
 city: Bel Air
-street: "Rock Spring Road"
-housenumber: 1500
-phone: "+1 410-893-1275"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/12505351-1500-rock-spring-road"
+street: Rock Spring Road
+housenumber: "1500"
+phone: +1 410-893-1275
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/12505351-1500-rock-spring-road
