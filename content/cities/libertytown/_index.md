@@ -1,6 +1,6 @@
 ---
 title: Libertytown
 url: /libertytown/
-latitude: 39.485
-longitude: -77.25
+latitude: 39.484
+longitude: -77.248
 ---
