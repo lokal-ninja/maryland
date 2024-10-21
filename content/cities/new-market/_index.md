@@ -1,6 +1,6 @@
 ---
 title: New Market
 url: /new-market/
-latitude: 39.383
-longitude: -77.255
+latitude: 39.386
+longitude: -77.258
 ---
