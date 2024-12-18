@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /baltimore/rainbow-west-lexington-street/
-shop: shoes
+shop: clothes
 ---
