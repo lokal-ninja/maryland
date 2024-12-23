@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /glen-burnie/public-storage-ritchie-highway/
+url: /baltimore/public-storage-reisterstown-road/
 shop: storage rental
 ---
