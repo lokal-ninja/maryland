@@ -1,6 +1,6 @@
 ---
 title: Timonium
 url: /timonium/
-latitude: 39.439
-longitude: -76.629
+latitude: 39.455
+longitude: -76.637
 ---
