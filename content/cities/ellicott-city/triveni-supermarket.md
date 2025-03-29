@@ -1,5 +1,5 @@
 ---
-title: "Triveni Supermarket"
-url: /ellicott-city/triveni-supermarket/
-shop: supermarket
+title: "Triveni Supermarket and Food Court"
+url: /ellicott-city/triveni-supermarket-food-court-ellicott-city-md/
+shop: Grocery Store
 ---
