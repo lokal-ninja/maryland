@@ -1,5 +1,5 @@
 ---
-title: "Genie's Liquors"
+title: "Genies Liquors"
 url: /baltimore/genies-liquors/
 shop: alcohol
 ---

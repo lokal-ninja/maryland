@@ -1,6 +1,6 @@
 ---
 title: Walkersville
 url: /walkersville/
-latitude: 39.48
-longitude: -77.352
+latitude: 39.465
+longitude: -77.363
 ---
