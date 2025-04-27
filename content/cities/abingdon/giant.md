@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /columbia/giant-centre-park-drive/
+url: /abingdon/giant/
 shop: supermarket
 ---

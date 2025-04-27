@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
-url: /lanham/best-buy/
+url: /glenarden/best-buy/
 shop: electronics
 ---
