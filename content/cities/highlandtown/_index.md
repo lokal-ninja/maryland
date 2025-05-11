@@ -1,6 +1,6 @@
 ---
 title: Highlandtown
 url: /highlandtown/
-latitude: 39.295
-longitude: -76.509
+latitude: 39.294
+longitude: -76.512
 ---
