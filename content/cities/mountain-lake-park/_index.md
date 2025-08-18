@@ -1,6 +1,6 @@
 ---
 title: Mountain Lake Park
 url: /mountain-lake-park/
-latitude: 39.397
-longitude: -79.374
+latitude: 39.396
+longitude: -79.371
 ---
