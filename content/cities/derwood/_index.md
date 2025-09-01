@@ -1,6 +1,6 @@
 ---
 title: Derwood
 url: /derwood/
-latitude: 39.131
-longitude: -77.169
+latitude: 39.146
+longitude: -77.144
 ---
