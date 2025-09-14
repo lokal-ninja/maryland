@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /middle-river/metro-by-t-mobile-kingston-road/
+url: /glen-burnie/metro-by-t-mobile-ritchie-highway/
 shop: mobile phone
 ---
