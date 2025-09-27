@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /annapolis/cvs-pharmacy-main-street/
+url: /catonsville/cvs-pharmacy/
 shop: chemist
 ---

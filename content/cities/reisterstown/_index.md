@@ -1,6 +1,6 @@
 ---
 title: Reisterstown
 url: /reisterstown/
-latitude: 39.476
-longitude: -76.82
+latitude: 39.469
+longitude: -76.831
 ---
