@@ -1,6 +1,6 @@
 ---
 title: Sykesville
 url: /sykesville/
-latitude: 39.403
-longitude: -76.951
+latitude: 39.404
+longitude: -76.952
 ---
