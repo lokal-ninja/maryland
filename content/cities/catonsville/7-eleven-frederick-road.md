@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /nottingham/7-eleven-belair-road-2/
+url: /catonsville/7-eleven-frederick-road/
 shop: convenience
 ---
