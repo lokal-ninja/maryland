@@ -1,6 +1,6 @@
 ---
 title: Halethorpe
 url: /halethorpe/
-latitude: 39.25
-longitude: -76.667
+latitude: 39.262
+longitude: -76.697
 ---
