@@ -1,6 +1,6 @@
 ---
 title: Hyattsville
 url: /hyattsville/
-latitude: 38.952
-longitude: -76.941
+latitude: 38.957
+longitude: -76.94
 ---
