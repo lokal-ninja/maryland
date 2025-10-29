@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /catonsville/burlington/
-shop: clothes
+shop: department store
 ---
