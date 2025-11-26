@@ -1,5 +1,5 @@
 ---
-title: "Blinds To Go"
+title: "Blinds to Go"
 url: /annapolis/blinds-to-go/
-shop: shop
+shop: window blind
 ---
