@@ -1,6 +1,6 @@
 ---
 title: Olney
 url: /olney/
-latitude: 39.153
-longitude: -77.069
+latitude: 39.155
+longitude: -77.064
 ---
