@@ -1,6 +1,6 @@
 ---
 title: Sparrows Point
 url: /sparrows-point/
-latitude: 39.232
-longitude: -76.455
+latitude: 39.241
+longitude: -76.446
 ---

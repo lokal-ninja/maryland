@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /silver-spring/7-eleven-tech-road/
+url: /baltimore/7-eleven-francis-avenue/
 shop: convenience
 ---
