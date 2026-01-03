@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /windsor-mill/7-eleven-liberty-road/
+url: /odenton/7-eleven-odenton-road/
 shop: convenience
 ---
