@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
-url: /baltimore/tiger-mart-eastern-avenue/
+url: /laurel/tiger-mart-all-saints-road/
 shop: convenience
 ---
