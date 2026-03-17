@@ -1,6 +1,6 @@
 ---
 title: Severna Park
 url: /severna-park/
-latitude: 39.073
-longitude: -76.546
+latitude: 39.081
+longitude: -76.581
 ---
