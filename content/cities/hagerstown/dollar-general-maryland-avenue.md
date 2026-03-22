@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /hagerstown/dollar-general-potomac-avenue/
+url: /hagerstown/dollar-general-maryland-avenue/
 shop: variety store
 ---
