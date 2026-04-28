@@ -1,6 +1,6 @@
 ---
 title: Glenarden
 url: /glenarden/
-latitude: 38.921
-longitude: -76.849
+latitude: 38.922
+longitude: -76.848
 ---
