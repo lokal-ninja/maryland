@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /frederick/lowes-wormans-mill-road/
+url: /frederick/lowes-buckeystown-pike/
 shop: doityourself
 ---
