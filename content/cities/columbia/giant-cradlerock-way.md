@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /columbia/giant-centre-park-drive/
+url: /columbia/giant-cradlerock-way/
 shop: supermarket
 ---
