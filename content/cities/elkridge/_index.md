@@ -1,6 +1,6 @@
 ---
 title: Elkridge
 url: /elkridge/
-latitude: 39.185
-longitude: -76.795
+latitude: 39.202
+longitude: -76.735
 ---
