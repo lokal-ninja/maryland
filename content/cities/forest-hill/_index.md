@@ -1,6 +1,6 @@
 ---
 title: Forest Hill
 url: /forest-hill/
-latitude: 39.567
-longitude: -76.36
+latitude: 39.578
+longitude: -76.385
 ---
