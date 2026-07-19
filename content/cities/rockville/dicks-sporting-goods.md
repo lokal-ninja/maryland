@@ -1,5 +1,5 @@
 ---
-title: "Dick's Sporting Goods"
+title: "Dick’s Sporting Goods"
 url: /rockville/dicks-sporting-goods/
-shop: sports
+shop: department store
 ---
