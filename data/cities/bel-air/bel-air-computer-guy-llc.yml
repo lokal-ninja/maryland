@@ -7,5 +7,5 @@ city: Bel Air
 street: Victory Lane
 housenumber: "101"
 phone: +1 443-369-6000
-opening_hours: All hours are by appointment
+opening_hours: '"by appointment"'
 website: https://belaircomputerguy.com
