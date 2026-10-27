@@ -7,5 +7,5 @@ city: Baltimore
 street: Chestnut Avenue
 housenumber: "3534"
 phone: +1-410-844-3015
-opening_hours: Tu off; We-Mo 12:00-17:00
+opening_hours: Th,Fr,Sa,Su,Mo 12:00-17:00; We 16:00-18:00; Tu off
 website: https://bazaarbaltimore.com/
