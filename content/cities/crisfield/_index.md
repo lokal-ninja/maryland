@@ -1,6 +1,6 @@
 ---
 title: Crisfield
 url: /crisfield/
-latitude: 37.985
-longitude: -75.854
+latitude: 37.981
+longitude: -75.858
 ---
